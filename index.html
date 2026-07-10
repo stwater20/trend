@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>台灣即時熱搜排行榜｜今日 Google 熱門關鍵字、話題趨勢一次看</title>
+<meta name="description" content="想知道台灣現在最多人在搜什麼？即時更新 Google 台灣熱搜關鍵字排行榜，加上連假、旅遊、電費、AI 等熱門話題整理，一頁掌握今天大家都在關心的事。">
+<meta name="keywords" content="台灣熱搜, 即時熱搜, Google 熱搜排行榜, 熱門關鍵字, 今日話題, 台灣趨勢, 網路話題">
+<meta property="og:type" content="website">
+<meta property="og:title" content="台灣即時熱搜排行榜｜今天大家都在搜什麼？">
+<meta property="og:description" content="即時更新 Google 台灣熱搜關鍵字，加上連假、旅遊、AI 等熱門話題整理，一頁掌握今日趨勢。">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "台灣即時熱搜排行榜",
+  "description": "即時更新 Google 台灣熱搜關鍵字排行榜與熱門話題整理",
+  "inLanguage": "zh-Hant"
+}
+</script>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #181b23;
+    --card-hover: #1e222c;
+    --border: #2a2e3a;
+    --text: #e8eaf0;
+    --text-dim: #9aa0b0;
+    --accent: #4f9cf9;
+    --accent2: #f97362;
+    --accent3: #4fd1a5;
+    --accent4: #e2b93b;
+    --radius: 14px;
+  }
+  html[data-theme="light"] {
+    --bg: #f5f6f8; --card: #ffffff; --card-hover: #f0f3f8;
+    --border: #e2e5ec; --text: #1d2230; --text-dim: #6a7180;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--text);
+    font-family: "Noto Sans TC", -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
+    line-height: 1.6; padding: 24px 16px 60px;
+    transition: background .25s, color .25s;
+  }
+  .container { max-width: 1080px; margin: 0 auto; }
+
+  header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-bottom: 6px; }
+  h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: 1px; margin-right: auto; }
+  h1 .dot { color: var(--accent); }
+  .sub { color: var(--text-dim); font-size: 0.95rem; margin-bottom: 6px; }
+  .meta-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 24px; }
+  #updated { color: var(--text-dim); font-size: 0.85rem; }
+
+  /* 頂部按鈕 */
+  .iconbtn {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: var(--card); border: 1px solid var(--border); color: var(--text);
+    border-radius: 999px; padding: 7px 14px; font-size: 0.85rem; cursor: pointer;
+    text-decoration: none; transition: border-color .15s, transform .15s;
+  }
+  .iconbtn:hover { border-color: var(--accent); transform: translateY(-1px); }
+  .iconbtn svg { width: 16px; height: 16px; fill: currentColor; }
+  .iconbtn .count { color: var(--text-dim); font-size: 0.8rem; }
+
+  h2 {
+    font-size: 1.1rem; font-weight: 700; margin: 34px 0 14px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  h2::before { content: ""; width: 4px; height: 18px; border-radius: 2px; background: var(--accent); }
+  h2.hot::before { background: var(--accent2); }
+  h2.cat::before { background: var(--accent3); }
+  h2.link::before { background: var(--accent4); }
+  h2 .spacer { flex: 1; }
+  .refresh { font-size: 0.8rem; font-weight: 400; }
+
+  /* 熱搜列表 */
+  #trends { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
+  .trend {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 14px 16px; transition: background .15s, transform .15s; cursor: pointer;
+  }
+  .trend:hover { background: var(--card-hover); transform: translateY(-2px); }
+  .trend .row { display: flex; align-items: center; gap: 10px; }
+  .rank {
+    flex: none; width: 28px; height: 28px; border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem; font-weight: 700; background: var(--border); color: var(--text-dim);
+  }
+  .trend:nth-child(1) .rank, .trend:nth-child(2) .rank, .trend:nth-child(3) .rank {
+    background: var(--accent2); color: #fff;
+  }
+  .kw { font-weight: 600; font-size: 1.02rem; flex: 1; }
+  .traffic {
+    font-size: 0.75rem; color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, transparent);
+    padding: 2px 8px; border-radius: 999px; white-space: nowrap;
+  }
+  .news { margin-top: 8px; font-size: 0.85rem; }
+  .news a { color: var(--text-dim); text-decoration: none; display: block;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .news a:hover { color: var(--accent); }
+  .status { color: var(--text-dim); font-size: 0.85rem; margin-bottom: 10px; }
+
+  /* 趨勢卡展開的動作列 */
+  .actions { display: none; margin-top: 10px; gap: 8px; flex-wrap: wrap; }
+  .trend.open .actions { display: flex; }
+  .act {
+    font-size: 0.78rem; padding: 5px 12px; border-radius: 999px;
+    border: 1px solid var(--border); background: transparent; color: var(--text);
+    cursor: pointer; text-decoration: none; transition: border-color .15s;
+  }
+  .act:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* 分類趨勢卡片 */
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 18px;
+  }
+  .card h3 { font-size: 0.95rem; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .card ul { list-style: none; }
+  .card li { font-size: 0.87rem; color: var(--text-dim); padding: 4px 0; border-bottom: 1px dashed var(--border); }
+  .card li:last-child { border-bottom: none; }
+  .card li b { color: var(--text); font-weight: 600; }
+  .emoji { font-size: 1.1rem; }
+
+  /* 快速連結 */
+  .links { display: flex; flex-wrap: wrap; gap: 10px; }
+  .links a {
+    background: var(--card); border: 1px solid var(--border); border-radius: 999px;
+    padding: 8px 16px; font-size: 0.85rem; color: var(--text); text-decoration: none;
+    transition: border-color .15s;
+  }
+  .links a:hover { border-color: var(--accent); color: var(--accent); }
+
+  /* 分享列 */
+  .sharebar { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+
+  /* Toast */
+  #toast {
+    position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%) translateY(20px);
+    background: var(--text); color: var(--bg); padding: 10px 20px; border-radius: 999px;
+    font-size: 0.85rem; opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s;
+    z-index: 99;
+  }
+  #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  footer { margin-top: 44px; color: var(--text-dim); font-size: 0.78rem; text-align: center; }
+  footer a { color: var(--text-dim); }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>台灣即時熱搜排行榜<span class="dot">。</span></h1>
+    <button class="iconbtn" id="themeToggle" title="切換深淺色">
+      <span id="themeIcon">🌙</span><span id="themeLabel">深色</span>
+    </button>
+    <a class="iconbtn" id="ghStar" href="#" target="_blank" rel="noopener" title="到 GitHub 給我們一顆星">
+      <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      Star <span class="count" id="starCount"></span>
+    </a>
+  </header>
+  <p class="sub">今天大家都在搜什麼？即時更新的 Google 台灣熱搜關鍵字，點一下就能看發生什麼事。</p>
+  <div class="meta-row">
+    <span id="updated"></span>
+  </div>
+
+  <h2 class="hot">今日 Google 熱搜關鍵字
+    <span class="spacer"></span>
+    <button class="iconbtn refresh" id="refreshBtn">🔄 重新整理</button>
+  </h2>
+  <div class="status" id="status">載入中…</div>
+  <div id="trends"></div>
+
+  <h2 class="cat">最近大家都在關心什麼？</h2>
+  <div class="cards">
+    <div class="card">
+      <h3><span class="emoji">🗓️</span> 連假與生活</h3>
+      <ul>
+        <li>2026 全年 <b>116 天假、9 個連假</b>，週六不再補班</li>
+        <li>春節連放 <b>9 天</b>，怎麼請假最划算是熱門話題</li>
+        <li>6–9 月<b>夏季電價</b>上路，記得看看電費有沒有變多</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3><span class="emoji">✈️</span> 旅遊與消費</h3>
+      <ul>
+        <li>出國旅遊持續發燒，<b>東京</b>是最多人去的城市</li>
+        <li>春節機票比去年<b>多賣 2 成以上</b>，想出國要早訂</li>
+        <li>網路下單、門市取貨越來越普及，快閃店到處開</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3><span class="emoji">📱</span> 數位社群</h3>
+      <ul>
+        <li>台灣人超愛 Threads，<b>用戶數佔全球 21%</b> 世界第一</li>
+        <li>「趨勢話題」功能全球首發就選在台灣</li>
+        <li>短影音還是最強，看影片順便購物成日常</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3><span class="emoji">🤖</span> 科技與 AI</h3>
+      <ul>
+        <li><b>AI</b> 走入日常，從工作到購物都有它的影子</li>
+        <li>半導體、AI 伺服器讓台灣科技業持續火熱</li>
+        <li>越來越多人願意花錢在<b>身心健康</b>上</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2 class="link">覺得實用嗎？分享給朋友</h2>
+  <div class="sharebar">
+    <button class="iconbtn" data-share="fb">
+      <svg viewBox="0 0 16 16"><path d="M16 8.05C16 3.6 12.42 0 8 0S0 3.6 0 8.05C0 12.06 2.93 15.4 6.75 16v-5.62H4.72V8.05h2.03V6.28c0-2.02 1.19-3.13 3.02-3.13.88 0 1.79.16 1.79.16v1.98h-1.01c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.35 2.33H9.25V16C13.07 15.4 16 12.06 16 8.05z"/></svg>
+      Facebook
+    </button>
+    <button class="iconbtn" data-share="threads">
+      <svg viewBox="0 0 16 16"><path d="M12.19 7.4c-.07-.03-.15-.07-.22-.1-.13-2.4-1.44-3.78-3.64-3.79h-.03c-1.32 0-2.41.56-3.09 1.58l1.21.83c.5-.76 1.29-.92 1.87-.92h.02c.72 0 1.27.21 1.62.62.26.3.43.71.52 1.23a9.3 9.3 0 0 0-2.08-.1c-2.09.12-3.44 1.34-3.35 3.04.05.86.48 1.6 1.21 2.08.62.41 1.42.61 2.25.56 1.1-.06 1.96-.48 2.56-1.25.46-.58.75-1.34.88-2.29.53.32.92.74 1.14 1.24.37.86.39 2.27-.76 3.42-1.01 1.01-2.22 1.44-4.05 1.46-2.03-.02-3.57-.67-4.57-1.94C4.74 11.9 4.26 10.16 4.24 8c.02-2.16.5-3.9 1.44-5.07 1-1.27 2.54-1.92 4.57-1.94 2.05.02 3.61.67 4.65 1.95.51.63.9 1.42 1.15 2.35l1.42-.38c-.31-1.14-.8-2.13-1.46-2.94C14.68.35 12.75-.47 10.26-.5h-.01C7.76-.47 5.86.36 4.6 1.96 3.48 3.38 2.9 5.36 2.88 7.99v.02c.02 2.63.6 4.61 1.72 6.03 1.26 1.6 3.16 2.43 5.65 2.46h.01c2.21-.02 3.77-.6 5.05-1.88 1.68-1.68 1.63-3.79 1.08-5.08-.4-.93-1.15-1.69-2.2-2.14zm-3.84 3.53c-.92.05-1.88-.36-1.93-1.25-.03-.66.47-1.39 1.99-1.48.17-.01.35-.02.51-.02.55 0 1.06.05 1.53.16-.17 2.18-1.2 2.54-2.1 2.59z"/></svg>
+      Threads
+    </button>
+    <button class="iconbtn" data-share="ig">
+      <svg viewBox="0 0 16 16"><path d="M8 0C5.83 0 5.55.01 4.7.05 3.85.09 3.27.22 2.76.42c-.53.2-.98.48-1.42.93-.45.44-.73.89-.93 1.42-.2.51-.33 1.09-.37 1.94C.01 5.55 0 5.83 0 8s.01 2.45.05 3.3c.04.85.17 1.43.37 1.94.2.53.48.98.93 1.42.44.45.89.73 1.42.93.51.2 1.09.33 1.94.37.85.04 1.13.05 3.3.05s2.45-.01 3.3-.05c.85-.04 1.43-.17 1.94-.37.53-.2.98-.48 1.42-.93.45-.44.73-.89.93-1.42.2-.51.33-1.09.37-1.94.04-.85.05-1.13.05-3.3s-.01-2.45-.05-3.3c-.04-.85-.17-1.43-.37-1.94-.2-.53-.48-.98-.93-1.42-.44-.45-.89-.73-1.42-.93-.51-.2-1.09-.33-1.94-.37C10.45.01 10.17 0 8 0zm0 1.44c2.14 0 2.39.01 3.23.05.78.04 1.2.17 1.49.28.37.14.64.32.92.6.28.28.46.55.6.92.11.29.24.71.28 1.49.04.84.05 1.09.05 3.23s-.01 2.39-.05 3.23c-.04.78-.17 1.2-.28 1.49-.14.37-.32.64-.6.92-.28.28-.55.46-.92.6-.29.11-.71.24-1.49.28-.84.04-1.09.05-3.23.05s-2.39-.01-3.23-.05c-.78-.04-1.2-.17-1.49-.28a2.5 2.5 0 0 1-.92-.6 2.5 2.5 0 0 1-.6-.92c-.11-.29-.24-.71-.28-1.49-.04-.84-.05-1.09-.05-3.23s.01-2.39.05-3.23c.04-.78.17-1.2.28-1.49.14-.37.32-.64.6-.92.28-.28.55-.46.92-.6.29-.11.71-.24 1.49-.28.84-.04 1.09-.05 3.23-.05zM8 3.89a4.11 4.11 0 1 0 0 8.22 4.11 4.11 0 0 0 0-8.22zm0 6.78a2.67 2.67 0 1 1 0-5.34 2.67 2.67 0 0 1 0 5.34zm5.23-6.94a.96.96 0 1 1-1.92 0 .96.96 0 0 1 1.92 0z"/></svg>
+      Instagram
+    </button>
+    <button class="iconbtn" data-share="copy">🔗 複製連結</button>
+  </div>
+
+  <h2 class="link">想看更多熱門話題？</h2>
+  <div class="links">
+    <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>
+    <a href="https://dailyview.tw/popular" target="_blank" rel="noopener">DailyView 網路溫度計</a>
+    <a href="https://news.pts.org.tw/hotTopic" target="_blank" rel="noopener">公視熱門議題</a>
+    <a href="https://www.threads.net" target="_blank" rel="noopener">Threads 趨勢話題</a>
+  </div>
+
+  <footer>
+    熱搜資料來自 <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>，每次打開頁面都會自動更新。
+  </footer>
+</div>
+<div id="toast"></div>
+
+<script>
+// ====== 設定：換成你的 GitHub repo ======
+const GITHUB_REPO = "stwater20/trend";
+
+// ---- 內建快照（RSS 抓取失敗時的備援）----
+const SNAPSHOT = [
+  { kw: "創新服務", traffic: "500+", news: null },
+  { kw: "Fubon Angels", traffic: "500+", news: { t: "富邦啦啦隊驚傳傷兵！半月板、韌帶撕裂傷", u: "https://news.tvbs.com.tw/entertainment/3184641" } },
+  { kw: "日本海溝", traffic: "500+", news: null },
+  { kw: "這一秒過火", traffic: "500+", news: null },
+  { kw: "肺癌", traffic: "200+", news: null },
+  { kw: "台南火災", traffic: "200+", news: null },
+  { kw: "誠美材", traffic: "200+", news: null },
+  { kw: "和碩", traffic: "100+", news: { t: "蘋果晶片主管升任首席工程師 黃金搭檔就位", u: "https://tw.stock.yahoo.com" } },
+  { kw: "吳東亮", traffic: "100+", news: null },
+  { kw: "陳美鳳", traffic: "100+", news: null },
+];
+
+const $ = (id) => document.getElementById(id);
+const trendsEl = $("trends"), statusEl = $("status"), toastEl = $("toast");
+
+// ---- Toast ----
+let toastTimer;
+function toast(msg) {
+  toastEl.textContent = msg;
+  toastEl.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 2000);
+}
+
+// ---- 深淺色模式 ----
+const savedTheme = localStorage.getItem("theme")
+  || (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+applyTheme(savedTheme);
+$("themeToggle").addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+  applyTheme(next);
+  localStorage.setItem("theme", next);
+});
+function applyTheme(t) {
+  document.documentElement.dataset.theme = t;
+  $("themeIcon").textContent = t === "light" ? "☀️" : "🌙";
+  $("themeLabel").textContent = t === "light" ? "淺色" : "深色";
+}
+
+// ---- GitHub 星星 ----
+$("ghStar").href = "https://github.com/" + GITHUB_REPO;
+fetch("https://api.github.com/repos/" + GITHUB_REPO)
+  .then(r => r.ok ? r.json() : null)
+  .then(d => { if (d && d.stargazers_count != null) $("starCount").textContent = d.stargazers_count; })
+  .catch(() => {});
+
+// ---- 分享 ----
+const PAGE_URL = location.href;
+const SHARE_TEXT = "台灣即時熱搜排行榜｜今天大家都在搜什麼？";
+document.querySelectorAll("[data-share]").forEach(btn => {
+  btn.addEventListener("click", async () => {
+    const type = btn.dataset.share;
+    if (type === "fb") {
+      open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(PAGE_URL), "_blank");
+    } else if (type === "threads") {
+      open("https://www.threads.net/intent/post?text=" + encodeURIComponent(SHARE_TEXT + " " + PAGE_URL), "_blank");
+    } else if (type === "ig") {
+      // IG 沒有網頁分享入口：優先叫出手機原生分享，其次複製連結
+      if (navigator.share) {
+        try { await navigator.share({ title: SHARE_TEXT, url: PAGE_URL }); } catch (e) {}
+      } else {
+        await copyText(PAGE_URL);
+        toast("已複製連結，貼到 IG 限動或訊息吧！");
+      }
+    } else if (type === "copy") {
+      await copyText(PAGE_URL);
+      toast("連結已複製！");
+    }
+  });
+});
+async function copyText(text) {
+  try { await navigator.clipboard.writeText(text); }
+  catch (e) {
+    const ta = document.createElement("textarea");
+    ta.value = text; document.body.appendChild(ta);
+    ta.select(); document.execCommand("copy"); ta.remove();
+  }
+}
+
+// ---- 熱搜渲染 ----
+function render(items, live) {
+  trendsEl.innerHTML = "";
+  items.slice(0, 20).forEach((it, i) => {
+    const div = document.createElement("div");
+    div.className = "trend";
+    div.innerHTML = `
+      <div class="row">
+        <span class="rank">${i + 1}</span>
+        <span class="kw"></span>
+        <span class="traffic"></span>
+      </div>
+      ${it.news ? '<div class="news"><a target="_blank" rel="noopener"></a></div>' : ""}
+      <div class="actions">
+        <a class="act" target="_blank" rel="noopener" data-act="search">🔍 這是什麼？Google 一下</a>
+        <a class="act" target="_blank" rel="noopener" data-act="news">📰 相關新聞</a>
+        <button class="act" data-act="copy">📋 複製關鍵字</button>
+        <a class="act" target="_blank" rel="noopener" data-act="threads">💬 到 Threads 討論</a>
+      </div>`;
+    div.querySelector(".kw").textContent = it.kw;
+    div.querySelector(".traffic").textContent = it.traffic ? it.traffic + " 次搜尋" : "";
+    if (it.news) {
+      const a = div.querySelector(".news a");
+      a.textContent = "📰 " + it.news.t;
+      a.href = it.news.u;
+      a.addEventListener("click", e => e.stopPropagation());
+    }
+    const q = encodeURIComponent(it.kw);
+    div.querySelector('[data-act="search"]').href = "https://www.google.com/search?q=" + q;
+    div.querySelector('[data-act="news"]').href = "https://news.google.com/search?q=" + q + "&hl=zh-TW&gl=TW&ceid=TW:zh-Hant";
+    div.querySelector('[data-act="threads"]').href = "https://www.threads.net/search?q=" + q;
+    div.querySelector('[data-act="copy"]').addEventListener("click", async (e) => {
+      e.stopPropagation();
+      await copyText(it.kw);
+      toast("「" + it.kw + "」已複製！");
+    });
+    div.querySelectorAll("a.act").forEach(a => a.addEventListener("click", e => e.stopPropagation()));
+    // 點卡片展開動作列
+    div.addEventListener("click", () => {
+      document.querySelectorAll(".trend.open").forEach(t => { if (t !== div) t.classList.remove("open"); });
+      div.classList.toggle("open");
+    });
+    trendsEl.appendChild(div);
+  });
+  statusEl.textContent = live
+    ? "✅ 即時資料 · 點任一關鍵字看它為什麼在燒"
+    : "⚠️ 即時來源暫時連不上，先顯示先前紀錄 · 點關鍵字一樣可以查";
+  $("updated").textContent = "更新於 " +
+    new Date().toLocaleString("zh-TW", { dateStyle: "medium", timeStyle: "short" });
+}
+
+// ---- 抓取即時熱搜 ----
+async function loadLive() {
+  statusEl.textContent = "載入中…";
+  const rssUrl = "https://trends.google.com/trending/rss?geo=TW";
+  const proxies = [
+    u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+    u => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+  ];
+  for (const proxy of proxies) {
+    try {
+      const res = await fetch(proxy(rssUrl), { signal: AbortSignal.timeout(8000) });
+      if (!res.ok) continue;
+      const xml = new DOMParser().parseFromString(await res.text(), "text/xml");
+      const items = [...xml.querySelectorAll("item")].map(item => {
+        const ns = (name) => item.getElementsByTagNameNS("*", name)[0]?.textContent?.trim() || "";
+        return {
+          kw: (item.getElementsByTagName("title")[0]?.textContent || "").replace(/\s+/g, " ").trim(),
+          traffic: ns("approx_traffic"),
+          news: ns("news_item_title") && ns("news_item_url")
+            ? { t: ns("news_item_title"), u: ns("news_item_url") } : null,
+        };
+      }).filter(it => it.kw);
+      if (items.length) { render(items, true); return; }
+    } catch (e) { /* 換下一個 proxy */ }
+  }
+  render(SNAPSHOT, false);
+}
+$("refreshBtn").addEventListener("click", loadLive);
+loadLive();
+</script>
+</body>
+</html>
