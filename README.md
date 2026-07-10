@@ -23,7 +23,7 @@
 
 | 功能 | 說明 |
 |------|------|
-| ⚡ 即時更新 | 每次開啟頁面自動抓取 Google Trends 台灣最新熱搜 |
+| ⚡ 每日更新 | GitHub Actions 每天自動抓取 Google Trends 台灣熱搜並更新資料 |
 | 🌗 深淺色模式 | 一鍵切換，自動記住偏好，預設跟隨系統設定 |
 | 📤 社群分享 | Facebook、Threads、Instagram（手機原生分享）、複製連結 |
 | 📱 響應式設計 | 手機、平板、桌機都好讀 |
@@ -33,19 +33,23 @@
 ## 運作原理
 
 ```
-使用者開啟頁面
+GitHub Actions（每天 07:00 台灣時間）
       │
       ▼
-fetch Google Trends RSS (geo=TW)
-      │  透過 CORS proxy（allorigins → corsproxy.io 依序嘗試）
+抓取 Google Trends RSS (geo=TW)
+      │  scripts/fetch_trends.py 解析 XML
       ▼
-DOMParser 解析 XML → 渲染前 20 名熱搜卡片
+輸出 trends.json → commit 回 repo → GitHub Pages 自動重新部署
       │
-      ▼ 失敗時
+      ▼
+使用者開啟頁面 → fetch 同源 trends.json → 渲染熱搜卡片
+      │
+      ▼ 讀取失敗時
 顯示內建快照資料（graceful degradation）
 ```
 
-資料來源：[Google Trends RSS](https://trends.google.com/trending/rss?geo=TW)，非官方 API，僅作展示用途。
+這個設計不依賴任何第三方 CORS proxy、不需要伺服器，頁面載入也更快。
+資料來源：[Google Trends RSS](https://trends.google.com/trending/rss?geo=TW)，非官方 API，僅作展示用途。也可以到 Actions 頁面手動觸發 `Update trends` workflow 立即更新。
 
 ## 本地開發
 

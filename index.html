@@ -371,66 +371,25 @@ function render(items, live) {
     });
     trendsEl.appendChild(div);
   });
-  const now = new Date().toLocaleString("zh-TW", { dateStyle: "medium", timeStyle: "short" });
-  if (live === true) {
-    statusEl.textContent = "✅ 即時資料 · 點任一關鍵字看它為什麼在燒";
-    $("updated").textContent = "更新於 " + now;
-  } else if (live === "cache") {
-    statusEl.textContent = "🕐 來源短暫忙碌中，顯示最近一次抓到的熱搜 · 點關鍵字一樣可以查";
-    $("updated").textContent = "資料時間 " + (localStorage.getItem("trendsCacheTime") || now);
+  if (live) {
+    statusEl.textContent = "📊 每日更新 · 點任一關鍵字看它為什麼在燒";
+    $("updated").textContent = live.updated ? "資料更新於 " + live.updated : "";
   } else {
-    statusEl.textContent = "⚠️ 即時來源暫時連不上，先顯示先前紀錄 · 點關鍵字一樣可以查";
-    $("updated").textContent = "更新於 " + now;
+    statusEl.textContent = "⚠️ 資料檔暫時讀取不到，先顯示先前紀錄 · 點關鍵字一樣可以查";
+    $("updated").textContent = "";
   }
 }
 
-// ---- 抓取即時熱搜 ----
-function parseRss(text) {
-  const xml = new DOMParser().parseFromString(text, "text/xml");
-  return [...xml.querySelectorAll("item")].map(item => {
-    const ns = (name) => item.getElementsByTagNameNS("*", name)[0]?.textContent?.trim() || "";
-    return {
-      kw: (item.getElementsByTagName("title")[0]?.textContent || "").replace(/\s+/g, " ").trim(),
-      traffic: ns("approx_traffic"),
-      news: ns("news_item_title") && ns("news_item_url")
-        ? { t: ns("news_item_title"), u: ns("news_item_url") } : null,
-    };
-  }).filter(it => it.kw);
-}
-
+// ---- 讀取每日熱搜資料（由 GitHub Actions 每天自動更新 trends.json）----
 async function loadLive() {
   statusEl.textContent = "載入中…";
-  const rssUrl = "https://trends.google.com/trending/rss?geo=TW";
-  const proxies = [
-    u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
-    u => "https://api.codetabs.com/v1/proxy?quest=" + encodeURIComponent(u),
-    u => "https://api.allorigins.win/get?url=" + encodeURIComponent(u), // JSON 包裝版，走不同快取路徑
-  ];
-  for (const proxy of proxies) {
-    try {
-      const res = await fetch(proxy(rssUrl), { signal: AbortSignal.timeout(10000) });
-      if (!res.ok) continue;
-      let text = await res.text();
-      if (text.startsWith("{")) { // allorigins /get 回傳 JSON
-        try { text = JSON.parse(text).contents || ""; } catch (e) {}
-      }
-      const items = parseRss(text);
-      if (items.length) {
-        try {
-          localStorage.setItem("trendsCache", JSON.stringify(items));
-          localStorage.setItem("trendsCacheTime",
-            new Date().toLocaleString("zh-TW", { dateStyle: "medium", timeStyle: "short" }));
-        } catch (e) {}
-        render(items, true);
-        return;
-      }
-    } catch (e) { /* 換下一個 proxy */ }
-  }
-  // 全部失敗 → 優先用上次成功抓到的真實資料
   try {
-    const cached = JSON.parse(localStorage.getItem("trendsCache") || "null");
-    if (cached && cached.length) { render(cached, "cache"); return; }
-  } catch (e) {}
+    const res = await fetch("trends.json?t=" + Date.now(), { signal: AbortSignal.timeout(8000) });
+    if (res.ok) {
+      const data = await res.json();
+      if (data.items && data.items.length) { render(data.items, data); return; }
+    }
+  } catch (e) { /* 讀取失敗 → 快照 */ }
   render(SNAPSHOT, false);
 }
 $("refreshBtn").addEventListener("click", loadLive);
