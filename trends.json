@@ -1,75 +1,78 @@
 {
- "updated": "2026-07-15 07:58",
+ "updated": "2026-07-16 08:04",
  "items": [
   {
-   "kw": "國泰世華",
+   "kw": "spacex",
+   "traffic": "200+",
+   "news": {
+    "t": "SpaceX stock sinks below $135 IPO price for the first time",
+    "u": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html"
+   }
+  },
+  {
+   "kw": "曾紀嚴",
+   "traffic": "200+",
+   "news": {
+    "t": "基隆市議員曾紀嚴涉工程弊端檢方聲押| 社會",
+    "u": "https://www.cna.com.tw/news/asoc/202607160013.aspx"
+   }
+  },
+  {
+   "kw": "伊隆·馬斯克",
+   "traffic": "100+",
+   "news": {
+    "t": "馬斯克與拉馬斯瓦米結束政府效率部合作 隨即捐贈五百萬美元助其競選州長",
+    "u": "https://www.businessinsider.tw/article/4534"
+   }
+  },
+  {
+   "kw": "阿根廷西班牙",
+   "traffic": "2000+",
+   "news": {
+    "t": "阿根廷与西班牙争夺世界杯冠军，不仅是梅西和亚马尔的较量",
+    "u": "https://m.sohu.com/a/1050865839_119778?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+   }
+  },
+  {
+   "kw": "富 邦 人壽",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "飛行員",
+   "kw": "工資",
    "traffic": "100+",
-   "news": {
-    "t": "‘Sully,’ ‘Miracle on the Hudson’ Pilot, Announces Alzheimer’s Diagnosis",
-    "u": "https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html"
-   }
+   "news": null
   },
   {
-   "kw": "台 化",
+   "kw": "夜盤指數",
    "traffic": "1000+",
    "news": {
-    "t": "台塑四寶上半年大賺千億 台塑.南亞漲停慶祝",
-    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%A4%A7%E8%B3%BA%E5%8D%83%E5%84%84-%E5%8F%B0%E5%A1%91-%E5%8D%97%E4%BA%9E%E6%BC%B2%E5%81%9C%E6%85%B6%E7%A5%9D-064802256.html"
+    "t": "美股｜通膨降溫！3大指數連2紅 SK海力士ADR暴跌9％",
+    "u": "https://www.ctee.com.tw/news/20260716700452-430702"
    }
   },
   {
-   "kw": "林吳晉瑋",
+   "kw": "中國",
+   "traffic": "2000+",
+   "news": {
+    "t": "中國張雪機車來台落地？經濟部強硬回",
+    "u": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%BC%B5%E9%9B%AA%E6%A9%9F%E8%BB%8A%E4%BE%86%E5%8F%B0%E8%90%BD%E5%9C%B0-%E7%B6%93%E6%BF%9F%E9%83%A8%E5%BC%B7%E7%A1%AC%E5%9B%9E-090546705.html"
+   }
+  },
+  {
+   "kw": "艾司摩爾",
    "traffic": "100+",
    "news": {
-    "t": "中職》蹲捕出賽數還比陳九登少 平野惠一談林吳晉瑋的使用",
-    "u": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E8%B9%B2%E6%8D%95%E5%87%BA%E8%B3%BD%E6%95%B8%E9%82%84%E6%AF%94%E9%99%B3%E4%B9%9D%E7%99%BB%E5%B0%91-%E5%B9%B3%E9%87%8E%E6%83%A0-%E8%AB%87%E6%9E%97%E5%90%B3%E6%99%89%E7%91%8B%E7%9A%84%E4%BD%BF%E7%94%A8-123745783.html"
+    "t": "ASML Q2財報優於預期 再度上修今年財測",
+    "u": "https://stock.ltn.com.tw/article/056q45xcqeq9"
    }
   },
   {
-   "kw": "lịch world cup 2026",
-   "traffic": "100+",
-   "news": {
-    "t": "Lịch thi đấu World Cup 2026 mới nhất | BÁN KẾT",
-    "u": "https://thethao247.vn/world-cup/72-lich-thi-dau-world-cup-2026-ban-ket-d423946.html"
-   }
-  },
-  {
-   "kw": "太平島",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "雷虎科技",
+   "kw": "華 邦 電 目標 價",
    "traffic": "200+",
    "news": {
-    "t": "不是捷克或波蘭…台灣無人機上月最大買家竟是這國採購逾4,700萬美元| 全球財經| 全球",
-    "u": "https://udn.com/news/story/6811/9625074"
-   }
-  },
-  {
-   "kw": "王室",
-   "traffic": "100+",
-   "news": {
-    "t": "夏綠蒂公主長大了！40張凱特王妃母女珍貴合照回顧，見證英國王室小公主從萌娃蛻變優雅小淑女，每一幕都甜蜜爆擊",
-    "u": "https://www.elle.com/tw/entertainment/gossip/g71914732/princess-charlotte-and-princess-catherine-240502/"
-   }
-  },
-  {
-   "kw": "力 積 電 法 說",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "沈伯洋",
-   "traffic": "200+",
-   "news": {
-    "t": "自由廣場》護樹護國安 也別讓砍樹爭議變成文字獄",
-    "u": "https://talk.ltn.com.tw/article/paper/1762706"
+    "t": "【記憶體五虎將比一比2】今年來誰最香 ？南亞科飆149%奪冠 股王群聯漲逾3成敬陪末座",
+    "u": "https://tw.stock.yahoo.com/news/%E3%80%90%E8%A8%98%E6%86%B6%E9%AB%94%E4%BA%94%E8%99%8E%E5%B0%87%E6%AF%94%E4%B8%80%E6%AF%942%E3%80%91%E4%BB%8A%E5%B9%B4%E4%BE%86%E8%AA%B0%E6%9C%80%E9%A6%99-%EF%BC%9F%E5%8D%97%E4%BA%9E%E7%A7%91%E9%A3%86149%E5%A5%AA%E5%86%A0-%E8%82%A1%E7%8E%8B%E7%BE%A4%E8%81%AF%E6%BC%B2%E9%80%BE3%E6%88%90%E6%95%AC%E9%99%AA%E6%9C%AB%E5%BA%A7-043000041.html"
    }
   }
  ]
