@@ -1,79 +1,67 @@
 {
- "updated": "2026-07-17 08:03",
+ "updated": "2026-07-18 07:57",
  "items": [
   {
-   "kw": "電子競技",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "豐田 corolla",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "黃崇仁",
+   "kw": "中華職棒明星賽",
    "traffic": "1000+",
    "news": {
-    "t": "力積電爆31萬張巨量 專家點名5檔潛力股",
-    "u": "https://news.ebc.net.tw/news/business/561454"
+    "t": "中職明星賽》6人扮板凳奇兵 搶救全壘打大賽聲量",
+    "u": "https://sports.ltn.com.tw/news/paper/1763137"
    }
   },
   {
-   "kw": "补贴",
+   "kw": "鄭宗哲",
    "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "紅包",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "國際金融",
+   "traffic": "2000+",
+   "news": null
+  },
+  {
+   "kw": "股票 大 跌",
+   "traffic": "10000+",
    "news": {
-    "t": "惠民焕新，乐购渝中！2026渝中区消费品以旧换新“六进入”惠民活动圆满收官",
-    "u": "https://life.china.com/2026-07/16/content_603669.html"
+    "t": "外資提現賣超1890億…央行出手 台幣小貶",
+    "u": "https://tw.news.yahoo.com/%E5%A4%96%E8%B3%87%E6%8F%90%E7%8F%BE%E8%B3%A3%E8%B6%851890%E5%84%84-%E5%A4%AE%E8%A1%8C%E5%87%BA%E6%89%8B-%E5%8F%B0%E5%B9%A3%E5%B0%8F%E8%B2%B6-220329330.html"
    }
   },
   {
-   "kw": "日本",
+   "kw": "必比登",
+   "traffic": "200+",
+   "news": {
+    "t": "萬華必比登推介餐廳揭曉 在地人卻看笑了：看到這間就知是「參考用」",
+    "u": "https://tw.news.yahoo.com/%E8%90%AC%E8%8F%AF%E5%BF%85%E6%AF%94%E7%99%BB%E6%8E%A8%E4%BB%8B%E9%A4%90%E5%BB%B3%E6%8F%AD%E6%9B%89-%E5%9C%A8%E5%9C%B0%E4%BA%BA%E5%8D%BB%E7%9C%8B%E7%AC%91%E4%BA%86-%E7%9C%8B%E5%88%B0%E9%80%99%E9%96%93%E5%B0%B1%E7%9F%A5%E6%98%AF-%E5%8F%83%E8%80%83%E7%94%A8-141145984.html"
+   }
+  },
+  {
+   "kw": "美光股價",
+   "traffic": "200+",
+   "news": {
+    "t": "美光怎麼了？股價月跌兩成 三大利空浮現",
+    "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E6%80%8E%E9%BA%BC%E4%BA%86-%E8%82%A1%E5%83%B9%E6%9C%88%E8%B7%8C%E5%85%A9%E6%88%90-%E4%B8%89%E5%A4%A7%E5%88%A9%E7%A9%BA%E6%B5%AE%E7%8F%BE-150547545.html"
+   }
+  },
+  {
+   "kw": "蝦皮",
+   "traffic": "5000+",
+   "news": null
+  },
+  {
+   "kw": "被動 元件",
    "traffic": "500+",
-   "news": {
-    "t": "輝達日本布局再擴大 結盟4大工業巨頭 黃仁勳串起半導體供應鏈",
-    "u": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E6%97%A5%E6%9C%AC%E5%B8%83%E5%B1%80%E5%86%8D%E6%93%B4%E5%A4%A7-%E7%B5%90%E7%9B%9F4%E5%A4%A7%E5%B7%A5%E6%A5%AD%E5%B7%A8%E9%A0%AD-%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B8%B2%E8%B5%B7%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BE%9B%E6%87%89%E9%8F%88-153043502.html"
-   }
+   "news": null
   },
   {
-   "kw": "内閣支持率",
-   "traffic": "200+",
-   "news": {
-    "t": "内閣支持49％、発足後最低 60歳代で激減 時事世論調査",
-    "u": "https://news.yahoo.co.jp/pickup/6588160"
-   }
-  },
-  {
-   "kw": "道瓊",
+   "kw": "詐騙",
    "traffic": "100+",
-   "news": {
-    "t": "《持股轉讓》甲尚董事配偶王宏洋之配偶及子女11萬股",
-    "u": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?sn=6240931001&pu=News_0002_3"
-   }
-  },
-  {
-   "kw": "sandisk 股價",
-   "traffic": "100+",
-   "news": {
-    "t": "Sandisk跌逾12% 華爾街仍力挺 目標價大幅上調超一倍",
-    "u": "https://news.cnyes.com/news/id/6533211"
-   }
-  },
-  {
-   "kw": "soxx",
-   "traffic": "100+",
-   "news": {
-    "t": "Prediction: Down 4% in a Month, This ETF Will Still Be the Best-Performing Tech ETF This Year",
-    "u": "https://www.theglobeandmail.com/investing/markets/stocks/IVZ/pressreleases/3287388/prediction-down-4-in-a-month-this-etf-will-still-be-the-best-performing-tech-etf-this-year/"
-   }
-  },
-  {
-   "kw": "s&p 500",
-   "traffic": "200+",
-   "news": {
-    "t": "Stock market today: Dow rises, S&P 500 and Nasdaq fall as chip stocks slide after TSMC earnings",
-    "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html"
-   }
+   "news": null
   }
  ]
 }
