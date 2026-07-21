@@ -1,76 +1,70 @@
 {
- "updated": "2026-07-20 08:03",
+ "updated": "2026-07-21 08:02",
  "items": [
   {
-   "kw": "威爾·克萊恩",
-   "traffic": "200+",
+   "kw": "mlb直播",
+   "traffic": "100+",
    "news": {
-    "t": "New York Yankees vs. Los Angeles Dodgers: Ryan Yarbrough vs. Will Klein",
-    "u": "https://sports.yahoo.com/articles/york-yankees-vs-los-angeles-225000861.html"
+    "t": "山本由伸為何是王牌 道奇總教練誇能贏且能省牛棚[影]",
+    "u": "https://www.cna.com.tw/news/aspt/202607200135.aspx"
    }
   },
   {
-   "kw": "通貨膨脹",
+   "kw": "先進封裝",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "期貨夜盤",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "aapl",
+   "traffic": "100+",
+   "news": {
+    "t": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
+    "u": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html"
+   }
+  },
+  {
+   "kw": "那斯達克綜合指數",
+   "traffic": "200+",
+   "news": {
+    "t": "AI股真的失寵了？高盛曝避險基金正加速撤出科技股",
+    "u": "https://tw.stock.yahoo.com/news/ai%E8%82%A1%E7%9C%9F%E7%9A%84%E5%A4%B1%E5%AF%B5%E4%BA%86-%E9%AB%98%E7%9B%9B%E6%9B%9D%E9%81%BF%E9%9A%AA%E5%9F%BA%E9%87%91%E6%AD%A3%E5%8A%A0%E9%80%9F%E6%92%A4%E5%87%BA%E7%A7%91%E6%8A%80%E8%82%A1-150004742.html"
+   }
+  },
+  {
+   "kw": "spacex 股票",
+   "traffic": "100+",
+   "news": {
+    "t": "SpaceX連跌7天市值蒸發逾1兆美元 遭Meta超車",
+    "u": "https://news.cnyes.com/news/id/6540836"
+   }
+  },
+  {
+   "kw": "0056",
+   "traffic": "10000+",
+   "news": null
+  },
+  {
+   "kw": "紐約洋基",
    "traffic": "100+",
    "news": null
   },
   {
-   "kw": "mlb 賽程",
-   "traffic": "200+",
-   "news": {
-    "t": "MLB／大谷翔平左膝傷情 投球無限期推遲！總教練曝恐非短時間能解決",
-    "u": "https://tw.sports.yahoo.com/news/mlb-%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3%E5%B7%A6%E8%86%9D%E5%82%B7%E6%83%85-%E6%8A%95%E7%90%83%E7%84%A1%E9%99%90%E6%9C%9F%E6%8E%A8%E9%81%B2-%E7%B8%BD%E6%95%99%E7%B7%B4%E6%9B%9D%E6%81%90%E9%9D%9E%E7%9F%AD%E6%99%82%E9%96%93%E8%83%BD%E8%A7%A3%E6%B1%BA-230900472.html"
-   }
-  },
-  {
-   "kw": "布蘭特原油",
-   "traffic": "200+",
-   "news": {
-    "t": "伊朗轟約旦基地！美軍2死4傷1失蹤美出動數百架戰機展開報復空襲| 國際",
-    "u": "https://newtalk.tw/news/view/2026-07-19/1048044"
-   }
-  },
-  {
-   "kw": "yankees vs dodgers",
-   "traffic": "100+",
-   "news": {
-    "t": "'Why he's our ace': Yamamoto twirls 1st regular-season CG with another Bronx gem",
-    "u": "https://www.mlb.com/news/yoshinobu-yamamoto-throws-complete-game-against-yankees"
-   }
-  },
-  {
-   "kw": "投資",
+   "kw": "政治",
    "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "工商時報",
-   "traffic": "100+",
    "news": {
-    "t": "台股戒備三情境推演 樂觀情況收復43,525點季線關卡",
-    "u": "https://udn.com/news/story/7251/9637879"
+    "t": "世足》阿根廷隊秀「福克蘭是我們的」布條 白宮表態了",
+    "u": "https://sports.ltn.com.tw/news/breakingnews/5509998"
    }
   },
   {
-   "kw": "2026",
-   "traffic": "5000+",
-   "news": {
-    "t": "Must-see World Cup final photos show Messi, Yamal pursue championship",
-    "u": "https://www.usatoday.com/picture-gallery/sports/soccer/worldcup/2026/07/19/argentina-spain-world-cup-final-photos-messi-yamal/90962547007/"
-   }
-  },
-  {
-   "kw": "黃偉哲",
+   "kw": "周麟演員",
    "traffic": "100+",
    "news": null
-  },
-  {
-   "kw": "金靴獎是什麼",
-   "traffic": "100+",
-   "news": {
-    "t": "世足》阿根廷90分鐘零射門 寫史上最慘紀錄",
-    "u": "https://tw.sports.yahoo.com/news/%E4%B8%96%E8%B6%B3-%E9%98%BF%E6%A0%B9%E5%BB%B790%E5%88%86%E9%90%98%E6%9C%AA%E9%80%B2%E7%90%83-%E5%AF%AB%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%85%98%E7%B4%80%E9%8C%84-221917399.html"
-   }
   }
  ]
 }
