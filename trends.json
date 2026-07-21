@@ -1,70 +1,79 @@
 {
- "updated": "2026-07-21 08:02",
+ "updated": "2026-07-22 07:59",
  "items": [
   {
-   "kw": "mlb直播",
+   "kw": "英特爾",
    "traffic": "100+",
    "news": {
-    "t": "山本由伸為何是王牌 道奇總教練誇能贏且能省牛棚[影]",
-    "u": "https://www.cna.com.tw/news/aspt/202607200135.aspx"
+    "t": "英特爾(INTEL-US)第二季財報將公布，資料中心業務能否超越指引成市場焦點 | 優分析",
+    "u": "https://today.line.me/tw/v3/article/RBqBzLm"
    }
   },
   {
-   "kw": "先進封裝",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "期貨夜盤",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "aapl",
-   "traffic": "100+",
-   "news": {
-    "t": "Alibaba’s U.S.-listed shares rise 4% after Qwen AI set to be integrated in Apple Intelligence",
-    "u": "https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html"
-   }
-  },
-  {
-   "kw": "那斯達克綜合指數",
+   "kw": "卓荣泰",
    "traffic": "200+",
    "news": {
-    "t": "AI股真的失寵了？高盛曝避險基金正加速撤出科技股",
-    "u": "https://tw.stock.yahoo.com/news/ai%E8%82%A1%E7%9C%9F%E7%9A%84%E5%A4%B1%E5%AF%B5%E4%BA%86-%E9%AB%98%E7%9B%9B%E6%9B%9D%E9%81%BF%E9%9A%AA%E5%9F%BA%E9%87%91%E6%AD%A3%E5%8A%A0%E9%80%9F%E6%92%A4%E5%87%BA%E7%A7%91%E6%8A%80%E8%82%A1-150004742.html"
+    "t": "中聯毒油不是稀釋就沒事！吳欣岱醫師詳解7大問題：藍綠攻防蓋過科學",
+    "u": "https://health.setn.com/news/1875540"
    }
   },
   {
-   "kw": "spacex 股票",
+   "kw": "日本",
+   "traffic": "500+",
+   "news": {
+    "t": "中俄舰队首次在日本专属经济区进行射击演习",
+    "u": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E4%B8%AD%E4%BF%84%E8%88%B0%E9%98%9F%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%93%E5%B1%9E%E7%BB%8F%E6%B5%8E%E5%8C%BA%E8%BF%9B%E8%A1%8C%E5%B0%84%E5%87%BB%E6%BC%94%E4%B9%A0"
+   }
+  },
+  {
+   "kw": "新闻",
+   "traffic": "200+",
+   "news": {
+    "t": "伊朗总统称伊正处于“全面战争”之中",
+    "u": "https://news.cctv.com/2026/07/20/ARTIS4NHQwKWkLjqw902msi3260720.shtml"
+   }
+  },
+  {
+   "kw": "tsla",
+   "traffic": "500+",
+   "news": {
+    "t": "Tesla's jump in sales comes as Optimus, Robotaxi bets require more cash: Q2 earnings preview",
+    "u": "https://finance.yahoo.com/markets/stocks/article/teslas-jump-in-sales-comes-as-optimus-robotaxi-bets-require-more-cash-q2-earnings-preview-110300122.html"
+   }
+  },
+  {
+   "kw": "遊戲",
    "traffic": "100+",
    "news": {
-    "t": "SpaceX連跌7天市值蒸發逾1兆美元 遭Meta超車",
-    "u": "https://news.cnyes.com/news/id/6540836"
+    "t": "Game 100: Red Sox postponed Tuesday, will try to match franchise record win streak during Wednesday doubleheader",
+    "u": "https://www.bostonglobe.com/2026/07/21/sports/red-sox-orioles-preview-july-21/"
    }
   },
   {
-   "kw": "0056",
-   "traffic": "10000+",
-   "news": null
-  },
-  {
-   "kw": "紐約洋基",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "政治",
-   "traffic": "1000+",
+   "kw": "概念 股",
+   "traffic": "500+",
    "news": {
-    "t": "世足》阿根廷隊秀「福克蘭是我們的」布條 白宮表態了",
-    "u": "https://sports.ltn.com.tw/news/breakingnews/5509998"
+    "t": "AI概念股漲勢降溫後買什麼？高盛點名「3大」投資方向",
+    "u": "https://news.cnyes.com/news/id/6541203"
    }
   },
   {
-   "kw": "周麟演員",
+   "kw": "期貨",
    "traffic": "100+",
    "news": null
+  },
+  {
+   "kw": "豐田 corolla",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "sndk",
+   "traffic": "100+",
+   "news": {
+    "t": "Should You Buy Sandisk Stock Before Aug. 5? (Hint: It Soared After the Past 2 Earnings Reports)",
+    "u": "https://finance.yahoo.com/markets/stocks/articles/buy-sandisk-stock-aug-5-173500200.html"
+   }
   }
  ]
 }
