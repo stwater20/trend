@@ -1,81 +1,75 @@
 {
- "updated": "2026-07-23 08:07",
+ "updated": "2026-07-24 08:05",
  "items": [
   {
-   "kw": "徐莉玲",
+   "kw": "老虎隊",
+   "traffic": "5000+",
+   "news": {
+    "t": "重返大聯盟後打擊率高達3成11 老虎總教練：我們對他很大的信任與信心",
+    "u": "https://tw.sports.yahoo.com/news/%E9%87%8D%E8%BF%94%E5%A4%A7%E8%81%AF%E7%9B%9F%E5%BE%8C%E6%89%93%E6%93%8A%E7%8E%87%E9%AB%98%E9%81%943%E6%88%9011-%E8%80%81%E8%99%8E%E7%B8%BD%E6%95%99%E7%B7%B4-%E6%88%91%E5%80%91%E5%B0%8D%E4%BB%96%E5%BE%88%E5%A4%A7%E7%9A%84%E4%BF%A1%E4%BB%BB%E8%88%87%E4%BF%A1%E5%BF%83-141908404.html"
+   }
+  },
+  {
+   "kw": "晶圓",
+   "traffic": "2000+",
+   "news": null
+  },
+  {
+   "kw": "space x 股價",
    "traffic": "100+",
    "news": {
-    "t": "王菲遭爆找黑道、巫師害張柏芝！邱瓈寬火大不忍了 怒轟台玻總裁夫人",
-    "u": "https://tw.news.yahoo.com/%E7%8E%8B%E8%8F%B2%E9%81%AD%E7%88%86%E6%89%BE%E9%BB%91%E9%81%93-%E5%B7%AB%E5%B8%AB%E5%AE%B3%E5%BC%B5%E6%9F%8F%E8%8A%9D-%E9%82%B1%E7%93%88%E5%AF%AC%E7%81%AB%E5%A4%A7%E4%B8%8D%E5%BF%8D%E4%BA%86-%E6%80%92%E8%BD%9F%E5%8F%B0%E7%8E%BB%E7%B8%BD%E8%A3%81%E5%A4%AB%E4%BA%BA-230500924.html"
+    "t": "SpaceX夢醒時分！市值蒸發1.4兆美元謝金河點名5檔低軌衛星概念股炒太高| 雜誌",
+    "u": "https://udn.com/news/story/6839/9645909"
    }
   },
   {
-   "kw": "鄭宗哲",
+   "kw": "巴士海峽",
+   "traffic": "1000+",
+   "news": {
+    "t": "紅霞颱風今將穿越巴士海峽 粉專指3縣市明受外圍環流影響 恐強風大雨",
+    "u": "https://udn.com/news/story/7266/9647723"
+   }
+  },
+  {
+   "kw": "伺服器",
    "traffic": "200+",
    "news": {
-    "t": "紅襪挑戰「破紀錄」隊史最長16連勝！先發名單出爐",
-    "u": "https://tw.sports.yahoo.com/news/%E7%B4%85%E8%A5%AA%E6%8C%91%E6%88%B0-%E7%A0%B4%E7%B4%80%E9%8C%84-%E9%9A%8A%E5%8F%B2%E6%9C%80%E9%95%B716%E9%80%A3%E5%8B%9D-%E5%85%88%E7%99%BC%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-230755283.html"
+    "t": "CPU 報價飆 4 成 傳中國客戶急找 Intel、AMD 簽長約",
+    "u": "https://technews.tw/2026/07/23/intel-amd-sign-long-term-server-cpu-deals-with-chinese-clients-as-prices-surge/"
    }
   },
   {
-   "kw": "布蘭特原油",
-   "traffic": "200+",
-   "news": {
-    "t": "美伊衝突油價飆3％！美股三大指數收跌 費半逆勢收漲",
-    "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E4%BC%8A%E8%A1%9D%E7%AA%81%E6%B2%B9%E5%83%B9%E9%A3%863-%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B8%E6%94%B6%E8%B7%8C-%E8%B2%BB%E5%8D%8A%E9%80%86%E5%8B%A2%E6%94%B6%E6%BC%B2-222002510.html"
-   }
-  },
-  {
-   "kw": "大聯盟戰績",
+   "kw": "美超微股價",
    "traffic": "100+",
    "news": {
-    "t": "MLB》洋基看上本季2度三響砲強打！「火星人」恐成交易籌碼吐心聲",
-    "u": "https://sports.ltn.com.tw/news/breakingnews/5512988"
+    "t": "美超微報佳音 台廠沾光 雙鴻、尼得科超眾、華泰等受惠",
+    "u": "https://money.udn.com/money/story/5612/9645023"
    }
   },
   {
-   "kw": "期貨夜盤",
+   "kw": "聯友金屬",
+   "traffic": "500+",
+   "news": {
+    "t": "台股飆漲千點聯友金屬-創反殺2根　現增引爆「賣老股換新股」拋售",
+    "u": "https://finance.ettoday.net/news/3204822"
+   }
+  },
+  {
+   "kw": "戴資穎",
    "traffic": "100+",
    "news": null
   },
   {
-   "kw": "德黑蘭",
-   "traffic": "100+",
-   "news": {
-    "t": "伊朗聽好了！ 川普：膽敢攻擊荷莫茲船隻將摧毀橋梁電廠",
-    "u": "https://tw.news.yahoo.com/%E4%BC%8A%E6%9C%97%E8%81%BD%E5%A5%BD%E4%BA%86-%E5%B7%9D%E6%99%AE-%E8%86%BD%E6%95%A2%E6%94%BB%E6%93%8A%E8%8D%B7%E8%8E%AB%E8%8C%B2%E8%88%B9%E9%9A%BB%E5%B0%87%E6%91%A7%E6%AF%80%E6%A9%8B%E6%A2%81%E9%9B%BB%E5%BB%A0-225658737.html"
-   }
+   "kw": "陳傑憲",
+   "traffic": "200+",
+   "news": null
   },
   {
-   "kw": "地震",
-   "traffic": "1000+",
-   "news": {
-    "t": "小區域有感地震報告",
-    "u": "https://www.cwa.gov.tw/V8/C/E/EQ/EQ115000-0718-040914.html"
-   }
-  },
-  {
-   "kw": "英國",
+   "kw": "原油價格",
    "traffic": "200+",
    "news": {
-    "t": "英國6月通膨率降至2.6% 創14個月新低",
-    "u": "https://m.cnyes.com/news/id/6542691"
-   }
-  },
-  {
-   "kw": "intc",
-   "traffic": "200+",
-   "news": {
-    "t": "Intel to report Q2 earnings as chip stocks bounce off recent losses",
-    "u": "https://finance.yahoo.com/markets/stocks/article/intel-to-report-q2-earnings-as-chip-stocks-bounce-off-recent-losses-121538508.html"
-   }
-  },
-  {
-   "kw": "spacex",
-   "traffic": "500+",
-   "news": {
-    "t": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
-    "u": "https://www.cnbc.com/2026/07/22/5-things-to-know-before-the-stock-market-opens.html"
+    "t": "美國務卿：川普對伊朗的軍事政策是「以牙還牙」 專家示警：波灣局勢短期難見降溫",
+    "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%8B%99%E5%8D%BF-%E5%B7%9D%E6%99%AE%E5%B0%8D%E4%BC%8A%E6%9C%97%E7%9A%84%E8%BB%8D%E4%BA%8B%E6%94%BF%E7%AD%96%E6%98%AF-%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99-%E5%B0%88%E5%AE%B6%E7%A4%BA%E8%AD%A6-%E6%B3%A2%E7%81%A3%E5%B1%80%E5%8B%A2%E7%9F%AD%E6%9C%9F%E9%9B%A3%E8%A6%8B%E9%99%8D%E6%BA%AB-151005302.html"
    }
   }
  ]
