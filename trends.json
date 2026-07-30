@@ -1,76 +1,85 @@
 {
- "updated": "2026-07-29 08:03",
+ "updated": "2026-07-30 08:04",
  "items": [
   {
-   "kw": "威秀",
-   "traffic": "500+",
-   "news": {
-    "t": "《蜘蛛人：重生日》首映會將降臨臺北大巨蛋園區 1700 位影迷見證新篇章",
-    "u": "https://gnn.gamer.com.tw/detail.php?sn=308874"
-   }
-  },
-  {
-   "kw": "漢光演習時間",
+   "kw": "liverpool vs wrexham",
    "traffic": "200+",
    "news": {
-    "t": "漢光 42 號實兵演習即將展開 總統勗勉國軍精進訓練 共同維持臺海和平穩定現狀",
-    "u": "https://www.president.gov.tw/News/40217"
+    "t": "Why Federico Chiesa was left out of Liverpool squad vs. Wrexham",
+    "u": "https://www.thisisanfield.com/2026/07/why-federico-chiesa-missed-liverpool-vs-wrexham-pre-season/"
    }
   },
   {
-   "kw": "美股 夜 盤",
-   "traffic": "2000+",
-   "news": {
-    "t": "台指期夜盤反彈法人估指數將於這區間震盪- 證券",
-    "u": "https://www.ctee.com.tw/news/20260727701244-430202"
-   }
-  },
-  {
-   "kw": "掀背車",
+   "kw": "ลิเวอร์พูล พบ เร็กซ์แฮม",
    "traffic": "100+",
    "news": {
-    "t": "遲來重返經典，百萬內法緻顏值掀背─Peugeot第二代小改款208試駕",
-    "u": "https://roadtest.u-car.com.tw/roadtest/article/89258"
+    "t": "ยืนยันรายชื่อลิเวอร์พูล กับ Wrexham ในนิวยอร์ก",
+    "u": "https://www.liverpoolfc.com/th/news/confirmed-liverpool-line-v-wrexham-new-york"
    }
   },
   {
-   "kw": "李鴻源",
+   "kw": "利物浦 對 雷克瑟姆",
    "traffic": "200+",
    "news": {
-    "t": "聯合報社論／張景森之退縮預言：北宜高鐵未建錢先翻倍",
-    "u": "https://udn.com/news/story/7338/9656816"
+    "t": "利物浦季前赛首发揭秘：年轻力量与战术调整的完美结合",
+    "u": "https://m.sohu.com/a/1056465505_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
    }
   },
   {
-   "kw": "黃揚明",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "聯 準 會",
-   "traffic": "1000+",
-   "news": {
-    "t": "Fed決策前夕！ 川普再施壓降息 喊利率應降到「全球最低」",
-    "u": "https://tw.news.yahoo.com/fed%E6%B1%BA%E7%AD%96%E5%89%8D%E5%A4%95-%E5%B7%9D%E6%99%AE%E5%86%8D%E6%96%BD%E5%A3%93%E9%99%8D%E6%81%AF-%E5%96%8A%E5%88%A9%E7%8E%87%E6%87%89%E9%99%8D%E5%88%B0-%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E-101200124.html"
-   }
-  },
-  {
-   "kw": "新冠症狀",
+   "kw": "吳申梅",
    "traffic": "100+",
    "news": {
-    "t": "新冠暴增就診破萬人！醫點名「8類人最危險」 別以為吹冷氣感冒",
-    "u": "https://health.setn.com/news/1879915"
+    "t": "富商總裁老公只出一招 吳申梅甜認了愛的結晶",
+    "u": "https://stars.udn.com/star/story/10092/9659442"
    }
   },
   {
-   "kw": "豪華 汽車",
-   "traffic": "100+",
-   "news": null
+   "kw": "spacex",
+   "traffic": "200+",
+   "news": {
+    "t": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+    "u": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html"
+   }
   },
   {
-   "kw": "國際股市",
+   "kw": "永豐餘",
    "traffic": "100+",
-   "news": null
+   "news": {
+    "t": "又有苦茶油出包！永豐餘「苦茶油」自主檢查驗出苯駢芘超標 流向曝光",
+    "u": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%88%E6%9C%89%E8%8B%A6%E8%8C%B6%E6%B2%B9%E5%87%BA%E5%8C%85-%E6%B0%B8%E8%B1%90%E9%A4%98%E7%94%9F%E6%8A%80-%E8%8B%A6%E8%8C%B6%E6%B2%B9-%E4%B9%9F%E7%88%86%E8%8B%AF%E9%A7%A2%E8%8A%98%E8%B6%85%E6%A8%99-132100741.html"
+   }
+  },
+  {
+   "kw": "鉅亨網",
+   "traffic": "100+",
+   "news": {
+    "t": "〈財報〉高通財測保守拖累股價 9月起全面調漲晶片價格",
+    "u": "https://news.cnyes.com/news/id/6551369"
+   }
+  },
+  {
+   "kw": "今天天氣",
+   "traffic": "100+",
+   "news": {
+    "t": "明天天氣午後防局部大雨 颱風白海豚估明增為強颱 前往日本南方海面",
+    "u": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E5%8D%88%E5%BE%8C%E9%98%B2%E5%B1%80%E9%83%A8%E5%A4%A7%E9%9B%A8-%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BC%B0%E6%98%8E%E5%A2%9E%E7%82%BA%E5%BC%B7%E9%A2%B1-%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E5%8D%97%E6%96%B9%E6%B5%B7%E9%9D%A2-094815087.html"
+   }
+  },
+  {
+   "kw": "散戶",
+   "traffic": "10000+",
+   "news": {
+    "t": "晶片股走弱韓股崩跌 散戶恐慌逃命",
+    "u": "https://tw.news.yahoo.com/%E6%99%B6%E7%89%87%E8%82%A1%E8%B5%B0%E5%BC%B1%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C-%E6%95%A3%E6%88%B6%E6%81%90%E6%85%8C%E9%80%83%E5%91%BD-223731473.html"
+   }
+  },
+  {
+   "kw": "中信兄弟",
+   "traffic": "100+",
+   "news": {
+    "t": "中職》打爆德保拉9分 樂天下半季領先勝差半場",
+    "u": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E6%89%93%E7%88%86%E5%BE%B7%E4%BF%9D%E6%8B%899%E5%88%86-%E6%A8%82%E5%A4%A9%E4%B8%8B%E5%8D%8A%E5%AD%A3%E9%A0%98%E5%85%88%E5%8B%9D%E5%B7%AE%E5%8D%8A%E5%A0%B4-145310717.html"
+   }
   }
  ]
 }
