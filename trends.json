@@ -1,85 +1,70 @@
 {
- "updated": "2026-07-30 08:04",
+ "updated": "2026-07-31 08:09",
  "items": [
   {
-   "kw": "liverpool vs wrexham",
+   "kw": "大乐透",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "鴻海股利",
    "traffic": "200+",
    "news": {
-    "t": "Why Federico Chiesa was left out of Liverpool squad vs. Wrexham",
-    "u": "https://www.thisisanfield.com/2026/07/why-federico-chiesa-missed-liverpool-vs-wrexham-pre-season/"
+    "t": "台股連三跌 半導體測試族群逆勢上漲",
+    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E9%80%A3%E4%B8%89%E8%B7%8C-%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%B8%AC%E8%A9%A6%E6%97%8F%E7%BE%A4%E9%80%86%E5%8B%A2%E4%B8%8A%E6%BC%B2-160500919.html"
    }
   },
   {
-   "kw": "ลิเวอร์พูล พบ เร็กซ์แฮม",
+   "kw": "劉涵竹",
    "traffic": "100+",
    "news": {
-    "t": "ยืนยันรายชื่อลิเวอร์พูล กับ Wrexham ในนิวยอร์ก",
-    "u": "https://www.liverpoolfc.com/th/news/confirmed-liverpool-line-v-wrexham-new-york"
+    "t": "股票2個月賺55萬變倒賠百萬！前美女主播崩潰曬對帳單：不敢看盤了",
+    "u": "https://tw.news.yahoo.com/%E8%82%A1%E7%A5%A82%E5%80%8B%E6%9C%88%E8%B3%BA55%E8%90%AC%E8%AE%8A%E5%80%92%E8%B3%A0%E7%99%BE%E8%90%AC-%E5%89%8D%E7%BE%8E%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%B4%A9%E6%BD%B0%E6%9B%AC%E5%B0%8D%E5%B8%B3%E5%96%AE-%E4%B8%8D%E6%95%A2%E7%9C%8B%E7%9B%A4%E4%BA%86-052200241.html"
    }
   },
   {
-   "kw": "利物浦 對 雷克瑟姆",
+   "kw": "台灣職業籃球大聯盟",
    "traffic": "200+",
    "news": {
-    "t": "利物浦季前赛首发揭秘：年轻力量与战术调整的完美结合",
-    "u": "https://m.sohu.com/a/1056465505_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334"
+    "t": "TPBL／巴西國家隊戰將加爾文加盟海神 擁有豐富國際賽資歷",
+    "u": "https://tw.sports.yahoo.com/news/tpbl-%E5%B7%B4%E8%A5%BF%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%88%B0%E5%B0%87%E5%8A%A0%E7%88%BE%E6%96%87%E5%8A%A0%E7%9B%9F%E6%B5%B7%E7%A5%9E-%E6%93%81%E6%9C%89%E8%B1%90%E5%AF%8C%E5%9C%8B%E9%9A%9B%E8%B3%BD%E8%B3%87%E6%AD%B7-081900642.html"
    }
   },
   {
-   "kw": "吳申梅",
-   "traffic": "100+",
-   "news": {
-    "t": "富商總裁老公只出一招 吳申梅甜認了愛的結晶",
-    "u": "https://stars.udn.com/star/story/10092/9659442"
-   }
-  },
-  {
-   "kw": "spacex",
+   "kw": "隋 棠",
    "traffic": "200+",
    "news": {
-    "t": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-    "u": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html"
+    "t": "《吃桌》跟千千爆換位風波！隋棠首公開發文說話了 真實心聲曝光",
+    "u": "https://tw.news.yahoo.com/%E5%90%83%E6%A1%8C-%E8%B7%9F%E5%8D%83%E5%8D%83%E7%88%86%E6%8F%9B%E4%BD%8D%E9%A2%A8%E6%B3%A2-%E9%9A%8B%E6%A3%A0%E9%A6%96%E5%85%AC%E9%96%8B%E7%99%BC%E6%96%87%E8%AA%AA%E8%A9%B1%E4%BA%86-%E7%9C%9F%E5%AF%A6%E5%BF%83%E8%81%B2%E6%9B%9D%E5%85%89-094600683.html"
    }
   },
   {
-   "kw": "永豐餘",
+   "kw": "無人 載 具",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "oled電視",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "謝金 河",
+   "traffic": "2000+",
+   "news": null
+  },
+  {
+   "kw": "nvda stock",
    "traffic": "100+",
    "news": {
-    "t": "又有苦茶油出包！永豐餘「苦茶油」自主檢查驗出苯駢芘超標 流向曝光",
-    "u": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%8F%88%E6%9C%89%E8%8B%A6%E8%8C%B6%E6%B2%B9%E5%87%BA%E5%8C%85-%E6%B0%B8%E8%B1%90%E9%A4%98%E7%94%9F%E6%8A%80-%E8%8B%A6%E8%8C%B6%E6%B2%B9-%E4%B9%9F%E7%88%86%E8%8B%AF%E9%A7%A2%E8%8A%98%E8%B6%85%E6%A8%99-132100741.html"
+    "t": "Nvidia revealed as tenant for $50bn data centre that will use its chips",
+    "u": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1"
    }
   },
   {
-   "kw": "鉅亨網",
-   "traffic": "100+",
-   "news": {
-    "t": "〈財報〉高通財測保守拖累股價 9月起全面調漲晶片價格",
-    "u": "https://news.cnyes.com/news/id/6551369"
-   }
-  },
-  {
-   "kw": "今天天氣",
-   "traffic": "100+",
-   "news": {
-    "t": "明天天氣午後防局部大雨 颱風白海豚估明增為強颱 前往日本南方海面",
-    "u": "https://tw.news.yahoo.com/%E6%98%8E%E5%A4%A9%E5%A4%A9%E6%B0%A3%E5%8D%88%E5%BE%8C%E9%98%B2%E5%B1%80%E9%83%A8%E5%A4%A7%E9%9B%A8-%E9%A2%B1%E9%A2%A8%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BC%B0%E6%98%8E%E5%A2%9E%E7%82%BA%E5%BC%B7%E9%A2%B1-%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E5%8D%97%E6%96%B9%E6%B5%B7%E9%9D%A2-094815087.html"
-   }
-  },
-  {
-   "kw": "散戶",
-   "traffic": "10000+",
-   "news": {
-    "t": "晶片股走弱韓股崩跌 散戶恐慌逃命",
-    "u": "https://tw.news.yahoo.com/%E6%99%B6%E7%89%87%E8%82%A1%E8%B5%B0%E5%BC%B1%E9%9F%93%E8%82%A1%E5%B4%A9%E8%B7%8C-%E6%95%A3%E6%88%B6%E6%81%90%E6%85%8C%E9%80%83%E5%91%BD-223731473.html"
-   }
-  },
-  {
-   "kw": "中信兄弟",
-   "traffic": "100+",
-   "news": {
-    "t": "中職》打爆德保拉9分 樂天下半季領先勝差半場",
-    "u": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E6%89%93%E7%88%86%E5%BE%B7%E4%BF%9D%E6%8B%899%E5%88%86-%E6%A8%82%E5%A4%A9%E4%B8%8B%E5%8D%8A%E5%AD%A3%E9%A0%98%E5%85%88%E5%8B%9D%E5%B7%AE%E5%8D%8A%E5%A0%B4-145310717.html"
-   }
+   "kw": "台積電",
+   "traffic": "5000+",
+   "news": null
   }
  ]
 }
