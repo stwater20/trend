@@ -1,69 +1,84 @@
 {
- "updated": "2026-08-08 07:39",
+ "updated": "2026-08-09 07:35",
  "items": [
   {
-   "kw": "欣興電子",
+   "kw": "工會",
    "traffic": "200+",
    "news": {
-    "t": "輝達供應鏈動能強！「IC載板廠」7月營收年增35.85%、二度擴產 連6日狂飆48%登強勢股王",
-    "u": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E4%BE%9B%E6%87%89%E9%8F%88%E5%8B%95%E8%83%BD%E5%BC%B7%EF%BC%81%E3%80%8Cic%E8%BC%89%E6%9D%BF%E5%BB%A0%E3%80%8D7%E6%9C%88%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E3585%E3%80%81%E4%BA%8C%E5%BA%A6%E6%93%B4%E7%94%A2-%E9%80%A36%E6%97%A5%E7%8B%82%E9%A3%8648%E7%99%BB%E5%BC%B7%E5%8B%A2%E8%82%A1%E7%8E%8B-000000775.html"
+    "t": "71歲姜厚任不忍了！遭田路路點名 鬆口20多年心中最大遺憾",
+    "u": "https://ent.ltn.com.tw/news/breakingnews/5532555"
    }
   },
   {
-   "kw": "今彩539開獎號碼",
+   "kw": "黃金",
    "traffic": "100+",
    "news": {
-    "t": "今彩539頭獎開4注獎落這4縣市！ 每人抱走6百萬元",
-    "u": "https://news.ttv.com.tw/news/11508070003500W"
+    "t": "陸7月外匯存底回升連續21個月買黃金- 兩岸",
+    "u": "https://www.ctee.com.tw/news/20260807701492-430803"
    }
   },
   {
-   "kw": "財務自由",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "大學",
+   "kw": "屍體",
    "traffic": "100+",
    "news": {
-    "t": "台大成大沒進前五！台灣最強大學排名洗牌「冠軍畢業年薪83萬」， 企業高薪搶人有競爭力",
-    "u": "https://www.storm.mg/lifestyle/11154642"
+    "t": "19歲女家中生男嬰 嬰死後包毛巾伴屍數日…家人發現陪報案",
+    "u": "https://udn.com/news/story/7320/9679680"
    }
   },
   {
-   "kw": "补贴",
+   "kw": "聯合新聞網",
+   "traffic": "100+",
+   "news": {
+    "t": "聯合報一周大事8/2~8/8 | 綜合 | 要聞",
+    "u": "https://udn.com/news/story/7314/9679628?list_ch2_index"
+   }
+  },
+  {
+   "kw": "สภาพอากาศ",
    "traffic": "200+",
-   "news": null
+   "news": {
+    "t": "กรีนพีซเผยผลประเมินภูมิอากาศ 6 นคร ไถหนาน วิกฤตสุด อันดับ 1",
+    "u": "https://news.pts.org.tw/article/821166"
+   }
   },
   {
-   "kw": "費城半導體指數",
+   "kw": "台鐵",
+   "traffic": "100+",
+   "news": {
+    "t": "高雄親子樂園開幕首日湧3萬人潮 輕軌凱旋武昌站單日進出4千人次",
+    "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E8%A6%AA%E5%AD%90%E6%A8%82%E5%9C%92%E9%96%8B%E5%B9%95%E9%A6%96%E6%97%A5%E6%B9%A73%E8%90%AC%E4%BA%BA%E6%BD%AE-%E8%BC%95%E8%BB%8C%E5%87%B1%E6%97%8B%E6%AD%A6%E6%98%8C%E7%AB%99%E5%96%AE%E6%97%A5%E9%80%B2%E5%87%BA4%E5%8D%83%E4%BA%BA%E6%AC%A1-212534279.html"
+   }
+  },
+  {
+   "kw": "台",
+   "traffic": "100+",
+   "news": {
+    "t": "看到「晶片實力」後悔了？斷交19年「前邦交國」要來台了",
+    "u": "https://tw.stock.yahoo.com/news/%E7%9C%8B%E5%88%B0-%E6%99%B6%E7%89%87%E5%AF%A6%E5%8A%9B-%E5%BE%8C%E6%82%94%E4%BA%86-%E6%96%B7%E4%BA%A419%E5%B9%B4-%E5%89%8D%E9%82%A6%E4%BA%A4%E5%9C%8B-030703963.html"
+   }
+  },
+  {
+   "kw": "weather",
    "traffic": "500+",
    "news": {
-    "t": "台股去槓桿近尾聲　財報接棒成主戰場，低本益比跌深股有望反攻",
-    "u": "https://money.udn.com/money/story/12040/9672639"
+    "t": "Farmers’ Almanac 2026 / 2027 Winter Weather Forecast",
+    "u": "https://www.farmersalmanac.com/farmers-almanac-2026-2027-winter-weather-forecast"
    }
   },
   {
-   "kw": "台積電夜盤",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "桃園機場",
+   "kw": "台风",
    "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "陳傑憲",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "台風",
-   "traffic": "100+",
    "news": {
-    "t": "大型で非常に強い台風13号 暴風などに厳重警戒",
-    "u": "https://news.web.nhk/newsweb/na/na-k10015199841000"
+    "t": "台风白海豚对南京的影响持续到什么时候？",
+    "u": "https://cj.sina.cn/articles/view/7879848931/1d5acf3e306801bqqa?froms=ggmp"
+   }
+  },
+  {
+   "kw": "台北",
+   "traffic": "200+",
+   "news": {
+    "t": "宜蘭強風！飲料店「玻璃門被吹爆」女員工當場抱頭嚇壞",
+    "u": "https://tw.news.yahoo.com/%E5%AE%9C%E8%98%AD%E5%BC%B7%E9%A2%A8-%E9%A3%B2%E6%96%99%E5%BA%97-%E7%8E%BB%E7%92%83%E9%96%80%E8%A2%AB%E5%90%B9%E7%88%86-%E5%A5%B3%E5%93%A1%E5%B7%A5%E7%95%B6%E5%A0%B4%E6%8A%B1%E9%A0%AD%E5%9A%87%E5%A3%9E-142100382.html"
    }
   }
  ]
