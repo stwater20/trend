@@ -1,82 +1,73 @@
 {
- "updated": "2026-08-17 07:26",
+ "updated": "2026-08-18 07:28",
  "items": [
   {
-   "kw": "政策",
+   "kw": "許常德",
    "traffic": "100+",
    "news": {
-    "t": "社宅13萬戶縮水成3萬？內政部急喊「多元興辦」滅火未滿30就敢買房！雙北捷運「倒數第二站」房價更甜蜜｜房地產週報",
-    "u": "https://tw.stock.yahoo.com/news/%E7%A4%BE%E5%AE%8513%E8%90%AC%E6%88%B6%E7%B8%AE%E6%B0%B4%E6%88%903%E8%90%AC%EF%BC%9F%E5%85%A7%E6%94%BF%E9%83%A8%E6%80%A5%E5%96%8A%E3%80%8C%E5%A4%9A%E5%85%83%E8%88%88%E8%BE%A6%E3%80%8D%E6%BB%85%E7%81%AB-%E6%9C%AA%E6%BB%BF30%E5%B0%B1%E6%95%A2%E8%B2%B7%E6%88%BF%EF%BC%81%E9%9B%99%E5%8C%97%E6%8D%B7%E9%81%8B%E3%80%8C%E5%80%92%E6%95%B8%E7%AC%AC%E4%BA%8C%E7%AB%99%E3%80%8D%E6%88%BF%E5%83%B9%E6%9B%B4%E7%94%9C%E8%9C%9C%EF%BD%9C%E6%88%BF%E5%9C%B0%E7%94%A2%E9%80%B1%E5%A0%B1-020300092.html"
+    "t": "陳盈潔離世前10分鐘「病房一幕」曝光！走後託夢道謝 對看護說了這句話",
+    "u": "https://tw.news.yahoo.com/%E9%99%B3%E7%9B%88%E6%BD%94%E9%9B%A2%E4%B8%96%E5%89%8D10%E5%88%86%E9%90%98-%E7%97%85%E6%88%BF-%E5%B9%95-%E6%9B%9D%E5%85%89-%E8%B5%B0%E5%BE%8C%E8%A8%97%E5%A4%A2%E9%81%93%E8%AC%9D-111300259.html"
    }
   },
   {
-   "kw": "退休 金",
+   "kw": "中國",
    "traffic": "200+",
    "news": {
-    "t": "德國退休金改革 明年上路",
-    "u": "https://money.udn.com/money/story/5599/9695303"
+    "t": "台人看不起！翁曉玲連告堂哥、梁文傑 他轟做賊喊抓賊：吃中國人自助餐",
+    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E4%BA%BA%E7%9C%8B%E4%B8%8D%E8%B5%B7-%E7%BF%81%E6%9B%89%E7%8E%B2%E9%80%A3%E5%91%8A%E5%A0%82%E5%93%A5-%E6%A2%81%E6%96%87%E5%82%91-%E4%BB%96%E8%BD%9F%E5%81%9A%E8%B3%8A%E5%96%8A%E6%8A%93%E8%B3%8A-%E5%90%83%E4%B8%AD%E5%9C%8B%E4%BA%BA%E8%87%AA%E5%8A%A9%E9%A4%90-203900876.html"
    }
   },
   {
-   "kw": "輝達",
-   "traffic": "100+",
+   "kw": "費半指數",
+   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "俄羅斯",
+   "kw": "信用卡",
    "traffic": "200+",
    "news": {
-    "t": "烏克蘭發動開戰以來最大規模無人機攻擊俄軍防空系統面臨極限- 國際",
-    "u": "https://news.ltn.com.tw/news/world/breakingnews/5542118"
+    "t": "玉山、國泰世華輸了！台灣最強銀行「刷卡額破904億」，內行讚：無腦刷通路廣、 免繳年費回饋很有感",
+    "u": "https://www.storm.mg/lifestyle/11157151"
    }
   },
   {
-   "kw": "claude",
+   "kw": "群 創",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "雨",
+   "traffic": "2000+",
+   "news": null
+  },
+  {
+   "kw": "市長",
+   "traffic": "1000+",
+   "news": {
+    "t": "塩尻市長選挙に市の元職員で新人の上間匠さんが立候補表明「歳出の削減や新規事業の見直しなどを訴えていきたい」9月13日告示、20日投開票 | SBC NEWS | 長野のニュース | SBC信越放送",
+    "u": "https://newsdig.tbs.co.jp/articles/sbc/2876697"
+   }
+  },
+  {
+   "kw": "今 彩 539",
    "traffic": "200+",
    "news": {
-    "t": "Is Claude down? Claude outage impacts thousands. Claude is unavailable error.",
-    "u": "https://www.app.com/story/news/2026/08/16/claude-authentication-service-unavailable-error-message-reported/91331398007/"
+    "t": "快對獎！今彩539頭獎6注中獎 每人分得400萬",
+    "u": "https://news.ebc.net.tw/news/living/566798"
    }
   },
   {
-   "kw": "南亞科技",
-   "traffic": "100+",
-   "news": {
-    "t": "雲林迎南亞科　縣長張麗善：水電、人力　全力協助",
-    "u": "https://news.housefun.com.tw/news/article/195253488074.html"
-   }
-  },
-  {
-   "kw": "liverpool vs como",
-   "traffic": "100+",
-   "news": {
-    "t": "¿Cómo ver el partido entre Liverpool vs Como en TV y Streaming?",
-    "u": "https://www.si.com/es-us/futbol/como-ver-el-partido-entre-liverpool-vs-como-en-tv-y-streaming"
-   }
-  },
-  {
-   "kw": "柯文哲",
-   "traffic": "200+",
-   "news": {
-    "t": "社論》誰在挾持台灣民主？",
-    "u": "https://talk.ltn.com.tw/article/paper/1766896"
-   }
-  },
-  {
-   "kw": "體育",
+   "kw": "垃圾",
    "traffic": "500+",
    "news": {
-    "t": "瓊斯盃》自爆5歲就180公分！Rioux盼未來能挑戰NBA 今晚就要先嘗試臭豆腐",
-    "u": "https://tw.sports.yahoo.com/news/%E7%93%8A%E6%96%AF%E7%9B%83%E3%80%8B%E8%87%AA%E7%88%865%E6%AD%B2%E5%B0%B1180%E5%85%AC%E5%88%86%EF%BC%81rioux%E7%9B%BC%E6%9C%AA%E4%BE%86%E8%83%BD%E6%8C%91%E6%88%B0nba-%E4%BB%8A%E6%99%9A%E5%B0%B1%E8%A6%81%E5%85%88%E5%98%97%E8%A9%A6%E8%87%AD%E8%B1%86%E8%85%90-080057711.html"
+    "t": "孝心用錯！替母倒4025公斤椰子殼 新北清潔隊班長貪汙圖利遭訴",
+    "u": "https://udn.com/news/story/7321/9691721"
    }
   },
   {
-   "kw": "盧秀燕",
-   "traffic": "200+",
-   "news": {
-    "t": "台中鍋烤節中視得標何欣純稱啟人疑竇市府：依法公開招標| 地方",
-    "u": "https://www.cna.com.tw/news/aloc/202608160135.aspx"
-   }
+   "kw": "台 指 期 夜 盤",
+   "traffic": "5000+",
+   "news": null
   }
  ]
 }
