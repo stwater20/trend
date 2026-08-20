@@ -1,78 +1,75 @@
 {
- "updated": "2026-08-20 07:28",
+ "updated": "2026-08-21 07:31",
  "items": [
   {
-   "kw": "亞歷山大·茲維列夫",
-   "traffic": "100+",
-   "news": {
-    "t": "Paul saves match point to stun Zverev in Cincinnati",
-    "u": "https://www.atptour.com/en/news/zverev-paul-cincinnati-2026-wednesday"
-   }
-  },
-  {
-   "kw": "李灝宇",
+   "kw": "志願役",
    "traffic": "500+",
-   "news": {
-    "t": "MLB》台灣之光！李灝宇破紀錄 獲大聯盟官網專文報導",
-    "u": "https://tw.sports.yahoo.com/news/mlb%E3%80%8B%E5%8F%B0%E7%81%A3%E4%B9%8B%E5%85%89%EF%BC%81%E6%9D%8E%E7%81%9D%E5%AE%87%E7%A0%B4%E7%B4%80%E9%8C%84-%E7%8D%B2%E5%A4%A7%E8%81%AF%E7%9B%9F%E5%AE%98%E7%B6%B2%E5%B0%88%E6%96%87%E5%A0%B1%E5%B0%8E-231600315.html"
-   }
-  },
-  {
-   "kw": "分析 師",
-   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "光通訊",
-   "traffic": "100+",
+   "kw": "thời tiết",
+   "traffic": "500+",
    "news": {
-    "t": "輝達矽光交換器量產台廠CPO測試鏈商機燃- 日報",
-    "u": "https://www.ctee.com.tw/news/20260820700080-439901"
-   }
-  },
-  {
-   "kw": "救援",
-   "traffic": "200+",
-   "news": {
-    "t": "浪貓困33樓外牆 警消全副武裝救援「下秒所有人被牠嚇死」：穿越了",
-    "u": "https://pets.udn.com/pets/story/122674/9697955"
+    "t": "Thời tiết hôm nay 21.8: Miền Bắc mưa dông, có nơi mưa rất to",
+    "u": "https://laodong.vn/ban-tin/thoi-tiet-hom-nay-218-mien-bac-mua-dong-co-noi-mua-rat-to-1753499.ldo"
    }
   },
   {
    "kw": "黃金",
-   "traffic": "100+",
+   "traffic": "200+",
    "news": {
-    "t": "摩根士丹利策略師：黃金牛市已長達25年 避險價值重獲關注",
-    "u": "https://tw.stock.yahoo.com/news/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%E7%AD%96%E7%95%A5%E5%B8%AB-%E9%BB%83%E9%87%91%E7%89%9B%E5%B8%82%E5%B7%B2%E9%95%B7%E9%81%9425%E5%B9%B4-%E9%81%BF%E9%9A%AA%E5%83%B9%E5%80%BC%E9%87%8D%E7%8D%B2%E9%97%9C%E6%B3%A8-141537216.html"
+    "t": "美放水救債、黃金嗨了！台銀黃金存摺飆「2個月最高」 他買百克放2個月增值5萬元",
+    "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E6%94%BE%E6%B0%B4%E6%95%91%E5%82%B5%E3%80%81%E9%BB%83%E9%87%91%E5%97%A8%E4%BA%86%EF%BC%81%E5%8F%B0%E9%8A%80%E9%BB%83%E9%87%91%E5%AD%98%E6%91%BA%E9%A3%86%E3%80%8C2%E5%80%8B%E6%9C%88%E6%9C%80%E9%AB%98%E3%80%8D-%E4%BB%96%E8%B2%B7%E7%99%BE%E5%85%8B%E6%94%BE2%E5%80%8B%E6%9C%88%E5%A2%9E%E5%80%BC5%E8%90%AC%E5%85%83-022217447.html"
    }
   },
   {
-   "kw": "曾文水庫",
-   "traffic": "200+",
+   "kw": "weather",
+   "traffic": "500+",
+   "news": {
+    "t": "NASCAR New Hampshire Schedule: TV Channels, Start Times and How to Watch",
+    "u": "https://sports.yahoo.com/articles/nascar-hampshire-schedule-tv-channels-130000549.html"
+   }
+  },
+  {
+   "kw": "晶圓代工",
+   "traffic": "100+",
+   "news": {
+    "t": "台積電贏麻了！三星1.4奈米量產延至2029 A14提前1年卡位",
+    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B4%8F%E9%BA%BB%E4%BA%86-%E4%B8%89%E6%98%9F1-4%E5%A5%88%E7%B1%B3%E9%87%8F%E7%94%A2%E5%BB%B6%E8%87%B32029-a14%E6%8F%90%E5%89%8D1%E5%B9%B4%E5%8D%A1%E4%BD%8D-042442637.html"
+   }
+  },
+  {
+   "kw": "水庫",
+   "traffic": "100+",
    "news": null
   },
   {
-   "kw": "axti",
-   "traffic": "100+",
+   "kw": "盧秀燕",
+   "traffic": "500+",
    "news": {
-    "t": "Axt director Leonard LeBlanc sells $384k in company stock",
-    "u": "https://www.investing.com/news/insider-trading-news/axt-director-leonard-leblanc-sells-384k-in-company-stock-93CH-4868394"
+    "t": "藍委指卓榮泰 對立院 「最基本尊重都沒」",
+    "u": "https://udn.com/vote2026/story/6656/9704770"
    }
   },
   {
-   "kw": "barcelona vs al ahly",
+   "kw": "一國兩制",
    "traffic": "100+",
    "news": {
-    "t": "Barcelona secure the Joan Gamper Trophy against Al Ahly of Egypt with a thrilling brace (video)",
-    "u": "https://www.voiceofemirates.com/en/sport/2026/08/20/barcelona-secure-the-joan-gamper-trophy-against-al-ahly-of-egypt-with-a-thrilling-brace-video/"
+    "t": "最新民調一樣：反對「一國兩制」，拒絕與中共統一",
+    "u": "https://pchome.megatime.com.tw/news/cat1/20260820/78721802191451279001.html"
    }
   },
   {
-   "kw": "經濟",
-   "traffic": "100+",
+   "kw": "聯電",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "vix指數",
+   "traffic": "200+",
    "news": {
-    "t": "通膨擔憂壓抑經濟復甦！歐洲五分之四國家猛儲蓄美卻跌破疫情前大西洋兩岸為何經濟裂口擴大？",
-    "u": "https://tw.stock.yahoo.com/news/%E9%80%9A%E8%86%A8%E6%93%94%E6%86%82%E5%A3%93%E6%8A%91%E7%B6%93%E6%BF%9F%E5%BE%A9%E7%94%A6-%E6%AD%90%E6%B4%B2%E4%BA%94%E5%88%86%E4%B9%8B%E5%9B%9B%E5%9C%8B%E5%AE%B6%E7%8C%9B%E5%84%B2%E8%93%84-%E7%BE%8E%E5%8D%BB%E8%B7%8C%E7%A0%B4%E7%96%AB%E6%83%85%E5%89%8D-%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%85%A9%E5%B2%B8%E7%82%BA%E4%BD%95%E7%B6%93%E6%BF%9F%E8%A3%82%E5%8F%A3%E6%93%B4%E5%A4%A7-073045163.html"
+    "t": "美股「恐慌指數」創2026新低！專家示警：有3大未爆彈",
+    "u": "https://news.ebc.net.tw/news/business/567150"
    }
   }
  ]
