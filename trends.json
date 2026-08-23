@@ -1,76 +1,79 @@
 {
- "updated": "2026-08-23 07:27",
+ "updated": "2026-08-24 07:27",
  "items": [
   {
-   "kw": "金",
-   "traffic": "200+",
+   "kw": "大谷翔平",
+   "traffic": "100+",
    "news": {
-    "t": "金饰遇冷 金条走俏",
-    "u": "https://cj.sina.cn/articles/view/7517400647/1c0126e47059093a9i"
+    "t": "大谷の左膝懸念 監督「もう過去」",
+    "u": "https://news.yahoo.co.jp/pickup/6592720"
    }
   },
   {
    "kw": "weather",
    "traffic": "500+",
    "news": {
-    "t": "Low humidity expected the next few days",
-    "u": "https://www.wlky.com/article/low-humidity-expected-the-next-few-days/73502554"
+    "t": "Tornado near Port St. Lucie? Jensen Beach videos surface as Stuart, Walton under warning | Hindustan Times",
+    "u": "https://www.hindustantimes.com/world-news/us-news/tornado-near-port-st-lucie-florida-jensen-beach-videos-surface-as-stuart-walton-under-warning-101787525298104.html"
    }
   },
   {
-   "kw": "股份",
-   "traffic": "100+",
-   "news": {
-    "t": "聚胶股份（301283）2026年中报简析：增收不增利，应收账款上升",
-    "u": "https://caifuhao.eastmoney.com/news/20260823061916946537160"
-   }
-  },
-  {
-   "kw": "許甫",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "高鐵",
+   "kw": "中油",
    "traffic": "200+",
    "news": {
-    "t": "高鐵新車進廠準備 大舉招募百人因應 上線前69+3道考驗4大關卡",
-    "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E6%96%B0%E8%BB%8A%E9%80%B2%E5%BB%A0%E6%BA%96%E5%82%99-%E5%A4%A7%E8%88%89%E6%8B%9B%E5%8B%9F%E7%99%BE%E4%BA%BA%E5%9B%A0%E6%87%89-%E4%B8%8A%E7%B7%9A%E5%89%8D69-3%E9%81%93%E8%80%83%E9%A9%974%E5%A4%A7%E9%97%9C%E5%8D%A1-074226259.html"
+    "t": "漲翻天仍不調！中油宣布下週汽、柴油凍漲 吸收金額已破170億",
+    "u": "https://tw.stock.yahoo.com/news/%E6%BC%B2%E7%BF%BB%E5%A4%A9%E4%BB%8D%E4%B8%8D%E8%AA%BF-%E4%B8%AD%E6%B2%B9%E5%AE%A3%E5%B8%83%E4%B8%8B%E9%80%B1%E6%B1%BD-%E6%9F%B4%E6%B2%B9%E5%87%8D%E6%BC%B2-%E5%90%B8%E6%94%B6%E9%87%91%E9%A1%8D%E5%B7%B2%E7%A0%B4170%E5%84%84-143000785.html"
    }
+  },
+  {
+   "kw": "windy",
+   "traffic": "200+",
+   "news": {
+    "t": "In the last few hours, the situation with electricity supply has improved only slightly",
+    "u": "https://news.inbox.eu/150noqu-in-the-last-few-hours-the-situation-with-electricity-supply-has-improved-only-slightly?language=en"
+   }
+  },
+  {
+   "kw": "thời tiết",
+   "traffic": "2000+",
+   "news": {
+    "t": "Thời tiết hôm nay 24-8: Bắc Bộ mưa rất to, Nam Bộ và Trung Bộ nắng",
+    "u": "https://tuoitre.vn/thoi-tiet-hom-nay-24-8-bac-bo-mua-rat-to-nam-bo-va-trung-bo-nang-100260823160901866.htm"
+   }
+  },
+  {
+   "kw": "李灝宇",
+   "traffic": "2000+",
+   "news": {
+    "t": "李灝宇有望超越大谷翔平「一項神紀錄」 手感超燙已衝上亞洲前三",
+    "u": "https://tw.sports.yahoo.com/news/%E6%9D%8E%E7%81%9D%E5%AE%87%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3-%E9%A0%85%E7%A5%9E%E7%B4%80%E9%8C%84-%E6%89%8B%E6%84%9F%E8%B6%85%E7%87%99%E5%B7%B2%E8%A1%9D%E4%B8%8A%E4%BA%9E%E6%B4%B2%E5%89%8D%E4%B8%89-061222538.html"
+   }
+  },
+  {
+   "kw": "嘉義市政府",
+   "traffic": "100+",
+   "news": null
   },
   {
    "kw": "水庫",
+   "traffic": "500+",
+   "news": {
+    "t": "豪雨狂灌中南部，曾文水庫蓄水率有望叩關九成！寶山水庫、鯉魚潭水庫滿到洩洪…最新水情一次看",
+    "u": "https://www.businesstoday.com.tw/article/category/183030/post/202608230005/"
+   }
+  },
+  {
+   "kw": "王惠美",
+   "traffic": "1000+",
+   "news": {
+    "t": "【新新聞】彰化真要變天了？一句「看我臉書」催動水五金案，賴清德如何拉住王惠美？",
+    "u": "https://new7.storm.mg/article/5544484"
+   }
+  },
+  {
+   "kw": "009816",
    "traffic": "200+",
    "news": null
-  },
-  {
-   "kw": "洛杉矶道奇",
-   "traffic": "200+",
-   "news": {
-    "t": "洛杉矶道奇队应对了主力中坚手安迪•法赫斯的伤势。道奇队23日(韩国时间)在与匹兹堡海盗队的主场比赛之前，以左手骨折为由将外野手帕赫斯列入受伤者名单，并宣布将在Triple A俄克拉荷马城召见亚历克•托..",
-    "u": "https://www.mk.co.kr/cn/sports/12133906"
-   }
-  },
-  {
-   "kw": "辛辛那提大師賽",
-   "traffic": "200+",
-   "news": {
-    "t": "網球／Jessica Pegula 擊敗 Swiatek 晉級辛辛那提決賽",
-    "u": "https://www.ftvnews.com.tw/news/detail/2026823W0084"
-   }
-  },
-  {
-   "kw": "運彩",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "espanyol vs madrid",
-   "traffic": "200+",
-   "news": {
-    "t": "Espanyol - Real Madrid hoy, en directo: última hora de la vuelta de Mourinho a LaLiga EA Sports",
-    "u": "https://as.com/futbol/primera/espanyol-real-madrid-hoy-en-directo-previa-y-ultima-hora-de-la-vuelta-de-mourinho-a-laliga-ea-sports-f202608-d/"
-   }
   }
  ]
 }
