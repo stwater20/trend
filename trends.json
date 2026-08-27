@@ -1,75 +1,78 @@
 {
- "updated": "2026-08-26 07:30",
+ "updated": "2026-08-27 12:27",
  "items": [
   {
-   "kw": "加拿大",
-   "traffic": "100+",
+   "kw": "雷虎",
+   "traffic": "200+",
    "news": {
-    "t": "反制美國50％關稅 加拿大公布反制措施、9/8起生效",
-    "u": "https://ec.ltn.com.tw/article/breakingnews/5552242"
+    "t": "立法院今表決無人機條例 14台股漲聲響起",
+    "u": "https://tw.news.yahoo.com/%E7%AB%8B%E6%B3%95%E9%99%A2%E4%BB%8A%E8%A1%A8%E6%B1%BA%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A2%9D%E4%BE%8B-14%E5%8F%B0%E8%82%A1%E6%BC%B2%E8%81%B2%E9%9F%BF%E8%B5%B7-040800993.html"
    }
   },
   {
-   "kw": "黃立成",
-   "traffic": "100+",
-   "news": {
-    "t": "10萬變950萬！麻吉大哥兩天暴賺百倍",
-    "u": "https://tw.news.yahoo.com/10%E8%90%AC%E8%AE%8A950%E8%90%AC-%E9%BA%BB%E5%90%89%E5%A4%A7%E5%93%A5%E5%85%A9%E5%A4%A9%E6%9A%B4%E8%B3%BA%E7%99%BE%E5%80%8D-030840234.html"
-   }
+   "kw": "喬納森·庫明加",
+   "traffic": "500+",
+   "news": null
   },
   {
-   "kw": "台指期夜盤指數",
+   "kw": "無人機",
    "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "cwa",
-   "traffic": "100+",
-   "news": {
-    "t": "Typhoon Saudel unlikely to make landfall in Taiwan: CWA",
-    "u": "https://focustaiwan.tw/society/202608240021"
-   }
-  },
-  {
-   "kw": "009816",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "thời tiết",
+   "kw": "草間彌生逝世",
    "traffic": "500+",
    "news": {
-    "t": "Bắc Bộ có mưa rào và dông rải rác",
-    "u": "https://hanoimoi.vn/bac-bo-co-mua-rao-va-dong-rai-rac-1316037.html"
+    "t": "身價最高日本女藝術家謝幕！草間彌生97歲辭世 曾攜手LV掀圓點狂潮",
+    "u": "https://art.ltn.com.tw/article/breakingnews/5553932"
    }
   },
   {
-   "kw": "weather",
+   "kw": "國民年金",
    "traffic": "500+",
    "news": {
-    "t": "Met Office thunderstorm warning issued across large parts of UK",
-    "u": "https://uk.news.yahoo.com/met-office-thunderstorm-warning-issued-084416865.html"
+    "t": "國民年金不繳會怎樣？115年新制上路「這2項津貼變多了」，會影響勞保嗎/ 每月領多少一次看",
+    "u": "https://www.storm.mg/lifestyle/11158694"
    }
   },
   {
-   "kw": "สภาพอากาศ",
+   "kw": "krazy",
    "traffic": "200+",
    "news": {
-    "t": "ทั่วไทยชุ่มฉ่ำ! ภาคเหนือ อีสาน กลาง ตกหนักบางแห่ง \"กทม.-ปริมณฑล\" โดน บ่ายถึงค่ำ | The Better",
-    "u": "https://today.line.me/th/v3/article/oqRm1P6"
+    "t": "Viral chicken sandwich shop flips $7 smashburgers onto fresh buns",
+    "u": "https://www.mysanantonio.com/food/article/krazy-katsu-burger-san-antonio-22402507.php"
    }
   },
   {
-   "kw": "風暴",
-   "traffic": "200+",
-   "news": null
+   "kw": "徐巧芯",
+   "traffic": "500+",
+   "news": {
+    "t": "遭停權3年！蕭敬嚴轟考紀會成徐巧芯錦衣衛",
+    "u": "https://tw.news.yahoo.com/%E9%81%AD%E5%81%9C%E6%AC%8A3%E5%B9%B4-%E8%95%AD%E6%95%AC%E5%9A%B4%E8%BD%9F%E8%80%83%E7%B4%80%E6%9C%83%E6%88%90%E5%BE%90%E5%B7%A7%E8%8A%AF%E9%8C%A6%E8%A1%A3%E8%A1%9B-014536149.html"
+   }
   },
   {
-   "kw": "s&p 500",
+   "kw": "金河成",
+   "traffic": "1000+",
+   "news": {
+    "t": "朗希「不希希」！因這原因提前退場 寫3個月以來最差紀錄",
+    "u": "https://tw.sports.yahoo.com/news/%E6%9C%97%E5%B8%8C%E3%80%8C%E4%B8%8D%E5%B8%8C%E5%B8%8C%E3%80%8D%EF%BC%81%E5%9B%A0%E9%80%99%E5%8E%9F%E5%9B%A0%E6%8F%90%E5%89%8D%E9%80%80%E5%A0%B4-%E5%AF%AB3%E5%80%8B%E6%9C%88%E4%BB%A5%E4%BE%86%E6%9C%80%E5%B7%AE%E7%B4%80%E9%8C%84-020207792.html"
+   }
+  },
+  {
+   "kw": "yayoi kusama",
    "traffic": "200+",
    "news": {
-    "t": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
-    "u": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html"
+    "t": "Yayoi Kusama: Japanese avant-garde artist dies aged 97",
+    "u": "https://www.bbc.com/news/articles/c3v4k0re3vwo"
+   }
+  },
+  {
+   "kw": "陳妍安",
+   "traffic": "200+",
+   "news": {
+    "t": "《百味人生》殺青傳喜訊！台8女星成「台大碩士」 喜曬證書宣布新身份",
+    "u": "https://tw.news.yahoo.com/%E7%99%BE%E5%91%B3%E4%BA%BA%E7%94%9F-%E6%AE%BA%E9%9D%92%E5%82%B3%E5%96%9C%E8%A8%8A-%E5%8F%B08%E5%A5%B3%E6%98%9F%E6%88%90-%E5%8F%B0%E5%A4%A7%E7%A2%A9%E5%A3%AB-%E5%96%9C%E6%9B%AC%E8%AD%89%E6%9B%B8%E5%AE%A3%E5%B8%83%E6%96%B0%E8%BA%AB%E4%BB%BD-004900951.html"
    }
   }
  ]
