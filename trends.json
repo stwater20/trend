@@ -1,78 +1,75 @@
 {
- "updated": "2026-08-30 09:11",
+ "updated": "2026-08-31 09:18",
  "items": [
   {
-   "kw": "平野 惠 一",
+   "kw": "3037",
    "traffic": "2000+",
-   "news": {
-    "t": "中職》新洋投確定831前不登板 平野惠一透露最新佈局",
-    "u": "https://sports.ltn.com.tw/news/breakingnews/5556458"
-   }
-  },
-  {
-   "kw": "被動元件",
-   "traffic": "100+",
    "news": null
   },
   {
-   "kw": "摩根士丹利",
+   "kw": "金像電",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "藥華藥",
    "traffic": "100+",
    "news": {
-    "t": "摩根士丹利示警中國記憶體崛起！2028年DRAM、NAND供給恐迎重大轉折",
-    "u": "https://news.cnyes.com/news/id/6591420"
+    "t": "藥證開牌、0050聽牌！費半重挫、台股挫咧等 藥華藥挾雙王牌逆勢迎資金大考驗",
+    "u": "https://tw.news.yahoo.com/%E8%97%A5%E8%AD%89%E9%96%8B%E7%89%8C-0050%E8%81%BD%E7%89%8C-%E8%B2%BB%E5%8D%8A%E9%87%8D%E6%8C%AB-%E5%8F%B0%E8%82%A1%E6%8C%AB%E5%92%A7%E7%AD%89-%E8%97%A5%E8%8F%AF%E8%97%A5%E6%8C%BE%E9%9B%99%E7%8E%8B%E7%89%8C%E9%80%86%E5%8B%A2%E8%BF%8E%E8%B3%87%E9%87%91%E5%A4%A7%E8%80%83%E9%A9%97-230000300.html"
    }
   },
   {
-   "kw": "廖致翔 醫師",
+   "kw": "景碩",
+   "traffic": "500+",
+   "news": {
+    "t": "景碩挑戰千元遇逆風　大股東擬處分1.6萬張",
+    "u": "https://finance.ettoday.net/news/3227573"
+   }
+  },
+  {
+   "kw": "沙德爾",
+   "traffic": "1000+",
+   "news": {
+    "t": "沙德爾颱風將復活？朝台灣海峽前進 吳聖宇：是否發布颱風警報待觀察",
+    "u": "https://udn.com/news/story/7266/9723770"
+   }
+  },
+  {
+   "kw": "新興",
    "traffic": "200+",
+   "news": {
+    "t": "キオクシア、サムスン、SKハイニックスの急落でKOSPIは3%急落、日経平均は6万5000円大台に接近",
+    "u": "https://www.tradingkey.com/jp/analysis/stocks/more/262140429-japan-south-korea-stocks-kospi-nikkei-softbank-skhynix-samsung-kioxia-fed-warsh-tradingkey"
+   }
+  },
+  {
+   "kw": "周子瑜",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "行事曆",
+   "traffic": "200+",
+   "news": {
+    "t": "今天開學！網曝「全台怨氣最重的一天」 這群人全笑了- 生活",
+    "u": "https://news.ltn.com.tw/news/life/breakingnews/5557574"
+   }
+  },
+  {
+   "kw": "升息",
+   "traffic": "500+",
+   "news": {
+    "t": "【盤前】Fed鷹聲成元凶費半狂殺！台指夜盤跌457點 台股連漲恐踩煞車",
+    "u": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-fed%E9%B7%B9%E8%81%B2%E6%88%90%E5%85%83%E5%87%B6%E8%B2%BB%E5%8D%8A%E7%8B%82%E6%AE%BA-%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E8%B7%8C457%E9%BB%9E-%E5%8F%B0%E8%82%A1%E9%80%A3%E6%BC%B2%E6%81%90%E8%B8%A9%E7%85%9E%E8%BB%8A-221300400.html"
+   }
+  },
+  {
+   "kw": "台中榮總",
+   "traffic": "100+",
    "news": {
     "t": "中榮「廠商開刀」案延燒…晨會火爆對罵錄音網瘋傳 主管嗆：網紅醫為何沒事？",
     "u": "https://udn.com/news/story/7266/9722037"
-   }
-  },
-  {
-   "kw": "磷化銦",
-   "traffic": "200+",
-   "news": {
-    "t": "IET：磷化銦訂單強勁",
-    "u": "https://money.udn.com/money/story/11074/9718549"
-   }
-  },
-  {
-   "kw": "蘇巧慧",
-   "traffic": "200+",
-   "news": {
-    "t": "李四川：藍白合新北絕不變蘇巧慧：民調贏不嘲諷輸不攻擊| 地方",
-    "u": "https://www.cna.com.tw/news/aloc/202608290192.aspx"
-   }
-  },
-  {
-   "kw": "台北捷运",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "金慧成",
-   "traffic": "200+",
-   "news": {
-    "t": "等不到上大聯盟機會 南韓金慧成季後恐成交易籌碼",
-    "u": "https://tw.sports.yahoo.com/news/%E7%AD%89%E4%B8%8D%E5%88%B0%E4%B8%8A%E5%A4%A7%E8%81%AF%E7%9B%9F%E6%A9%9F%E6%9C%83-%E5%8D%97%E9%9F%93%E9%87%91%E6%85%A7%E6%88%90%E5%AD%A3%E5%BE%8C%E6%81%90%E6%88%90%E4%BA%A4%E6%98%93%E7%B1%8C%E7%A2%BC-071311982.html"
-   }
-  },
-  {
-   "kw": "李灝宇",
-   "traffic": "2000+",
-   "news": {
-    "t": "MLB》李灝宇再寫旅美台將新紀錄！9下選到關鍵保送 助老虎氣走衛冕軍",
-    "u": "https://tw.sports.yahoo.com/news/mlb-%E6%9D%8E%E7%81%9D%E5%AE%87%E5%86%8D%E5%AF%AB%E6%97%85%E7%BE%8E%E5%8F%B0%E5%B0%87%E6%96%B0%E7%B4%80%E9%8C%84-9%E4%B8%8B%E9%81%B8%E5%88%B0%E9%97%9C%E9%8D%B5%E4%BF%9D%E9%80%81-%E5%8A%A9%E8%80%81%E8%99%8E%E6%B0%A3%E8%B5%B0%E8%A1%9B%E5%86%95%E8%BB%8D-003355753.html"
-   }
-  },
-  {
-   "kw": "經濟日報",
-   "traffic": "100+",
-   "news": {
-    "t": "深挖人口報告》2027年高等教育斷崖 2050年照護地獄",
-    "u": "https://ec.ltn.com.tw/article/breakingnews/5556483"
    }
   }
  ]
