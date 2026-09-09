@@ -1,67 +1,82 @@
 {
- "updated": "2026-09-08 09:04",
+ "updated": "2026-09-09 09:08",
  "items": [
   {
-   "kw": "漢翔",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "瑞昱",
+   "kw": "流感疫苗",
    "traffic": "500+",
    "news": {
-    "t": "台灣半導體升級拜工研院之賜 賴清德：布局前瞻技術促新創合作",
-    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%8D%87%E7%B4%9A%E6%8B%9C%E5%B7%A5%E7%A0%94%E9%99%A2%E4%B9%8B%E8%B3%9C-%E8%B3%B4%E6%B8%85%E5%BE%B7-%E5%B8%83%E5%B1%80%E5%89%8D%E7%9E%BB%E6%8A%80%E8%A1%93%E4%BF%83%E6%96%B0%E5%89%B5%E5%90%88%E4%BD%9C-083055297.html"
+    "t": "早安世界》流感進入流行期新增105重症、19死亡雙創本季新高| 生活",
+    "u": "https://www.cna.com.tw/news/ahel/202609095001.aspx"
    }
   },
   {
-   "kw": "大韓 航空 黃金 獵犬",
+   "kw": "潔西卡·佩古拉",
    "traffic": "200+",
    "news": {
-    "t": "「死掉的是我孩子」愛犬搭機成冰冷遺體 大韓航空終於回應",
-    "u": "https://news.ebc.net.tw/news/world/570205"
+    "t": "美网首轮比赛中，佩古拉击败鲁塞",
+    "u": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%EF%BC%8C%E4%BD%A9%E5%8F%A4%E6%8B%89%E5%87%BB%E8%B4%A5%E9%B2%81%E5%A1%9E"
    }
   },
   {
-   "kw": "蔣萬安身世",
+   "kw": "openai",
    "traffic": "100+",
    "news": {
-    "t": "再炒蔣萬安身世話題！郭禮伯之子表態「願意驗DNA」",
-    "u": "https://www.chinatimes.com/realtimenews/20260908001123-260407"
+    "t": "On the Navier–Stokes Millennium Prize Problem",
+    "u": "https://openai.com/index/navier-stokes-solution/"
    }
   },
   {
-   "kw": "空氣品質",
+   "kw": "殷悅",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "交通部觀光署",
    "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "中鋼",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "水庫",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "華邦電子",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "金融",
-   "traffic": "500+",
    "news": {
-    "t": "智启无界，行见无限｜招银浦江数字金融生态大会成功举办",
-    "u": "https://cj.sina.cn/articles/view/5993531560/1653e08a802701ojk0?froms=ggmp"
+    "t": "赴陸未登錄要罰…旅遊業者反彈 觀光署改口",
+    "u": "https://udn.com/news/story/7331/9742678"
    }
   },
   {
-   "kw": "岳東華",
+   "kw": "thứ hạng của real madrid gặp inter milan",
+   "traffic": "100+",
+   "news": {
+    "t": "5 dấu ấn Real 2-1 Inter: Ngày lịch sử của Mbappe; Mourinho cao tay",
+    "u": "https://yeuthethao.net.vn/5-dau-an-real-2-1-inter-ngay-lich-su-cua-mbappe-mourinho-cao-tay-d894178.html"
+   }
+  },
+  {
+   "kw": "us open",
    "traffic": "200+",
-   "news": null
+   "news": {
+    "t": "Tiafoe completes epic comeback to break Michelsen’s heart at US Open",
+    "u": "https://www.theguardian.com/sport/2026/sep/08/frances-tiafoe-alex-michelsen-us-open-quarter-final"
+   }
+  },
+  {
+   "kw": "thứ hạng của f.c. porto gặp man city",
+   "traffic": "100+",
+   "news": {
+    "t": "Video bóng đá Porto - Man City: Cú đúp Haaland, Enzo ghi dấu ấn (Cúp C1)",
+    "u": "https://www.24h.com.vn/bong-da/video-bong-da-porto-man-city-cu-dup-haaland-enzo-ghi-dau-an-cup-c1-c48a1793142.html"
+   }
+  },
+  {
+   "kw": "champions league",
+   "traffic": "100+",
+   "news": {
+    "t": "Haaland nets double as Man City begin Champions League with win at Porto - report and ratings",
+    "u": "https://www.bbc.com/sport/football/live/cr86xj0yd7y2t"
+   }
+  },
+  {
+   "kw": "溫度",
+   "traffic": "100+",
+   "news": {
+    "t": "首波東北季風要來了！又有新颱風接力？全台變天「雨下最猛」曝",
+    "u": "https://tw.news.yahoo.com/%E9%A6%96%E6%B3%A2%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E8%A6%81%E4%BE%86%E4%BA%86-%E5%8F%88%E6%9C%89%E6%96%B0%E9%A2%B1%E9%A2%A8%E6%8E%A5%E5%8A%9B-%E5%85%A8%E5%8F%B0%E8%AE%8A%E5%A4%A9-%E9%9B%A8%E4%B8%8B%E6%9C%80%E7%8C%9B-%E6%9B%9D-080800376.html"
+   }
   }
  ]
 }
