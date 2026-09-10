@@ -1,81 +1,69 @@
 {
- "updated": "2026-09-09 09:08",
+ "updated": "2026-09-10 08:56",
  "items": [
   {
-   "kw": "流感疫苗",
-   "traffic": "500+",
-   "news": {
-    "t": "早安世界》流感進入流行期新增105重症、19死亡雙創本季新高| 生活",
-    "u": "https://www.cna.com.tw/news/ahel/202609095001.aspx"
-   }
-  },
-  {
-   "kw": "潔西卡·佩古拉",
-   "traffic": "200+",
-   "news": {
-    "t": "美网首轮比赛中，佩古拉击败鲁塞",
-    "u": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%EF%BC%8C%E4%BD%A9%E5%8F%A4%E6%8B%89%E5%87%BB%E8%B4%A5%E9%B2%81%E5%A1%9E"
-   }
-  },
-  {
-   "kw": "openai",
+   "kw": "nfl",
    "traffic": "100+",
    "news": {
-    "t": "On the Navier–Stokes Millennium Prize Problem",
-    "u": "https://openai.com/index/navier-stokes-solution/"
+    "t": "Rams used player ‘guinea pigs’ to help craft their Australia travel plan",
+    "u": "https://www.latimes.com/sports/rams/story/2026-09-08/rams-player-guinea-pigs-australia-plan-49ers"
    }
   },
   {
-   "kw": "殷悅",
+   "kw": "智庫",
+   "traffic": "1000+",
+   "news": null
+  },
+  {
+   "kw": "3376",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "探針卡",
+   "traffic": "100+",
+   "news": {
+    "t": "抽中1張爽賺263萬、報酬率逾117%！財經專家喊「中獎全捐」 網一看門檻哀號：沒那個本",
+    "u": "https://tw.stock.yahoo.com/news/%E6%8A%BD%E4%B8%AD1%E5%BC%B5%E7%88%BD%E8%B3%BA263%E8%90%AC-%E5%A0%B1%E9%85%AC%E7%8E%87%E9%80%BE117-%E8%B2%A1%E7%B6%93%E5%B0%88%E5%AE%B6%E5%96%8A-%E4%B8%AD%E7%8D%8E%E5%85%A8%E6%8D%90-%E7%B6%B2-222000497.html"
+   }
+  },
+  {
+   "kw": "亞歷山大·茲維列夫",
+   "traffic": "200+",
+   "news": {
+    "t": "2026 US Open Day 11: Prediction for Zverev vs. van de Zandschulp",
+    "u": "https://www.usopen.org/en_US/news/articles/2026-09-08/2026_us_open_day_11_prediction_for_zverev_vs_van_de_zandschulp.html"
+   }
+  },
+  {
+   "kw": "馬妞",
+   "traffic": "100+",
+   "news": {
+    "t": "59歲馬妞罹12種疾病曝驚悚症狀！下台「瞬間失明」 8年還債2千萬：剩不到200萬",
+    "u": "https://tw.news.yahoo.com/59%E6%AD%B2%E9%A6%AC%E5%A6%9E%E7%BD%B912%E7%A8%AE%E7%96%BE%E7%97%85%E6%9B%9D%E9%A9%9A%E6%82%9A%E7%97%87%E7%8B%80-%E4%B8%8B%E5%8F%B0-%E7%9E%AC%E9%96%93%E5%A4%B1%E6%98%8E-8%E5%B9%B4%E9%82%84%E5%82%B52%E5%8D%83%E8%90%AC-%E5%89%A9%E4%B8%8D%E5%88%B0200%E8%90%AC-104600969.html"
+   }
+  },
+  {
+   "kw": "長鑫存儲",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "充電 樁",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "新日興",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "交通部觀光署",
+   "kw": "李姃垠",
    "traffic": "100+",
    "news": {
-    "t": "赴陸未登錄要罰…旅遊業者反彈 觀光署改口",
-    "u": "https://udn.com/news/story/7331/9742678"
-   }
-  },
-  {
-   "kw": "thứ hạng của real madrid gặp inter milan",
-   "traffic": "100+",
-   "news": {
-    "t": "5 dấu ấn Real 2-1 Inter: Ngày lịch sử của Mbappe; Mourinho cao tay",
-    "u": "https://yeuthethao.net.vn/5-dau-an-real-2-1-inter-ngay-lich-su-cua-mbappe-mourinho-cao-tay-d894178.html"
-   }
-  },
-  {
-   "kw": "us open",
-   "traffic": "200+",
-   "news": {
-    "t": "Tiafoe completes epic comeback to break Michelsen’s heart at US Open",
-    "u": "https://www.theguardian.com/sport/2026/sep/08/frances-tiafoe-alex-michelsen-us-open-quarter-final"
-   }
-  },
-  {
-   "kw": "thứ hạng của f.c. porto gặp man city",
-   "traffic": "100+",
-   "news": {
-    "t": "Video bóng đá Porto - Man City: Cú đúp Haaland, Enzo ghi dấu ấn (Cúp C1)",
-    "u": "https://www.24h.com.vn/bong-da/video-bong-da-porto-man-city-cu-dup-haaland-enzo-ghi-dau-an-cup-c1-c48a1793142.html"
-   }
-  },
-  {
-   "kw": "champions league",
-   "traffic": "100+",
-   "news": {
-    "t": "Haaland nets double as Man City begin Champions League with win at Porto - report and ratings",
-    "u": "https://www.bbc.com/sport/football/live/cr86xj0yd7y2t"
-   }
-  },
-  {
-   "kw": "溫度",
-   "traffic": "100+",
-   "news": {
-    "t": "首波東北季風要來了！又有新颱風接力？全台變天「雨下最猛」曝",
-    "u": "https://tw.news.yahoo.com/%E9%A6%96%E6%B3%A2%E6%9D%B1%E5%8C%97%E5%AD%A3%E9%A2%A8%E8%A6%81%E4%BE%86%E4%BA%86-%E5%8F%88%E6%9C%89%E6%96%B0%E9%A2%B1%E9%A2%A8%E6%8E%A5%E5%8A%9B-%E5%85%A8%E5%8F%B0%E8%AE%8A%E5%A4%A9-%E9%9B%A8%E4%B8%8B%E6%9C%80%E7%8C%9B-%E6%9B%9D-080800376.html"
+    "t": "爆欠5千萬巨債！資深女星「賣醬油、外送飲料」花13年償還 近況曝",
+    "u": "https://tw.news.yahoo.com/%E7%88%86%E6%AC%A05%E5%8D%83%E8%90%AC%E5%B7%A8%E5%82%B5-%E8%B3%87%E6%B7%B1%E5%A5%B3%E6%98%9F-%E8%B3%A3%E9%86%AC%E6%B2%B9-%E5%A4%96%E9%80%81%E9%A3%B2%E6%96%99-%E8%8A%B113%E5%B9%B4%E5%84%9F%E9%82%84-104800975.html"
    }
   }
  ]
