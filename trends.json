@@ -1,69 +1,81 @@
 {
- "updated": "2026-09-10 08:56",
+ "updated": "2026-09-11 08:53",
  "items": [
   {
-   "kw": "nfl",
-   "traffic": "100+",
-   "news": {
-    "t": "Rams used player ‘guinea pigs’ to help craft their Australia travel plan",
-    "u": "https://www.latimes.com/sports/rams/story/2026-09-08/rams-player-guinea-pigs-australia-plan-49ers"
-   }
-  },
-  {
-   "kw": "智庫",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "3376",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "探針卡",
-   "traffic": "100+",
-   "news": {
-    "t": "抽中1張爽賺263萬、報酬率逾117%！財經專家喊「中獎全捐」 網一看門檻哀號：沒那個本",
-    "u": "https://tw.stock.yahoo.com/news/%E6%8A%BD%E4%B8%AD1%E5%BC%B5%E7%88%BD%E8%B3%BA263%E8%90%AC-%E5%A0%B1%E9%85%AC%E7%8E%87%E9%80%BE117-%E8%B2%A1%E7%B6%93%E5%B0%88%E5%AE%B6%E5%96%8A-%E4%B8%AD%E7%8D%8E%E5%85%A8%E6%8D%90-%E7%B6%B2-222000497.html"
-   }
-  },
-  {
-   "kw": "亞歷山大·茲維列夫",
-   "traffic": "200+",
-   "news": {
-    "t": "2026 US Open Day 11: Prediction for Zverev vs. van de Zandschulp",
-    "u": "https://www.usopen.org/en_US/news/articles/2026-09-08/2026_us_open_day_11_prediction_for_zverev_vs_van_de_zandschulp.html"
-   }
-  },
-  {
-   "kw": "馬妞",
-   "traffic": "100+",
-   "news": {
-    "t": "59歲馬妞罹12種疾病曝驚悚症狀！下台「瞬間失明」 8年還債2千萬：剩不到200萬",
-    "u": "https://tw.news.yahoo.com/59%E6%AD%B2%E9%A6%AC%E5%A6%9E%E7%BD%B912%E7%A8%AE%E7%96%BE%E7%97%85%E6%9B%9D%E9%A9%9A%E6%82%9A%E7%97%87%E7%8B%80-%E4%B8%8B%E5%8F%B0-%E7%9E%AC%E9%96%93%E5%A4%B1%E6%98%8E-8%E5%B9%B4%E9%82%84%E5%82%B52%E5%8D%83%E8%90%AC-%E5%89%A9%E4%B8%8D%E5%88%B0200%E8%90%AC-104600969.html"
-   }
-  },
-  {
-   "kw": "長鑫存儲",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "充電 樁",
+   "kw": "日股",
    "traffic": "500+",
-   "news": null
+   "news": {
+    "t": "日股抗跌性增強：企業獲利多元化減輕匯率依賴 但中東戰火仍拖累日經指數",
+    "u": "https://tw.stock.yahoo.com/news/%E6%97%A5%E8%82%A1%E6%8A%97%E8%B7%8C%E6%80%A7%E5%A2%9E%E5%BC%B7-%E4%BC%81%E6%A5%AD%E7%8D%B2%E5%88%A9%E5%A4%9A%E5%85%83%E5%8C%96%E6%B8%9B%E8%BC%95%E5%8C%AF%E7%8E%87%E4%BE%9D%E8%B3%B4-%E4%BD%86%E4%B8%AD%E6%9D%B1%E6%88%B0%E7%81%AB%E4%BB%8D%E6%8B%96%E7%B4%AF%E6%97%A5%E7%B6%93%E6%8C%87%E6%95%B8-113044603.html"
+   }
   },
   {
-   "kw": "新日興",
-   "traffic": "200+",
-   "news": null
+   "kw": "林記糕餅舖",
+   "traffic": "500+",
+   "news": {
+    "t": "名店被點名比較！這家蛋黃酥黑馬殺出 網友一句「比不二坊好吃」掀戰",
+    "u": "https://tw.news.yahoo.com/%E5%90%8D%E5%BA%97%E8%A2%AB%E9%BB%9E%E5%90%8D%E6%AF%94%E8%BC%83-%E9%80%99%E5%AE%B6%E8%9B%8B%E9%BB%83%E9%85%A5%E9%BB%91%E9%A6%AC%E6%AE%BA%E5%87%BA-%E7%B6%B2%E5%8F%8B-%E5%8F%A5-%E6%AF%94%E4%B8%8D%E4%BA%8C%E5%9D%8A%E5%A5%BD%E5%90%83-092400679.html"
+   }
   },
   {
-   "kw": "李姃垠",
+   "kw": "蘿莉塔老公",
    "traffic": "100+",
    "news": {
-    "t": "爆欠5千萬巨債！資深女星「賣醬油、外送飲料」花13年償還 近況曝",
-    "u": "https://tw.news.yahoo.com/%E7%88%86%E6%AC%A05%E5%8D%83%E8%90%AC%E5%B7%A8%E5%82%B5-%E8%B3%87%E6%B7%B1%E5%A5%B3%E6%98%9F-%E8%B3%A3%E9%86%AC%E6%B2%B9-%E5%A4%96%E9%80%81%E9%A3%B2%E6%96%99-%E8%8A%B113%E5%B9%B4%E5%84%9F%E9%82%84-104800975.html"
+    "t": "蘿莉塔結婚3年沒見過公婆！老公職業狂變擁多隻手機 小S聽完喊：快報警",
+    "u": "https://tw.news.yahoo.com/%E8%98%BF%E8%8E%89%E5%A1%94%E7%B5%90%E5%A9%9A3%E5%B9%B4%E6%B2%92%E8%A6%8B%E9%81%8E%E5%85%AC%E5%A9%86-%E8%80%81%E5%85%AC%E8%81%B7%E6%A5%AD%E7%8B%82%E8%AE%8A%E6%93%81%E5%A4%9A%E9%9A%BB%E6%89%8B%E6%A9%9F-%E5%B0%8Fs%E8%81%BD%E5%AE%8C%E5%96%8A-%E5%BF%AB%E5%A0%B1%E8%AD%A6-224841487.html"
+   }
+  },
+  {
+   "kw": "杜鵑颱風",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "us open",
+   "traffic": "100+",
+   "news": {
+    "t": "Aryan Sabalenka’s Fiancé Georgios Frangulis Reveals Superstition at US Open",
+    "u": "https://sports.yahoo.com/articles/aryan-sabalenka-fianc-georgios-frangulis-182541448.html"
+   }
+  },
+  {
+   "kw": "友達股價",
+   "traffic": "200+",
+   "news": {
+    "t": "友達股價重返30元有多扯？EPS從猛賺6.4元掉到剩0.5元蔡明翰示警「3大風險」：不宜長抱- 上市櫃",
+    "u": "https://wantrich.chinatimes.com/news/20260910900276-420101"
+   }
+  },
+  {
+   "kw": "潔西卡·佩古拉",
+   "traffic": "200+",
+   "news": {
+    "t": "美網》父親身價118億美元 美女將搭私人飛機比賽",
+    "u": "https://www.chinatimes.com/realtimenews/20260909002914-260403"
+   }
+  },
+  {
+   "kw": "美国国债",
+   "traffic": "100+",
+   "news": {
+    "t": "美财政部超50亿长债回购落地未达上限目标，美债抛售难挡，10年期收益率逼近5%",
+    "u": "https://wallstreetcn.com/articles/3781515"
+   }
+  },
+  {
+   "kw": "ios 18",
+   "traffic": "200+",
+   "news": {
+    "t": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+    "u": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/"
+   }
+  },
+  {
+   "kw": "熱帶 擾動",
+   "traffic": "2000+",
+   "news": {
+    "t": "氣溫跌到1字頭！首波東北季風報到 周五起北、東半部濕答答",
+    "u": "https://globalnewstv.com.tw/202609/237613/"
    }
   }
  ]
