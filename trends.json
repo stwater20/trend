@@ -1,79 +1,79 @@
 {
- "updated": "2026-09-12 08:59",
+ "updated": "2026-09-13 08:46",
  "items": [
   {
-   "kw": "夜 衝 武 嶺",
-   "traffic": "500+",
+   "kw": "博通",
+   "traffic": "100+",
+   "news": {
+    "t": "小型雲端商恐被踢出局！博通VMware新制遭歐盟反壟斷緊盯",
+    "u": "https://m.cnyes.com/news/id/6604767"
+   }
+  },
+  {
+   "kw": "股價",
+   "traffic": "200+",
+   "news": {
+    "t": "買台積電！估值低、營收成長更強 美媒：報酬率更勝蘋果",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5572103"
+   }
+  },
+  {
+   "kw": "生活成本",
+   "traffic": "100+",
+   "news": {
+    "t": "年薪130萬搬到鄉下低成本生活 36歲男僅1年「逃回都市」崩潰真相曝",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5571950"
+   }
+  },
+  {
+   "kw": "rybakina",
+   "traffic": "200+",
+   "news": {
+    "t": "History-maker Elena Rybakina captures PIF WTA World No.1 singles ranking",
+    "u": "https://www.wtatennis.com/news/4574290/history-maker-elena-rybakina-captures-pif-wta-world-no1-singles-ranking"
+   }
+  },
+  {
+   "kw": "real madrid đấu với rayo",
+   "traffic": "100+",
+   "news": {
+    "t": "Video bóng đá Real Madrid - Rayo Vallecano: Cú đúp Mbappe, hiệp 1 tưng bừng (La Liga)",
+    "u": "https://www.24h.com.vn/bong-da/video-bong-da-real-madrid-rayo-vallecano-ket-lieu-ngay-trong-hiep-1-la-liga-c48a1794291.html"
+   }
+  },
+  {
+   "kw": "飛彈",
+   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "ios",
-   "traffic": "100+",
-   "news": {
-    "t": "Apple iOS 27 release date: When you can download it",
-    "u": "https://mashable.com/tech/apple-ios-27-release-date-when-to-download"
-   }
-  },
-  {
-   "kw": "學校",
+   "kw": "凌志nx",
    "traffic": "200+",
    "news": {
-    "t": "少子化持續衝擊！5所老牌學校宣告退場",
-    "u": "https://news.ebc.net.tw/news/world/570841"
-   }
-  },
-  {
-   "kw": "運彩",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "綠鬣蜥",
-   "traffic": "100+",
-   "news": {
-    "t": "屏東最強「綠鬣蜥獵人」換人！8個月領走131萬超商禮券",
-    "u": "https://news.ltn.com.tw/news/life/breakingnews/5571132"
-   }
-  },
-  {
-   "kw": "蒋友柏",
-   "traffic": "100+",
-   "news": {
-    "t": "昔為蔣友柏棄星途！前妻林姮怡「驚人背景」曝光 15年婚姻最後對簿公堂",
-    "u": "https://tw.news.yahoo.com/%E6%98%94%E7%82%BA%E8%94%A3%E5%8F%8B%E6%9F%8F%E6%A3%84%E6%98%9F%E9%80%94-%E5%89%8D%E5%A6%BB%E6%9E%97%E5%A7%AE%E6%80%A1-%E9%A9%9A%E4%BA%BA%E8%83%8C%E6%99%AF-%E6%9B%9D%E5%85%89-15%E5%B9%B4%E5%A9%9A%E5%A7%BB%E6%9C%80%E5%BE%8C%E5%B0%8D%E7%B0%BF%E5%85%AC%E5%A0%82-230216296.html"
-   }
-  },
-  {
-   "kw": "大樂透開獎",
-   "traffic": "5000+",
-   "news": {
-    "t": "大樂透貳獎開出1注 今彩539八百萬頭獎開出2注",
-    "u": "https://news.ttv.com.tw/news/11509110004100W"
-   }
-  },
-  {
-   "kw": "美網",
-   "traffic": "2000+",
-   "news": {
-    "t": "美網》Zverev直落三進冠軍戰 目標希望美國夢不成真",
-    "u": "https://tw.sports.yahoo.com/news/%E7%BE%8E%E7%B6%B2-zverev%E7%9B%B4%E8%90%BD%E4%B8%89%E9%80%B2%E5%86%A0%E8%BB%8D%E6%88%B0-%E7%9B%AE%E6%A8%99%E5%B8%8C%E6%9C%9B%E7%BE%8E%E5%9C%8B%E5%A4%A2%E4%B8%8D%E6%88%90%E7%9C%9F-235451399.html"
-   }
-  },
-  {
-   "kw": "概念股",
-   "traffic": "200+",
-   "news": {
-    "t": "從基礎耗材到製程挑戰 AI元件帶動錫膏高值化",
-    "u": "https://www.digitimes.com.tw/research/report/?cnlid=3&v=20260911-278&n=1"
+    "t": "Lexus「新型Premium SUV」全球首度公開！採用「12.3吋」全數位儀表＆新世代「Arene OS」！Spindle Grille也全面「翻新」，進化為「先進內裝＆運動化車頭」！大幅改款的「新型NX」備受矚目！",
+    "u": "https://www.carnews.com/feature_story/newcar/785603"
    }
   },
   {
    "kw": "us open 2026",
    "traffic": "100+",
    "news": {
-    "t": "U.S. Open",
-    "u": "https://www.reutersconnect.com/item/us-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOUIxRVlFMUw"
+    "t": "Alexander Zverev advances to second US Open men's singles final",
+    "u": "https://www.usopen.org/en_US/news/articles/2026-09-11/alexander_zverev_advances_to_second_us_open_mens_singles_final.html"
    }
+  },
+  {
+   "kw": "us open",
+   "traffic": "500+",
+   "news": {
+    "t": "US Open 2026 final LIVE: Elena Rybakina beats Aryna Sabalenka for title - scores, radio & live text updates",
+    "u": "https://www.bbc.com/sport/tennis/live/ckgd2jp4pxvt"
+   }
+  },
+  {
+   "kw": "空氣品質",
+   "traffic": "100+",
+   "news": null
   }
  ]
 }
