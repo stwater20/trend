@@ -1,84 +1,72 @@
 {
- "updated": "2026-09-17 09:15",
+ "updated": "2026-09-18 09:10",
  "items": [
   {
-   "kw": "日本股市",
-   "traffic": "500+",
-   "news": {
-    "t": "日本超低利率時代加速落幕！日銀周五料升息至31年高點",
-    "u": "https://news.cnyes.com/news/id/6608249"
-   }
-  },
-  {
-   "kw": "徐新洋",
-   "traffic": "100+",
-   "news": {
-    "t": "徐新洋股票慘賠多次睡公園，自封「少年股神」被爸爸徐乃麟罵慘了，幽默「搬回家了」",
-    "u": "https://tw.news.yahoo.com/%E5%BE%90%E6%96%B0%E6%B4%8B%E8%82%A1%E7%A5%A8%E6%85%98%E8%B3%A0%E5%A4%9A%E6%AC%A1%E7%9D%A1%E5%85%AC%E5%9C%92-%E8%87%AA%E5%B0%81-%E5%B0%91%E5%B9%B4%E8%82%A1%E7%A5%9E-%E8%A2%AB%E7%88%B8%E7%88%B8%E5%BE%90%E4%B9%83%E9%BA%9F%E7%BD%B5%E6%85%98%E4%BA%86-%E5%B9%BD%E9%BB%98-212810945.html"
-   }
-  },
-  {
-   "kw": "日股",
-   "traffic": "200+",
-   "news": {
-    "t": "外資減碼日股、賣超額\"破兆\"；大買日本中長債- 新聞",
-    "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=e7b1a51b-1005-416a-9610-9faeaa58d757"
-   }
-  },
-  {
-   "kw": "寬宏",
+   "kw": "營建股",
    "traffic": "5000+",
    "news": {
-    "t": "BIGBANG高雄演唱會！寬宏搶票最全攻略 會員註冊、事前準備、搶票SOP、購票頁面一次看",
-    "u": "https://tw.news.yahoo.com/bigbang%E9%AB%98%E9%9B%84%E6%BC%94%E5%94%B1%E6%9C%83%E5%AF%AC%E5%AE%8F%E6%90%B6%E7%A5%A8%E6%9C%80%E5%85%A8%E6%94%BB%E7%95%A5%EF%BC%81%E6%9C%83%E5%93%A1%E8%A8%BB%E5%86%8A%E3%80%81%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E3%80%81%E6%90%B6%E7%A5%A8sop%E3%80%81%E8%B3%BC%E7%A5%A8%E9%A0%81%E9%9D%A2%E4%B8%80%E6%AC%A1%E7%9C%8B-045554403.html"
+    "t": "美升息1碼…我央行利率連10凍 楊金龍「走自己的路」",
+    "u": "https://tw.news.yahoo.com/%E7%BE%8E%E5%8D%87%E6%81%AF1%E7%A2%BC-%E6%88%91%E5%A4%AE%E8%A1%8C%E5%88%A9%E7%8E%87%E9%80%A310%E5%87%8D-%E6%A5%8A%E9%87%91%E9%BE%8D-%E8%B5%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF-223830736.html"
    }
   },
   {
-   "kw": "一百分的形狀",
+   "kw": "宏致",
    "traffic": "100+",
    "news": {
-    "t": "「教師節引誘教師犯罪的恐怖片」教團轟教育部微電影踩紅線",
-    "u": "https://udn.com/news/story/6885/9757614"
+    "t": "AI雙引擎帶動，宏致邁入高成長期",
+    "u": "https://tw.stock.yahoo.com/news/ai%E9%9B%99%E5%BC%95%E6%93%8E%E5%B8%B6%E5%8B%95-%E5%AE%8F%E8%87%B4%E9%82%81%E5%85%A5%E9%AB%98%E6%88%90%E9%95%B7%E6%9C%9F-093000458.html"
    }
   },
   {
-   "kw": "央行升息",
+   "kw": "三菱outlander",
    "traffic": "100+",
    "news": {
-    "t": "Fed啟動升息！台幣連5貶央行17日攤牌「連10凍」出現2大變數- 日報",
-    "u": "https://www.ctee.com.tw/news/20260917700050-439901"
+    "t": "三菱新Outlander噪音送測！1.5T輕油電、前驅與四驅都有",
+    "u": "https://c.8891.com.tw/news/mitsubishi/outlander/22542"
    }
   },
   {
-   "kw": "紅人 對 道奇",
+   "kw": "中華電信 iphone18",
    "traffic": "100+",
-   "news": {
-    "t": "道奇封王戰突發狀況！史奈爾投19球退場　左髖緊繃本季已兩度掛彩",
-    "u": "https://www.nownews.com/news/6875699"
-   }
+   "news": null
   },
   {
-   "kw": "openai",
-   "traffic": "100+",
-   "news": {
-    "t": "Our framework for reporting model misalignment",
-    "u": "https://openai.com/index/model-misalignment-reporting-framework/"
-   }
-  },
-  {
-   "kw": "台灣升息",
+   "kw": "股份",
    "traffic": "200+",
    "news": {
-    "t": "Fed 升息1碼點燃市場 台灣央行升半碼呼聲升高",
-    "u": "https://udn.com/news/story/7239/9759781"
+    "t": "敏芯股份：融资净偿还132.94万元，融资余额2.58亿元",
+    "u": "https://emwap.eastmoney.com/a/202609183877814926.html"
    }
   },
   {
-   "kw": "tlt",
-   "traffic": "100+",
+   "kw": "台61線",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "冼迪琦",
+   "traffic": "200+",
    "news": {
-    "t": "Why Leave Cash in a Money Market Fund When SGOV Pays About the Same and Skips State Income Tax?",
-    "u": "https://247wallst.com/investing/etf/2026/09/15/why-leave-cash-in-a-money-market-fund-when-sgov-pays-about-the-same-and-skips-state-income-tax/"
+    "t": "大巨蛋應援出事！PS女孩冼迪琦慘遭界外球「砸中頭部」 驚悚畫面曝光",
+    "u": "https://tw.sports.yahoo.com/news/%E5%A4%A7%E5%B7%A8%E8%9B%8B%E6%87%89%E6%8F%B4%E5%87%BA%E4%BA%8B-ps%E5%A5%B3%E5%AD%A9%E5%86%BC%E8%BF%AA%E7%90%A6%E6%85%98%E9%81%AD%E7%95%8C%E5%A4%96%E7%90%83-%E7%A0%B8%E4%B8%AD%E9%A0%AD%E9%83%A8-%E9%A9%9A%E6%82%9A%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-153200968.html"
+   }
+  },
+  {
+   "kw": "謝長廷",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "美債10年殖利率",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "mlb戰績",
+   "traffic": "200+",
+   "news": {
+    "t": "MLB Gameday: Giants 1, Cardinals 2 Final Score (09/14/2026)",
+    "u": "https://www.mlb.com/gameday/giants-vs-cardinals/2026/09/14/823006/final/box"
    }
   }
  ]
