@@ -1,72 +1,72 @@
 {
- "updated": "2026-09-19 09:05",
+ "updated": "2026-09-20 08:55",
  "items": [
   {
-   "kw": "總統府",
+   "kw": "x",
    "traffic": "100+",
    "news": {
-    "t": "賴清德發布總統令！",
-    "u": "https://news.ebc.net.tw/news/politics/571930"
+    "t": "The Nike KD 6 x Paris Saint-Germain Is Out Now",
+    "u": "https://www.si.com/fannation/sneakers/news/nike-kd-6-paris-saint-germain-out-now"
    }
   },
   {
-   "kw": "板球",
+   "kw": "中秋連假",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "蘭香如故",
    "traffic": "500+",
-   "news": {
-    "t": "中國「一球未投」就淘汰！女板球亞運8 強遇雨泡湯世界排名直接判孟加拉晉級",
-    "u": "https://www.storm.mg/lifestyle/11165712"
-   }
+   "news": null
   },
   {
-   "kw": "秋老虎",
-   "traffic": "200+",
-   "news": {
-    "t": "周末晴朗高溫紫外線強 吳德榮：杜鵑將大迴轉 日本關東明後天豪雨威脅",
-    "u": "https://udn.com/news/story/7266/9764153"
-   }
-  },
-  {
-   "kw": "資料中心",
+   "kw": "鄭朝方",
    "traffic": "100+",
    "news": null
   },
   {
-   "kw": "klasemen brentford vs chelsea",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "林憲銘",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "新聞",
-   "traffic": "500+",
-   "news": {
-    "t": "そりゃ若者は離れるわ…沖縄県知事選で玉城デニー氏が大敗した納得の理由（ダイヤモンド・オンライン）",
-    "u": "https://news.yahoo.co.jp/articles/5350a161ceccbb3f24797d61e089e8ef7cb4c889"
-   }
-  },
-  {
-   "kw": "鋐寶科技股份有限公司",
-   "traffic": "200+",
-   "news": {
-    "t": "快訊／仁寶重訊宣布！每股18.5元100%收購鋐寶科技 年底完成轉換、啟動下市",
-    "u": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E4%BB%81%E5%AF%B6%E9%87%8D%E8%A8%8A%E5%AE%A3%E5%B8%83-%E6%AF%8F%E8%82%A118-5%E5%85%83100-%E6%94%B6%E8%B3%BC%E9%8B%90%E5%AF%B6%E7%A7%91%E6%8A%80-131500545.html"
-   }
-  },
-  {
-   "kw": "股災",
+   "kw": "六合彩",
    "traffic": "1000+",
+   "news": {
+    "t": "六合彩結果 ｜9月19日再開「生日組合」 頭二三獎都有人中：馬上核對中獎號碼",
+    "u": "https://www.businesstimes.com.hk/articles/343117/%E5%85%AD%E5%90%88%E5%BD%A9%E7%B5%90%E6%9E%9C-9%E6%9C%8819%E6%97%A5-%E7%94%9F%E6%97%A5%E7%B5%84%E5%90%88-%E9%A0%AD%E4%BA%8C%E4%B8%89%E7%8D%8E-%E6%A0%B8%E5%B0%8D%E8%99%9F%E7%A2%BC/"
+   }
+  },
+  {
+   "kw": "中華職棒",
+   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "fubon angels",
-   "traffic": "200+",
+   "kw": "539",
+   "traffic": "5000+",
    "news": {
-    "t": "富邦悍將10週年限定 應援團新舊成員齊聚 (圖)",
-    "u": "https://tw.sports.yahoo.com/news/%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%8710%E9%80%B1%E5%B9%B4%E9%99%90%E5%AE%9A-%E6%87%89%E6%8F%B4%E5%9C%98%E6%96%B0%E8%88%8A%E6%88%90%E5%93%A1%E9%BD%8A%E8%81%9A-%E5%9C%96-142826389.html"
+    "t": "今彩539八百萬頭獎送出3組！ 獎落這3縣市",
+    "u": "https://news.ttv.com.tw/news/11509190002400W"
+   }
+  },
+  {
+   "kw": "cpbl",
+   "traffic": "500+",
+   "news": {
+    "t": "中職／呼籲比賽行為互相尊重 林岳平談勝騎士滾球：我們不是香蕉聯盟",
+    "u": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7-%E5%91%BC%E7%B1%B2%E6%AF%94%E8%B3%BD%E8%A1%8C%E7%82%BA%E4%BA%92%E7%9B%B8%E5%B0%8A%E9%87%8D-%E6%9E%97%E5%B2%B3%E5%B9%B3%E8%AB%87%E5%8B%9D%E9%A8%8E%E5%A3%AB%E6%BB%BE%E7%90%83-%E6%88%91%E5%80%91%E4%B8%8D%E6%98%AF%E9%A6%99%E8%95%89%E8%81%AF%E7%9B%9F-072200444.html"
+   }
+  },
+  {
+   "kw": "名古屋亞運",
+   "traffic": "100+",
+   "news": {
+    "t": "亞運／開幕式110人大團出場 中華隊拚首金",
+    "u": "https://udn.com/news/story/124981/9765413"
+   }
+  },
+  {
+   "kw": "xsmb",
+   "traffic": "2000+",
+   "news": {
+    "t": "Kết quả xổ số miền Bắc hôm nay ngày 19/9/2026",
+    "u": "https://antt.nguoiduatin.vn/ket-qua-xo-so-mien-bac-hom-nay-ngay-19-9-2026-205260918222542149.htm"
    }
   }
  ]
