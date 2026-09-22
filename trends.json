@@ -1,72 +1,63 @@
 {
- "updated": "2026-09-21 08:57",
+ "updated": "2026-09-22 09:32",
  "items": [
   {
-   "kw": "張皓崴",
-   "traffic": "100+",
-   "news": {
-    "t": "陳鏞基引退》最後一個打席嗆司中落淚 陳鏞基生氣自己沒冷靜",
-    "u": "https://tw.sports.yahoo.com/news/%E9%99%B3%E9%8F%9E%E5%9F%BA%E5%BC%95%E9%80%80-%E6%9C%80%E5%BE%8C-%E5%80%8B%E6%89%93%E5%B8%AD%E5%97%86%E5%8F%B8%E4%B8%AD%E8%90%BD%E6%B7%9A-%E9%99%B3%E9%8F%9E%E5%9F%BA%E7%94%9F%E6%B0%A3%E8%87%AA%E5%B7%B1%E6%B2%92%E5%86%B7%E9%9D%9C-143808943.html"
-   }
-  },
-  {
-   "kw": "天氣預報",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "921",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "燒肉smile",
-   "traffic": "200+",
-   "news": {
-    "t": "三重燒肉店大火9人跳下逃生 顧客驚嚇：差點跟已火化的阿公過中秋節",
-    "u": "https://udn.com/news/story/7320/9767133"
-   }
-  },
-  {
-   "kw": "西甲",
-   "traffic": "200+",
-   "news": {
-    "t": "赫伊森送红点！十人皇马1-2马竞跌第3 小西蒙尼造点+助攻戴维破门",
-    "u": "https://news.zhibo8.com/zuqiu/2026-09-21/match2075464date2026vnative.htm"
-   }
-  },
-  {
-   "kw": "鄭朝方",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "jimmy fallon",
-   "traffic": "200+",
-   "news": {
-    "t": "Jimmy Fallon thought he was dying after Chicago's Polar Plunge",
-    "u": "https://www.nbcchicago.com/video/news/local/jimmy-fallon-thought-he-was-dying-after-chicagos-polar-plunge/3990681/"
-   }
-  },
-  {
-   "kw": "油價",
-   "traffic": "200+",
-   "news": {
-    "t": "《油價》期待衝突減緩 NYMEX原油下跌1.6%",
-    "u": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9-%E6%9C%9F%E5%BE%85%E8%A1%9D%E7%AA%81%E6%B8%9B%E7%B7%A9-nymex%E5%8E%9F%E6%B2%B9%E4%B8%8B%E8%B7%8C1-6-223700789.html"
-   }
-  },
-  {
-   "kw": "中華職棒",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "cpbl",
+   "kw": "2330",
    "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "寬宏",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "3711",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "3481",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "台股",
+   "traffic": "1000+",
+   "news": null
+  },
+  {
+   "kw": "2454",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "遊戲",
+   "traffic": "100+",
    "news": {
-    "t": "做伙拚．台鋼週報(week26)－開啟練兵大門，從大起大落中尋找未來解答 - 中職 - 棒球",
-    "u": "https://www.sportsv.net/articles/128627"
+    "t": "NFL Week 2: Takeaways, questions, fantasy spin for Sunday games",
+    "u": "https://www.espn.com/nfl/story/_/id/49951393/week-2-sunday-games-takeaways-questions-2026"
+   }
+  },
+  {
+   "kw": "0056配息",
+   "traffic": "200+",
+   "news": {
+    "t": "165萬股民注意！0056規模衝破8000億元創新高",
+    "u": "https://tw.stock.yahoo.com/news/165%E8%90%AC%E8%82%A1%E6%B0%91%E6%B3%A8%E6%84%8F%EF%BC%810056%E8%A6%8F%E6%A8%A1%E8%A1%9D%E7%A0%B48000%E5%84%84%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98-030037931.html"
+   }
+  },
+  {
+   "kw": "922無車日",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "美光股價",
+   "traffic": "200+",
+   "news": {
+    "t": "美光財報倒數 輝達、SK海力士釋記憶體市場強烈訊號",
+    "u": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%85%89%E8%B2%A1%E5%A0%B1%E5%80%92%E6%95%B8-%E8%BC%9D%E9%81%94-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E9%87%8B%E8%A8%98%E6%86%B6%E9%AB%94%E5%B8%82%E5%A0%B4%E5%BC%B7%E7%83%88%E8%A8%8A%E8%99%9F-050005058.html"
    }
   }
  ]
