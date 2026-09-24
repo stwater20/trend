@@ -1,78 +1,72 @@
 {
- "updated": "2026-09-23 09:22",
+ "updated": "2026-09-24 09:16",
  "items": [
   {
-   "kw": "聯電股價",
+   "kw": "國民年金",
+   "traffic": "1000+",
+   "news": {
+    "t": "政府發錢迎接中秋連假！一早「3筆津貼」連發",
+    "u": "https://tw.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%99%BC%E9%8C%A2%E8%BF%8E%E6%8E%A5%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87-%E6%97%A9-3%E7%AD%86%E6%B4%A5%E8%B2%BC-%E9%80%A3%E7%99%BC-231326050.html"
+   }
+  },
+  {
+   "kw": "星巴克買一送一",
+   "traffic": "1000+",
+   "news": {
+    "t": "今天全台開賣！星巴克×Snoopy聯名登場，南瓜史努比杯、玩偶實拍與9款周邊售價一次看",
+    "u": "https://www.elle.com/tw/life/hot-news/g73828940/starbucks-snoopy-922/"
+   }
+  },
+  {
+   "kw": "教師節",
    "traffic": "500+",
-   "news": {
-    "t": "聯電7月跌停買進26張！102.5元抱到156.5元獲利飆132萬 網驚呼：賺爛了",
-    "u": "https://tw.stock.yahoo.com/news/%E8%81%AF%E9%9B%BB7%E6%9C%88%E8%B7%8C%E5%81%9C%E8%B2%B7%E9%80%B226%E5%BC%B5-102-5%E5%85%83%E6%8A%B1%E5%88%B0156-5%E5%85%83%E7%8D%B2%E5%88%A9%E9%A3%86132%E8%90%AC-%E7%B6%B2%E9%A9%9A%E5%91%BC-063000744.html"
-   }
-  },
-  {
-   "kw": "友達股價",
-   "traffic": "2000+",
-   "news": {
-    "t": "友達連2漲停！爆115萬張天量創16年新高　達人示警：別只看故事",
-    "u": "https://finance.ettoday.net/news/3242346"
-   }
-  },
-  {
-   "kw": "日本股市",
-   "traffic": "500+",
-   "news": {
-    "t": "《日股》日本股市週一至週三因連假休市- 新聞",
-    "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=1b522bcd-d8a8-4655-95cd-021fa2fb769e"
-   }
-  },
-  {
-   "kw": "opus 5.5",
-   "traffic": "200+",
-   "news": {
-    "t": "Introducing GPT-6 Sol and Luna",
-    "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna/"
-   }
-  },
-  {
-   "kw": "每 股 盈餘",
-   "traffic": "200+",
-   "news": {
-    "t": "WOR 渥新頓- 沃辛頓企業第一季非GAAP每股盈餘0.82美元超預期，營收達3.439億美元創新高！ - 股市爆料同學會",
-    "u": "https://www.cmoney.tw/forum/article/184900244"
-   }
-  },
-  {
-   "kw": "颱風",
-   "traffic": "5000+",
    "news": null
   },
   {
-   "kw": "社工江羿潔",
-   "traffic": "500+",
-   "news": {
-    "t": "影／北市府前社工督導監守自盜 侵吞長者1200萬安養金 聲押禁見",
-    "u": "https://udn.com/news/story/7321/9771775"
-   }
+   "kw": "司機",
+   "traffic": "100+",
+   "news": null
   },
   {
-   "kw": "記憶 體",
+   "kw": "川習會",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "三立新聞網",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "價格",
-   "traffic": "200+",
-   "news": {
-    "t": "記憶體漲無可漲？宏碁陳俊聖：大陸產能龐大、價格較殺",
-    "u": "https://money.udn.com/money/story/5612/9764832"
-   }
-  },
-  {
-   "kw": "澎湖縣長",
+   "kw": "潘健成",
    "traffic": "100+",
    "news": {
-    "t": "震撼！澎湖縣長參選人疑送帽涉賄本尊10萬元交保回應了- 政治",
-    "u": "https://www.chinatimes.com/realtimenews/20260923001031-260407"
+    "t": "潘健成真心話1》「路邊攤憑什麼？」 群聯創辦人靠一招闖AI",
+    "u": "https://tw.news.yahoo.com/%E6%BD%98%E5%81%A5%E6%88%90%E7%9C%9F%E5%BF%83%E8%A9%B11-%E8%B7%AF%E9%82%8A%E6%94%A4%E6%86%91%E4%BB%80%E9%BA%BC-%E7%BE%A4%E8%81%AF%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9D%A0-%E6%8B%9B%E9%97%96ai-220000099.html"
+   }
+  },
+  {
+   "kw": "道瓊指數",
+   "traffic": "1000+",
+   "news": {
+    "t": "【盤前】台股續攻拉警報！美債殖利率衝19年高點 台指夜盤挫403點",
+    "u": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E5%8F%B0%E8%82%A1%E7%BA%8C%E6%94%BB%E6%8B%89%E8%AD%A6%E5%A0%B1-%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%A1%9D19%E5%B9%B4%E9%AB%98%E9%BB%9E-%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E6%8C%AB403%E9%BB%9E-222000797.html"
+   }
+  },
+  {
+   "kw": "生肖",
+   "traffic": "1000+",
+   "news": {
+    "t": "今天秋分！別選錯人、壓錯錢 命理師點名「5星座」最旺",
+    "u": "https://udn.com/news/story/7268/9772274"
+   }
+  },
+  {
+   "kw": "桌球",
+   "traffic": "1000+",
+   "news": {
+    "t": "亞運》中華隊桌球男團0比3不敵中國！連4屆亞運拿下銅牌",
+    "u": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A%E6%A1%8C%E7%90%83%E7%94%B7%E5%9C%980%E6%AF%943%E4%B8%8D%E6%95%B5%E4%B8%AD%E5%9C%8B%EF%BC%81%E9%80%A34%E5%B1%86%E4%BA%9E%E9%81%8B%E6%8B%BF%E4%B8%8B%E9%8A%85%E7%89%8C-124635594.html"
    }
   }
  ]
