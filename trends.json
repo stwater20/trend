@@ -1,72 +1,75 @@
 {
- "updated": "2026-09-24 09:16",
+ "updated": "2026-09-25 09:20",
  "items": [
   {
-   "kw": "國民年金",
-   "traffic": "1000+",
+   "kw": "中秋節 2026",
+   "traffic": "200+",
    "news": {
-    "t": "政府發錢迎接中秋連假！一早「3筆津貼」連發",
-    "u": "https://tw.news.yahoo.com/%E6%94%BF%E5%BA%9C%E7%99%BC%E9%8C%A2%E8%BF%8E%E6%8E%A5%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87-%E6%97%A9-3%E7%AD%86%E6%B4%A5%E8%B2%BC-%E9%80%A3%E7%99%BC-231326050.html"
+    "t": "オータムキャンプのモデルを通して、子どもたちにとって豊かな遊び場を創造する。",
+    "u": "https://www.vietnam.vn/ja/tao-san-choi-bo-ich-cho-tre-em-tu-mo-hinh-trai-thu"
    }
   },
   {
-   "kw": "星巴克買一送一",
-   "traffic": "1000+",
-   "news": {
-    "t": "今天全台開賣！星巴克×Snoopy聯名登場，南瓜史努比杯、玩偶實拍與9款周邊售價一次看",
-    "u": "https://www.elle.com/tw/life/hot-news/g73828940/starbucks-snoopy-922/"
-   }
-  },
-  {
-   "kw": "教師節",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "司機",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "川習會",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "三立新聞網",
+   "kw": "中秋佳節",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "潘健成",
+   "kw": "工業電腦",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "陳俊聖",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "聯發科技",
+   "traffic": "200+",
+   "news": {
+    "t": "歐系券商力挺！聯發科持Google TPU、特斯拉潛在合作題材獲喊7300元目標價「這檔IC載板廠」釋亮眼營收奪成交王",
+    "u": "https://tw.stock.yahoo.com/news/%E6%AD%90%E7%B3%BB%E5%88%B8%E5%95%86%E5%8A%9B%E6%8C%BA-%E8%81%AF%E7%99%BC%E7%A7%91%E6%8C%81google-tpu-%E7%89%B9%E6%96%AF%E6%8B%89%E6%BD%9B%E5%9C%A8%E5%90%88%E4%BD%9C%E9%A1%8C%E6%9D%90%E7%8D%B2%E5%96%8A7300%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9-%E9%80%99%E6%AA%94ic%E8%BC%89%E6%9D%BF%E5%BB%A0-035000669.html"
+   }
+  },
+  {
+   "kw": "戰鬥機",
+   "traffic": "500+",
+   "news": {
+    "t": "地緣政治緊張推升原油期貨 Meta AI熱潮助攻亞洲股市",
+    "u": "https://tw.stock.yahoo.com/news/%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB%E7%B7%8A%E5%BC%B5%E6%8E%A8%E5%8D%87%E5%8E%9F%E6%B2%B9%E6%9C%9F%E8%B2%A8-meta-ai%E7%86%B1%E6%BD%AE%E5%8A%A9%E6%94%BB%E4%BA%9E%E6%B4%B2%E8%82%A1%E5%B8%82-070853667.html"
+   }
+  },
+  {
+   "kw": "高中 生",
+   "traffic": "2000+",
+   "news": {
+    "t": "17歲高中生遭刺頸最新病況 14歲少年抄刀2度衝突還原！自首原因曝",
+    "u": "https://tw.news.yahoo.com/17%E6%AD%B2%E9%AB%98%E4%B8%AD%E7%94%9F%E9%81%AD%E5%88%BA%E9%A0%B8%E6%9C%80%E6%96%B0%E7%97%85%E6%B3%81-14%E6%AD%B2%E5%B0%91%E5%B9%B4%E6%8A%84%E5%88%802%E5%BA%A6%E8%A1%9D%E7%AA%81%E9%82%84%E5%8E%9F-%E8%87%AA%E9%A6%96%E5%8E%9F%E5%9B%A0%E6%9B%9D-235625046.html"
+   }
+  },
+  {
+   "kw": "巴士",
    "traffic": "100+",
    "news": {
-    "t": "潘健成真心話1》「路邊攤憑什麼？」 群聯創辦人靠一招闖AI",
-    "u": "https://tw.news.yahoo.com/%E6%BD%98%E5%81%A5%E6%88%90%E7%9C%9F%E5%BF%83%E8%A9%B11-%E8%B7%AF%E9%82%8A%E6%94%A4%E6%86%91%E4%BB%80%E9%BA%BC-%E7%BE%A4%E8%81%AF%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9D%A0-%E6%8B%9B%E9%97%96ai-220000099.html"
+    "t": "南崁通勤交通瓶頸待解 市議員張桂綿促完善轉乘與醫療建設 - 社會新聞 - PChome Online 新聞",
+    "u": "https://news.pchome.com.tw/society/tcpttw/20260918/index-78973823310206334002.html"
    }
   },
   {
-   "kw": "道瓊指數",
-   "traffic": "1000+",
+   "kw": "tsm",
+   "traffic": "200+",
    "news": {
-    "t": "【盤前】台股續攻拉警報！美債殖利率衝19年高點 台指夜盤挫403點",
-    "u": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E5%8F%B0%E8%82%A1%E7%BA%8C%E6%94%BB%E6%8B%89%E8%AD%A6%E5%A0%B1-%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E8%A1%9D19%E5%B9%B4%E9%AB%98%E9%BB%9E-%E5%8F%B0%E6%8C%87%E5%A4%9C%E7%9B%A4%E6%8C%AB403%E9%BB%9E-222000797.html"
+    "t": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Down 1.2% - Here's What Happened",
+    "u": "https://www.marketbeat.com/instant-alerts/price-taiwan-semiconductor-manufacturing-nyse-tsm-stock-price-down-12-heres-what-happened-2026-09-23/"
    }
   },
   {
-   "kw": "生肖",
+   "kw": "中秋",
    "traffic": "1000+",
    "news": {
-    "t": "今天秋分！別選錯人、壓錯錢 命理師點名「5星座」最旺",
-    "u": "https://udn.com/news/story/7268/9772274"
-   }
-  },
-  {
-   "kw": "桌球",
-   "traffic": "1000+",
-   "news": {
-    "t": "亞運》中華隊桌球男團0比3不敵中國！連4屆亞運拿下銅牌",
-    "u": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E9%81%8B%E3%80%8B%E4%B8%AD%E8%8F%AF%E9%9A%8A%E6%A1%8C%E7%90%83%E7%94%B7%E5%9C%980%E6%AF%943%E4%B8%8D%E6%95%B5%E4%B8%AD%E5%9C%8B%EF%BC%81%E9%80%A34%E5%B1%86%E4%BA%9E%E9%81%8B%E6%8B%BF%E4%B8%8B%E9%8A%85%E7%89%8C-124635594.html"
+    "t": "颱風動態》颱風假？舒力基颱風最新路徑，北轉閃過台灣！中秋連假把握好天氣",
+    "u": "https://www.gvm.com.tw/article/133250"
    }
   }
  ]
