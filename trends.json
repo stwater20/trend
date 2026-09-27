@@ -1,69 +1,78 @@
 {
- "updated": "2026-09-26 09:23",
+ "updated": "2026-09-27 09:16",
  "items": [
   {
-   "kw": "阿部瑪利亞",
+   "kw": "google's birthday",
+   "traffic": "500+",
+   "news": {
+    "t": "Inside Google’s birthday bash at Bengaluru’s Ananta office: Techie shows themed treats, colourful decor | Trending",
+    "u": "https://www.hindustantimes.com/trending/inside-google-s-birthday-bash-at-bengaluru-s-ananta-office-techie-shows-themed-treats-colourful-decor-101790410033663.html"
+   }
+  },
+  {
+   "kw": "蘇姿丰",
+   "traffic": "200+",
+   "news": {
+    "t": "不是黃仁勳！幾乎每天榮耀加身 低調蘇媽成鋒頭最健CEO",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5587202"
+   }
+  },
+  {
+   "kw": "生肖",
+   "traffic": "500+",
+   "news": {
+    "t": "（2026/09/26）十二生肖運勢／屬牛財運不穩　屬豬獲得貴人金援",
+    "u": "https://www.nownews.com/news/6877683"
+   }
+  },
+  {
+   "kw": "安立奎·赫南德茲",
+   "traffic": "200+",
+   "news": {
+    "t": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
+    "u": "https://www.mlb.com/news/blake-snell-solid-in-final-regular-season-tuneup-following-groin-injury"
+   }
+  },
+  {
+   "kw": "輝達",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "退休金",
+   "traffic": "100+",
+   "news": {
+    "t": "退休金766萬全拿去投資！76歲退休主管慘痛下場曝光",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5586780"
+   }
+  },
+  {
+   "kw": "新聞",
    "traffic": "1000+",
    "news": {
-    "t": "恭喜！30歲阿部瑪莉亞震撼宣佈「閃婚當媽」新郎真實身份曝光了",
-    "u": "https://tw.news.yahoo.com/%E6%81%AD%E5%96%9C-30%E6%AD%B2%E9%98%BF%E9%83%A8%E7%91%AA%E8%8E%89%E4%BA%9E%E9%9C%87%E6%92%BC%E5%AE%A3%E4%BD%88-%E9%96%83%E5%A9%9A%E7%95%B6%E5%AA%BD-%E6%96%B0%E9%83%8E%E7%9C%9F%E5%AF%A6%E8%BA%AB%E4%BB%BD%E6%9B%9D%E5%85%89%E4%BA%86-005300696.html"
+    "t": "フィギュア女子、山田恵は4位 ジュニアGP、ジョージア大会",
+    "u": "https://www.hokkaido-np.co.jp/article/1377473/"
    }
   },
   {
-   "kw": "高雄市市长",
+   "kw": "咖啡",
    "traffic": "200+",
    "news": {
-    "t": "出席表揚績優宗教團體 陳其邁感謝宗教團體齊心公益 攜手打造低碳永續高雄",
-    "u": "https://www.kcg.gov.tw/CityNews_Detail1.aspx?n=3A379BB94CA5F12D&ss=00D35052C4B4CC8A"
+    "t": "Starbucks closing 7 Colorado stores this week as hundreds shutter nationwide",
+    "u": "https://www.9news.com/article/money/business/starbucks-closures-colorado/73-b3a08992-0ad9-4f90-9898-b3bb827a3fde"
    }
   },
   {
-   "kw": "債券",
-   "traffic": "100+",
+   "kw": "股災",
+   "traffic": "2000+",
    "news": null
   },
   {
-   "kw": "台積電",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "道瓊工業平均指數",
-   "traffic": "200+",
+   "kw": "風",
+   "traffic": "1000+",
    "news": {
-    "t": "星期二開盤要噴了？美股指數全收紅 台指期夜盤遇休市",
-    "u": "https://tw.stock.yahoo.com/news/%E6%98%9F%E6%9C%9F%E4%BA%8C%E9%96%8B%E7%9B%A4%E8%A6%81%E5%99%B4%E4%BA%86-%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B8%E5%85%A8%E6%94%B6%E7%B4%85-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%81%87%E4%BC%91%E5%B8%82-223922850.html"
-   }
-  },
-  {
-   "kw": "陳昭賢",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "運彩",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "蔡 阿 嘎",
-   "traffic": "500+",
-   "news": {
-    "t": "蔡阿嘎二伯消失3個月首露面！千人擠爆現場 被問爭議快步離場",
-    "u": "https://tw.news.yahoo.com/%E8%94%A1%E9%98%BF%E5%98%8E%E4%BA%8C%E4%BC%AF%E6%B6%88%E5%A4%B13%E5%80%8B%E6%9C%88%E9%A6%96%E9%9C%B2%E9%9D%A2-%E5%8D%83%E4%BA%BA%E6%93%A0%E7%88%86%E7%8F%BE%E5%A0%B4-%E8%A2%AB%E5%95%8F%E7%88%AD%E8%AD%B0%E5%BF%AB%E6%AD%A5%E9%9B%A2%E5%A0%B4-144621761.html"
-   }
-  },
-  {
-   "kw": "輝 達",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "孫",
-   "traffic": "200+",
-   "news": {
-    "t": "80歳祖母、中3の孫に「蝶のマークの服送ったよ」→届いたのは……　まさかのメーカーに「一周回って最高」「こりゃ息子さんも嬉しい」投稿者に話を聞いた（1/3） | ファッション ねとらぼ",
-    "u": "https://nlab.itmedia.co.jp/cont/articles/4024071/"
+    "t": "台風26号(2026年) - 日本気象協会 tenki.jp",
+    "u": "https://tenki.jp/bousai/typhoon/2626/"
    }
   }
  ]
