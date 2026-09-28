@@ -1,79 +1,73 @@
 {
- "updated": "2026-09-27 09:16",
+ "updated": "2026-09-28 09:30",
  "items": [
   {
-   "kw": "google's birthday",
-   "traffic": "500+",
-   "news": {
-    "t": "Inside Google’s birthday bash at Bengaluru’s Ananta office: Techie shows themed treats, colourful decor | Trending",
-    "u": "https://www.hindustantimes.com/trending/inside-google-s-birthday-bash-at-bengaluru-s-ananta-office-techie-shows-themed-treats-colourful-decor-101790410033663.html"
-   }
-  },
-  {
-   "kw": "蘇姿丰",
+   "kw": "光通訊",
    "traffic": "200+",
    "news": {
-    "t": "不是黃仁勳！幾乎每天榮耀加身 低調蘇媽成鋒頭最健CEO",
-    "u": "https://ec.ltn.com.tw/article/breakingnews/5587202"
+    "t": "光通訊類股霸榜Q3 台積護城河15檔",
+    "u": "https://tw.news.yahoo.com/%E5%85%89%E9%80%9A%E8%A8%8A%E9%A1%9E%E8%82%A1%E9%9C%B8%E6%A6%9Cq3-%E5%8F%B0%E7%A9%8D%E8%AD%B7%E5%9F%8E%E6%B2%B315%E6%AA%94-230500074.html"
    }
   },
   {
-   "kw": "生肖",
-   "traffic": "500+",
+   "kw": "台灣",
+   "traffic": "10000+",
    "news": {
-    "t": "（2026/09/26）十二生肖運勢／屬牛財運不穩　屬豬獲得貴人金援",
-    "u": "https://www.nownews.com/news/6877683"
+    "t": "亞運棒球》台灣王牌林昱珉8局10K無失分屠殺中國！ 韓媒熱議：如果投日本...",
+    "u": "https://sports.ltn.com.tw/news/breakingnews/5587617"
    }
   },
   {
-   "kw": "安立奎·赫南德茲",
-   "traffic": "200+",
-   "news": {
-    "t": "Snell shows he's ready to reprise role in LA's postseason rotation behemoth",
-    "u": "https://www.mlb.com/news/blake-snell-solid-in-final-regular-season-tuneup-following-groin-injury"
-   }
-  },
-  {
-   "kw": "輝達",
-   "traffic": "200+",
+   "kw": "公職",
+   "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "退休金",
+   "kw": "安芝儇",
    "traffic": "100+",
    "news": {
-    "t": "退休金766萬全拿去投資！76歲退休主管慘痛下場曝光",
-    "u": "https://ec.ltn.com.tw/article/breakingnews/5586780"
+    "t": "Wing Stars「鷹JOY」賽後驚喜不斷 同台黃小琥共舞〈現在那邊是幾點〉",
+    "u": "https://tw.sports.yahoo.com/news/wing-stars-%E9%B7%B9joy-%E8%B3%BD%E5%BE%8C%E9%A9%9A%E5%96%9C%E4%B8%8D%E6%96%B7-%E5%90%8C%E5%8F%B0%E9%BB%83%E5%B0%8F%E7%90%A5%E5%85%B1%E8%88%9E-054055197.html"
    }
   },
   {
-   "kw": "新聞",
-   "traffic": "1000+",
-   "news": {
-    "t": "フィギュア女子、山田恵は4位 ジュニアGP、ジョージア大会",
-    "u": "https://www.hokkaido-np.co.jp/article/1377473/"
-   }
-  },
-  {
-   "kw": "咖啡",
+   "kw": "klasemen tim nasional sepak bola norwegia vs portugal",
    "traffic": "200+",
    "news": {
-    "t": "Starbucks closing 7 Colorado stores this week as hundreds shutter nationwide",
-    "u": "https://www.9news.com/article/money/business/starbucks-closures-colorado/73-b3a08992-0ad9-4f90-9898-b3bb827a3fde"
+    "t": "Ronaldo tidak bermain dalam kemenangan Portugal atas Norwegia.",
+    "u": "https://www.vietnam.vn/id/ronaldo-khong-ra-san-trong-chien-thang-cua-bo-dao-nha-truoc-na-uy"
    }
   },
   {
-   "kw": "股災",
+   "kw": "寶 特 瓶",
+   "traffic": "500+",
+   "news": {
+    "t": "寶特瓶、牛奶瓶別急著丟！拿到這裡能換錢「現賺50元」，再享34折優惠，全聯/ 全家據點一次看",
+    "u": "https://www.storm.mg/lifestyle/11163718"
+   }
+  },
+  {
+   "kw": "友達",
+   "traffic": "500+",
+   "news": {
+    "t": "「友達に無視された…」わが子のSOSに親はどう動く？ 新学期にやりがちなNG行動と\"正しい見守り\"のヒント",
+    "u": "https://newscast.jp/smart/news/1520682"
+   }
+  },
+  {
+   "kw": "教師節",
    "traffic": "2000+",
    "news": null
   },
   {
-   "kw": "風",
-   "traffic": "1000+",
-   "news": {
-    "t": "台風26号(2026年) - 日本気象協会 tenki.jp",
-    "u": "https://tenki.jp/bousai/typhoon/2626/"
-   }
+   "kw": "臺北市長",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "東森新聞",
+   "traffic": "100+",
+   "news": null
   }
  ]
 }
