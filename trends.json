@@ -1,73 +1,70 @@
 {
- "updated": "2026-09-28 09:30",
+ "updated": "2026-09-29 10:32",
  "items": [
   {
-   "kw": "光通訊",
+   "kw": "京元電子",
    "traffic": "200+",
-   "news": {
-    "t": "光通訊類股霸榜Q3 台積護城河15檔",
-    "u": "https://tw.news.yahoo.com/%E5%85%89%E9%80%9A%E8%A8%8A%E9%A1%9E%E8%82%A1%E9%9C%B8%E6%A6%9Cq3-%E5%8F%B0%E7%A9%8D%E8%AD%B7%E5%9F%8E%E6%B2%B315%E6%AA%94-230500074.html"
-   }
-  },
-  {
-   "kw": "台灣",
-   "traffic": "10000+",
-   "news": {
-    "t": "亞運棒球》台灣王牌林昱珉8局10K無失分屠殺中國！ 韓媒熱議：如果投日本...",
-    "u": "https://sports.ltn.com.tw/news/breakingnews/5587617"
-   }
-  },
-  {
-   "kw": "公職",
-   "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "安芝儇",
-   "traffic": "100+",
-   "news": {
-    "t": "Wing Stars「鷹JOY」賽後驚喜不斷 同台黃小琥共舞〈現在那邊是幾點〉",
-    "u": "https://tw.sports.yahoo.com/news/wing-stars-%E9%B7%B9joy-%E8%B3%BD%E5%BE%8C%E9%A9%9A%E5%96%9C%E4%B8%8D%E6%96%B7-%E5%90%8C%E5%8F%B0%E9%BB%83%E5%B0%8F%E7%90%A5%E5%85%B1%E8%88%9E-054055197.html"
-   }
-  },
-  {
-   "kw": "klasemen tim nasional sepak bola norwegia vs portugal",
+   "kw": "華邦電股票",
    "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "聯發科",
+   "traffic": "1000+",
    "news": {
-    "t": "Ronaldo tidak bermain dalam kemenangan Portugal atas Norwegia.",
-    "u": "https://www.vietnam.vn/id/ronaldo-khong-ra-san-trong-chien-thang-cua-bo-dao-nha-truoc-na-uy"
+    "t": "快訊／聯發科失守5000元　台股跌逾180點",
+    "u": "https://finance.ettoday.net/news/3245557"
    }
   },
   {
-   "kw": "寶 特 瓶",
+   "kw": "0050",
+   "traffic": "5000+",
+   "news": null
+  },
+  {
+   "kw": "群創股票",
    "traffic": "500+",
    "news": {
-    "t": "寶特瓶、牛奶瓶別急著丟！拿到這裡能換錢「現賺50元」，再享34折優惠，全聯/ 全家據點一次看",
-    "u": "https://www.storm.mg/lifestyle/11163718"
+    "t": "熱門股》雙題材加持 友達外資大買超",
+    "u": "https://ec.ltn.com.tw/article/paper/1771693"
    }
   },
   {
-   "kw": "友達",
-   "traffic": "500+",
-   "news": {
-    "t": "「友達に無視された…」わが子のSOSに親はどう動く？ 新学期にやりがちなNG行動と\"正しい見守り\"のヒント",
-    "u": "https://newscast.jp/smart/news/1520682"
-   }
-  },
-  {
-   "kw": "教師節",
+   "kw": "2330",
    "traffic": "2000+",
    "news": null
   },
   {
-   "kw": "臺北市長",
-   "traffic": "200+",
+   "kw": "台股",
+   "traffic": "5000+",
+   "news": {
+    "t": "【Yahoo早盤】台股中秋連假後跌逾190點失守4萬8 分析師陳石輝：小跌小漲300點內",
+    "u": "https://tw.stock.yahoo.com/news/%E3%80%90yahoo%E6%97%A9%E7%9B%A4%E3%80%91%E5%8F%B0%E8%82%A1%E4%B8%AD%E7%A7%8B%E9%80%A3%E5%81%87%E5%BE%8C%E8%B7%8C%E9%80%BE190%E9%BB%9E%E5%A4%B1%E5%AE%884%E8%90%AC8-%E5%88%86%E6%9E%90%E5%B8%AB%E9%99%B3%E7%9F%B3%E8%BC%9D%EF%BC%9A%E5%B0%8F%E8%B7%8C%E5%B0%8F%E6%BC%B2300%E9%BB%9E%E5%85%A7-013430224.html"
+   }
+  },
+  {
+   "kw": "加權指數",
+   "traffic": "1000+",
+   "news": {
+    "t": "TWA00 加權指數- 川投顧傳有限制的鬆綁（別再演了-要比飛龍在天還要長壽劇了） - 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/184984565"
+   }
+  },
+  {
+   "kw": "大盤指數",
+   "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "東森新聞",
-   "traffic": "100+",
-   "news": null
+   "kw": "力積電股價",
+   "traffic": "1000+",
+   "news": {
+    "t": "6770 力積電 - 超強的。上去沒五分鐘馬上下來了🤣🤣🤪🤪 - 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/184987997"
+   }
   }
  ]
 }
