@@ -1,73 +1,70 @@
 {
- "updated": "2026-09-30 09:56",
+ "updated": "2026-10-01 09:57",
  "items": [
   {
-   "kw": "群創",
+   "kw": "chatgpt",
+   "traffic": "5000+",
+   "news": {
+    "t": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
+    "u": "https://finance.yahoo.com/technology/ai/articles/chatgpt-maker-wants-app-store-013825295.html"
+   }
+  },
+  {
+   "kw": "0056配息",
+   "traffic": "500+",
+   "news": {
+    "t": "0056暴配1.7元有可能？落後00878、00919，拚12％年化配息率「底氣在哪？」合理價、月領1萬成本曝光",
+    "u": "https://www.businesstoday.com.tw/article/category/183013/post/202609290022/"
+   }
+  },
+  {
+   "kw": "gemini 4",
+   "traffic": "200+",
+   "news": {
+    "t": "Gemini 4 Argon: our next era of frontier intelligence",
+    "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
+   }
+  },
+  {
+   "kw": "argentina vs bolivia",
+   "traffic": "500+",
+   "news": {
+    "t": "Scaloni yet to decide who will succeed Messi",
+    "u": "https://www.beinsports.com/en-nz/football/friendlies/articles/scaloni-yet-to-decide-who-will-succeed-messi-2026-09-30"
+   }
+  },
+  {
+   "kw": "晶圓代工",
+   "traffic": "100+",
+   "news": {
+    "t": "台積電變更強！晶圓代工2.0市占衝42％ 三星僅4％",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5591379"
+   }
+  },
+  {
+   "kw": "遊覽 車",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "尿",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "健康幣",
    "traffic": "2000+",
    "news": null
   },
   {
-   "kw": "金像電",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "墨西哥 對 秘魯",
-   "traffic": "200+",
-   "news": {
-    "t": "墨西哥对秘鲁预测：客队正在寻找扳回一城的机会。",
-    "u": "https://www.vietnam.vn/zh-cn/nhan-dinh-mexico-vs-peru-doi-khach-tim-duong-tro-lai"
-   }
-  },
-  {
-   "kw": "朱海君",
-   "traffic": "200+",
-   "news": {
-    "t": "獨／NONO朱海君屏東賣飲料？沈建豪全說了",
-    "u": "https://www.mirrormedia.mg/external/setn_1914686"
-   }
-  },
-  {
-   "kw": "席惟倫",
-   "traffic": "500+",
-   "news": {
-    "t": "桃花不斷1／席惟倫夜會「飛盤天菜」 警覺心爆棚上演諜報片",
-    "u": "https://tw.news.yahoo.com/%E6%A1%83%E8%8A%B1%E4%B8%8D%E6%96%B71-%E5%B8%AD%E6%83%9F%E5%80%AB%E5%A4%9C%E6%9C%83-%E9%A3%9B%E7%9B%A4%E5%A4%A9%E8%8F%9C-%E8%AD%A6%E8%A6%BA%E5%BF%83%E7%88%86%E6%A3%9A%E4%B8%8A%E6%BC%94%E8%AB%9C%E5%A0%B1%E7%89%87-220000863.html"
-   }
-  },
-  {
-   "kw": "健康幣",
+   "kw": "華邦電子",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "mlb",
-   "traffic": "1000+",
-   "news": {
-    "t": "Chicago Cubs @ San Diego Padres: Live game updates, stats, play-by-play",
-    "u": "https://sports.yahoo.com/mlb/chicago-cubs-san-diego-padres-460929125/"
-   }
-  },
-  {
-   "kw": "台指期夜盤",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "輝達股價",
-   "traffic": "200+",
-   "news": {
-    "t": "輝達為何砸4.7兆回購股票？專家看背後用意「這招真的不錯」：給了市場最缺的東西| 張大任| 新聞",
-    "u": "https://www.storm.mg/article/11168254"
-   }
-  },
-  {
-   "kw": "邱沁宜",
+   "kw": "晶 圆 代 工",
    "traffic": "500+",
-   "news": {
-    "t": "邱沁宜收「6900萬對帳單」！揭學生6年投資成果：算了三遍- 娛樂",
-    "u": "https://www.chinatimes.com/realtimenews/20260929004238-260404"
-   }
+   "news": null
   }
  ]
 }
