@@ -1,70 +1,73 @@
 {
- "updated": "2026-10-05 09:46",
+ "updated": "2026-10-06 10:50",
  "items": [
   {
-   "kw": "力積電",
-   "traffic": "2000+",
-   "news": null
-  },
-  {
-   "kw": "華新科",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "欣興",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "環球晶",
+   "kw": "vj·埃奇庫姆",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "台化股價",
-   "traffic": "200+",
+   "kw": "勒布朗·詹姆斯",
+   "traffic": "100+",
    "news": {
-    "t": "1326 台化- 台化爆量背後異動，外資買超能否延續漲勢？關鍵價位解析- 股市爆料同學會",
-    "u": "https://www.cmoney.tw/forum/article/185108482"
+    "t": "[流言板]美媒：勒布朗-詹姆斯目前有55%的人生是在NBA度过的",
+    "u": "https://bbs.hupu.com/642767972.html"
    }
   },
   {
-   "kw": "2330",
-   "traffic": "5000+",
+   "kw": "货币",
+   "traffic": "200+",
+   "news": {
+    "t": "CFTC发布加密货币监管规则，塞利格呼吁业界“在此发展”",
+    "u": "https://news.bitcoin.com/zh/regulation-and-legal/cftc-fa-bu-jia-mi-huo-bi-jian-guan-gui-ze-sai-li-ge-hu-yu-ye-jie-zai-ci-fa-zhan/"
+   }
+  },
+  {
+   "kw": "迪恩·韋德",
+   "traffic": "500+",
+   "news": {
+    "t": "‘Really tall’ Dean Wade is here to shoot the ball and help the Sixers defense",
+    "u": "https://www.inquirer.com/sixers/sixers-dean-wade-tyrese-maxey-lebron-james-vj-edgecombe-jaylen-brown-20260930.html"
+   }
+  },
+  {
+   "kw": "順報",
+   "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "台積電股價",
+   "kw": "台鐵",
    "traffic": "2000+",
    "news": {
-    "t": "台股Q4大戲台積電、大立光法說必考題、觀戰焦點一次掌握- 日報",
-    "u": "https://www.ctee.com.tw/news/20261005700042-439901"
+    "t": "快訊／上班族崩潰！台鐵7022次南港至汐止故障 列車大誤點塞爆",
+    "u": "https://news.tvbs.com.tw/life/4032084"
    }
   },
   {
-   "kw": "國巨",
-   "traffic": "2000+",
+   "kw": "金武烈",
+   "traffic": "200+",
    "news": {
-    "t": "國巨重返6字頭！巴逆逆進場「是時候相信哲哲了」曬單已全部成交 網友崩潰：一切都完了",
-    "u": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E9%87%8D%E8%BF%946%E5%AD%97%E9%A0%AD-%E5%B7%B4%E9%80%86%E9%80%86%E9%80%B2%E5%A0%B4-%E6%98%AF%E6%99%82%E5%80%99%E7%9B%B8%E4%BF%A1%E5%93%B2%E5%93%B2%E4%BA%86-%E6%9B%AC%E5%96%AE%E5%B7%B2%E5%85%A8%E9%83%A8%E6%88%90%E4%BA%A4-%E7%B6%B2%E5%8F%8B%E5%B4%A9%E6%BD%B0-052500401.html"
+    "t": "金武烈《鐵拳教育》輸了！近3年最好看韓劇TOP10冠軍是它：看一集哭一集、評價超越《背著善宰跑》 封神",
+    "u": "https://www.storm.mg/lifestyle/11169864"
    }
   },
   {
-   "kw": "國巨股價",
+   "kw": "klasemen tim nasional sepak bola prancis vs tim nasional sepak bola belgia",
+   "traffic": "100+",
+   "news": {
+    "t": "+~+(SCTV",
+    "u": "https://clarin.com/filer/cromanon-sin-detenidos/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=nations-france-begume-siaran-langsung-78089539"
+   }
+  },
+  {
+   "kw": "鴻海",
+   "traffic": "1000+",
+   "news": null
+  },
+  {
+   "kw": "009803",
    "traffic": "500+",
-   "news": {
-    "t": "國巨連2日狂漲逾10%！他曝「漏跟哲哲直播先下車」超崩潰 釣出本尊親回應",
-    "u": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E5%B7%A8%E9%80%A32%E6%97%A5%E7%8B%82%E6%BC%B2%E9%80%BE10-%E4%BB%96%E6%9B%9D-%E6%BC%8F%E8%B7%9F%E5%93%B2%E5%93%B2%E7%9B%B4%E6%92%AD%E5%85%88%E4%B8%8B%E8%BB%8A-%E8%B6%85%E5%B4%A9%E6%BD%B0-%E9%87%A3%E5%87%BA%E6%9C%AC%E5%B0%8A%E8%A6%AA%E5%9B%9E%E6%87%89-082500527.html"
-   }
-  },
-  {
-   "kw": "強茂",
-   "traffic": "500+",
-   "news": {
-    "t": "供需續有利賣方，強茂雙主軸驅動營運步步高- 新聞",
-    "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=5a9bc73b-8fc8-49dc-ab4b-c2c05a57115b"
-   }
+   "news": null
   }
  ]
 }
