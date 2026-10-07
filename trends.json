@@ -1,73 +1,76 @@
 {
- "updated": "2026-10-06 10:50",
+ "updated": "2026-10-07 10:11",
  "items": [
   {
-   "kw": "vj·埃奇庫姆",
-   "traffic": "200+",
+   "kw": "00927股價",
+   "traffic": "100+",
    "news": null
   },
   {
-   "kw": "勒布朗·詹姆斯",
+   "kw": "昇達科",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "禾伸堂股價",
    "traffic": "100+",
    "news": {
-    "t": "[流言板]美媒：勒布朗-詹姆斯目前有55%的人生是在NBA度过的",
-    "u": "https://bbs.hupu.com/642767972.html"
+    "t": "前三季十大飆股 出列",
+    "u": "https://money.udn.com/money/story/5607/9786592"
    }
   },
   {
-   "kw": "货币",
-   "traffic": "200+",
-   "news": {
-    "t": "CFTC发布加密货币监管规则，塞利格呼吁业界“在此发展”",
-    "u": "https://news.bitcoin.com/zh/regulation-and-legal/cftc-fa-bu-jia-mi-huo-bi-jian-guan-gui-ze-sai-li-ge-hu-yu-ye-jie-zai-ci-fa-zhan/"
-   }
-  },
-  {
-   "kw": "迪恩·韋德",
-   "traffic": "500+",
-   "news": {
-    "t": "‘Really tall’ Dean Wade is here to shoot the ball and help the Sixers defense",
-    "u": "https://www.inquirer.com/sixers/sixers-dean-wade-tyrese-maxey-lebron-james-vj-edgecombe-jaylen-brown-20260930.html"
-   }
-  },
-  {
-   "kw": "順報",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "台鐵",
-   "traffic": "2000+",
-   "news": {
-    "t": "快訊／上班族崩潰！台鐵7022次南港至汐止故障 列車大誤點塞爆",
-    "u": "https://news.tvbs.com.tw/life/4032084"
-   }
-  },
-  {
-   "kw": "金武烈",
-   "traffic": "200+",
-   "news": {
-    "t": "金武烈《鐵拳教育》輸了！近3年最好看韓劇TOP10冠軍是它：看一集哭一集、評價超越《背著善宰跑》 封神",
-    "u": "https://www.storm.mg/lifestyle/11169864"
-   }
-  },
-  {
-   "kw": "klasemen tim nasional sepak bola prancis vs tim nasional sepak bola belgia",
+   "kw": "全新",
    "traffic": "100+",
    "news": {
-    "t": "+~+(SCTV",
-    "u": "https://clarin.com/filer/cromanon-sin-detenidos/?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2R1a2Vucmd5MTQ3LmdpdGh1Yi5pby9uZXdzLyIvPjwva3JwYW5vPg==&id=nations-france-begume-siaran-langsung-78089539"
+    "t": "【快報】全新Jaguar Type 01全球首發！破千匹純電GT正式現身，台灣預售價10:30公布！",
+    "u": "https://www.mobile01.com/topicdetail.php?f=603&t=7305700"
    }
   },
   {
-   "kw": "鴻海",
-   "traffic": "1000+",
+   "kw": "力成股價",
+   "traffic": "200+",
+   "news": {
+    "t": "力成拚FOPLP量產，矽光子DDR5接力出貨",
+    "u": "https://www.ttv.com.tw/finance/view/10202606095496C008BFB22D46B7AE277822F5511469EB09/587"
+   }
+  },
+  {
+   "kw": "0056 配息日",
+   "traffic": "100+",
+   "news": {
+    "t": "0056、00878、00919…自組「高股息月月配」真的划算？所得稅、二代健保可能比你想的更有感- 理財",
+    "u": "https://www.ctee.com.tw/news/20261006700802-430403"
+   }
+  },
+  {
+   "kw": "2383",
+   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "009803",
+   "kw": "頎邦",
+   "traffic": "100+",
+   "news": {
+    "t": "6147 頎邦 - 準備拉午盤了喔！📈📈📈📈📈 - 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/185157551"
+   }
+  },
+  {
+   "kw": "緯穎股價",
    "traffic": "500+",
-   "news": null
+   "news": {
+    "t": "6669 緯穎- 要堅持到明年這個時候、才是緯穎營收獲利豐收、股價創高的最好時... - 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/185171283"
+   }
+  },
+  {
+   "kw": "南亞",
+   "traffic": "1000+",
+   "news": {
+    "t": "南亞科DRAM合約價 再漲 粉碎紅鏈擴產壓抑報價魔咒",
+    "u": "https://money.udn.com/money/story/5612/9799134"
+   }
   }
  ]
 }
