@@ -1,75 +1,81 @@
 {
- "updated": "2026-10-07 10:11",
+ "updated": "2026-10-08 10:37",
  "items": [
   {
-   "kw": "00927股價",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "昇達科",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "禾伸堂股價",
-   "traffic": "100+",
-   "news": {
-    "t": "前三季十大飆股 出列",
-    "u": "https://money.udn.com/money/story/5607/9786592"
-   }
-  },
-  {
-   "kw": "全新",
-   "traffic": "100+",
-   "news": {
-    "t": "【快報】全新Jaguar Type 01全球首發！破千匹純電GT正式現身，台灣預售價10:30公布！",
-    "u": "https://www.mobile01.com/topicdetail.php?f=603&t=7305700"
-   }
-  },
-  {
-   "kw": "力成股價",
+   "kw": "普發一萬",
    "traffic": "200+",
    "news": {
-    "t": "力成拚FOPLP量產，矽光子DDR5接力出貨",
-    "u": "https://www.ttv.com.tw/finance/view/10202606095496C008BFB22D46B7AE277822F5511469EB09/587"
+    "t": "全民普發現金1萬！財政部：若總預算明年1/5前三讀 最快1/26首批入帳",
+    "u": "https://tw.news.yahoo.com/%E5%85%A8%E6%B0%91%E6%99%AE%E7%99%BC%E7%8F%BE%E9%87%911%E8%90%AC-%E8%B2%A1%E6%94%BF%E9%83%A8-%E8%8B%A5%E7%B8%BD%E9%A0%90%E7%AE%97%E6%98%8E%E5%B9%B41-5%E5%89%8D%E4%B8%89%E8%AE%80-%E6%9C%80%E5%BF%AB1-012300994.html"
    }
   },
   {
-   "kw": "0056 配息日",
-   "traffic": "100+",
-   "news": {
-    "t": "0056、00878、00919…自組「高股息月月配」真的划算？所得稅、二代健保可能比你想的更有感- 理財",
-    "u": "https://www.ctee.com.tw/news/20261006700802-430403"
-   }
-  },
-  {
-   "kw": "2383",
+   "kw": "6147",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "頎邦",
-   "traffic": "100+",
+   "kw": "3624",
+   "traffic": "200+",
    "news": {
-    "t": "6147 頎邦 - 準備拉午盤了喔！📈📈📈📈📈 - 股市爆料同學會",
-    "u": "https://www.cmoney.tw/forum/article/185157551"
+    "t": "【09:53 即時新聞】光頡(3624) 亮燈漲停，被動元件族群成盤中焦點",
+    "u": "https://cmnews.com.tw/article/cmoneyairesearcher-0ee294e2-c2bb-11f1-9c57-ee91c2f4d7c9"
    }
   },
   {
-   "kw": "緯穎股價",
-   "traffic": "500+",
+   "kw": "台虹",
+   "traffic": "200+",
    "news": {
-    "t": "6669 緯穎- 要堅持到明年這個時候、才是緯穎營收獲利豐收、股價創高的最好時... - 股市爆料同學會",
-    "u": "https://www.cmoney.tw/forum/article/185171283"
+    "t": "8039 台虹- 🌈真美 - 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/185234082"
    }
   },
   {
-   "kw": "南亞",
+   "kw": "台玻股價",
    "traffic": "1000+",
    "news": {
-    "t": "南亞科DRAM合約價 再漲 粉碎紅鏈擴產壓抑報價魔咒",
-    "u": "https://money.udn.com/money/story/5612/9799134"
+    "t": "PCB相關族群輪動 下一棒轉戰玻纖布？台玻放量漲停",
+    "u": "https://udn.com/news/story/7251/9800879"
+   }
+  },
+  {
+   "kw": "台積電法說會",
+   "traffic": "100+",
+   "news": {
+    "t": "台積電連衝2天煞車！盤中跌25元 「2590梯次」會套多久分析師解答",
+    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%80%A3%E8%A1%9D2%E5%A4%A9%E7%85%9E%E8%BB%8A%EF%BC%81%E7%9B%A4%E4%B8%AD%E8%B7%8C25%E5%85%83-%E3%80%8C2590%E6%A2%AF%E6%AC%A1%E3%80%8D%E6%9C%83%E5%A5%97%E5%A4%9A%E4%B9%85%E5%88%86%E6%9E%90%E5%B8%AB%E8%A7%A3%E7%AD%94-012544073.html"
+   }
+  },
+  {
+   "kw": "南亞股價",
+   "traffic": "500+",
+   "news": {
+    "t": "一小時吸金230億元！南亞登322元還能追嗎？分析師教戰",
+    "u": "https://tw.stock.yahoo.com/news/%E4%B8%80%E5%B0%8F%E6%99%82%E5%90%B8%E9%87%91230%E5%84%84%E5%85%83%EF%BC%81%E5%8D%97%E4%BA%9E%E7%99%BB322%E5%85%83%E9%82%84%E8%83%BD%E8%BF%BD%E5%97%8E%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%E6%95%99%E6%88%B0-023507492.html"
+   }
+  },
+  {
+   "kw": "威剛抽籤",
+   "traffic": "1000+",
+   "news": {
+    "t": "威剛現增逾31萬筆搶抽！凍資921億元　明開獎中籤率0.54%",
+    "u": "https://finance.ettoday.net/news/3250458"
+   }
+  },
+  {
+   "kw": "台化",
+   "traffic": "100+",
+   "news": {
+    "t": "重製未來RECODE 2050時尚秀演繹臺灣紡織創新與永續| 樂活情報",
+    "u": "https://howlife.cna.com.tw/life/20261007s008.aspx"
+   }
+  },
+  {
+   "kw": "台亞",
+   "traffic": "200+",
+   "news": {
+    "t": "營收速報 - 台亞(2340)9月營收4.97億元年增率高達34.27％｜新聞快訊｜豐雲學堂",
+    "u": "https://www.sinotrade.com.tw/richclub/news/6ac6344336ff4992b14b934d"
    }
   }
  ]
