@@ -1,75 +1,84 @@
 {
- "updated": "2026-10-15 09:21",
+ "updated": "2026-10-16 09:07",
  "items": [
   {
-   "kw": "台股",
-   "traffic": "2000+",
+   "kw": "大谷翔平",
+   "traffic": "500+",
    "news": {
-    "t": "台股暴漲暴跌是空頭？郭哲榮曝真相：台積電法說有驚喜",
-    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%9A%B4%E6%BC%B2%E6%9A%B4%E8%B7%8C%E6%98%AF%E7%A9%BA%E9%A0%AD-%E9%83%AD%E5%93%B2%E6%A6%AE%E6%9B%9D%E7%9C%9F%E7%9B%B8-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%89%E9%A9%9A%E5%96%9C-123100291.html"
+    "t": "大谷翔平の１番起用 ロバーツ監督は本人に「伝えていない」知らなかった？「そうだね」ニヤリ 起用理由は「ある程度いつも通りの形にしようと考えた」（デイリースポーツ）",
+    "u": "https://news.yahoo.co.jp/articles/8174307571bfb7525e10f9cd4582e34656c817e1"
    }
   },
   {
-   "kw": "00927 配息",
+   "kw": "余祥銓",
+   "traffic": "200+",
+   "news": {
+    "t": "獨家／表態挺沈伯洋不忍了！余祥銓曝蔣萬安「2致命問題」：擔心我女兒",
+    "u": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E8%A1%A8%E6%85%8B%E6%8C%BA%E6%B2%88%E4%BC%AF%E6%B4%8B%E4%B8%8D%E5%BF%8D%E4%BA%86-%E4%BD%99%E7%A5%A5%E9%8A%93%E6%9B%9D%E8%94%A3%E8%90%AC%E5%AE%89-2%E8%87%B4%E5%91%BD%E5%95%8F%E9%A1%8C-%E6%93%94%E5%BF%83%E6%88%91%E5%A5%B3%E5%85%92-231800964.html"
+   }
+  },
+  {
+   "kw": "kospi",
+   "traffic": "200+",
+   "news": {
+    "t": "Global chip sell-off deepens as South Korean market plunges",
+    "u": "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html"
+   }
+  },
+  {
+   "kw": "韓國股市",
+   "traffic": "5000+",
+   "news": {
+    "t": "韓股血洗、台股開始鬆動 亞洲科技股「去槓桿賣壓」引爆全面恐慌",
+    "u": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1%E8%A1%80%E6%B4%97-%E5%8F%B0%E8%82%A1%E9%96%8B%E5%A7%8B%E9%AC%86%E5%8B%95-%E4%BA%9E%E6%B4%B2%E7%A7%91%E6%8A%80%E8%82%A1-%E5%8E%BB%E6%A7%93%E6%A1%BF%E8%B3%A3%E5%A3%93-%E5%BC%95%E7%88%86%E5%85%A8%E9%9D%A2%E6%81%90%E6%85%8C-170004991.html"
+   }
+  },
+  {
+   "kw": "海力士股價",
+   "traffic": "200+",
+   "news": {
+    "t": "記憶體真的不妙？SK海力士ADR盤前閃崩 美光遭血洗",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5607748"
+   }
+  },
+  {
+   "kw": "三星股價",
    "traffic": "1000+",
    "news": {
-    "t": "猛增5千股民搶息！00947季配2元創新高今最後買進日 「這3檔」年化配息率飆逾19%香爆",
-    "u": "https://tw.stock.yahoo.com/news/%E7%8C%9B%E5%A2%9E5%E5%8D%83%E8%82%A1%E6%B0%91%E6%90%B6%E6%81%AF-00947%E5%AD%A3%E9%85%8D2%E5%85%83%E5%89%B5%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%993%E6%AA%94-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%86%E9%80%BE19-%E9%A6%99%E7%88%86-002000227.html"
+    "t": "群聯 CEO 潘健成談「長鑫震撼」…市場鬼故事",
+    "u": "https://money.udn.com/money/story/11162/9817820"
    }
   },
   {
-   "kw": "6669",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "2478",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "國喬股價",
-   "traffic": "100+",
-   "news": {
-    "t": "馬斯克一句話、陸廠技術突破為記憶體添陰霾！「這檔」遭利空橫撞仍被逆勢護航國喬持三增營收獲長老大舉進場稱冠",
-    "u": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B-%E5%8F%A5%E8%A9%B1-%E9%99%B8%E5%BB%A0%E6%8A%80%E8%A1%93%E7%AA%81%E7%A0%B4%E7%82%BA%E8%A8%98%E6%86%B6%E9%AB%94%E6%B7%BB%E9%99%B0%E9%9C%BE-%E9%80%99%E6%AA%94-%E9%81%AD%E5%88%A9%E7%A9%BA%E6%A9%AB%E6%92%9E%E4%BB%8D%E8%A2%AB%E9%80%86%E5%8B%A2%E8%AD%B7%E8%88%AA-004500445.html"
-   }
-  },
-  {
-   "kw": "天然氣",
-   "traffic": "100+",
-   "news": {
-    "t": "早安世界》中油每年採購600萬噸阿拉斯加天然氣估最高投資44億美元| 生活",
-    "u": "https://www.cna.com.tw/news/ahel/202610155001.aspx"
-   }
-  },
-  {
-   "kw": "緯穎",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "玉山金",
-   "traffic": "100+",
-   "news": {
-    "t": "出一張嘴就完工、還會自訂KPI…人人都能當慣老闆！揭密AI代理人最強實用現場：「負責任」成人類最後角色",
-    "u": "https://tw.news.yahoo.com/%E5%87%BA%E4%B8%80%E5%BC%B5%E5%98%B4%E5%B0%B1%E5%AE%8C%E5%B7%A5%E3%80%81%E9%82%84%E6%9C%83%E8%87%AA%E8%A8%82kpi%E4%BA%BA%E4%BA%BA%E9%83%BD%E8%83%BD%E7%95%B6%E6%85%A3%E8%80%81%E9%97%86%EF%BC%81%E6%8F%AD%E5%AF%86ai%E4%BB%A3%E7%90%86%E4%BA%BA%E6%9C%80%E5%BC%B7%E5%AF%A6%E7%94%A8%E7%8F%BE%E5%A0%B4%EF%BC%9A%E3%80%8C%E8%B2%A0%E8%B2%AC%E4%BB%BB%E3%80%8D%E6%88%90%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%BE%8C%E8%A7%92%E8%89%B2-042508913.html"
-   }
-  },
-  {
-   "kw": "米格爾·羅哈斯",
+   "kw": "特 斯 拉 roadster",
    "traffic": "200+",
    "news": {
-    "t": "MLB》金慧成遭割愛 無緣代表道奇征戰國聯冠軍賽",
-    "u": "https://tw.sports.yahoo.com/news/mlb-%E9%87%91%E6%85%A7%E6%88%90%E9%81%AD%E5%89%B2%E6%84%9B-%E7%84%A1%E7%B7%A3%E4%BB%A3%E8%A1%A8%E9%81%93%E5%A5%87%E5%BE%81%E6%88%B0%E5%9C%8B%E8%81%AF%E5%86%A0%E8%BB%8D%E8%B3%BD-031638927.html"
+    "t": "特斯拉新款跑车，即将亮相",
+    "u": "https://cj.sina.cn/articles/view/2868676035/aafc85c301901ymtc"
    }
   },
   {
-   "kw": "windy",
-   "traffic": "200+",
+   "kw": "日本股市",
+   "traffic": "500+",
    "news": {
-    "t": "Warm, Windy & Sunny Weekend Ahead",
-    "u": "https://www.ktvh.com/weather/warm-windy-sunny-weekend-ahead"
+    "t": "台股穩了？日、韓股開盤紅通通 三星電子、SK海力士走高",
+    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%A9%A9%E4%BA%86-%E6%97%A5-%E9%9F%93%E8%82%A1%E9%96%8B%E7%9B%A4%E7%B4%85%E9%80%9A%E9%80%9A-%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B5%B0%E9%AB%98-003800523.html"
+   }
+  },
+  {
+   "kw": "711咖啡",
+   "traffic": "100+",
+   "news": {
+    "t": "【10/12-10/18本週全台優惠】超商咖啡優惠、手搖飲、天丼買1送1一次看",
+    "u": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g74140653/weekly-discount-1015/"
+   }
+  },
+  {
+   "kw": "espn",
+   "traffic": "100+",
+   "news": {
+    "t": "Joe Buck, Troy Aikman Have Had Tension Amid ESPN Contract Talks",
+    "u": "https://frontofficesports.com/article/joe-buck-troy-aikman-tension-espn-talks/"
    }
   }
  ]
