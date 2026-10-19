@@ -1,70 +1,79 @@
 {
- "updated": "2026-10-18 08:47",
+ "updated": "2026-10-19 09:00",
  "items": [
   {
-   "kw": "曾文生",
-   "traffic": "200+",
-   "news": {
-    "t": "淨零永續展與智慧能源週1.8萬名買主　14國業者79場採購洽談會",
-    "u": "https://finance.ettoday.net/news/3256315"
-   }
-  },
-  {
-   "kw": "台 塑 九 寶",
-   "traffic": "1000+",
-   "news": {
-    "t": "台塑四寶第三季成績單出爐！大咖法人最新目標價曝光 「這檔」搭上AI賺翻、EPS攀上4.9元",
-    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%A1%91%E5%9B%9B%E5%AF%B6%E7%AC%AC%E4%B8%89%E5%AD%A3%E6%88%90%E7%B8%BE%E5%96%AE%E5%87%BA%E7%88%90-%E5%A4%A7%E5%92%96%E6%B3%95%E4%BA%BA%E6%9C%80%E6%96%B0%E7%9B%AE%E6%A8%99%E5%83%B9%E6%9B%9D%E5%85%89-%E9%80%99%E6%AA%94-%E6%90%AD%E4%B8%8Aai%E8%B3%BA%E7%BF%BB-eps%E6%94%80%E4%B8%8A4-105000631.html"
-   }
-  },
-  {
-   "kw": "巴黎",
+   "kw": "朱麗蒨",
    "traffic": "100+",
    "news": {
-    "t": "中国车企成巴黎车展焦点，加速布局欧洲市场",
-    "u": "https://cn.nytimes.com/business/20261016/chinese-evs-europe-paris-motor-show/"
+    "t": "劉德華陪伴愛妻罕見被偶遇！60歲華嫂朱麗蒨「真實狀態曝」",
+    "u": "https://tw.news.yahoo.com/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%99%AA%E4%BC%B4%E6%84%9B%E5%A6%BB%E7%BD%95%E8%A6%8B%E8%A2%AB%E5%81%B6%E9%81%87-60%E6%AD%B2%E8%8F%AF%E5%AB%82%E6%9C%B1%E9%BA%97%E8%92%A8-%E7%9C%9F%E5%AF%A6%E7%8B%80%E6%85%8B%E6%9B%9D-141353429.html"
    }
   },
   {
-   "kw": "重陽節",
+   "kw": "華信航空",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "海力士股價",
+   "traffic": "200+",
+   "news": {
+    "t": "3D記憶體拉高檢測門檻 SK海力士強化MI技術布局",
+    "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771725_OQW8GS7I1U6K2F6TRAGZT&packageid=80320&cnlid=1&cat=40&wpidx=6"
+   }
+  },
+  {
+   "kw": "台幣匯率",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "彰基",
+   "traffic": "100+",
+   "news": {
+    "t": "彰化護理師替病患抽血 遭扯髮造成頭皮紅腫",
+    "u": "https://news.pts.org.tw/article/831876"
+   }
+  },
+  {
+   "kw": "布蘭特原油價格",
+   "traffic": "100+",
+   "news": {
+    "t": "《油價》擔憂供應收緊 NYMEX原油上漲3.5%",
+    "u": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9-%E6%93%94%E6%86%82%E4%BE%9B%E6%87%89%E6%94%B6%E7%B7%8A-nymex%E5%8E%9F%E6%B2%B9%E4%B8%8A%E6%BC%B23-5-221600704.html"
+   }
+  },
+  {
+   "kw": "韓國股市",
    "traffic": "2000+",
-   "news": null
-  },
-  {
-   "kw": "股災",
-   "traffic": "1000+",
-   "news": null
-  },
-  {
-   "kw": "yoasobi 札幌",
-   "traffic": "100+",
    "news": {
-    "t": "幾田りら、札幌で路上ライブ YOASOBI新曲「咲き誇れ」など弾き語り「また夢をみることができました」（写真・画像 1/1）",
-    "u": "https://www.sanspo.com/article/20261017-CMHLZX37XVBZXJ2UEFBJHU2LY4/photo/6HS7VT5SUJPLTDVCXGMQM5ISYY/"
+    "t": "2029年現記憶體「紅海」？韓國財長：半導體繁榮至少持續至明年",
+    "u": "https://news.cnyes.com/news/id/6632913"
    }
   },
   {
-   "kw": "中間選民",
-   "traffic": "200+",
-   "news": null
+   "kw": "日本股市",
+   "traffic": "2000+",
+   "news": {
+    "t": "韓股開盤大跌逾3%後收斂 散戶狂賣但外資趁勢買進 日經225指數跌約2%",
+    "u": "https://udn.com/news/story/6811/9823088"
+   }
   },
   {
-   "kw": "賴瑞隆",
+   "kw": "kospi",
    "traffic": "500+",
    "news": {
-    "t": "高雄市長選戰尬場！賴瑞隆鳳山成立競總蔡英文助陣 柯志恩直搗對手本命區小港韓國瑜加持",
-    "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0%E5%B0%AC%E5%A0%B4%EF%BC%81%E8%B3%B4%E7%91%9E%E9%9A%86%E9%B3%B3%E5%B1%B1%E6%88%90%E7%AB%8B%E7%AB%B6%E7%B8%BD%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%A9%E9%99%A3-%E6%9F%AF%E5%BF%97%E6%81%A9%E7%9B%B4%E6%90%97%E5%B0%8D%E6%89%8B%E6%9C%AC%E5%91%BD%E5%8D%80%E5%B0%8F%E6%B8%AF%E9%9F%93%E5%9C%8B%E7%91%9C%E5%8A%A0%E6%8C%81-134226516.html"
+    "t": "Kospi Falls 1.5% Early as US Tech Weakness Pushes Index Back to 5,580",
+    "u": "https://en.bloomingbit.io/feed/news/122445"
    }
   },
   {
-   "kw": "空氣品質",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "守護者 對 光芒",
-   "traffic": "200+",
-   "news": null
+   "kw": "光芒守護者",
+   "traffic": "2000+",
+   "news": {
+    "t": "MLB季後賽》Rasmussen優質先發率光芒擊敗守護者 距世界大賽僅差最後1勝",
+    "u": "https://tw.sports.yahoo.com/news/mlb%E5%AD%A3%E5%BE%8C%E8%B3%BD%E3%80%8Brasmussen%E5%84%AA%E8%B3%AA%E5%85%88%E7%99%BC%E7%8E%87%E5%85%89%E8%8A%92%E6%93%8A%E6%95%97%E5%AE%88%E8%AD%B7%E8%80%85-%E8%B7%9D%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD%E5%83%85%E5%B7%AE%E6%9C%80%E5%BE%8C1%E5%8B%9D-235935875.html"
+   }
   }
  ]
 }
