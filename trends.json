@@ -1,78 +1,69 @@
 {
- "updated": "2026-10-19 09:00",
+ "updated": "2026-10-20 09:39",
  "items": [
   {
-   "kw": "朱麗蒨",
-   "traffic": "100+",
+   "kw": "6209",
+   "traffic": "200+",
    "news": {
-    "t": "劉德華陪伴愛妻罕見被偶遇！60歲華嫂朱麗蒨「真實狀態曝」",
-    "u": "https://tw.news.yahoo.com/%E5%8A%89%E5%BE%B7%E8%8F%AF%E9%99%AA%E4%BC%B4%E6%84%9B%E5%A6%BB%E7%BD%95%E8%A6%8B%E8%A2%AB%E5%81%B6%E9%81%87-60%E6%AD%B2%E8%8F%AF%E5%AB%82%E6%9C%B1%E9%BA%97%E8%92%A8-%E7%9C%9F%E5%AF%A6%E7%8B%80%E6%85%8B%E6%9B%9D-141353429.html"
+    "t": "焦點股》今國光：光學族群走弱 股價衝高後翻黑",
+    "u": "https://stock.ltn.com.tw/article/nnxeqkkpz04b"
    }
   },
   {
-   "kw": "華信航空",
-   "traffic": "100+",
+   "kw": "杜 金龍",
+   "traffic": "500+",
    "news": null
   },
   {
-   "kw": "海力士股價",
+   "kw": "台郡",
    "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "誠美材",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "韓國指數",
+   "traffic": "1000+",
    "news": {
-    "t": "3D記憶體拉高檢測門檻 SK海力士強化MI技術布局",
-    "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771725_OQW8GS7I1U6K2F6TRAGZT&packageid=80320&cnlid=1&cat=40&wpidx=6"
+    "t": "韓股跌逾2.6％ 日經瀉逾850點",
+    "u": "https://ec.ltn.com.tw/article/breakingnews/5611825"
    }
   },
   {
    "kw": "台幣匯率",
+   "traffic": "1000+",
+   "news": {
+    "t": "股匯雙殺！國家隊護盤急穩市 外資撤離壓力未減",
+    "u": "https://udn.com/news/story/7238/9824913"
+   }
+  },
+  {
+   "kw": "瑞軒",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "彰基",
+   "kw": "戴立安民調",
+   "traffic": "5000+",
+   "news": null
+  },
+  {
+   "kw": "光芒 對 守護者",
+   "traffic": "1000+",
+   "news": {
+    "t": "MLB運彩分析》10/20 守護者吞連敗陷入落後態勢 光芒盼Peralta率隊直接闖進世界大賽",
+    "u": "https://tw.sports.yahoo.com/news/mlb%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1020-%E5%AE%88%E8%AD%B7%E8%80%85%E5%90%9E%E9%80%A3%E6%95%97%E9%99%B7%E5%85%A5%E8%90%BD%E5%BE%8C%E6%85%8B%E5%8B%A2-%E5%85%89%E8%8A%92%E7%9B%BCperalta%E7%8E%87%E9%9A%8A%E7%9B%B4%E6%8E%A5%E9%97%96%E9%80%B2%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD-053951919.html"
+   }
+  },
+  {
+   "kw": "法案",
    "traffic": "100+",
    "news": {
-    "t": "彰化護理師替病患抽血 遭扯髮造成頭皮紅腫",
-    "u": "https://news.pts.org.tw/article/831876"
-   }
-  },
-  {
-   "kw": "布蘭特原油價格",
-   "traffic": "100+",
-   "news": {
-    "t": "《油價》擔憂供應收緊 NYMEX原油上漲3.5%",
-    "u": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9-%E6%93%94%E6%86%82%E4%BE%9B%E6%87%89%E6%94%B6%E7%B7%8A-nymex%E5%8E%9F%E6%B2%B9%E4%B8%8A%E6%BC%B23-5-221600704.html"
-   }
-  },
-  {
-   "kw": "韓國股市",
-   "traffic": "2000+",
-   "news": {
-    "t": "2029年現記憶體「紅海」？韓國財長：半導體繁榮至少持續至明年",
-    "u": "https://news.cnyes.com/news/id/6632913"
-   }
-  },
-  {
-   "kw": "日本股市",
-   "traffic": "2000+",
-   "news": {
-    "t": "韓股開盤大跌逾3%後收斂 散戶狂賣但外資趁勢買進 日經225指數跌約2%",
-    "u": "https://udn.com/news/story/6811/9823088"
-   }
-  },
-  {
-   "kw": "kospi",
-   "traffic": "500+",
-   "news": {
-    "t": "Kospi Falls 1.5% Early as US Tech Weakness Pushes Index Back to 5,580",
-    "u": "https://en.bloomingbit.io/feed/news/122445"
-   }
-  },
-  {
-   "kw": "光芒守護者",
-   "traffic": "2000+",
-   "news": {
-    "t": "MLB季後賽》Rasmussen優質先發率光芒擊敗守護者 距世界大賽僅差最後1勝",
-    "u": "https://tw.sports.yahoo.com/news/mlb%E5%AD%A3%E5%BE%8C%E8%B3%BD%E3%80%8Brasmussen%E5%84%AA%E8%B3%AA%E5%85%88%E7%99%BC%E7%8E%87%E5%85%89%E8%8A%92%E6%93%8A%E6%95%97%E5%AE%88%E8%AD%B7%E8%80%85-%E8%B7%9D%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD%E5%83%85%E5%B7%AE%E6%9C%80%E5%BE%8C1%E5%8B%9D-235935875.html"
+    "t": "Anthropic遊說推動AI安全法案 重大風險才准政府叫停模型",
+    "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=771931"
    }
   }
  ]
