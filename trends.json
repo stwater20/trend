@@ -1,73 +1,73 @@
 {
- "updated": "2026-10-22 09:23",
+ "updated": "2026-10-23 09:21",
  "items": [
   {
-   "kw": "湖人 對 勇士",
-   "traffic": "1000+",
+   "kw": "teams",
+   "traffic": "100+",
    "news": {
-    "t": "揭幕战，湖人能不能彻底摧残勇士的内线？",
-    "u": "https://bbs.hupu.com/643140230.html"
+    "t": "A College Football Playoff rankings logjam is looming, and the 24-team plan will solve it",
+    "u": "https://www.nytimes.com/athletic/7711953/2026/10/22/college-football-playoff-rankings-sec-24-teams/"
    }
   },
   {
-   "kw": "台光電",
+   "kw": "日股",
+   "traffic": "200+",
+   "news": {
+    "t": "外資減碼日股、續買中長債；日人加碼海外股票- 新聞",
+    "u": "https://m.moneydj.com/f1a.aspx?a=bb26e67a-01f9-4540-a334-0d9ba33fcd85&c=MB040200"
+   }
+  },
+  {
+   "kw": "雷霆 對 金塊",
+   "traffic": "200+",
+   "news": {
+    "t": "NBA運彩分析》10/23 金塊體能與健康狀況存隱憂 雷霆盼連勝喜迎主場開幕新賽季",
+    "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1023-%E9%87%91%E5%A1%8A%E9%AB%94%E8%83%BD%E8%88%87%E5%81%A5%E5%BA%B7%E7%8B%80%E6%B3%81%E5%AD%98%E9%9A%B1%E6%86%82-%E9%9B%B7%E9%9C%86%E7%9B%BC%E9%80%A3%E5%8B%9D%E5%96%9C%E8%BF%8E%E4%B8%BB%E5%A0%B4%E9%96%8B%E5%B9%95%E6%96%B0%E8%B3%BD%E5%AD%A3-100445772.html"
+   }
+  },
+  {
+   "kw": "poki",
+   "traffic": "200+",
+   "news": {
+    "t": "Mass Effect Future, Kutaragi, Poki: 3 Shifts [2026]",
+    "u": "https://tech-insider.org/mass-effect-kutaragi-console-fears-poki-rise-2026/"
+   }
+  },
+  {
+   "kw": "ana 吉伊卡哇",
+   "traffic": "100+",
+   "news": {
+    "t": "吉伊卡哇聯名ANA周邊10／23開賣！8款制服吊飾、羽田機場限定店資訊一次看",
+    "u": "https://travel.udn.com/travel/story/9650/9830189"
+   }
+  },
+  {
+   "kw": "台中大遠百",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "傑登·麥克丹尼爾斯",
-   "traffic": "100+",
-   "news": {
-    "t": "Jaden McDaniels, Timberwolves reportedly agree to $40M extension",
-    "u": "https://sports.yahoo.com/nba/article/jaden-mcdaniels-timberwolves-reportedly-agree-to-40m-extension-014434923.html"
-   }
-  },
-  {
-   "kw": "claude duet",
-   "traffic": "100+",
-   "news": {
-    "t": "Anthropic unveils Claude Duet AI agent app",
-    "u": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/"
-   }
-  },
-  {
-   "kw": "0056除息",
+   "kw": "iphone duo",
    "traffic": "500+",
-   "news": {
-    "t": "暴增9.5萬股民搶息！0056豪配1.72元創季配來新高「今最後買進日」 年化配息率飆逾12%",
-    "u": "https://tw.stock.yahoo.com/news/%E6%9A%B4%E5%A2%9E9-5%E8%90%AC%E8%82%A1%E6%B0%91%E6%90%B6%E6%81%AF-0056%E8%B1%AA%E9%85%8D1-72%E5%85%83%E5%89%B5%E5%AD%A3%E9%85%8D%E4%BE%86%E6%96%B0%E9%AB%98-%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-013000181.html"
-   }
-  },
-  {
-   "kw": "濱川",
-   "traffic": "2000+",
    "news": null
   },
   {
-   "kw": "晶 圓",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "東台",
+   "kw": "貴金屬",
    "traffic": "100+",
    "news": null
   },
   {
-   "kw": "champi",
+   "kw": "大江",
    "traffic": "200+",
    "news": {
-    "t": "Airlines cancel, reschedule flights as Typhoon Champi approaches",
-    "u": "https://focustaiwan.tw/society/202610210020"
+    "t": "Global Mall 周年慶首日開紅盤 20大品牌商品業績成長最強勁 | 產業熱點 | 產業",
+    "u": "https://money.udn.com/money/story/5612/9831489?from=edn_related_storybottom"
    }
   },
   {
-   "kw": "小哈梅·哈克茲",
+   "kw": "lalaport 南港",
    "traffic": "200+",
-   "news": {
-    "t": "Milwaukee Bucks do not extend Jaime Jaquez Jr.",
-    "u": "https://www.jsonline.com/story/sports/nba/bucks/2026/10/19/milwaukee-bucks-jaime-jaquez-jr-no-rookie-scale-extension/92328035007/"
-   }
+   "news": null
   }
  ]
 }
