@@ -1,81 +1,72 @@
 {
- "updated": "2026-10-26 09:04",
+ "updated": "2026-10-27 09:56",
  "items": [
   {
-   "kw": "76人",
-   "traffic": "100+",
-   "news": {
-    "t": "关于热火和火箭这赛季的实力，上赛季结束不久我早就分析透了",
-    "u": "https://bbs.hupu.com/643264550.html"
-   }
-  },
-  {
-   "kw": "76ers vs pistons",
-   "traffic": "200+",
-   "news": {
-    "t": "How to watch Pistons vs 76ers: NBA, live stream, TV channel",
-    "u": "https://www.thebiglead.com/how-to-watch-pistons-vs-76ers-nba-live-stream-tv-channel/"
-   }
-  },
-  {
-   "kw": "迪恩·韋德",
-   "traffic": "100+",
-   "news": {
-    "t": "76ers' LeBron James to sit vs. Bucks in first game of back-to-back",
-    "u": "https://www.espn.com/nba/story/_/id/50267484/76ers-lebron-james-sit-vs-bucks-1st-back-back"
-   }
-  },
-  {
-   "kw": "灰狼 對 暴龍",
-   "traffic": "200+",
-   "news": {
-    "t": "Raptors HC Darko Rajaković makes ‘beauty’ admission on facing Anthony Edwards, LaMelo Ball",
-    "u": "https://sports.yahoo.com/articles/raptors-hc-darko-rajakovi-makes-000228926.html"
-   }
-  },
-  {
-   "kw": "漁民",
+   "kw": "台燿",
    "traffic": "200+",
    "news": null
   },
   {
-   "kw": "勒布朗·詹姆斯",
+   "kw": "選舉抽籤",
    "traffic": "200+",
    "news": {
-    "t": "詹姆斯妻子：16岁生日派对初识勒布朗他给我20美元 就喊我女朋友",
-    "u": "https://m.zhibo8.com/news/web/nba/2026-10-25/6adddc88c92bdnative.htm"
+    "t": "2026九合一選舉號次9:00抽籤 22縣市長候選人號次一次看【不斷更新】",
+    "u": "https://tw.news.yahoo.com/2026%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89%E8%99%9F%E6%AC%A1900%E6%8A%BD%E7%B1%A4-22%E7%B8%A3%E5%B8%82%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA%E8%99%9F%E6%AC%A1%E4%B8%80%E6%AC%A1%E7%9C%8B%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-000041792.html"
    }
   },
   {
-   "kw": "勞里·馬卡南",
+   "kw": "匯率",
+   "traffic": "500+",
+   "news": {
+    "t": "台灣經濟成長狂竄！新台幣卻持續貶值 謝金河曝真相：並非近期才出現",
+    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E7%8B%82%E7%AB%84-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%BB%E6%8C%81%E7%BA%8C%E8%B2%B6%E5%80%BC-%E8%AC%9D%E9%87%91%E6%B2%B3%E6%9B%9D%E7%9C%9F%E7%9B%B8-%E4%B8%A6%E9%9D%9E%E8%BF%91%E6%9C%9F%E6%89%8D%E5%87%BA%E7%8F%BE-072500742.html"
+   }
+  },
+  {
+   "kw": "南亞股票",
+   "traffic": "2000+",
+   "news": {
+    "t": "台股早盤漲逾500點 台積電漲20元",
+    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B220%E5%85%83-010544894.html"
+   }
+  },
+  {
+   "kw": "台中市長候選人",
    "traffic": "100+",
-   "news": {
-    "t": "Lauri Markkanen soars for big Dunk",
-    "u": "https://www.espn.com/video/clip/_/id/50280590/lauri-markkanen-soars-big-dunk"
-   }
+   "news": null
   },
   {
-   "kw": "馬蒂斯·塞布爾",
-   "traffic": "200+",
-   "news": {
-    "t": "[流言板]里夫斯凯斯勒2战合砍99分&命中率76％，东契奇命中率38.5％",
-    "u": "https://bbs.hupu.com/643273447.html"
-   }
-  },
-  {
-   "kw": "沃克·凱斯勒",
-   "traffic": "200+",
-   "news": {
-    "t": "Walker Kessler outperformed the entire Kings roster on defense last night",
-    "u": "https://aroyalpain.com/walker-kessler-outperformed-entire-kings-roster-defense-last-night"
-   }
-  },
-  {
-   "kw": "原油",
+   "kw": "高雄市長候選人",
    "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "環球晶股價",
+   "traffic": "200+",
    "news": {
-    "t": "原油创半年新高 风险集中暴露！刚刚 沙特首都传来巨响！以色列大选恐有变！",
-    "u": "https://wap.eastmoney.com/a/202610253907163557.html"
+    "t": "環球晶從賺近2萬變倒賠18萬！人妻怨夫太貪心 網反嗆：自己的股票自己顧",
+    "u": "https://tw.stock.yahoo.com/news/%E7%92%B0%E7%90%83%E6%99%B6%E5%BE%9E%E8%B3%BA%E8%BF%912%E8%90%AC%E8%AE%8A%E5%80%92%E8%B3%A018%E8%90%AC-%E4%BA%BA%E5%A6%BB%E6%80%A8%E5%A4%AB%E5%A4%AA%E8%B2%AA%E5%BF%83-%E7%B6%B2%E5%8F%8D%E5%97%86-%E8%87%AA%E5%B7%B1%E7%9A%84%E8%82%A1%E7%A5%A8%E8%87%AA%E5%B7%B1%E9%A1%A7-092500578.html"
+   }
+  },
+  {
+   "kw": "2330",
+   "traffic": "2000+",
+   "news": null
+  },
+  {
+   "kw": "聯電股價",
+   "traffic": "1000+",
+   "news": {
+    "t": "抄底變墳底？聯電一路狂崩「只剩125元」 專家嘆：當初150還有人急著護航",
+    "u": "https://tw.news.yahoo.com/%E6%8A%84%E5%BA%95%E8%AE%8A%E5%A2%B3%E5%BA%95-%E8%81%AF%E9%9B%BB-%E8%B7%AF%E7%8B%82%E5%B4%A9-%E5%8F%AA%E5%89%A9125%E5%85%83-%E5%B0%88%E5%AE%B6%E5%98%86-112505718.html"
+   }
+  },
+  {
+   "kw": "國巨股價",
+   "traffic": "500+",
+   "news": {
+    "t": "國巨快跌破500！真會懲罰每個買入的人？專家驚揭利多不漲「致命硬傷」本周四審判日決定能否低接- 上市櫃",
+    "u": "https://wantrich.chinatimes.com/news/20261026900091-420101"
    }
   }
  ]
