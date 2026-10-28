@@ -1,73 +1,79 @@
 {
- "updated": "2026-10-27 09:56",
+ "updated": "2026-10-28 10:05",
  "items": [
   {
-   "kw": "台燿",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "選舉抽籤",
-   "traffic": "200+",
-   "news": {
-    "t": "2026九合一選舉號次9:00抽籤 22縣市長候選人號次一次看【不斷更新】",
-    "u": "https://tw.news.yahoo.com/2026%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89%E8%99%9F%E6%AC%A1900%E6%8A%BD%E7%B1%A4-22%E7%B8%A3%E5%B8%82%E9%95%B7%E5%80%99%E9%81%B8%E4%BA%BA%E8%99%9F%E6%AC%A1%E4%B8%80%E6%AC%A1%E7%9C%8B%E3%80%90%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%E3%80%91-000041792.html"
-   }
-  },
-  {
-   "kw": "匯率",
-   "traffic": "500+",
-   "news": {
-    "t": "台灣經濟成長狂竄！新台幣卻持續貶值 謝金河曝真相：並非近期才出現",
-    "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E7%8B%82%E7%AB%84-%E6%96%B0%E5%8F%B0%E5%B9%A3%E5%8D%BB%E6%8C%81%E7%BA%8C%E8%B2%B6%E5%80%BC-%E8%AC%9D%E9%87%91%E6%B2%B3%E6%9B%9D%E7%9C%9F%E7%9B%B8-%E4%B8%A6%E9%9D%9E%E8%BF%91%E6%9C%9F%E6%89%8D%E5%87%BA%E7%8F%BE-072500742.html"
-   }
-  },
-  {
-   "kw": "南亞股票",
-   "traffic": "2000+",
-   "news": {
-    "t": "台股早盤漲逾500點 台積電漲20元",
-    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E6%BC%B2%E9%80%BE500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B220%E5%85%83-010544894.html"
-   }
-  },
-  {
-   "kw": "台中市長候選人",
+   "kw": "gmo",
    "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "高雄市長候選人",
-   "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "環球晶股價",
-   "traffic": "200+",
    "news": {
-    "t": "環球晶從賺近2萬變倒賠18萬！人妻怨夫太貪心 網反嗆：自己的股票自己顧",
-    "u": "https://tw.stock.yahoo.com/news/%E7%92%B0%E7%90%83%E6%99%B6%E5%BE%9E%E8%B3%BA%E8%BF%912%E8%90%AC%E8%AE%8A%E5%80%92%E8%B3%A018%E8%90%AC-%E4%BA%BA%E5%A6%BB%E6%80%A8%E5%A4%AB%E5%A4%AA%E8%B2%AA%E5%BF%83-%E7%B6%B2%E5%8F%8D%E5%97%86-%E8%87%AA%E5%B7%B1%E7%9A%84%E8%82%A1%E7%A5%A8%E8%87%AA%E5%B7%B1%E9%A1%A7-092500578.html"
+    "t": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+    "u": "https://news.web.nhk/newsweb/na/nd-20261028de66716"
    }
   },
   {
-   "kw": "2330",
-   "traffic": "2000+",
-   "news": null
-  },
-  {
-   "kw": "聯電股價",
+   "kw": "力積電股價",
    "traffic": "1000+",
    "news": {
-    "t": "抄底變墳底？聯電一路狂崩「只剩125元」 專家嘆：當初150還有人急著護航",
-    "u": "https://tw.news.yahoo.com/%E6%8A%84%E5%BA%95%E8%AE%8A%E5%A2%B3%E5%BA%95-%E8%81%AF%E9%9B%BB-%E8%B7%AF%E7%8B%82%E5%B4%A9-%E5%8F%AA%E5%89%A9125%E5%85%83-%E5%B0%88%E5%AE%B6%E5%98%86-112505718.html"
+    "t": "台股漲不動，力積電(6770)憑什麼拉半根漲停？股價1年大漲120％、本益比才9倍...70元能買？為何老牛看完財報卻搖頭",
+    "u": "https://www.businesstoday.com.tw/article/category/183008/post/202610270004/"
    }
   },
   {
-   "kw": "國巨股價",
+   "kw": "泓德能源",
+   "traffic": "100+",
+   "news": {
+    "t": "涉賄約5000萬元！「這檔」陷光電開發弊案利空 股價連日重挫再吞跌停",
+    "u": "https://tw.stock.yahoo.com/news/%E6%B6%89%E8%B3%84%E7%B4%845000%E8%90%AC%E5%85%83-%E9%80%99%E6%AA%94-%E9%99%B7%E5%85%89%E9%9B%BB%E9%96%8B%E7%99%BC%E5%BC%8A%E6%A1%88%E5%88%A9%E7%A9%BA-%E8%82%A1%E5%83%B9%E9%80%A3%E6%97%A5%E9%87%8D%E6%8C%AB%E5%86%8D%E5%90%9E%E8%B7%8C%E5%81%9C-070000854.html"
+   }
+  },
+  {
+   "kw": "玉晶光",
+   "traffic": "100+",
+   "news": {
+    "t": "光學元件兩樣情！「這檔」合作3M推進EPO研發、大漲3.88%撐盤揚明光下跌2%、耀穎重摔7.89%",
+    "u": "https://tw.stock.yahoo.com/news/%E5%85%89%E5%AD%B8%E5%85%83%E4%BB%B6%E5%85%A9%E6%A8%A3%E6%83%85-%E9%80%99%E6%AA%94-%E5%90%88%E4%BD%9C3m%E6%8E%A8%E9%80%B2epo%E7%A0%94%E7%99%BC-%E5%A4%A7%E6%BC%B23-88-045500889.html"
+   }
+  },
+  {
+   "kw": "3105",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "spurs vs kings",
+   "traffic": "100+",
+   "news": {
+    "t": "Don't Fear the Massive Spread: Lay the Points with San Antonio Tonight",
+    "u": "https://sports.yahoo.com/videos/dont-fear-massive-spread-lay-134355977.html"
+   }
+  },
+  {
+   "kw": "晶豪科",
+   "traffic": "100+",
+   "news": {
+    "t": "晶豪科第3季獲利創新高 每股純益36.79元",
+    "u": "https://udn.com/news/story/7252/9840584"
+   }
+  },
+  {
+   "kw": "嘉晶",
    "traffic": "500+",
    "news": {
-    "t": "國巨快跌破500！真會懲罰每個買入的人？專家驚揭利多不漲「致命硬傷」本周四審判日決定能否低接- 上市櫃",
-    "u": "https://wantrich.chinatimes.com/news/20261026900091-420101"
+    "t": "快訊／現場畫面曝光！「嘉晶電子創新廠」火警黑濃煙竄天 消防搶救中",
+    "u": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-%E5%98%89%E6%99%B6%E9%9B%BB%E5%AD%90%E5%89%B5%E6%96%B0%E5%BB%A0-%E7%81%AB%E8%AD%A6%E9%BB%91%E6%BF%83%E7%85%99%E7%AB%84%E5%A4%A9-%E6%B6%88%E9%98%B2%E6%90%B6%E6%95%91%E4%B8%AD-013600471.html"
    }
+  },
+  {
+   "kw": "池 睿 恩",
+   "traffic": "500+",
+   "news": {
+    "t": "池睿恩婚禮陣容曝光！拒收宋智孝、池錫辰雙人祝歌，理由笑翻全場：想有品質地辦",
+    "u": "https://www.koreastardaily.com/tc/news/164418"
+   }
+  },
+  {
+   "kw": "智原",
+   "traffic": "200+",
+   "news": null
   }
  ]
 }
