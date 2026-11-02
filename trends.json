@@ -1,75 +1,81 @@
 {
- "updated": "2026-11-01 10:01",
+ "updated": "2026-11-02 10:16",
  "items": [
   {
-   "kw": "拉梅羅·鮑爾",
-   "traffic": "100+",
+   "kw": "台股",
+   "traffic": "10000+",
    "news": {
-    "t": "Spurs will test LaMelo Ball's ability to handle physicality",
-    "u": "https://dunkingwithwolves.com/spurs-will-test-lamelo-ball-s-ability-to-handle-physicality"
+    "t": "聯發科、鴻海、群創翻紅了！台股跌幅收斂 下跌428點",
+    "u": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-%E9%B4%BB%E6%B5%B7-%E7%BE%A4%E5%89%B5%E7%BF%BB%E7%B4%85%E4%BA%86-%E5%8F%B0%E8%82%A1%E8%B7%8C%E5%B9%85%E6%94%B6%E6%96%82-%E4%B8%8B%E8%B7%8C428%E9%BB%9E-011600324.html"
    }
   },
   {
-   "kw": "賈永婕",
+   "kw": "黑白集",
+   "traffic": "100+",
+   "news": {
+    "t": "綠憂賴瑞隆不穩 柯志恩直球辯論破圈…選情轉熱",
+    "u": "https://udn.com/news/story/124652/9850767"
+   }
+  },
+  {
+   "kw": "台灣加權指數",
    "traffic": "200+",
    "news": {
-    "t": "台灣同志遊行盛大登場！賈永婕披大型彩虹旗進台北101　揭連夜趕工內幕",
-    "u": "https://stars.udn.com/star/story/10088/9848484"
+    "t": "TWA00 加權指數- 本週能不能有效止穩❤️等待真正的訊號出現- 股市爆料同學會",
+    "u": "https://www.cmoney.tw/forum/article/187310113"
    }
   },
   {
-   "kw": "返税",
-   "traffic": "100+",
+   "kw": "00406a",
+   "traffic": "1000+",
    "news": null
   },
   {
-   "kw": "花毯節",
-   "traffic": "100+",
-   "news": null
+   "kw": "王泉仁",
+   "traffic": "200+",
+   "news": {
+    "t": "鏡爆頭條／談爺孫戀顧不上呂安妮 　王文洋摔床骨折！王泉仁貼身照料",
+    "u": "https://www.mirrormedia.mg/story/20261026ent004"
+   }
   },
   {
-   "kw": "11/1活動",
+   "kw": "warriors vs clippers",
+   "traffic": "200+",
+   "news": {
+    "t": "How to watch Warriors vs. Clippers",
+    "u": "https://sports.yahoo.com/articles/watch-warriors-vs-clippers-214516982.html"
+   }
+  },
+  {
+   "kw": "台股指數",
    "traffic": "2000+",
-   "news": null
-  },
-  {
-   "kw": "迪恩·韋德",
-   "traffic": "200+",
    "news": {
-    "t": "Multiple Sixers stars single out Dean Wade after Cup win over Knicks",
-    "u": "https://sports.yahoo.com/articles/multiple-sixers-stars-single-dean-144817007.html"
+    "t": "《HKEX台股期貨》09:00，11月台股指數期貨跌21.2點，為2003.6點",
+    "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345805001&PU=0008"
    }
   },
   {
-   "kw": "安芬尼·西蒙斯",
-   "traffic": "200+",
+   "kw": "聯發科股價",
+   "traffic": "1000+",
    "news": {
-    "t": "[流言板]西蒙斯采访全文：三分找回节奏，更要在防守端站稳脚跟",
-    "u": "https://bbs.hupu.com/643496116.html"
+    "t": "聯發科法說會後慶祝行情！盤中漲155元 僅花1個交易日站回4000元關卡",
+    "u": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E6%B3%95%E8%AA%AA%E6%9C%83%E5%BE%8C%E6%85%B6%E7%A5%9D%E8%A1%8C%E6%83%85%EF%BC%81%E7%9B%A4%E4%B8%AD%E6%BC%B2155%E5%85%83-%E5%83%85%E8%8A%B11%E5%80%8B%E4%BA%A4%E6%98%93%E6%97%A5%E7%AB%99%E5%9B%9E4000%E5%85%83%E9%97%9C%E5%8D%A1-012658619.html"
    }
   },
   {
-   "kw": "wnba",
+   "kw": "永豐金",
    "traffic": "200+",
    "news": {
-    "t": "Angel Reese Trades Basketball Shorts and Sneakers for Capri Pants and Heels at Game 6 of the WNBA Finals",
-    "u": "https://www.marieclaire.com/fashion/celebrity-style/angel-reese-2026-wnba-finals-game-6-capri-pants-gucci-heels-schiaparelli/"
+    "t": "永豐金技術指標偏多- 日報",
+    "u": "https://www.ctee.com.tw/news/20261101700179-439903"
    }
   },
   {
-   "kw": "台中旅展",
-   "traffic": "200+",
+   "kw": "00406a配息",
+   "traffic": "1000+",
    "news": {
-    "t": "台中秋季旅展 主打直飛日本",
-    "u": "https://tw.news.yahoo.com/%E5%8F%B0%E4%B8%AD%E7%A7%8B%E5%AD%A3%E6%97%85%E5%B1%95-%E4%B8%BB%E6%89%93%E7%9B%B4%E9%A3%9B%E6%97%A5%E6%9C%AC-201000810.html"
-   }
-  },
-  {
-   "kw": "7-11",
-   "traffic": "100+",
-   "news": {
-    "t": "7-ELEVEN「咖啡買2送2」6款咖啡優惠10/28起快閃4天！美式、拿鐵、椰香冠軍拿鐵全都有！",
-    "u": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g74254904/7-eleven-coffee-1031/"
+    "t": "45萬股民瘋搶！「這檔」今最後上車日破發仍吸買盤 達人曝最慘恐殺到8.08元",
+    "u": "https://tw.stock.yahoo.com/news/45%E8%90%AC%E8%82%A1%E6%B0%91%E7%98%8B%E6%90%B6-%E9%80%99%E6%AA%94-%E4%BB%8A%E6%9C%80%E5%BE%8C%E4%B8%8A%E8%BB%8A%E6%97%A5%E7%A0%B4%E7%99%BC%E4%BB%8D%E5%90%B8%E8%B2%B7%E7%9B%A4-%E9%81%94%E4%BA%BA%E6%9B%9D%E6%9C%80%E6%85%98%E6%81%90%E6%AE%BA%E5%88%B08-08%E5%85%83-015000488.html"
    }
   }
  ]
