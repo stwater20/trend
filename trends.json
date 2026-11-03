@@ -1,82 +1,79 @@
 {
- "updated": "2026-11-02 10:16",
+ "updated": "2026-11-03 11:53",
  "items": [
   {
-   "kw": "台股",
-   "traffic": "10000+",
-   "news": {
-    "t": "聯發科、鴻海、群創翻紅了！台股跌幅收斂 下跌428點",
-    "u": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91-%E9%B4%BB%E6%B5%B7-%E7%BE%A4%E5%89%B5%E7%BF%BB%E7%B4%85%E4%BA%86-%E5%8F%B0%E8%82%A1%E8%B7%8C%E5%B9%85%E6%94%B6%E6%96%82-%E4%B8%8B%E8%B7%8C428%E9%BB%9E-011600324.html"
-   }
-  },
-  {
-   "kw": "黑白集",
+   "kw": "warriors vs suns",
    "traffic": "100+",
    "news": {
-    "t": "綠憂賴瑞隆不穩 柯志恩直球辯論破圈…選情轉熱",
-    "u": "https://udn.com/news/story/124652/9850767"
+    "t": "GSW injury report: Gui Santos, Al Horford and more ahead of game vs. Suns",
+    "u": "https://sports.yahoo.com/articles/gsw-injury-report-gui-santos-002006557.html"
    }
   },
   {
-   "kw": "台灣加權指數",
+   "kw": "陳水扁",
    "traffic": "200+",
    "news": {
-    "t": "TWA00 加權指數- 本週能不能有效止穩❤️等待真正的訊號出現- 股市爆料同學會",
-    "u": "https://www.cmoney.tw/forum/article/187310113"
+    "t": "歸隊幫蔣萬安拉票！陳水扁親勸「老趙快下車吧」 趙少康引經典名言巧妙回應",
+    "u": "https://tw.news.yahoo.com/%E6%AD%B8%E9%9A%8A%E5%B9%AB%E8%94%A3%E8%90%AC%E5%AE%89%E6%8B%89%E7%A5%A8-%E9%99%B3%E6%B0%B4%E6%89%81%E8%A6%AA%E5%8B%B8-%E8%80%81%E8%B6%99%E5%BF%AB%E4%B8%8B%E8%BB%8A%E5%90%A7-%E8%B6%99%E5%B0%91%E5%BA%B7%E5%BC%95%E7%B6%93%E5%85%B8%E5%90%8D%E8%A8%80%E5%B7%A7%E5%A6%99%E5%9B%9E%E6%87%89-010600561.html"
    }
   },
   {
-   "kw": "00406a",
-   "traffic": "1000+",
+   "kw": "北投市場",
+   "traffic": "500+",
+   "news": {
+    "t": "影／北投市場拆除工程鷹架倒塌造成多位民眾送醫| 社會萬象| 社會",
+    "u": "https://udn.com/news/story/7320/9853717"
+   }
+  },
+  {
+   "kw": "台 股 大 跌",
+   "traffic": "10000+",
+   "news": {
+    "t": "韓股狂飆台股卻續殺！哲哲喊逢低布局6檔全翻黑 記憶體雙雄跌逾5％",
+    "u": "https://tw.stock.yahoo.com/news/%E9%9F%93%E8%82%A1%E7%8B%82%E9%A3%86%E5%8F%B0%E8%82%A1%E5%8D%BB%E7%BA%8C%E6%AE%BA-%E5%93%B2%E5%93%B2%E5%96%8A%E9%80%A2%E4%BD%8E%E5%B8%83%E5%B1%806%E6%AA%94%E5%85%A8%E7%BF%BB%E9%BB%91-%E8%A8%98%E6%86%B6%E9%AB%94%E9%9B%99%E9%9B%84%E8%B7%8C%E9%80%BE5-025200274.html"
+   }
+  },
+  {
+   "kw": "鋼",
+   "traffic": "100+",
    "news": null
   },
   {
-   "kw": "王泉仁",
+   "kw": "76ers vs bulls",
+   "traffic": "100+",
+   "news": {
+    "t": "Full injury reports for Sixers-Bulls on Monday",
+    "u": "https://www.phillyvoice.com/sixers-injury-report-76ers-news-analysis-lebron-james-jaylen-brown-joel-embiid-dominick-barlow-nba-rumors/"
+   }
+  },
+  {
+   "kw": "快艇 對 暴龍",
+   "traffic": "500+",
+   "news": {
+    "t": "Clippers Injury Report vs. Raptors: Is Kawhi Leonard Playing in 1st Game Back in LA?",
+    "u": "https://sports.yahoo.com/articles/clippers-injury-report-vs-raptors-224123025.html"
+   }
+  },
+  {
+   "kw": "bts 演唱會",
    "traffic": "200+",
    "news": {
-    "t": "鏡爆頭條／談爺孫戀顧不上呂安妮 　王文洋摔床骨折！王泉仁貼身照料",
-    "u": "https://www.mirrormedia.mg/story/20261026ent004"
+    "t": "影／BTS直播喊想來「高雄」！ARMY神回：太多好吃的要先減肥XD",
+    "u": "https://tw.news.yahoo.com/%E5%BD%B1-bts%E7%9B%B4%E6%92%AD%E5%96%8A%E6%83%B3%E4%BE%86-%E9%AB%98%E9%9B%84-army%E7%A5%9E%E5%9B%9E-%E5%A4%AA%E5%A4%9A%E5%A5%BD%E5%90%83%E7%9A%84%E8%A6%81%E5%85%88%E6%B8%9B%E8%82%A5xd-035000346.html"
    }
   },
   {
-   "kw": "warriors vs clippers",
-   "traffic": "200+",
-   "news": {
-    "t": "How to watch Warriors vs. Clippers",
-    "u": "https://sports.yahoo.com/articles/watch-warriors-vs-clippers-214516982.html"
-   }
-  },
-  {
-   "kw": "台股指數",
-   "traffic": "2000+",
-   "news": {
-    "t": "《HKEX台股期貨》09:00，11月台股指數期貨跌21.2點，為2003.6點",
-    "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6345805001&PU=0008"
-   }
-  },
-  {
-   "kw": "聯發科股價",
+   "kw": "拓元",
    "traffic": "1000+",
    "news": {
-    "t": "聯發科法說會後慶祝行情！盤中漲155元 僅花1個交易日站回4000元關卡",
-    "u": "https://tw.stock.yahoo.com/news/%E8%81%AF%E7%99%BC%E7%A7%91%E6%B3%95%E8%AA%AA%E6%9C%83%E5%BE%8C%E6%85%B6%E7%A5%9D%E8%A1%8C%E6%83%85%EF%BC%81%E7%9B%A4%E4%B8%AD%E6%BC%B2155%E5%85%83-%E5%83%85%E8%8A%B11%E5%80%8B%E4%BA%A4%E6%98%93%E6%97%A5%E7%AB%99%E5%9B%9E4000%E5%85%83%E9%97%9C%E5%8D%A1-012658619.html"
+    "t": "阿部寬將來台出席世界首映！攜新片《幸福便利貼》登金馬影展| 娛樂",
+    "u": "https://newtalk.tw/news/view/2026-10-29/1068151"
    }
   },
   {
-   "kw": "永豐金",
-   "traffic": "200+",
-   "news": {
-    "t": "永豐金技術指標偏多- 日報",
-    "u": "https://www.ctee.com.tw/news/20261101700179-439903"
-   }
-  },
-  {
-   "kw": "00406a配息",
-   "traffic": "1000+",
-   "news": {
-    "t": "45萬股民瘋搶！「這檔」今最後上車日破發仍吸買盤 達人曝最慘恐殺到8.08元",
-    "u": "https://tw.stock.yahoo.com/news/45%E8%90%AC%E8%82%A1%E6%B0%91%E7%98%8B%E6%90%B6-%E9%80%99%E6%AA%94-%E4%BB%8A%E6%9C%80%E5%BE%8C%E4%B8%8A%E8%BB%8A%E6%97%A5%E7%A0%B4%E7%99%BC%E4%BB%8D%E5%90%B8%E8%B2%B7%E7%9B%A4-%E9%81%94%E4%BA%BA%E6%9B%9D%E6%9C%80%E6%85%98%E6%81%90%E6%AE%BA%E5%88%B08-08%E5%85%83-015000488.html"
-   }
+   "kw": "無限 都 更",
+   "traffic": "100+",
+   "news": null
   }
  ]
 }
