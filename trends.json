@@ -1,13 +1,36 @@
 {
- "updated": "2026-11-05 11:22",
+ "updated": "2026-11-06 11:19",
  "items": [
   {
-   "kw": "李四川奶昔大哥",
-   "traffic": "2000+",
+   "kw": "warriors vs heat",
+   "traffic": "200+",
    "news": {
-    "t": "李四川撞臉麥當勞「奶昔大哥雲朵包」！本人親認證：看了就回不去",
-    "u": "https://udn.com/news/story/124652/9858471"
+    "t": "Preview: the road not taken",
+    "u": "https://dubnationhq.com/p/preview-the-road-not-taken"
    }
+  },
+  {
+   "kw": "gina hinojosa",
+   "traffic": "200+",
+   "news": {
+    "t": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
+    "u": "https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html"
+   }
+  },
+  {
+   "kw": "當沖",
+   "traffic": "100+",
+   "news": null
+  },
+  {
+   "kw": "富喬",
+   "traffic": "500+",
+   "news": null
+  },
+  {
+   "kw": "台新銀行",
+   "traffic": "500+",
+   "news": null
   },
   {
    "kw": "金山電",
@@ -15,61 +38,29 @@
    "news": null
   },
   {
-   "kw": "鄧肯·羅賓森",
-   "traffic": "200+",
-   "news": {
-    "t": "Duncan Robinson's basketball renaissance would make his brother proud",
-    "u": "https://www.freep.com/story/sports/columnists/shawn-windsor/2026/11/04/duncan-robinsons-new-found-stability-detroit-pistons-to-new-hiehghts/92599322007/"
-   }
-  },
-  {
-   "kw": "8042",
-   "traffic": "100+",
+   "kw": "勇士 對 熱火",
+   "traffic": "5000+",
    "news": null
   },
   {
-   "kw": "佐佐木朗希",
-   "traffic": "500+",
+   "kw": "日月光",
+   "traffic": "200+",
+   "news": {
+    "t": "搶攻高階封裝！日月光擬砸1237億 擴展楠梓、南科園區產能",
+    "u": "https://tw.stock.yahoo.com/news/%E6%90%B6%E6%94%BB%E9%AB%98%E9%9A%8E%E5%B0%81%E8%A3%9D-%E6%97%A5%E6%9C%88%E5%85%89%E6%93%AC%E7%A0%B81237%E5%84%84-%E6%93%B4%E5%B1%95%E6%A5%A0%E6%A2%93-%E5%8D%97%E7%A7%91%E5%9C%92%E5%8D%80%E7%94%A2%E8%83%BD-100000347.html"
+   }
+  },
+  {
+   "kw": "3037",
+   "traffic": "200+",
    "news": null
   },
   {
-   "kw": "光 通訊",
-   "traffic": "500+",
-   "news": {
-    "t": "未必是美夢！邁威爾收購Lumentum市值蒸發千億美元巴隆點出特斯拉與SpaceX投資人也該警惕",
-    "u": "https://tw.stock.yahoo.com/news/%E6%9C%AA%E5%BF%85%E6%98%AF%E7%BE%8E%E5%A4%A2-%E9%82%81%E5%A8%81%E7%88%BE%E6%94%B6%E8%B3%BClumentum%E5%B8%82%E5%80%BC%E8%92%B8%E7%99%BC%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%B7%B4%E9%9A%86%E9%BB%9E%E5%87%BA%E7%89%B9%E6%96%AF%E6%8B%89%E8%88%87spacex%E6%8A%95%E8%B3%87%E4%BA%BA%E4%B9%9F%E8%A9%B2%E8%AD%A6%E6%83%95-200005297.html"
-   }
-  },
-  {
-   "kw": "國王 對 湖人",
-   "traffic": "2000+",
-   "news": {
-    "t": "NBA》東區霸主爭霸戰！四連勝76人作客三連勝活塞 誰將獨自坐上龍頭寶座？",
-    "u": "https://tw.sports.yahoo.com/news/nba-%E6%9D%B1%E5%8D%80%E9%9C%B8%E4%B8%BB%E7%88%AD%E9%9C%B8%E6%88%B0-%E5%9B%9B%E9%80%A3%E5%8B%9D76%E4%BA%BA%E4%BD%9C%E5%AE%A2%E4%B8%89%E9%80%A3%E5%8B%9D%E6%B4%BB%E5%A1%9E-%E8%AA%B0%E5%B0%87%E7%8D%A8%E8%87%AA%E5%9D%90%E4%B8%8A%E9%BE%8D%E9%A0%AD%E5%AF%B6%E5%BA%A7-064940074.html"
-   }
-  },
-  {
-   "kw": "肯里奇·威廉斯",
+   "kw": "兆豐",
    "traffic": "200+",
    "news": {
-    "t": "[流言板]亚历山大次节4中0得到1分，半场12中3得到10分2篮板6助攻",
-    "u": "https://bbs.hupu.com/643650580.html"
-   }
-  },
-  {
-   "kw": "台股大跌",
-   "traffic": "200+",
-   "news": {
-    "t": "杜金龍不怕血洗抄底3檔！大咖分析師急喊 崩盤才剛開始",
-    "u": "https://tw.stock.yahoo.com/news/%E6%9D%9C%E9%87%91%E9%BE%8D%E4%B8%8D%E6%80%95%E8%A1%80%E6%B4%97%E6%8A%84%E5%BA%953%E6%AA%94-%E5%A4%A7%E5%92%96%E5%88%86%E6%9E%90%E5%B8%AB%E6%80%A5%E5%96%8A-%E5%B4%A9%E7%9B%A4%E6%89%8D%E5%89%9B%E9%96%8B%E5%A7%8B-021631638.html"
-   }
-  },
-  {
-   "kw": "taiex",
-   "traffic": "100+",
-   "news": {
-    "t": "TAIEX swings nearly 1,900 points",
-    "u": "https://www.taiwannews.com.tw/en/news/6472079"
+    "t": "貸款收據寄錯人！兆豐銀遭金管會開罰200萬　公司回應了",
+    "u": "https://finance.ettoday.net/news/3266703"
    }
   }
  ]
