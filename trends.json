@@ -1,66 +1,78 @@
 {
- "updated": "2026-11-06 11:19",
+ "updated": "2026-11-07 10:38",
  "items": [
   {
-   "kw": "warriors vs heat",
+   "kw": "國王 對 馬刺",
    "traffic": "200+",
    "news": {
-    "t": "Preview: the road not taken",
-    "u": "https://dubnationhq.com/p/preview-the-road-not-taken"
+    "t": "NBA》斑馬來勢洶洶！NBA盃小組賽第2戰 6連勝馬刺踢館西區後段班國王",
+    "u": "https://tw.sports.yahoo.com/news/nba-%E6%96%91%E9%A6%AC%E4%BE%86%E5%8B%A2%E6%B4%B6%E6%B4%B6-nba%E7%9B%83%E5%B0%8F%E7%B5%84%E8%B3%BD%E7%AC%AC2%E6%88%B0-6%E9%80%A3%E5%8B%9D%E9%A6%AC%E5%88%BA%E8%B8%A2%E9%A4%A8%E8%A5%BF%E5%8D%80%E5%BE%8C%E6%AE%B5%E7%8F%AD%E5%9C%8B%E7%8E%8B-092908424.html"
    }
   },
   {
-   "kw": "gina hinojosa",
+   "kw": "陳瑩",
    "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "湖人 對 拓荒者",
+   "traffic": "1000+",
    "news": {
-    "t": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
-    "u": "https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html"
+    "t": "NBA》甜蜜主場再戰黑馬拓荒者！湖人迎復仇之戰 迎擊聯盟第一火力",
+    "u": "https://tw.sports.yahoo.com/news/nba-%E7%94%9C%E8%9C%9C%E4%B8%BB%E5%A0%B4%E5%86%8D%E6%88%B0%E9%BB%91%E9%A6%AC%E6%8B%93%E8%8D%92%E8%80%85-%E6%B9%96%E4%BA%BA%E8%BF%8E%E5%BE%A9%E4%BB%87%E4%B9%8B%E6%88%B0-%E8%BF%8E%E6%93%8A%E8%81%AF%E7%9B%9F%E7%AC%AC-%E7%81%AB%E5%8A%9B-102541861.html"
    }
   },
   {
-   "kw": "當沖",
+   "kw": "vj·埃奇庫姆",
+   "traffic": "200+",
+   "news": null
+  },
+  {
+   "kw": "cavaliers vs 76ers",
+   "traffic": "200+",
+   "news": {
+    "t": "Sixers' Dean Wade raves about LeBron James' 'otherworldly' basketball IQ: 'It doesn't feel real'",
+    "u": "https://www.phillyvoice.com/sixers-news-76ers-analysis-lebron-james-iq-highlights-dean-wade-interview-nba-scores-schedule-rumors-cle/"
+   }
+  },
+  {
+   "kw": "獨行俠 對 爵士",
+   "traffic": "500+",
+   "news": {
+    "t": "Preview: Utah Jazz Kick off NBA Cup Play Against the Dallas Mavericks",
+    "u": "https://www.nba.com/jazz/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks"
+   }
+  },
+  {
+   "kw": "公鹿 對 暴龍",
+   "traffic": "500+",
+   "news": {
+    "t": "Raptors' Immanuel Quickley, Scottie Barnes out vs. Bucks",
+    "u": "https://www.sportsnet.ca/nba/article/raptors-immanuel-quickley-scottie-barnes-questionable-vs-bucks/"
+   }
+  },
+  {
+   "kw": "林得恩",
+   "traffic": "2000+",
+   "news": {
+    "t": "查帕卡颱風最快今生成 有望轉中颱 專家曝影響台日機率",
+    "u": "https://udn.com/news/story/7266/9863175"
+   }
+  },
+  {
+   "kw": "灰熊 對 雷霆",
+   "traffic": "1000+",
+   "news": {
+    "t": "NBA常规赛：孟菲斯灰熊VS俄克拉荷马城雷霆",
+    "u": "https://lq.7m.com.cn/news/20261106/283541.shtml"
+   }
+  },
+  {
+   "kw": "新社花海",
    "traffic": "100+",
-   "news": null
-  },
-  {
-   "kw": "富喬",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "台新銀行",
-   "traffic": "500+",
-   "news": null
-  },
-  {
-   "kw": "金山電",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "勇士 對 熱火",
-   "traffic": "5000+",
-   "news": null
-  },
-  {
-   "kw": "日月光",
-   "traffic": "200+",
    "news": {
-    "t": "搶攻高階封裝！日月光擬砸1237億 擴展楠梓、南科園區產能",
-    "u": "https://tw.stock.yahoo.com/news/%E6%90%B6%E6%94%BB%E9%AB%98%E9%9A%8E%E5%B0%81%E8%A3%9D-%E6%97%A5%E6%9C%88%E5%85%89%E6%93%AC%E7%A0%B81237%E5%84%84-%E6%93%B4%E5%B1%95%E6%A5%A0%E6%A2%93-%E5%8D%97%E7%A7%91%E5%9C%92%E5%8D%80%E7%94%A2%E8%83%BD-100000347.html"
-   }
-  },
-  {
-   "kw": "3037",
-   "traffic": "200+",
-   "news": null
-  },
-  {
-   "kw": "兆豐",
-   "traffic": "200+",
-   "news": {
-    "t": "貸款收據寄錯人！兆豐銀遭金管會開罰200萬　公司回應了",
-    "u": "https://finance.ettoday.net/news/3266703"
+    "t": "2026台中國際花毯節空拍宣傳影片絕美上線！跟著三麗鷗明星走進新社「甜點王國」",
+    "u": "https://www.taichung.gov.tw/3409029/post"
    }
   }
  ]
