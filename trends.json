@@ -1,12 +1,35 @@
 {
- "updated": "2026-11-08 19:21",
- "updated_iso": "2026-11-08T19:21+08:00",
+ "updated": "2026-11-09 01:57",
+ "updated_iso": "2026-11-09T01:57+08:00",
  "items": [
   {
    "kw": "勇士 對 魔術",
    "traffic": "2000+",
    "news": [],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "曼聯 對 阿斯頓維拉",
+   "traffic": "1000+",
+   "start": "2026-11-09T00:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJeoqqXMJ7qD7JgoFthVo60sOBfXjJ8r5UhOuNUzgb4vnQv1su4UKrt9BW5Zk",
+   "news": [
+    {
+     "t": "英超》曼聯跌入降級區 前9戰僅1勝陷保級危機",
+     "u": "https://tw.sports.yahoo.com/news/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E8%B7%8C%E5%85%A5%E9%99%8D%E7%B4%9A%E5%8D%80-%E5%89%8D9%E6%88%B0%E5%83%851%E5%8B%9D%E9%99%B7%E4%BF%9D%E7%B4%9A%E5%8D%B1%E6%A9%9F-034255544.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "艾舒利楊格：根夏積遜入波鬥法",
+     "u": "https://hk.on.cc/hk/bkn/cnt/sport/20261107/bkn-20261107233017360-1107_00882_001.html",
+     "s": "on.cc東網"
+    },
+    {
+     "t": "曼聯迎戰維拉卡域克帥位保衛戰- 體育",
+     "u": "https://epaper.tkww.hk/a/202611/08/AP6aef8747e4b0bcb39b185eca.html",
+     "s": "大公文匯網"
+    }
+   ]
   },
   {
    "kw": "勇士",
@@ -66,6 +89,59 @@
    ]
   },
   {
+   "kw": "又一村事件",
+   "traffic": "500+",
+   "start": "2026-11-09T01:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz3AwCoVwi6fvchn_grTUAIhl6kd0mu5m-fF0HOfbkne9fR2vcCLpPOe4CFLY",
+   "news": [
+    {
+     "t": "王鴻薇否認對又一村講「再大聲一點」！反擊謝金河：你幻聽了嗎",
+     "u": "https://tw.news.yahoo.com/%E7%8E%8B%E9%B4%BB%E8%96%87%E5%90%A6%E8%AA%8D%E5%B0%8D%E5%8F%88-%E6%9D%91%E8%AC%9B-%E5%86%8D%E5%A4%A7%E8%81%B2-%E9%BB%9E-%E5%8F%8D%E6%93%8A%E8%AC%9D%E9%87%91%E6%B2%B3-154700667.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "蔣萬安不認霸凌又一村 張禹宣貼影片「噓聲超大」：這不叫出征？",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5633895",
+     "s": "自由時報"
+    },
+    {
+     "t": "台北市長選戰／「霸凌」挺綠店家？蔣萬安：一向友善互動可接受檢驗",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=242543",
+     "s": "Rti 中央廣播電臺"
+    }
+   ]
+  },
+  {
+   "kw": "愛爾達",
+   "traffic": "500+",
+   "start": "2026-11-09T01:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "蔣友柏",
+   "traffic": "500+",
+   "start": "2026-11-09T00:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qpXtDWRpMboZmy2p6mYvQcbvgH5Zcq2qriU8hDFlJKgpt1eP2vNzy7O-MJ0",
+   "news": [
+    {
+     "t": "跟進嗎？沈伯洋鬆口想邀蔣友柏　蔣萬安：尊重",
+     "u": "https://www.setn.com/news/1935420",
+     "s": "三立新聞網SETN.com"
+    },
+    {
+     "t": "沈伯洋真的要出手？傳將拜會宋楚瑜、黃珊珊、蔣友柏 本人這樣說",
+     "u": "https://www.ftvnews.com.tw/news/detail/2026B08W0447",
+     "s": "民視新聞網"
+    },
+    {
+     "t": "沈伯洋談跨黨派交流 劉品妡：跨領域請益讓市政聽見基層聲音 | 自由電子報",
+     "u": "https://today.line.me/tw/v3/article/eLpRNMx",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
    "kw": "英特爾",
    "traffic": "500+",
    "news": [
@@ -86,6 +162,98 @@
     }
    ],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "f1 線上看",
+   "traffic": "200+",
+   "start": "2026-11-09T01:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe7e58QPC0SVSJ5OSMqL-5ObUCDY69xEYOWf99hkcn2EL7C31NIJNQJ_b1UAo",
+   "news": [
+    {
+     "t": "São Paulo Grand Prix: Formula One 2026 – live",
+     "u": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
+     "s": "The Guardian"
+    },
+    {
+     "t": "Sao Paulo Grand Prix: Lando Norris and George Russell hoping for more rain in race after wet qualifying",
+     "u": "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
+     "s": "BBC"
+    },
+    {
+     "t": "What are the tyre strategy options for the Sao Paulo GP?",
+     "u": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
+     "s": "Formula 1"
+    }
+   ]
+  },
+  {
+   "kw": "國安基金護盤名單",
+   "traffic": "200+",
+   "start": "2026-11-09T00:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS802uMrwNwDeFiuqgTFZagTwF9GellEDTtHFntPtwaF2oyHDswIKdyUQNvXmQ",
+   "news": [
+    {
+     "t": "國安基金進場台股穩了嗎？分析師揭「第13天反攻密碼」 點名二檔融資減、法人逆勢加碼股- 證券",
+     "u": "https://www.ctee.com.tw/news/20261108700255-430201",
+     "s": "工商時報"
+    },
+    {
+     "t": "國安基金啟動護盤看「它」臉色 台股興衰與「這指數」連動",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5633948",
+     "s": "自由財經"
+    },
+    {
+     "t": "外資狂提款1.5兆大盤驚入熊市！國安基金宣布第10次護盤「盤點大盤5天、1個月勝率」15檔官股穩盤名單最吸金- 上市櫃",
+     "u": "https://wantrich.chinatimes.com/news/20261108900038-420101",
+     "s": "旺得富理財網"
+    }
+   ]
+  },
+  {
+   "kw": "แมนยู พบ แอสตันวิลลา",
+   "traffic": "200+",
+   "start": "2026-11-09T00:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-SV3Zuzj9WjpcX6MJ5nyP5qufcxKroicRy_Qii5hsHJnbGxoPDVc9qI_uq64",
+   "news": [
+    {
+     "t": "สถิติไม่น่าจดจำ เผย แมนยู ร่วงไปอยู่โซนตกชั้นครั้งแรกรอบ 40 ปี | Khaosod",
+     "u": "https://today.line.me/th/v3/article/GgNwNw5",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "MU ควรหาโค้ชที่มีแนวทางการทำงานที่สอดคล้องกับความเป็นจริงอย่างเช่น Emery",
+     "u": "https://www.vietnam.vn/th/mu-nen-tim-kiem-mot-hlv-thuc-chien-nhu-emery",
+     "s": "Vietnam.vn"
+    },
+    {
+     "t": "มาแล้ว รายชื่อ 11 ตัวจริงแมนยู พบ วิลล่า ศึกพรีเมียร์ลีก บอลวันนี้ 23.30 น.",
+     "u": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971224",
+     "s": "www.thairath.co.th"
+    }
+   ]
+  },
+  {
+   "kw": "gta6",
+   "traffic": "200+",
+   "start": "2026-11-09T00:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk249MDEeYsamkE71yKC0ECdZNDRlGbRKQe3_RZaj1uwDwCU1bTkE0XNFdCZM",
+   "news": [
+    {
+     "t": "Grand Theft Auto VI Pre-Load Begins on November 10",
+     "u": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=twitter&amp;utm_medium=o_social&amp;utm_campaign=gtavi_announcement_pre-load-20261103",
+     "s": "Rockstar Games"
+    },
+    {
+     "t": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
+     "u": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
+     "s": "Charter Communications"
+    },
+    {
+     "t": "How to play 'GTA 6' a day before everyone else in the U.S.",
+     "u": "https://mashable.com/entertainment/gta-6-how-to-play-one-day-early",
+     "s": "Mashable"
+    }
+   ]
   },
   {
    "kw": "張啟楷",
@@ -252,6 +420,52 @@
    ]
   },
   {
+   "kw": "man utd đấu với aston villa",
+   "traffic": "100+",
+   "start": "2026-11-09T00:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGK5cjEL7ReKiGCtfK-Gct722_rRgitHpEuB8ttRoHk5mpoUbAFzlpRfdPkTI",
+   "news": [
+    {
+     "t": "Trực tiếp bóng đá MU - Aston Villa: Fernandes rút ngắn cách biệt (Ngoại hạng Anh)",
+     "u": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-aston-villa-quy-do-phai-gianh-3-diem-ngoai-hang-anh-c48a1809405.html",
+     "s": "Tin tức 24h"
+    },
+    {
+     "t": "Sức trẻ có thể là điểm khác biệt của Man United",
+     "u": "https://laodong.vn/bong-da-quoc-te/suc-tre-co-the-la-diem-khac-biet-cua-man-united-1796843.ldo",
+     "s": "Laodong.vn"
+    },
+    {
+     "t": "Gary Neville cảnh báo Michael Carrick trước trận gặp Aston Villa",
+     "u": "https://bongda24h.vn/bong-da-anh/gary-neville-canh-bao-michael-carrick-truoc-tran-gap-aston-villa-172-464323.html",
+     "s": "Bongda24h"
+    }
+   ]
+  },
+  {
+   "kw": "巴西大獎賽",
+   "traffic": "100+",
+   "start": "2026-11-09T00:30+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz37t9ihUGe-m-kufBXx8HAm1caJ2ALk7yO8V9E7d2BVsV0pZ-XqKyZv5sr0M",
+   "news": [
+    {
+     "t": "F1》巴西站提前鎖定未來賽程 聖保羅大獎賽續約至2035年 | TSNA",
+     "u": "https://today.line.me/tw/v3/article/gzpRmZg",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "盤點 F1 巴西站 5 大經典時刻",
+     "u": "https://www.lightsout.cc/5-sao-paulo-gp-classic-moments",
+     "s": "Lightsout.cc"
+    },
+    {
+     "t": "F1一級方程式賽車宣布 與巴西聖保羅站續約至2035年",
+     "u": "https://sport.ftvnews.com.tw/news/detail/2026B07W0627",
+     "s": "民視運動網"
+    }
+   ]
+  },
+  {
    "kw": "林庭謙",
    "traffic": "100+",
    "start": "2026-11-08T19:00+08:00",
@@ -271,138 +485,51 @@
    "start": "2026-11-08T18:40+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "塔里克·史庫柏",
-   "traffic": "100+",
-   "start": "2026-11-08T18:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQinZsfrqMnzbhJ-5tJPBINJz2PK7CVL5qi-eHDv4j2EZVfsS1Hxwx4Ao0A0m0",
-   "news": [
-    {
-     "t": "「自由市場初探-投手篇part1」 - MLB - 棒球",
-     "u": "https://www.sportsv.net/articles/129360",
-     "s": "運動視界Sports Vision"
-    },
-    {
-     "t": "道奇隊預計不會給史庫柏超越3.25億美元天價合約　有信心留下王牌",
-     "u": "https://www.nownews.com/news/6890353",
-     "s": "NOWnews今日新聞"
-    },
-    {
-     "t": "MLB》自由市場最夯球員！兩屆賽揚王牌Skubal爭奪戰 道奇、大都會正面對決 | TSNA",
-     "u": "https://today.line.me/tw/v3/article/MLB7ODw",
-     "s": "LINE TODAY"
-    }
-   ]
-  },
-  {
-   "kw": "屏東聖誕節",
-   "traffic": "100+",
-   "start": "2026-11-08T18:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "勇士直播",
-   "traffic": "100+",
-   "start": "2026-11-08T11:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSujXLLrJmARy65oump-zJRJ6MsaLD8kH1XllwowGm2ZJdjhz-cLNMWDjqv0lo",
-   "news": [
-    {
-     "t": "能否迎来7连胜？ESPN明日胜率预测：勇士62.5%占优 魔术为37.5%",
-     "u": "https://sports.sina.cn/nba/other/2026-11-07/detail-inixxcwa4896761.d.html?vt=4",
-     "s": "新浪网"
-    },
-    {
-     "t": "[流言板]库里反跑接格林助攻打进首节3中3拿到7分，格林5分钟送5助攻",
-     "u": "https://m.hupu.com/bbs/643751073",
-     "s": "虎扑体育"
-    },
-    {
-     "t": "德雷蒙德·格林能上场吗？勇士对阵魔术伤病报告",
-     "u": "https://m.sohu.com/a/1098623712_120753534?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "搜狐网"
-    }
-   ]
-  },
-  {
-   "kw": "geng vs ig",
-   "traffic": "100+",
-   "start": "2026-11-08T10:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnWk-AgpNwOXjeJBc_R-TZzHdLxD5xkuq_8mviTx70RNTP18LSQTyDZZwwm0",
-   "news": [
-    {
-     "t": "Sources: Feisty set to join GIANTX in the LEC after Worlds campaign with LOS",
-     "u": "https://www.sheepesports.com/en/articles/sources-feisty-reaches-verbal-agreement-with-giantx/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "Worlds 2026: Gen.G vs Invictus Gaming - Finally the good occasion?",
-     "u": "https://www.sheepesports.com/en/articles/worlds-2026-gen-g-vs-invictus-gaming-a-semifinal-with-history-at-stake/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "Sources: Jinggg set to join All Gamers for 2027 VCT China season",
-     "u": "https://www.sheepesports.com/en/articles/sources-jinggg-set-to-join-all-gamers-for-2027-vct-china-season/en",
-     "s": "Sheep Esports"
-    }
-   ]
-  },
-  {
-   "kw": "aj·迪班薩",
-   "traffic": "100+",
-   "start": "2026-11-08T10:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQVxr4kOfXPqg5EEHZRSpFQiRy-zDfogkm0cOxoZU6Ha54HJ6CIM2kZA1Nq6o",
-   "news": [
-    {
-     "t": "奇才132-139不敌老鹰 迪班萨13投3中得11分9板",
-     "u": "https://lq.7m.com.cn/news/20261107/283560.shtml",
-     "s": "7M体育"
-    },
-    {
-     "t": "[流言板]AJ-迪班萨本赛季场均得到15.4分5.8篮板2.2助攻1.6抢断",
-     "u": "https://m.hupu.com/bbs/643716565.html",
-     "s": "虎扑体育网"
-    },
-    {
-     "t": "迪班萨位列新秀榜第五，场均16.5分5篮板",
-     "u": "https://m.dongqiudi.com/article/6617579.html",
-     "s": "懂球帝"
-    }
-   ]
-  },
-  {
-   "kw": "wta年終總決賽",
-   "traffic": "100+",
-   "start": "2026-11-08T10:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCk96-Y91sYhmt-WIlUtX2YckC4DDhwRz0YPY2jzSVRIbtAyMPngi1xyDWhQA",
-   "news": [
-    {
-     "t": "網球》世界球后萊巴金娜因病退出WTA年終總決賽 無緣挑戰衛冕",
-     "u": "https://tw.sports.yahoo.com/news/%E7%B6%B2%E7%90%83-%E4%B8%96%E7%95%8C%E7%90%83%E5%90%8E%E8%90%8A%E5%B7%B4%E9%87%91%E5%A8%9C%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BAwta%E5%B9%B4%E7%B5%82%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%84%A1%E7%B7%A3%E6%8C%91%E6%88%B0%E8%A1%9B%E5%86%95-021800684.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "WTA年終賽球后Elena Rybakina退賽 總監強調陣容依舊頂尖 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/60oLQ0X",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "網球／不拚衛冕了 世界第1芮芭奇娜退出WTA年終賽",
-     "u": "https://www.worldjournal.com/wj/story/121229/9864533",
-     "s": "世界新聞網"
-    }
-   ]
-  },
-  {
-   "kw": "謝祖武",
-   "traffic": "100+",
-   "start": "2026-11-08T09:30+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
+  "2026-11-09": [
+   {
+    "kw": "曼聯 對 阿斯頓維拉",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "又一村事件",
+    "traffic": "500+"
+   },
+   {
+    "kw": "愛爾達",
+    "traffic": "500+"
+   },
+   {
+    "kw": "蔣友柏",
+    "traffic": "500+"
+   },
+   {
+    "kw": "f1 線上看",
+    "traffic": "200+"
+   },
+   {
+    "kw": "國安基金護盤名單",
+    "traffic": "200+"
+   },
+   {
+    "kw": "แมนยู พบ แอสตันวิลลา",
+    "traffic": "200+"
+   },
+   {
+    "kw": "gta6",
+    "traffic": "200+"
+   },
+   {
+    "kw": "man utd đấu với aston villa",
+    "traffic": "100+"
+   },
+   {
+    "kw": "巴西大獎賽",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-08": [
    {
     "kw": "勇士 對 魔術",
@@ -692,48 +819,6 @@
    },
    {
     "kw": "無限 都 更",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-02": [
-   {
-    "kw": "台股",
-    "traffic": "10000+"
-   },
-   {
-    "kw": "台股指數",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "00406a",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "聯發科股價",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "00406a配息",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "台灣加權指數",
-    "traffic": "200+"
-   },
-   {
-    "kw": "王泉仁",
-    "traffic": "200+"
-   },
-   {
-    "kw": "warriors vs clippers",
-    "traffic": "200+"
-   },
-   {
-    "kw": "永豐金",
-    "traffic": "200+"
-   },
-   {
-    "kw": "黑白集",
     "traffic": "100+"
    }
   ]
