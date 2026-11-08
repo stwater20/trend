@@ -1,12 +1,42 @@
 {
- "updated": "2026-11-09 01:57",
- "updated_iso": "2026-11-09T01:57+08:00",
+ "updated": "2026-11-09 06:14",
+ "updated_iso": "2026-11-09T06:14+08:00",
  "items": [
+  {
+   "kw": "股票",
+   "traffic": "2000+",
+   "start": "2026-11-09T05:50+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwr2c0LSLOW-sM_Bmj8PgW4fh8eUc7fG4OtoOaqbtWI87B7SS41Q7255jgrc",
+   "news": [
+    {
+     "t": "國安基金第10次進場救市！別急著抄底：周代運揭護盤選股密碼",
+     "u": "https://tw.news.yahoo.com/%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E7%AC%AC10%E6%AC%A1%E9%80%B2%E5%A0%B4%E6%95%91%E5%B8%82-%E5%88%A5%E6%80%A5%E8%91%97%E6%8A%84%E5%BA%95-%E5%91%A8%E4%BB%A3%E9%81%8B%E6%8F%AD%E8%AD%B7%E7%9B%A4%E9%81%B8%E8%82%A1%E5%AF%86%E7%A2%BC-193300260.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "政策護盤 台股反攻拚回4萬點",
+     "u": "https://udn.com/news/story/7251/9865691",
+     "s": "UDN"
+    },
+    {
+     "t": "護駕到資本市場有底氣》銜命穩市公股銀：逢低加碼- 日報",
+     "u": "https://www.ctee.com.tw/news/20261109700044-439901",
+     "s": "工商時報"
+    }
+   ]
+  },
   {
    "kw": "勇士 對 魔術",
    "traffic": "2000+",
    "news": [],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "股災",
+   "traffic": "1000+",
+   "start": "2026-11-09T05:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "曼聯 對 阿斯頓維拉",
@@ -89,6 +119,29 @@
    ]
   },
   {
+   "kw": "生肖",
+   "traffic": "500+",
+   "start": "2026-11-09T05:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXBXRG5fNzyQ3_Es2Ywnw2HIXeLa2IgCyMZvbfO8iRM04gmYpVKVahgYG4Qg",
+   "news": [
+    {
+     "t": "逆轉勝！「3生肖」年底前大翻身 命理師：第1名有望升官加薪",
+     "u": "https://tw.news.yahoo.com/%E9%80%86%E8%BD%89%E5%8B%9D-3%E7%94%9F%E8%82%96-%E5%B9%B4%E5%BA%95%E5%89%8D%E5%A4%A7%E7%BF%BB%E8%BA%AB-%E5%91%BD%E7%90%86%E5%B8%AB-%E7%AC%AC1%E5%90%8D%E6%9C%89%E6%9C%9B%E5%8D%87%E5%AE%98%E5%8A%A0%E8%96%AA-042600473.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "雨揚老師》11/08~11/14本週運勢：馬、鼠、虎運勢最佳| 生活",
+     "u": "https://newtalk.tw/news/view/2026-11-08/1068724",
+     "s": "Newtalk新聞"
+    },
+    {
+     "t": "3生肖命中注定榮華富貴！敢衝耐操抗壓性強， 很多大老闆都上榜",
+     "u": "https://www.storm.mg/lifestyle/11178321",
+     "s": "風傳媒"
+    }
+   ]
+  },
+  {
    "kw": "又一村事件",
    "traffic": "500+",
    "start": "2026-11-09T01:30+08:00",
@@ -162,6 +215,75 @@
     }
    ],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "金融",
+   "traffic": "200+",
+   "start": "2026-11-09T06:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR3QyP-L4tGB05VbHgtzILl5y14pwYIaLL4N43358YQuQmSjxKYF-l51PJECE",
+   "news": [
+    {
+     "t": "Claude can now analyze your spending with its new Personal Finance tool",
+     "u": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+     "s": "TechCrunch"
+    },
+    {
+     "t": "Anthropic rolls out personal finance feature for Claude",
+     "u": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/",
+     "s": "Reuters"
+    },
+    {
+     "t": "Now Claude Can Help With Your Finances Too",
+     "u": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
+     "s": "Engadget"
+    }
+   ]
+  },
+  {
+   "kw": "atlético madrid vs barcelona",
+   "traffic": "200+",
+   "start": "2026-11-09T05:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ4iOYnByHErEn1i-vz2oprvmn39CplEvso4LCbKqMYyifUvyBiK0PvS91EM",
+   "news": [
+    {
+     "t": "Atlético - Barcelona, hoy en directo | Última hora de LaLiga EA Sports en vivo",
+     "u": "https://www.marca.com/futbol/laliga-ea-sports/atletico-barcelona/2026/11/08/01_0101_20261108_175_178-directo.html",
+     "s": "MARCA"
+    },
+    {
+     "t": "¡Pase de frente fantástico, despejado! Lee Kang-in desgarra la defensa del Barcelona con un 'pase clave que origina el gol inicial'... El Atlético de Madrid, igualado 1-1 al descanso",
+     "u": "https://www.starnewskorea.com/es/sports/2026/11/09/2026110905512318092",
+     "s": "스타뉴스"
+    },
+    {
+     "t": "«Imitó su baile»: Griezmann reacciona con entusiasmo al gol de Giuliano Simeone en la portería del Barcelona",
+     "u": "https://es-us.noticias.yahoo.com/deportes/imit%C3%B3-baile-griezmann-reacciona-entusiasmo-205907165.html",
+     "s": "Yahoo"
+    }
+   ]
+  },
+  {
+   "kw": "thứ hạng của man utd gặp aston villa",
+   "traffic": "200+",
+   "start": "2026-11-09T05:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeHNz4eauZeFxsEUEGclYJbRJI7UBMVUFe4AS9lciReL3kyVgQUdMvuGj3-hI",
+   "news": [
+    {
+     "t": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
+     "u": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
+     "s": "yeuthethao.net.vn"
+    },
+    {
+     "t": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ",
+     "u": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110904123635758",
+     "s": "스타뉴스"
+    },
+    {
+     "t": "Man Utd thoát hiểm khó tin ở Ngoại hạng Anh",
+     "u": "https://vnexpress.net/man-utd-thoat-hiem-kho-tin-o-ngoai-hang-anh-5142238.html",
+     "s": "VnExpress"
+    }
+   ]
   },
   {
    "kw": "f1 線上看",
@@ -395,102 +517,20 @@
      "s": "NBA.com"
     }
    ]
-  },
-  {
-   "kw": "彭双浪",
-   "traffic": "200+",
-   "start": "2026-11-08T09:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCLjezR32L3l5SKllTzh5L6lw9VN439OgPTc0RlvDOavITzaysaFNXCvcHtI",
-   "news": [
-    {
-     "t": "友達跨入CPO 市場期待跑太快？ 轉型成敗看三大關卡- 產業",
-     "u": "https://www.ctee.com.tw/news/20261108700011-430502",
-     "s": "工商時報"
-    },
-    {
-     "t": "面板雙虎開盤一度雙跌停！友達、群創能撿便宜？分析師：仍可分批布局",
-     "u": "https://tw.stock.yahoo.com/news/%E9%9D%A2%E6%9D%BF%E9%9B%99%E8%99%8E%E9%96%8B%E7%9B%A4%E4%B8%80%E5%BA%A6%E9%9B%99%E8%B7%8C%E5%81%9C%EF%BC%81%E5%8F%8B%E9%81%94%E3%80%81%E7%BE%A4%E5%89%B5%E8%83%BD%E6%92%BF%E4%BE%BF%E5%AE%9C%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%BB%8D%E5%8F%AF%E5%88%86%E6%89%B9%E5%B8%83%E5%B1%80-014901359.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "197億元賣廠案告吹！友達慘摔34％ 「2字頭」能撿？金控投顧說話了最新目標價、評等1次看- 上市櫃",
-     "u": "https://wantrich.chinatimes.com/news/20261104900072-420101",
-     "s": "旺得富理財網"
-    }
-   ]
-  },
-  {
-   "kw": "man utd đấu với aston villa",
-   "traffic": "100+",
-   "start": "2026-11-09T00:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGK5cjEL7ReKiGCtfK-Gct722_rRgitHpEuB8ttRoHk5mpoUbAFzlpRfdPkTI",
-   "news": [
-    {
-     "t": "Trực tiếp bóng đá MU - Aston Villa: Fernandes rút ngắn cách biệt (Ngoại hạng Anh)",
-     "u": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-mu-aston-villa-quy-do-phai-gianh-3-diem-ngoai-hang-anh-c48a1809405.html",
-     "s": "Tin tức 24h"
-    },
-    {
-     "t": "Sức trẻ có thể là điểm khác biệt của Man United",
-     "u": "https://laodong.vn/bong-da-quoc-te/suc-tre-co-the-la-diem-khac-biet-cua-man-united-1796843.ldo",
-     "s": "Laodong.vn"
-    },
-    {
-     "t": "Gary Neville cảnh báo Michael Carrick trước trận gặp Aston Villa",
-     "u": "https://bongda24h.vn/bong-da-anh/gary-neville-canh-bao-michael-carrick-truoc-tran-gap-aston-villa-172-464323.html",
-     "s": "Bongda24h"
-    }
-   ]
-  },
-  {
-   "kw": "巴西大獎賽",
-   "traffic": "100+",
-   "start": "2026-11-09T00:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz37t9ihUGe-m-kufBXx8HAm1caJ2ALk7yO8V9E7d2BVsV0pZ-XqKyZv5sr0M",
-   "news": [
-    {
-     "t": "F1》巴西站提前鎖定未來賽程 聖保羅大獎賽續約至2035年 | TSNA",
-     "u": "https://today.line.me/tw/v3/article/gzpRmZg",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "盤點 F1 巴西站 5 大經典時刻",
-     "u": "https://www.lightsout.cc/5-sao-paulo-gp-classic-moments",
-     "s": "Lightsout.cc"
-    },
-    {
-     "t": "F1一級方程式賽車宣布 與巴西聖保羅站續約至2035年",
-     "u": "https://sport.ftvnews.com.tw/news/detail/2026B07W0627",
-     "s": "民視運動網"
-    }
-   ]
-  },
-  {
-   "kw": "林庭謙",
-   "traffic": "100+",
-   "start": "2026-11-08T19:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "f-16戰隼戰鬥機",
-   "traffic": "100+",
-   "start": "2026-11-08T19:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "工資",
-   "traffic": "100+",
-   "start": "2026-11-08T18:40+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
   "2026-11-09": [
    {
+    "kw": "股票",
+    "traffic": "2000+"
+   },
+   {
     "kw": "曼聯 對 阿斯頓維拉",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "股災",
     "traffic": "1000+"
    },
    {
@@ -503,6 +543,10 @@
    },
    {
     "kw": "蔣友柏",
+    "traffic": "500+"
+   },
+   {
+    "kw": "生肖",
     "traffic": "500+"
    },
    {
@@ -519,6 +563,18 @@
    },
    {
     "kw": "gta6",
+    "traffic": "200+"
+   },
+   {
+    "kw": "金融",
+    "traffic": "200+"
+   },
+   {
+    "kw": "atlético madrid vs barcelona",
+    "traffic": "200+"
+   },
+   {
+    "kw": "thứ hạng của man utd gặp aston villa",
     "traffic": "200+"
    },
    {

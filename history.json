@@ -2,7 +2,15 @@
  "days": {
   "2026-11-09": [
    {
+    "kw": "股票",
+    "traffic": "2000+"
+   },
+   {
     "kw": "曼聯 對 阿斯頓維拉",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "股災",
     "traffic": "1000+"
    },
    {
@@ -15,6 +23,10 @@
    },
    {
     "kw": "蔣友柏",
+    "traffic": "500+"
+   },
+   {
+    "kw": "生肖",
     "traffic": "500+"
    },
    {
@@ -31,6 +43,18 @@
    },
    {
     "kw": "gta6",
+    "traffic": "200+"
+   },
+   {
+    "kw": "金融",
+    "traffic": "200+"
+   },
+   {
+    "kw": "atlético madrid vs barcelona",
+    "traffic": "200+"
+   },
+   {
+    "kw": "thứ hạng của man utd gặp aston villa",
     "traffic": "200+"
    },
    {
