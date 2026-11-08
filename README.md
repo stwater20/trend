@@ -23,9 +23,13 @@
 
 | 功能 | 說明 |
 |------|------|
-| ⚡ 每日更新 | GitHub Actions 每天自動抓取 Google Trends 台灣熱搜並更新資料 |
+| ⚡ 每小時更新 | GitHub Actions 每小時抓取 Google Trends 台灣熱搜，累積 24 小時內上榜的關鍵字 |
+| 🖼️ 圖文卡片 | 前三名大圖卡、每個關鍵字附新聞縮圖與最多 3 則相關新聞 |
+| 🗓️ 7 天回顧 | 錯過的熱搜一鍵回看（`history.json`） |
+| 🔎 搜尋與排序 | 依熱度或最新排序、即時篩選關鍵字 |
+| 🚀 SEO 預渲染 | 每次更新把熱搜寫進 `index.html` 標題、描述與結構化資料，並更新 `sitemap.xml` |
 | 🌗 深淺色模式 | 一鍵切換，自動記住偏好，預設跟隨系統設定 |
-| 📤 社群分享 | Facebook、Threads、Instagram（手機原生分享）、複製連結 |
+| 📤 社群分享 | 原生分享、Threads、Facebook、LINE，也能單獨分享某個關鍵字 |
 | 📱 響應式設計 | 手機、平板、桌機都好讀 |
 | 🪶 零依賴 | 純 HTML/CSS/JavaScript 單一檔案，無任何框架與外部套件 |
 | 🛟 離線備援 | 即時來源連不上時自動顯示內建快照，頁面永遠不會開天窗 |
@@ -33,13 +37,13 @@
 ## 運作原理
 
 ```
-GitHub Actions（每天 07:00 台灣時間）
+GitHub Actions（每小時）
       │
       ▼
 抓取 Google Trends RSS (geo=TW)
       │  scripts/fetch_trends.py 解析 XML
       ▼
-輸出 trends.json → commit 回 repo → GitHub Pages 自動重新部署
+輸出 trends.json / history.json、預渲染 index.html → commit 回 repo → GitHub Pages 自動重新部署
       │
       ▼
 使用者開啟頁面 → fetch 同源 trends.json → 渲染熱搜卡片
@@ -67,16 +71,16 @@ python3 -m http.server 8000
 1. Fork 這個 repo
 2. Settings → Pages → Source 選 `main` branch
 3. （選用）綁定自己的網域：Pages 設定填入 Custom domain，並到 DNS 加一筆 CNAME 指向 `<你的帳號>.github.io`
-4. 修改 `index.html` 裡的 `GITHUB_REPO` 常數，讓 Star 按鈕指向你的 repo
+4. 修改 `index.html` 與 `scripts/fetch_trends.py` 裡的網址與 GitHub repo
 
 ## 貢獻
 
 歡迎開 Issue 或 PR！一些可以做的方向：
 
-- [ ] OG 分享縮圖
-- [ ] 熱搜關鍵字歷史紀錄與變化趨勢
+- [x] OG 分享縮圖
+- [x] 熱搜關鍵字歷史紀錄（近 7 天）
 - [ ] 更多資料來源（Threads 趨勢話題、PTT 熱門看板）
-- [ ] PWA 支援（加入主畫面）
+- [x] 加入主畫面（Web App Manifest）
 
 ## 授權
 

@@ -2,11 +2,15 @@ name: Update trends
 
 on:
   schedule:
-    - cron: "0 23 * * *"  # 每天 07:00 台灣時間
+    - cron: "17 * * * *"  # 每小時更新（避開整點尖峰）
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-trends
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -21,5 +25,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add trends.json
-          git diff --cached --quiet || (git commit -m "chore: update trends $(date -u +%F)" && git push)
+          git add trends.json history.json index.html sitemap.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update trends $(TZ=Asia/Taipei date '+%F %H:%M')"
+            git pull --rebase
+            git push
+          fi

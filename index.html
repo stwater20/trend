@@ -2,398 +2,551 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>台灣即時熱搜排行榜｜今日 Google 熱門關鍵字、話題趨勢一次看</title>
-<meta name="description" content="想知道台灣現在最多人在搜什麼？即時更新 Google 台灣熱搜關鍵字排行榜，加上連假、旅遊、電費、AI 等熱門話題整理，一頁掌握今天大家都在關心的事。">
-<meta name="keywords" content="台灣熱搜, 即時熱搜, Google 熱搜排行榜, 熱門關鍵字, 今日話題, 台灣趨勢, 網路話題">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>台灣即時熱搜排行榜 11/8｜勇士 對 魔術、勇士、曾峻岳… 今天大家在搜什麼</title>
+<meta name="description" content="11 月 8 日台灣 Google 熱搜：勇士 對 魔術、勇士、曾峻岳、太陽 對 火箭、英特爾、雷霆 對 巫師。每小時自動更新，點關鍵字立刻看相關新聞與討論。">
+<link rel="canonical" href="https://trend.sectools.tw/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0c0d12" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f6f6f9" media="(prefers-color-scheme: light)">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://trend.sectools.tw/">
+<meta property="og:site_name" content="台灣即時熱搜">
 <meta property="og:title" content="台灣即時熱搜排行榜｜今天大家都在搜什麼？">
-<meta property="og:description" content="即時更新 Google 台灣熱搜關鍵字，加上連假、旅遊、AI 等熱門話題整理，一頁掌握今日趨勢。">
+<meta property="og:description" content="11 月 8 日台灣 Google 熱搜：勇士 對 魔術、勇士、曾峻岳、太陽 對 火箭、英特爾、雷霆 對 巫師。每小時自動更新，點關鍵字立刻看相關新聞與討論。">
+<meta property="og:image" content="https://trend.sectools.tw/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:locale" content="zh_TW">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://trend.sectools.tw/og.png">
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "台灣即時熱搜排行榜",
-  "description": "即時更新 Google 台灣熱搜關鍵字排行榜與熱門話題整理",
-  "inLanguage": "zh-Hant"
-}
+{"@context":"https://schema.org","@type":"WebSite","name":"台灣即時熱搜排行榜","url":"https://trend.sectools.tw/","inLanguage":"zh-Hant"}
+</script>
+<script type="application/ld+json" id="ld-list">{"@context": "https://schema.org", "@type": "ItemList", "name": "台灣 Google 熱搜關鍵字 2026-11-08", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "勇士 對 魔術"}, {"@type": "ListItem", "position": 2, "name": "勇士"}, {"@type": "ListItem", "position": 3, "name": "曾峻岳"}, {"@type": "ListItem", "position": 4, "name": "太陽 對 火箭"}, {"@type": "ListItem", "position": 5, "name": "英特爾"}, {"@type": "ListItem", "position": 6, "name": "雷霆 對 巫師"}, {"@type": "ListItem", "position": 7, "name": "弗朗茨·華格納"}, {"@type": "ListItem", "position": 8, "name": "u23 世界盃棒球錦標賽"}, {"@type": "ListItem", "position": 9, "name": "檢察官"}, {"@type": "ListItem", "position": 10, "name": "太空飛機"}, {"@type": "ListItem", "position": 11, "name": "warriors vs magic"}, {"@type": "ListItem", "position": 12, "name": "彭双浪"}, {"@type": "ListItem", "position": 13, "name": "勇士直播"}, {"@type": "ListItem", "position": 14, "name": "geng vs ig"}, {"@type": "ListItem", "position": 15, "name": "aj·迪班薩"}, {"@type": "ListItem", "position": 16, "name": "wta年終總決賽"}, {"@type": "ListItem", "position": 17, "name": "謝祖武"}]}</script>
+<script>
+  // 主題在繪製前套用，避免閃爍
+  try {
+    const t = localStorage.getItem("theme");
+    if (t) document.documentElement.dataset.theme = t;
+  } catch (e) {}
 </script>
 <style>
   :root {
-    --bg: #0f1117;
-    --card: #181b23;
-    --card-hover: #1e222c;
-    --border: #2a2e3a;
-    --text: #e8eaf0;
-    --text-dim: #9aa0b0;
-    --accent: #4f9cf9;
-    --accent2: #f97362;
-    --accent3: #4fd1a5;
-    --accent4: #e2b93b;
-    --radius: 14px;
+    --bg: #f6f6f9; --surface: #ffffff; --surface-2: #f0f1f5; --border: #e4e5ec;
+    --text: #15161c; --text-2: #5d6070; --text-3: #8b8e9c;
+    --hot: #ff4d2e; --hot-2: #ff9a3c; --accent: #3b6cff; --new: #12b886;
+    --shadow: 0 1px 2px rgba(20,22,30,.04), 0 4px 16px rgba(20,22,30,.05);
+    --radius: 16px;
   }
-  html[data-theme="light"] {
-    --bg: #f5f6f8; --card: #ffffff; --card-hover: #f0f3f8;
-    --border: #e2e5ec; --text: #1d2230; --text-dim: #6a7180;
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0c0d12; --surface: #15161d; --surface-2: #1c1e27; --border: #262833;
+      --text: #eceef4; --text-2: #a3a7b6; --text-3: #6f7383;
+      --shadow: 0 1px 2px rgba(0,0,0,.3);
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0c0d12; --surface: #15161d; --surface-2: #1c1e27; --border: #262833;
+    --text: #eceef4; --text-2: #a3a7b6; --text-3: #6f7383;
+    --shadow: 0 1px 2px rgba(0,0,0,.3);
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     background: var(--bg); color: var(--text);
-    font-family: "Noto Sans TC", -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
-    line-height: 1.6; padding: 24px 16px 60px;
-    transition: background .25s, color .25s;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+    line-height: 1.55; -webkit-font-smoothing: antialiased;
   }
-  .container { max-width: 1080px; margin: 0 auto; }
+  a { color: inherit; }
+  button { font: inherit; color: inherit; }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 0 16px; }
+  svg.i { width: 16px; height: 16px; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 
-  header { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-bottom: 6px; }
-  h1 { font-size: 1.6rem; font-weight: 700; letter-spacing: 1px; margin-right: auto; }
-  h1 .dot { color: var(--accent); }
-  .sub { color: var(--text-dim); font-size: 0.95rem; margin-bottom: 6px; }
-  .meta-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 24px; }
-  #updated { color: var(--text-dim); font-size: 0.85rem; }
+  /* ---------- 頂部列 ---------- */
+  .topbar {
+    position: sticky; top: 0; z-index: 20;
+    background: color-mix(in srgb, var(--bg) 82%, transparent);
+    backdrop-filter: saturate(1.6) blur(14px); -webkit-backdrop-filter: saturate(1.6) blur(14px);
+    border-bottom: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
+  }
+  .topbar .wrap { display: flex; align-items: center; gap: 10px; height: 56px; }
+  .brand { display: flex; align-items: center; gap: 9px; font-weight: 800; font-size: 1.02rem; text-decoration: none; margin-right: auto; letter-spacing: .3px; }
+  .logo {
+    width: 30px; height: 30px; border-radius: 9px; display: grid; place-items: center; font-size: 16px;
+    background: linear-gradient(135deg, var(--hot), var(--hot-2)); box-shadow: 0 4px 12px color-mix(in srgb, var(--hot) 35%, transparent);
+  }
+  .tbtn {
+    display: inline-flex; align-items: center; gap: 6px; height: 34px; padding: 0 12px;
+    border-radius: 999px; border: 1px solid var(--border); background: var(--surface);
+    font-size: .82rem; cursor: pointer; text-decoration: none; color: var(--text-2); white-space: nowrap;
+  }
+  .tbtn:hover { color: var(--text); border-color: var(--text-3); }
+  .tbtn.icon { width: 34px; padding: 0; justify-content: center; }
 
-  /* 頂部按鈕 */
-  .iconbtn {
-    display: inline-flex; align-items: center; gap: 6px;
-    background: var(--card); border: 1px solid var(--border); color: var(--text);
-    border-radius: 999px; padding: 7px 14px; font-size: 0.85rem; cursor: pointer;
-    text-decoration: none; transition: border-color .15s, transform .15s;
-  }
-  .iconbtn:hover { border-color: var(--accent); transform: translateY(-1px); }
-  .iconbtn svg { width: 16px; height: 16px; fill: currentColor; }
-  .iconbtn .count { color: var(--text-dim); font-size: 0.8rem; }
+  /* ---------- Hero ---------- */
+  .hero { padding: 28px 0 18px; }
+  .live { display: inline-flex; align-items: center; gap: 7px; font-size: .8rem; color: var(--text-2); font-weight: 500; }
+  .pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--new); position: relative; }
+  .pulse::after { content: ""; position: absolute; inset: -4px; border-radius: 50%; background: var(--new); opacity: .35; animation: ping 1.8s ease-out infinite; }
+  @keyframes ping { from { transform: scale(.5); opacity: .5; } to { transform: scale(1.6); opacity: 0; } }
+  .hero h1 { font-size: clamp(1.7rem, 5.4vw, 2.5rem); line-height: 1.2; margin: 10px 0 8px; font-weight: 850; letter-spacing: .5px; }
+  .hero h1 em { font-style: normal; background: linear-gradient(90deg, var(--hot), var(--hot-2)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .hero p { color: var(--text-2); font-size: .95rem; }
 
-  h2 {
-    font-size: 1.1rem; font-weight: 700; margin: 34px 0 14px;
-    display: flex; align-items: center; gap: 8px;
+  /* ---------- 工具列 ---------- */
+  .toolbar { display: flex; align-items: center; gap: 8px; margin: 14px 0 14px; flex-wrap: wrap; }
+  .seg { display: inline-flex; padding: 3px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--border); }
+  .seg button { border: 0; background: transparent; padding: 6px 14px; border-radius: 999px; font-size: .83rem; cursor: pointer; color: var(--text-2); }
+  .seg button[aria-pressed="true"] { background: var(--surface); color: var(--text); font-weight: 600; box-shadow: var(--shadow); }
+  .search {
+    flex: 1; min-width: 150px; display: flex; align-items: center; gap: 8px; height: 38px; padding: 0 14px;
+    border-radius: 999px; border: 1px solid var(--border); background: var(--surface); color: var(--text-3);
   }
-  h2::before { content: ""; width: 4px; height: 18px; border-radius: 2px; background: var(--accent); }
-  h2.hot::before { background: var(--accent2); }
-  h2.cat::before { background: var(--accent3); }
-  h2.link::before { background: var(--accent4); }
-  h2 .spacer { flex: 1; }
-  .refresh { font-size: 0.8rem; font-weight: 400; }
+  .search input { flex: 1; min-width: 0; border: 0; outline: 0; background: transparent; font: inherit; font-size: .88rem; color: var(--text); }
+  .search:focus-within { border-color: var(--accent); }
 
-  /* 熱搜列表 */
-  #trends { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px; }
-  .trend {
-    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
-    padding: 14px 16px; transition: background .15s, transform .15s; cursor: pointer;
+  /* ---------- 前三名 ---------- */
+  .podium { display: grid; grid-template-columns: 1.35fr 1fr; grid-template-rows: 1fr 1fr; gap: 12px; margin-bottom: 12px; }
+  .podium .feat:first-child { grid-row: span 2; }
+  .feat {
+    position: relative; overflow: hidden; border-radius: var(--radius); min-height: 150px;
+    background: var(--surface-2); cursor: pointer; display: flex; flex-direction: column; justify-content: flex-end;
+    color: #fff; text-decoration: none; isolation: isolate; border: 0; text-align: left;
   }
-  .trend:hover { background: var(--card-hover); transform: translateY(-2px); }
-  .trend .row { display: flex; align-items: center; gap: 10px; }
-  .rank {
-    flex: none; width: 28px; height: 28px; border-radius: 8px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 0.85rem; font-weight: 700; background: var(--border); color: var(--text-dim);
-  }
-  .trend:nth-child(1) .rank, .trend:nth-child(2) .rank, .trend:nth-child(3) .rank {
-    background: var(--accent2); color: #fff;
-  }
-  .kw { font-weight: 600; font-size: 1.02rem; flex: 1; }
-  .traffic {
-    font-size: 0.75rem; color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, transparent);
-    padding: 2px 8px; border-radius: 999px; white-space: nowrap;
-  }
-  .news { margin-top: 8px; font-size: 0.85rem; }
-  .news a { color: var(--text-dim); text-decoration: none; display: block;
-    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .news a:hover { color: var(--accent); }
-  .status { color: var(--text-dim); font-size: 0.85rem; margin-bottom: 10px; }
+  .feat img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; transition: transform .4s; }
+  .feat:hover img { transform: scale(1.04); }
+  .feat::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0,0,0,0) 20%, rgba(0,0,0,.82)); }
+  .feat.noimg { background: linear-gradient(135deg, #ff5a36, #ff9a3c); }
+  .feat.noimg::before { background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,.35)); }
+  .feat .body { padding: 16px; }
+  .feat .rk { font-size: .75rem; font-weight: 800; background: var(--hot); padding: 2px 9px; border-radius: 999px; display: inline-block; margin-bottom: 8px; letter-spacing: .5px; }
+  .feat .kw { font-size: 1.25rem; font-weight: 800; line-height: 1.25; text-shadow: 0 1px 8px rgba(0,0,0,.3); }
+  .podium .feat:first-child .kw { font-size: clamp(1.5rem, 4vw, 2rem); }
+  .feat .hl { font-size: .82rem; opacity: .88; margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .feat .meta { font-size: .74rem; opacity: .8; margin-top: 8px; display: flex; gap: 10px; }
 
-  /* 趨勢卡展開的動作列 */
-  .actions { display: none; margin-top: 10px; gap: 8px; flex-wrap: wrap; }
-  .trend.open .actions { display: flex; }
+  /* ---------- 列表 ---------- */
+  .list { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+  .row { border-top: 1px solid var(--border); }
+  .row:first-child { border-top: 0; }
+  .row > button.head {
+    width: 100%; display: grid; grid-template-columns: 30px 52px minmax(0, 1fr) auto; align-items: center; gap: 12px;
+    padding: 12px 14px; border: 0; background: transparent; text-align: left; cursor: pointer;
+  }
+  .row > button.head:hover { background: var(--surface-2); }
+  .num { font-weight: 800; font-size: 1.05rem; color: var(--text-3); text-align: center; font-variant-numeric: tabular-nums; }
+  .row.top .num { color: var(--hot); }
+  .thumb { width: 52px; height: 52px; border-radius: 12px; object-fit: cover; background: var(--surface-2); display: grid; place-items: center; font-size: 1.3rem; }
+  .main { min-width: 0; display: block; }
+  .main > span { display: block; }
+  .main .kw { font-weight: 700; font-size: 1rem; display: flex !important; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .tag { font-size: .66rem; font-weight: 700; padding: 1px 7px; border-radius: 999px; letter-spacing: .3px; }
+  .tag.new { color: var(--new); background: color-mix(in srgb, var(--new) 14%, transparent); }
+  .tag.hot { color: var(--hot); background: color-mix(in srgb, var(--hot) 13%, transparent); }
+  .main .hl { font-size: .82rem; color: var(--text-2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 2px; }
+  .main .bar { height: 4px; border-radius: 4px; background: var(--surface-2); margin-top: 7px; overflow: hidden; max-width: 260px; }
+  .main .bar i { display: block; height: 100%; border-radius: 4px; background: linear-gradient(90deg, var(--hot-2), var(--hot)); }
+  .side { text-align: right; font-size: .76rem; color: var(--text-3); white-space: nowrap; display: flex; align-items: center; gap: 10px; }
+  .side b { display: block; color: var(--text); font-size: .86rem; font-variant-numeric: tabular-nums; }
+  .chev { transition: transform .2s; color: var(--text-3); }
+  .row.open .chev { transform: rotate(180deg); }
+
+  .detail { display: none; padding: 0 14px 16px 108px; }
+  .row.open .detail { display: block; }
+  .detail .news { display: grid; gap: 2px; margin-bottom: 12px; }
+  .detail .news a { display: block; text-decoration: none; padding: 8px 10px; border-radius: 10px; font-size: .87rem; }
+  .detail .news a:hover { background: var(--surface-2); }
+  .detail .news small { display: block; color: var(--text-3); font-size: .74rem; }
+  .acts { display: flex; flex-wrap: wrap; gap: 8px; }
   .act {
-    font-size: 0.78rem; padding: 5px 12px; border-radius: 999px;
-    border: 1px solid var(--border); background: transparent; color: var(--text);
-    cursor: pointer; text-decoration: none; transition: border-color .15s;
+    display: inline-flex; align-items: center; gap: 6px; height: 32px; padding: 0 12px; border-radius: 999px;
+    border: 1px solid var(--border); background: var(--surface); font-size: .8rem; cursor: pointer; text-decoration: none; color: var(--text);
   }
   .act:hover { border-color: var(--accent); color: var(--accent); }
+  .act.primary { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .act.primary:hover { opacity: .88; color: var(--bg); }
 
-  /* 分類趨勢卡片 */
-  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
-  .card {
-    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
-    padding: 18px;
+  .empty { padding: 36px 16px; text-align: center; color: var(--text-3); font-size: .9rem; }
+  .seo-list { padding: 16px 16px 16px 36px; font-size: .9rem; color: var(--text-2); }
+  .seo-list li { padding: 3px 0; }
+
+  /* ---------- 區塊 ---------- */
+  section { margin-top: 40px; }
+  .sh { display: flex; align-items: baseline; gap: 10px; margin-bottom: 12px; }
+  .sh h2 { font-size: 1.15rem; font-weight: 800; }
+  .sh span { color: var(--text-3); font-size: .82rem; }
+  .days { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+  .days::-webkit-scrollbar { display: none; }
+  .day { flex: none; border: 1px solid var(--border); background: var(--surface); border-radius: 12px; padding: 7px 14px; cursor: pointer; font-size: .82rem; color: var(--text-2); text-align: center; line-height: 1.3; }
+  .day b { display: block; font-size: .95rem; color: var(--text); }
+  .day[aria-pressed="true"] { background: var(--text); border-color: var(--text); color: var(--bg); }
+  .day[aria-pressed="true"] b { color: var(--bg); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+  .chip {
+    display: inline-flex; align-items: center; gap: 6px; padding: 7px 13px; border-radius: 999px; text-decoration: none;
+    background: var(--surface); border: 1px solid var(--border); font-size: .86rem;
   }
-  .card h3 { font-size: 0.95rem; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
-  .card ul { list-style: none; }
-  .card li { font-size: 0.87rem; color: var(--text-dim); padding: 4px 0; border-bottom: 1px dashed var(--border); }
-  .card li:last-child { border-bottom: none; }
-  .card li b { color: var(--text); font-weight: 600; }
-  .emoji { font-size: 1.1rem; }
+  .chip:hover { border-color: var(--hot); }
+  .chip small { color: var(--text-3); font-size: .72rem; }
+  .chip.lv3 { background: color-mix(in srgb, var(--hot) 12%, var(--surface)); border-color: color-mix(in srgb, var(--hot) 35%, var(--border)); font-weight: 600; }
+  .chip.lv2 { background: color-mix(in srgb, var(--hot-2) 10%, var(--surface)); }
 
-  /* 快速連結 */
-  .links { display: flex; flex-wrap: wrap; gap: 10px; }
-  .links a {
-    background: var(--card); border: 1px solid var(--border); border-radius: 999px;
-    padding: 8px 16px; font-size: 0.85rem; color: var(--text); text-decoration: none;
-    transition: border-color .15s;
-  }
-  .links a:hover { border-color: var(--accent); color: var(--accent); }
+  .share { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 14px; box-shadow: var(--shadow); }
+  .share p { flex: 1 1 220px; font-size: .92rem; color: var(--text-2); }
+  .share p b { color: var(--text); display: block; font-size: 1rem; }
+  .share .acts { flex: none; }
 
-  /* 分享列 */
-  .sharebar { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+  .links { display: flex; flex-wrap: wrap; gap: 8px; }
+  .links a { text-decoration: none; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); font-size: .84rem; color: var(--text-2); }
+  .links a:hover { color: var(--text); border-color: var(--text-3); }
 
-  /* Toast */
+  footer { margin: 48px 0 0; padding: 22px 0 40px; border-top: 1px solid var(--border); color: var(--text-3); font-size: .78rem; line-height: 1.8; }
+  footer a { color: var(--text-2); }
+
   #toast {
-    position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%) translateY(20px);
-    background: var(--text); color: var(--bg); padding: 10px 20px; border-radius: 999px;
-    font-size: 0.85rem; opacity: 0; pointer-events: none; transition: opacity .25s, transform .25s;
-    z-index: 99;
+    position: fixed; left: 50%; bottom: calc(24px + env(safe-area-inset-bottom)); transform: translateX(-50%) translateY(16px);
+    background: var(--text); color: var(--bg); padding: 10px 18px; border-radius: 999px; font-size: .85rem;
+    opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 99; white-space: nowrap;
   }
   #toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 
-  footer { margin-top: 44px; color: var(--text-dim); font-size: 0.78rem; text-align: center; }
-  footer a { color: var(--text-dim); }
+  @media (max-width: 640px) {
+    .tbtn .lbl { display: none; }
+    .podium { grid-template-columns: 1fr 1fr; grid-template-rows: auto auto; }
+    .podium .feat:first-child { grid-row: auto; grid-column: span 2; min-height: 210px; }
+    .feat { min-height: 140px; }
+    .feat .kw { font-size: 1.02rem; }
+    .feat .hl { display: none; }
+    .podium .feat:first-child .hl { display: -webkit-box; }
+    .feat .meta { white-space: nowrap; }
+    .podium .feat:not(:first-child) .meta span + span { display: none; }
+    .feat .body { padding: 12px; }
+    .row > button.head { grid-template-columns: 22px 44px minmax(0, 1fr) auto; gap: 10px; padding: 11px 12px; }
+    .thumb { width: 44px; height: 44px; border-radius: 10px; }
+    .main .bar { display: none; }
+    .side .ago { display: none; }
+    .detail { padding: 0 12px 14px 12px; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
 </style>
 </head>
 <body>
-<div class="container">
-  <header>
-    <h1>台灣即時熱搜排行榜<span class="dot">。</span></h1>
-    <button class="iconbtn" id="themeToggle" title="切換深淺色">
-      <span id="themeIcon">🌙</span><span id="themeLabel">深色</span>
-    </button>
-    <a class="iconbtn" id="ghStar" href="#" target="_blank" rel="noopener" title="到 GitHub 給我們一顆星">
-      <svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
-      Star <span class="count" id="starCount"></span>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="./"><span class="logo">🔥</span>台灣即時熱搜</a>
+    <button class="tbtn icon" id="themeToggle" aria-label="切換深淺色"></button>
+    <a class="tbtn" id="ghStar" href="https://github.com/stwater20/trend" target="_blank" rel="noopener" aria-label="GitHub">
+      <svg viewBox="0 0 16 16" width="15" height="15" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      <span class="lbl">Star</span>
     </a>
-  </header>
-  <p class="sub">今天大家都在搜什麼？即時更新的 Google 台灣熱搜關鍵字，點一下就能看發生什麼事。</p>
-  <div class="meta-row">
-    <span id="updated"></span>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="hero">
+    <span class="live"><span class="pulse"></span><span id="updated">每小時自動更新</span></span>
+    <h1>今天台灣<em>在搜什麼？</em></h1>
+    <p id="heroSub">Google 台灣即時熱搜，點任一關鍵字，三秒看懂它為什麼上熱搜。</p>
   </div>
 
-  <h2 class="hot">今日 Google 熱搜關鍵字
-    <span class="spacer"></span>
-    <button class="iconbtn refresh" id="refreshBtn">🔄 重新整理</button>
-  </h2>
-  <div class="status" id="status">載入中…</div>
-  <div id="trends"></div>
-
-  <h2 class="cat">最近大家都在關心什麼？</h2>
-  <div class="cards">
-    <div class="card">
-      <h3><span class="emoji">🗓️</span> 連假與生活</h3>
-      <ul>
-        <li>2026 全年 <b>116 天假、9 個連假</b>，週六不再補班</li>
-        <li>春節連放 <b>9 天</b>，怎麼請假最划算是熱門話題</li>
-        <li>6–9 月<b>夏季電價</b>上路，記得看看電費有沒有變多</li>
-      </ul>
+  <div class="toolbar">
+    <div class="seg" role="group" aria-label="排序">
+      <button data-sort="hot" aria-pressed="true">🔥 最熱</button>
+      <button data-sort="new" aria-pressed="false">⏱ 最新</button>
     </div>
-    <div class="card">
-      <h3><span class="emoji">✈️</span> 旅遊與消費</h3>
-      <ul>
-        <li>出國旅遊持續發燒，<b>東京</b>是最多人去的城市</li>
-        <li>春節機票比去年<b>多賣 2 成以上</b>，想出國要早訂</li>
-        <li>網路下單、門市取貨越來越普及，快閃店到處開</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h3><span class="emoji">📱</span> 數位社群</h3>
-      <ul>
-        <li>台灣人超愛 Threads，<b>用戶數佔全球 21%</b> 世界第一</li>
-        <li>「趨勢話題」功能全球首發就選在台灣</li>
-        <li>短影音還是最強，看影片順便購物成日常</li>
-      </ul>
-    </div>
-    <div class="card">
-      <h3><span class="emoji">🤖</span> 科技與 AI</h3>
-      <ul>
-        <li><b>AI</b> 走入日常，從工作到購物都有它的影子</li>
-        <li>半導體、AI 伺服器讓台灣科技業持續火熱</li>
-        <li>越來越多人願意花錢在<b>身心健康</b>上</li>
-      </ul>
-    </div>
+    <label class="search">
+      <svg class="i" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="搜尋熱搜關鍵字" autocomplete="off">
+    </label>
   </div>
 
-  <h2 class="link">覺得實用嗎？分享給朋友</h2>
-  <div class="sharebar">
-    <button class="iconbtn" data-share="fb">
-      <svg viewBox="0 0 16 16"><path d="M16 8.05C16 3.6 12.42 0 8 0S0 3.6 0 8.05C0 12.06 2.93 15.4 6.75 16v-5.62H4.72V8.05h2.03V6.28c0-2.02 1.19-3.13 3.02-3.13.88 0 1.79.16 1.79.16v1.98h-1.01c-.99 0-1.3.62-1.3 1.26v1.5h2.22l-.35 2.33H9.25V16C13.07 15.4 16 12.06 16 8.05z"/></svg>
-      Facebook
-    </button>
-    <button class="iconbtn" data-share="threads">
-      <svg viewBox="0 0 16 16"><path d="M12.19 7.4c-.07-.03-.15-.07-.22-.1-.13-2.4-1.44-3.78-3.64-3.79h-.03c-1.32 0-2.41.56-3.09 1.58l1.21.83c.5-.76 1.29-.92 1.87-.92h.02c.72 0 1.27.21 1.62.62.26.3.43.71.52 1.23a9.3 9.3 0 0 0-2.08-.1c-2.09.12-3.44 1.34-3.35 3.04.05.86.48 1.6 1.21 2.08.62.41 1.42.61 2.25.56 1.1-.06 1.96-.48 2.56-1.25.46-.58.75-1.34.88-2.29.53.32.92.74 1.14 1.24.37.86.39 2.27-.76 3.42-1.01 1.01-2.22 1.44-4.05 1.46-2.03-.02-3.57-.67-4.57-1.94C4.74 11.9 4.26 10.16 4.24 8c.02-2.16.5-3.9 1.44-5.07 1-1.27 2.54-1.92 4.57-1.94 2.05.02 3.61.67 4.65 1.95.51.63.9 1.42 1.15 2.35l1.42-.38c-.31-1.14-.8-2.13-1.46-2.94C14.68.35 12.75-.47 10.26-.5h-.01C7.76-.47 5.86.36 4.6 1.96 3.48 3.38 2.9 5.36 2.88 7.99v.02c.02 2.63.6 4.61 1.72 6.03 1.26 1.6 3.16 2.43 5.65 2.46h.01c2.21-.02 3.77-.6 5.05-1.88 1.68-1.68 1.63-3.79 1.08-5.08-.4-.93-1.15-1.69-2.2-2.14zm-3.84 3.53c-.92.05-1.88-.36-1.93-1.25-.03-.66.47-1.39 1.99-1.48.17-.01.35-.02.51-.02.55 0 1.06.05 1.53.16-.17 2.18-1.2 2.54-2.1 2.59z"/></svg>
-      Threads
-    </button>
-    <button class="iconbtn" data-share="ig">
-      <svg viewBox="0 0 16 16"><path d="M8 0C5.83 0 5.55.01 4.7.05 3.85.09 3.27.22 2.76.42c-.53.2-.98.48-1.42.93-.45.44-.73.89-.93 1.42-.2.51-.33 1.09-.37 1.94C.01 5.55 0 5.83 0 8s.01 2.45.05 3.3c.04.85.17 1.43.37 1.94.2.53.48.98.93 1.42.44.45.89.73 1.42.93.51.2 1.09.33 1.94.37.85.04 1.13.05 3.3.05s2.45-.01 3.3-.05c.85-.04 1.43-.17 1.94-.37.53-.2.98-.48 1.42-.93.45-.44.73-.89.93-1.42.2-.51.33-1.09.37-1.94.04-.85.05-1.13.05-3.3s-.01-2.45-.05-3.3c-.04-.85-.17-1.43-.37-1.94-.2-.53-.48-.98-.93-1.42-.44-.45-.89-.73-1.42-.93-.51-.2-1.09-.33-1.94-.37C10.45.01 10.17 0 8 0zm0 1.44c2.14 0 2.39.01 3.23.05.78.04 1.2.17 1.49.28.37.14.64.32.92.6.28.28.46.55.6.92.11.29.24.71.28 1.49.04.84.05 1.09.05 3.23s-.01 2.39-.05 3.23c-.04.78-.17 1.2-.28 1.49-.14.37-.32.64-.6.92-.28.28-.55.46-.92.6-.29.11-.71.24-1.49.28-.84.04-1.09.05-3.23.05s-2.39-.01-3.23-.05c-.78-.04-1.2-.17-1.49-.28a2.5 2.5 0 0 1-.92-.6 2.5 2.5 0 0 1-.6-.92c-.11-.29-.24-.71-.28-1.49-.04-.84-.05-1.09-.05-3.23s.01-2.39.05-3.23c.04-.78.17-1.2.28-1.49.14-.37.32-.64.6-.92.28-.28.55-.46.92-.6.29-.11.71-.24 1.49-.28.84-.04 1.09-.05 3.23-.05zM8 3.89a4.11 4.11 0 1 0 0 8.22 4.11 4.11 0 0 0 0-8.22zm0 6.78a2.67 2.67 0 1 1 0-5.34 2.67 2.67 0 0 1 0 5.34zm5.23-6.94a.96.96 0 1 1-1.92 0 .96.96 0 0 1 1.92 0z"/></svg>
-      Instagram
-    </button>
-    <button class="iconbtn" data-share="copy">🔗 複製連結</button>
-  </div>
+  <div class="podium" id="podium"></div>
+  <div class="list" id="list"><!--TRENDS--><ol class="seo-list"><li><b>1. 勇士 對 魔術</b> 2000+ 次搜尋</li><li><b>2. 勇士</b> 1000+ 次搜尋 — NBA》勇士新秀Lendeborg送媽媽加州新家！圓多年心願感性告白「比籃球更重要」</li><li><b>3. 曾峻岳</b> 1000+ 次搜尋 — 中華職棒》曾峻岳正式申請入札挑戰MLB 45天交涉期啟動、封館成最大變數</li><li><b>4. 太陽 對 火箭</b> 1000+ 次搜尋 — Penn State - Washington Open Thread</li><li><b>5. 英特爾</b> 500+ 次搜尋 — 伺服器賣到缺貨、PC 卻沒人要買？英特爾財報曝兩極化現況，受零組件漲價拖累換機潮恐再延後</li><li><b>6. 雷霆 對 巫師</b> 500+ 次搜尋 — Wizards vs. Thunder: Live updates, highlights for Saturday&#x27;s game</li><li><b>7. 弗朗茨·華格納</b> 200+ 次搜尋 — Magic&#x27;s trajectory could put Franz Wagner in the Blazers&#x27; trade sights</li><li><b>8. u23 世界盃棒球錦標賽</b> 200+ 次搜尋 — Close games and emotions: WBSC U-23 Baseball World Cup Day 1 had it all</li><li><b>9. 檢察官</b> 200+ 次搜尋 — 檢察官AI助理年底試辦 省時三成</li><li><b>10. 太空飛機</b> 200+ 次搜尋</li><li><b>11. warriors vs magic</b> 200+ 次搜尋 — Final Injury Report for Magic-Warriors: Will Draymond Green, Jalen Suggs Play?</li><li><b>12. 彭双浪</b> 200+ 次搜尋 — 友達跨入CPO 市場期待跑太快？ 轉型成敗看三大關卡- 產業</li><li><b>13. 勇士直播</b> 100+ 次搜尋 — 能否迎来7连胜？ESPN明日胜率预测：勇士62.5%占优 魔术为37.5%</li><li><b>14. geng vs ig</b> 100+ 次搜尋 — Sources: Feisty set to join GIANTX in the LEC after Worlds campaign with LOS</li><li><b>15. aj·迪班薩</b> 100+ 次搜尋 — 奇才132-139不敌老鹰 迪班萨13投3中得11分9板</li><li><b>16. wta年終總決賽</b> 100+ 次搜尋 — 網球》世界球后萊巴金娜因病退出WTA年終總決賽 無緣挑戰衛冕</li><li><b>17. 謝祖武</b> 100+ 次搜尋</li></ol><!--/TRENDS--></div>
 
-  <h2 class="link">想看更多熱門話題？</h2>
-  <div class="links">
-    <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>
-    <a href="https://dailyview.tw/popular" target="_blank" rel="noopener">DailyView 網路溫度計</a>
-    <a href="https://news.pts.org.tw/hotTopic" target="_blank" rel="noopener">公視熱門議題</a>
-    <a href="https://www.threads.net" target="_blank" rel="noopener">Threads 趨勢話題</a>
-  </div>
+  <section id="historySec" hidden>
+    <div class="sh"><h2>近 7 天熱搜回顧</h2><span>錯過了？看看前幾天大家在搜什麼</span></div>
+    <div class="days" id="days" role="group" aria-label="選擇日期"></div>
+    <div class="chips" id="chips"></div>
+  </section>
+
+  <section>
+    <div class="share">
+      <p><b>覺得好用？分享給朋友 🙌</b>加到主畫面，每天打開一次就知道大家在聊什麼。</p>
+      <div class="acts">
+        <button class="act primary" data-share="native">📤 分享</button>
+        <button class="act" data-share="threads">Threads</button>
+        <button class="act" data-share="fb">Facebook</button>
+        <button class="act" data-share="line">LINE</button>
+        <button class="act" data-share="copy">🔗 複製連結</button>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sh"><h2>更多熱門話題來源</h2></div>
+    <div class="links">
+      <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>
+      <a href="https://dailyview.tw/popular" target="_blank" rel="noopener">DailyView 網路溫度計</a>
+      <a href="https://news.pts.org.tw/hotTopic" target="_blank" rel="noopener">公視熱門議題</a>
+      <a href="https://www.ptt.cc/bbs/hotboards.html" target="_blank" rel="noopener">PTT 熱門看板</a>
+      <a href="https://www.threads.net" target="_blank" rel="noopener">Threads</a>
+    </div>
+  </section>
 
   <footer>
-    熱搜資料來自 <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>，每次打開頁面都會自動更新。
+    熱搜資料來自 <a href="https://trends.google.com.tw/trending?geo=TW" target="_blank" rel="noopener">Google 搜尋趨勢</a>，每小時自動更新、保留 24 小時內上榜的關鍵字；搜尋次數為 Google 提供的概略值。<br>
+    開源專案 · <a href="https://github.com/stwater20/trend" target="_blank" rel="noopener">GitHub</a> · MIT License
   </footer>
-</div>
-<div id="toast"></div>
+</main>
+<div id="toast" role="status" aria-live="polite"></div>
 
+<script type="application/json" id="data">{"updated": "2026-11-08 11:30", "updated_iso": "2026-11-08T11:30+08:00", "items": [{"kw": "勇士 對 魔術", "traffic": "2000+", "news": [], "start": "2026-11-08T10:14+08:00"}, {"kw": "勇士", "traffic": "1000+", "start": "2026-11-08T10:20+08:00", "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbi81jGYd0amaRgJWUa2UZ_zl9Ml1fduswFFHgdNbA3vjMuxU5eWQoL1NIgP8", "news": [{"t": "NBA》勇士新秀Lendeborg送媽媽加州新家！圓多年心願感性告白「比籃球更重要」", "u": "https://tw.sports.yahoo.com/news/nba-%E5%8B%87%E5%A3%AB%E6%96%B0%E7%A7%80lendeborg%E9%80%81%E5%AA%BD%E5%AA%BD%E5%8A%A0%E5%B7%9E%E6%96%B0%E5%AE%B6-%E5%9C%93%E5%A4%9A%E5%B9%B4%E5%BF%83%E9%A1%98%E6%84%9F%E6%80%A7%E5%91%8A%E7%99%BD-%E6%AF%94%E7%B1%83%E7%90%83%E6%9B%B4%E9%87%8D%E8%A6%81-002708235.html", "s": "Yahoo運動"}, {"t": "不只會打球！勇士菜鳥倫德伯格買房孝親　感性謝癌母：她指引了我", "u": "https://www.nownews.com/news/6890276", "s": "NOWnews今日新聞"}, {"t": "NBA／「沒有媽媽就沒有今天的我」 勇士菜鳥首筆薪水送新房報恩超感人| NBA | 運動", "u": "https://udn.com/news/story/7002/9864722", "s": "UDN"}]}, {"kw": "曾峻岳", "traffic": "1000+", "news": [{"t": "中華職棒》曾峻岳正式申請入札挑戰MLB 45天交涉期啟動、封館成最大變數", "u": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A3%92%E3%80%8B%E6%9B%BE%E5%B3%BB%E5%B2%B3%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AB%8B%E5%85%A5%E6%9C%AD%E6%8C%91%E6%88%B0mlb-45%E5%A4%A9%E4%BA%A4%E6%B6%89%E6%9C%9F%E5%95%9F%E5%8B%95%E3%80%81%E5%B0%81%E9%A4%A8%E6%88%90%E6%9C%80%E5%A4%A7%E8%AE%8A%E6%95%B8-014148008.html"}], "start": "2026-11-08T10:14+08:00"}, {"kw": "太陽 對 火箭", "traffic": "1000+", "start": "2026-11-08T09:20+08:00", "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTudw7LFrWgyafsZXdja9NJqvOlbm_NKbmaZQHTy6wgFAwlVe0LuzuM3cRakHc", "news": [{"t": "Penn State - Washington Open Thread", "u": "https://www.blackshoediaries.com/penn-state-football/92071/penn-state-nittany-lions-football-washington-huskies-open-thread-bsd", "s": "Black Shoe Diaries"}, {"t": "Oregon Ducks Football News", "u": "https://www.addictedtoquack.com/morning-quack-fix/64648/oregon-ducks-football-news", "s": "Addicted To Quack"}, {"t": "Inside Look with Tyson Alger and Ken Woody: Now that wasn’t so bad", "u": "https://lookouteugene-springfield.com/story/ducks/2026/11/05/inside-look-with-tyson-alger-and-ken-woody-now-that-wasnt-that-bad/", "s": "Lookout Eugene-Springfield"}]}, {"kw": "英特爾", "traffic": "500+", "news": [{"t": "伺服器賣到缺貨、PC 卻沒人要買？英特爾財報曝兩極化現況，受零組件漲價拖累換機潮恐再延後", "u": "https://www.techbang.com/posts/134564-intel-server-cpu-shortage-shipments-revenue-growth"}], "start": "2026-11-08T10:14+08:00"}, {"kw": "雷霆 對 巫師", "traffic": "500+", "news": [{"t": "Wizards vs. Thunder: Live updates, highlights for Saturday's game", "u": "https://sports.yahoo.com/articles/wizards-vs-thunder-live-updates-000030896.html"}], "start": "2026-11-08T10:14+08:00"}, {"kw": "弗朗茨·華格納", "traffic": "200+", "start": "2026-11-08T10:50+08:00", "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz8NU-ZQB2reJsPaexyt00kZeB8g-bzNccQqGwvQNv3iG69m5jFF_0CHWXJxY", "news": [{"t": "Magic's trajectory could put Franz Wagner in the Blazers' trade sights", "u": "https://ripcityproject.com/magic-trajectory-could-put-franz-wagner-in-the-blazers-trade-sights", "s": "Rip City Project"}, {"t": "Ex-Magic Head Coach Says Team Should Split Up Paolo Banchero, Franz Wagner", "u": "https://sports.yahoo.com/articles/ex-magic-head-coach-says-170028408.html", "s": "Yahoo Sports"}, {"t": "Doc Rivers Weighs In on Magic’s Paolo Banchero-Franz Wagner Coexistence Challenge", "u": "https://heavy.com/sports/nba/orlando-magic/orlando-magic-doc-rivers-weighs-in-paolo-banchero-franz-wagner/", "s": "Heavy.com"}]}, {"kw": "u23 世界盃棒球錦標賽", "traffic": "200+", "news": [{"t": "Close games and emotions: WBSC U-23 Baseball World Cup Day 1 had it all", "u": "https://www.wbsc.org/en/events/2026-vi-wbsc-u-23-baseball-world-cup/news/wbsc-u-23-baseball-world-cup-2026-day-1-live-blog"}], "start": "2026-11-08T10:14+08:00"}, {"kw": "檢察官", "traffic": "200+", "news": [{"t": "檢察官AI助理年底試辦 省時三成", "u": "https://udn.com/news/story/7321/9864332"}], "start": "2026-11-08T10:14+08:00"}, {"kw": "太空飛機", "traffic": "200+", "news": [], "start": "2026-11-08T10:14+08:00"}, {"kw": "warriors vs magic", "traffic": "200+", "start": "2026-11-08T10:00+08:00", "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8aEbYthKWZKgC3v-32EC1E3lRaduKgx23aLol3QsjCtPvpHcC-bzybJKRRCg", "news": [{"t": "Final Injury Report for Magic-Warriors: Will Draymond Green, Jalen Suggs Play?", "u": "https://sports.yahoo.com/articles/final-injury-report-magic-warriors-213000002.html", "s": "Yahoo Sports"}, {"t": "[Free] *Orlando Magic vs Golden State Warriors Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON NBA Free Tv Game", "u": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2166413", "s": "Powell River Peak"}, {"t": "Orlando Magic at Golden State Warriors: Game Preview", "u": "https://orlandomagic.com/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107", "s": "NBA.com"}]}, {"kw": "彭双浪", "traffic": "200+", "start": "2026-11-08T09:40+08:00", "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCLjezR32L3l5SKllTzh5L6lw9VN439OgPTc0RlvDOavITzaysaFNXCvcHtI", "news": [{"t": "友達跨入CPO 市場期待跑太快？ 轉型成敗看三大關卡- 產業", "u": "https://www.ctee.com.tw/news/20261108700011-430502", "s": "工商時報"}, {"t": "面板雙虎開盤一度雙跌停！友達、群創能撿便宜？分析師：仍可分批布局", "u": "https://tw.stock.yahoo.com/news/%E9%9D%A2%E6%9D%BF%E9%9B%99%E8%99%8E%E9%96%8B%E7%9B%A4%E4%B8%80%E5%BA%A6%E9%9B%99%E8%B7%8C%E5%81%9C%EF%BC%81%E5%8F%8B%E9%81%94%E3%80%81%E7%BE%A4%E5%89%B5%E8%83%BD%E6%92%BF%E4%BE%BF%E5%AE%9C%EF%BC%9F%E5%88%86%E6%9E%90%E5%B8%AB%EF%BC%9A%E4%BB%8D%E5%8F%AF%E5%88%86%E6%89%B9%E5%B8%83%E5%B1%80-014901359.html", "s": "Yahoo股市"}, {"t": "197億元賣廠案告吹！友達慘摔34％ 「2字頭」能撿？金控投顧說話了最新目標價、評等1次看- 上市櫃", "u": "https://wantrich.chinatimes.com/news/20261104900072-420101", "s": "旺得富理財網"}]}, {"kw": "勇士直播", "traffic": "100+", "start": "2026-11-08T11:10+08:00", "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSujXLLrJmARy65oump-zJRJ6MsaLD8kH1XllwowGm2ZJdjhz-cLNMWDjqv0lo", "news": [{"t": "能否迎来7连胜？ESPN明日胜率预测：勇士62.5%占优 魔术为37.5%", "u": "https://sports.sina.cn/nba/other/2026-11-07/detail-inixxcwa4896761.d.html?vt=4", "s": "新浪网"}, {"t": "[流言板]库里反跑接格林助攻打进首节3中3拿到7分，格林5分钟送5助攻", "u": "https://m.hupu.com/bbs/643751073", "s": "虎扑体育"}, {"t": "德雷蒙德·格林能上场吗？勇士对阵魔术伤病报告", "u": "https://m.sohu.com/a/1098623712_120753534?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334", "s": "搜狐网"}]}, {"kw": "geng vs ig", "traffic": "100+", "start": "2026-11-08T10:50+08:00", "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhnWk-AgpNwOXjeJBc_R-TZzHdLxD5xkuq_8mviTx70RNTP18LSQTyDZZwwm0", "news": [{"t": "Sources: Feisty set to join GIANTX in the LEC after Worlds campaign with LOS", "u": "https://www.sheepesports.com/en/articles/sources-feisty-reaches-verbal-agreement-with-giantx/en", "s": "Sheep Esports"}, {"t": "Worlds 2026: Gen.G vs Invictus Gaming - Finally the good occasion?", "u": "https://www.sheepesports.com/en/articles/worlds-2026-gen-g-vs-invictus-gaming-a-semifinal-with-history-at-stake/en", "s": "Sheep Esports"}, {"t": "Sources: Jinggg set to join All Gamers for 2027 VCT China season", "u": "https://www.sheepesports.com/en/articles/sources-jinggg-set-to-join-all-gamers-for-2027-vct-china-season/en", "s": "Sheep Esports"}]}, {"kw": "aj·迪班薩", "traffic": "100+", "start": "2026-11-08T10:40+08:00", "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQVxr4kOfXPqg5EEHZRSpFQiRy-zDfogkm0cOxoZU6Ha54HJ6CIM2kZA1Nq6o", "news": [{"t": "奇才132-139不敌老鹰 迪班萨13投3中得11分9板", "u": "https://lq.7m.com.cn/news/20261107/283560.shtml", "s": "7M体育"}, {"t": "[流言板]AJ-迪班萨本赛季场均得到15.4分5.8篮板2.2助攻1.6抢断", "u": "https://m.hupu.com/bbs/643716565.html", "s": "虎扑体育网"}, {"t": "迪班萨位列新秀榜第五，场均16.5分5篮板", "u": "https://m.dongqiudi.com/article/6617579.html", "s": "懂球帝"}]}, {"kw": "wta年終總決賽", "traffic": "100+", "start": "2026-11-08T10:20+08:00", "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCk96-Y91sYhmt-WIlUtX2YckC4DDhwRz0YPY2jzSVRIbtAyMPngi1xyDWhQA", "news": [{"t": "網球》世界球后萊巴金娜因病退出WTA年終總決賽 無緣挑戰衛冕", "u": "https://tw.sports.yahoo.com/news/%E7%B6%B2%E7%90%83-%E4%B8%96%E7%95%8C%E7%90%83%E5%90%8E%E8%90%8A%E5%B7%B4%E9%87%91%E5%A8%9C%E5%9B%A0%E7%97%85%E9%80%80%E5%87%BAwta%E5%B9%B4%E7%B5%82%E7%B8%BD%E6%B1%BA%E8%B3%BD-%E7%84%A1%E7%B7%A3%E6%8C%91%E6%88%B0%E8%A1%9B%E5%86%95-021800684.html", "s": "Yahoo運動"}, {"t": "WTA年終賽球后Elena Rybakina退賽 總監強調陣容依舊頂尖 | 民視新聞網", "u": "https://today.line.me/tw/v3/article/60oLQ0X", "s": "LINE TODAY"}, {"t": "網球／不拚衛冕了 世界第1芮芭奇娜退出WTA年終賽", "u": "https://www.worldjournal.com/wj/story/121229/9864533", "s": "世界新聞網"}]}, {"kw": "謝祖武", "traffic": "100+", "start": "2026-11-08T09:30+08:00", "pic": "", "news": []}], "history": {"2026-11-08": [{"kw": "勇士 對 魔術", "traffic": "2000+"}, {"kw": "曾峻岳", "traffic": "1000+"}, {"kw": "勇士", "traffic": "1000+"}, {"kw": "太陽 對 火箭", "traffic": "1000+"}, {"kw": "英特爾", "traffic": "500+"}, {"kw": "雷霆 對 巫師", "traffic": "500+"}, {"kw": "warriors vs magic", "traffic": "200+"}, {"kw": "u23 世界盃棒球錦標賽", "traffic": "200+"}, {"kw": "檢察官", "traffic": "200+"}, {"kw": "太空飛機", "traffic": "200+"}, {"kw": "弗朗茨·華格納", "traffic": "200+"}, {"kw": "彭双浪", "traffic": "200+"}, {"kw": "謝祖武", "traffic": "100+"}, {"kw": "勇士直播", "traffic": "100+"}, {"kw": "geng vs ig", "traffic": "100+"}, {"kw": "aj·迪班薩", "traffic": "100+"}, {"kw": "wta年終總決賽", "traffic": "100+"}], "2026-11-07": [{"kw": "林得恩", "traffic": "2000+"}, {"kw": "湖人 對 拓荒者", "traffic": "1000+"}, {"kw": "灰熊 對 雷霆", "traffic": "1000+"}, {"kw": "獨行俠 對 爵士", "traffic": "500+"}, {"kw": "公鹿 對 暴龍", "traffic": "500+"}, {"kw": "國王 對 馬刺", "traffic": "200+"}, {"kw": "陳瑩", "traffic": "200+"}, {"kw": "vj·埃奇庫姆", "traffic": "200+"}, {"kw": "cavaliers vs 76ers", "traffic": "200+"}, {"kw": "新社花海", "traffic": "100+"}], "2026-11-06": [{"kw": "勇士 對 熱火", "traffic": "5000+"}, {"kw": "富喬", "traffic": "500+"}, {"kw": "台新銀行", "traffic": "500+"}, {"kw": "warriors vs heat", "traffic": "200+"}, {"kw": "gina hinojosa", "traffic": "200+"}, {"kw": "金山電", "traffic": "200+"}, {"kw": "日月光", "traffic": "200+"}, {"kw": "3037", "traffic": "200+"}, {"kw": "兆豐", "traffic": "200+"}, {"kw": "當沖", "traffic": "100+"}], "2026-11-05": [{"kw": "李四川奶昔大哥", "traffic": "2000+"}, {"kw": "國王 對 湖人", "traffic": "2000+"}, {"kw": "佐佐木朗希", "traffic": "500+"}, {"kw": "光 通訊", "traffic": "500+"}, {"kw": "金山電", "traffic": "200+"}, {"kw": "鄧肯·羅賓森", "traffic": "200+"}, {"kw": "肯里奇·威廉斯", "traffic": "200+"}, {"kw": "台股大跌", "traffic": "200+"}, {"kw": "8042", "traffic": "100+"}, {"kw": "taiex", "traffic": "100+"}], "2026-11-04": [{"kw": "環球晶", "traffic": "2000+"}, {"kw": "寧夏 夜市", "traffic": "1000+"}, {"kw": "台幣匯率", "traffic": "1000+"}, {"kw": "archeage chronicles", "traffic": "200+"}, {"kw": "加權", "traffic": "200+"}, {"kw": "工資", "traffic": "200+"}, {"kw": "易斯達航空", "traffic": "200+"}, {"kw": "精誠", "traffic": "100+"}, {"kw": "dem gop", "traffic": "100+"}, {"kw": "美国中期选举", "traffic": "100+"}], "2026-11-03": [{"kw": "台 股 大 跌", "traffic": "10000+"}, {"kw": "拓元", "traffic": "1000+"}, {"kw": "北投市場", "traffic": "500+"}, {"kw": "快艇 對 暴龍", "traffic": "500+"}, {"kw": "陳水扁", "traffic": "200+"}, {"kw": "bts 演唱會", "traffic": "200+"}, {"kw": "warriors vs suns", "traffic": "100+"}, {"kw": "鋼", "traffic": "100+"}, {"kw": "76ers vs bulls", "traffic": "100+"}, {"kw": "無限 都 更", "traffic": "100+"}], "2026-11-02": [{"kw": "台股", "traffic": "10000+"}, {"kw": "台股指數", "traffic": "2000+"}, {"kw": "00406a", "traffic": "1000+"}, {"kw": "聯發科股價", "traffic": "1000+"}, {"kw": "00406a配息", "traffic": "1000+"}, {"kw": "台灣加權指數", "traffic": "200+"}, {"kw": "王泉仁", "traffic": "200+"}, {"kw": "warriors vs clippers", "traffic": "200+"}, {"kw": "永豐金", "traffic": "200+"}, {"kw": "黑白集", "traffic": "100+"}]}}</script>
 <script>
-// ====== 設定：換成你的 GitHub repo ======
-const GITHUB_REPO = "stwater20/trend";
-
-// ---- 內建快照（RSS 抓取失敗時的備援）----
-const SNAPSHOT = [
-  { kw: "創新服務", traffic: "500+", news: null },
-  { kw: "Fubon Angels", traffic: "500+", news: { t: "富邦啦啦隊驚傳傷兵！半月板、韌帶撕裂傷", u: "https://news.tvbs.com.tw/entertainment/3184641" } },
-  { kw: "日本海溝", traffic: "500+", news: null },
-  { kw: "這一秒過火", traffic: "500+", news: null },
-  { kw: "肺癌", traffic: "200+", news: null },
-  { kw: "台南火災", traffic: "200+", news: null },
-  { kw: "誠美材", traffic: "200+", news: null },
-  { kw: "和碩", traffic: "100+", news: { t: "蘋果晶片主管升任首席工程師 黃金搭檔就位", u: "https://tw.stock.yahoo.com" } },
-  { kw: "吳東亮", traffic: "100+", news: null },
-  { kw: "陳美鳳", traffic: "100+", news: null },
-];
-
 const $ = (id) => document.getElementById(id);
-const trendsEl = $("trends"), statusEl = $("status"), toastEl = $("toast");
+const SITE_URL = "https://trend.sectools.tw/";
+const SHARE_TEXT = "今天台灣在搜什麼？🔥 台灣即時熱搜排行榜";
+let DATA = {}, SORT = "hot", QUERY = "";
 
-// ---- Toast ----
+// ---------- 小工具 ----------
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const num = (t) => parseInt(String(t || "").replace(/[^\d]/g, ""), 10) || 0;
+function ago(iso) {
+  const m = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 1) return "剛剛";
+  if (m < 60) return m + " 分鐘前";
+  const h = Math.floor(m / 60);
+  return h < 24 ? h + " 小時前" : Math.floor(h / 24) + " 天前";
+}
+const isNew = (it) => Date.now() - new Date(it.start) < 3 * 3600e3;
+const fmtTraffic = (t) => t ? t.replace(/(\d)(?=(\d{3})+\+?$)/g, "$1,") : "";
 let toastTimer;
 function toast(msg) {
-  toastEl.textContent = msg;
-  toastEl.classList.add("show");
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => toastEl.classList.remove("show"), 2000);
+  const el = $("toast");
+  el.textContent = msg; el.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => el.classList.remove("show"), 1800);
 }
-
-// ---- 深淺色模式 ----
-const savedTheme = localStorage.getItem("theme")
-  || (matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
-applyTheme(savedTheme);
-$("themeToggle").addEventListener("click", () => {
-  const next = document.documentElement.dataset.theme === "light" ? "dark" : "light";
-  applyTheme(next);
-  localStorage.setItem("theme", next);
-});
-function applyTheme(t) {
-  document.documentElement.dataset.theme = t;
-  $("themeIcon").textContent = t === "light" ? "☀️" : "🌙";
-  $("themeLabel").textContent = t === "light" ? "淺色" : "深色";
-}
-
-// ---- GitHub 星星 ----
-$("ghStar").href = "https://github.com/" + GITHUB_REPO;
-fetch("https://api.github.com/repos/" + GITHUB_REPO)
-  .then(r => r.ok ? r.json() : null)
-  .then(d => { if (d && d.stargazers_count != null) $("starCount").textContent = d.stargazers_count; })
-  .catch(() => {});
-
-// ---- 分享 ----
-const PAGE_URL = location.href;
-const SHARE_TEXT = "台灣即時熱搜排行榜｜今天大家都在搜什麼？";
-document.querySelectorAll("[data-share]").forEach(btn => {
-  btn.addEventListener("click", async () => {
-    const type = btn.dataset.share;
-    if (type === "fb") {
-      open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(PAGE_URL), "_blank");
-    } else if (type === "threads") {
-      open("https://www.threads.net/intent/post?text=" + encodeURIComponent(SHARE_TEXT + " " + PAGE_URL), "_blank");
-    } else if (type === "ig") {
-      // IG 沒有網頁分享入口：優先叫出手機原生分享，其次複製連結
-      if (navigator.share) {
-        try { await navigator.share({ title: SHARE_TEXT, url: PAGE_URL }); } catch (e) {}
-      } else {
-        await copyText(PAGE_URL);
-        toast("已複製連結，貼到 IG 限動或訊息吧！");
-      }
-    } else if (type === "copy") {
-      await copyText(PAGE_URL);
-      toast("連結已複製！");
-    }
-  });
-});
 async function copyText(text) {
   try { await navigator.clipboard.writeText(text); }
   catch (e) {
     const ta = document.createElement("textarea");
-    ta.value = text; document.body.appendChild(ta);
-    ta.select(); document.execCommand("copy"); ta.remove();
+    ta.value = text; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove();
   }
 }
+function share(type, text, url) {
+  const full = text + " " + url;
+  if (type === "native" && navigator.share) return navigator.share({ title: text, url }).catch(() => {});
+  if (type === "threads") return open("https://www.threads.net/intent/post?text=" + encodeURIComponent(full), "_blank");
+  if (type === "fb") return open("https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(url), "_blank");
+  if (type === "line") return open("https://social-plugins.line.me/lineit/share?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(text), "_blank");
+  copyText(type === "copy" ? url : full).then(() => toast("連結已複製！"));
+}
 
-// ---- 熱搜渲染 ----
-function render(items, live) {
-  trendsEl.innerHTML = "";
-  items.slice(0, 20).forEach((it, i) => {
-    const div = document.createElement("div");
-    div.className = "trend";
-    div.innerHTML = `
-      <div class="row">
-        <span class="rank">${i + 1}</span>
-        <span class="kw"></span>
-        <span class="traffic"></span>
+// ---------- 主題 ----------
+const SUN = '<svg class="i" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>';
+const MOON = '<svg class="i" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>';
+const isDark = () => (document.documentElement.dataset.theme || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")) === "dark";
+const paintThemeBtn = () => { $("themeToggle").innerHTML = isDark() ? SUN : MOON; };
+paintThemeBtn();
+$("themeToggle").addEventListener("click", () => {
+  const next = isDark() ? "light" : "dark";
+  document.documentElement.dataset.theme = next;
+  try { localStorage.setItem("theme", next); } catch (e) {}
+  paintThemeBtn();
+});
+
+// ---------- 渲染 ----------
+const CHEV = '<svg class="i chev" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg>';
+function actionsHTML(it) {
+  const q = encodeURIComponent(it.kw);
+  return `<div class="acts">
+    <a class="act primary" target="_blank" rel="noopener" href="https://www.google.com/search?q=${q}">🔍 Google 一下</a>
+    <a class="act" target="_blank" rel="noopener" href="https://news.google.com/search?q=${q}&hl=zh-TW&gl=TW&ceid=TW:zh-Hant">📰 更多新聞</a>
+    <a class="act" target="_blank" rel="noopener" href="https://www.threads.net/search?q=${q}">💬 Threads 討論</a>
+    <a class="act" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=${q}">▶️ YouTube</a>
+    <button class="act" data-copy="${esc(it.kw)}">📋 複製</button>
+    <button class="act" data-sharekw="${esc(it.kw)}">📤 分享</button>
+  </div>`;
+}
+
+function render() {
+  const all = DATA.items || [];
+  const max = Math.max(1, ...all.map(it => num(it.traffic)));
+  let items = all.map((it, i) => ({ ...it, rank: i + 1 }));
+  if (SORT === "new") items.sort((a, b) => new Date(b.start) - new Date(a.start));
+  if (QUERY) items = items.filter(it => (it.kw + " " + (it.news || []).map(n => n.t).join(" ")).toLowerCase().includes(QUERY));
+
+  // 前三名大卡（只在預設檢視顯示）
+  const podium = $("podium");
+  const showPodium = SORT === "hot" && !QUERY && items.length >= 3;
+  podium.hidden = !showPodium;
+  const rest = showPodium ? items.slice(3) : items;
+  if (showPodium) {
+    podium.innerHTML = items.slice(0, 3).map(it => {
+      const n = (it.news || [])[0];
+      return `<button class="feat ${it.pic ? "" : "noimg"}" data-kw="${esc(it.kw)}">
+        ${it.pic ? `<img src="${esc(it.pic)}" alt="" loading="eager" referrerpolicy="no-referrer" onerror="this.remove();this.parentNode.classList.add('noimg')">` : ""}
+        <div class="body">
+          <span class="rk">TOP ${it.rank}</span>
+          <div class="kw">${esc(it.kw)}</div>
+          ${n ? `<div class="hl">${esc(n.t)}</div>` : ""}
+          <div class="meta"><span>🔥 ${esc(fmtTraffic(it.traffic))} 次搜尋</span><span>${ago(it.start)}</span></div>
+        </div>
+      </button>`;
+    }).join("");
+  }
+
+  const list = $("list");
+  if (!rest.length) {
+    list.innerHTML = `<div class="empty">${QUERY ? "找不到符合「" + esc(QUERY) + "」的熱搜" : "暫時沒有資料，稍後再來看看"}</div>`;
+    return;
+  }
+  list.innerHTML = rest.map(it => {
+    const n = it.news || [];
+    const tags = (isNew(it) ? '<span class="tag new">NEW</span>' : "") + (num(it.traffic) >= 1000 ? '<span class="tag hot">爆</span>' : "");
+    return `<div class="row ${it.rank <= 3 ? "top" : ""}" data-kw="${esc(it.kw)}">
+      <button class="head" aria-expanded="false">
+        <span class="num">${it.rank}</span>
+        ${it.pic ? `<img class="thumb" src="${esc(it.pic)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.outerHTML='<span class=thumb>🔎</span>'">` : '<span class="thumb">🔎</span>'}
+        <span class="main">
+          <span class="kw">${esc(it.kw)}${tags}</span>
+          <span class="hl">${n[0] ? esc(n[0].t) : "點開看看這是什麼"}</span>
+          <span class="bar"><i style="width:${Math.max(4, num(it.traffic) / max * 100)}%"></i></span>
+        </span>
+        <span class="side"><span><b>${esc(fmtTraffic(it.traffic))}</b><span class="ago">${ago(it.start)}</span></span>${CHEV}</span>
+      </button>
+      <div class="detail">
+        ${n.length ? `<div class="news">${n.map(x => `<a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}<small>${esc(x.s || "")}</small></a>`).join("")}</div>` : ""}
+        ${actionsHTML(it)}
       </div>
-      ${it.news ? '<div class="news"><a target="_blank" rel="noopener"></a></div>' : ""}
-      <div class="actions">
-        <a class="act" target="_blank" rel="noopener" data-act="search">🔍 這是什麼？Google 一下</a>
-        <a class="act" target="_blank" rel="noopener" data-act="news">📰 相關新聞</a>
-        <button class="act" data-act="copy">📋 複製關鍵字</button>
-        <a class="act" target="_blank" rel="noopener" data-act="threads">💬 到 Threads 討論</a>
-      </div>`;
-    div.querySelector(".kw").textContent = it.kw;
-    div.querySelector(".traffic").textContent = it.traffic ? it.traffic + " 次搜尋" : "";
-    if (it.news) {
-      const a = div.querySelector(".news a");
-      a.textContent = "📰 " + it.news.t;
-      a.href = it.news.u;
-      a.addEventListener("click", e => e.stopPropagation());
-    }
-    const q = encodeURIComponent(it.kw);
-    div.querySelector('[data-act="search"]').href = "https://www.google.com/search?q=" + q;
-    div.querySelector('[data-act="news"]').href = "https://news.google.com/search?q=" + q + "&hl=zh-TW&gl=TW&ceid=TW:zh-Hant";
-    div.querySelector('[data-act="threads"]').href = "https://www.threads.net/search?q=" + q;
-    div.querySelector('[data-act="copy"]').addEventListener("click", async (e) => {
-      e.stopPropagation();
-      await copyText(it.kw);
-      toast("「" + it.kw + "」已複製！");
-    });
-    div.querySelectorAll("a.act").forEach(a => a.addEventListener("click", e => e.stopPropagation()));
-    // 點卡片展開動作列
-    div.addEventListener("click", () => {
-      document.querySelectorAll(".trend.open").forEach(t => { if (t !== div) t.classList.remove("open"); });
-      div.classList.toggle("open");
-    });
-    trendsEl.appendChild(div);
-  });
-  if (live) {
-    statusEl.textContent = "📊 每日更新 · 點任一關鍵字看它為什麼在燒";
-    $("updated").textContent = live.updated ? "資料更新於 " + live.updated : "";
-  } else {
-    statusEl.textContent = "⚠️ 資料檔暫時讀取不到，先顯示先前紀錄 · 點關鍵字一樣可以查";
-    $("updated").textContent = "";
-  }
+    </div>`;
+  }).join("");
 }
 
-// ---- 讀取每日熱搜資料（由 GitHub Actions 每天自動更新 trends.json）----
-async function loadLive() {
-  statusEl.textContent = "載入中…";
+function openKw(kw) {
+  // 大卡點擊：切到列表中該關鍵字並展開；前三名不在列表時改開 Google 新聞
+  const row = [...document.querySelectorAll(".row")].find(r => r.dataset.kw === kw);
+  if (row) { toggleRow(row, true); row.scrollIntoView({ behavior: "smooth", block: "center" }); return; }
+  const it = (DATA.items || []).find(x => x.kw === kw);
+  showSheet(it);
+}
+function toggleRow(row, force) {
+  const open = force ?? !row.classList.contains("open");
+  document.querySelectorAll(".row.open").forEach(r => { if (r !== row) { r.classList.remove("open"); r.querySelector(".head").setAttribute("aria-expanded", "false"); } });
+  row.classList.toggle("open", open);
+  row.querySelector(".head").setAttribute("aria-expanded", String(open));
+}
+// 前三名的詳情：插入在大卡區下方的暫時列
+function showSheet(it) {
+  if (!it) return;
+  document.querySelector(".row.sheet")?.remove();
+  const n = it.news || [];
+  const div = document.createElement("div");
+  div.className = "row open sheet";
+  div.dataset.kw = it.kw;
+  div.innerHTML = `<button class="head" aria-expanded="true">
+      <span class="num">🔥</span>
+      ${it.pic ? `<img class="thumb" src="${esc(it.pic)}" alt="" referrerpolicy="no-referrer">` : '<span class="thumb">🔎</span>'}
+      <span class="main"><span class="kw">${esc(it.kw)}</span><span class="hl">${esc(fmtTraffic(it.traffic))} 次搜尋 · ${ago(it.start)}</span></span>
+      <span class="side">${CHEV}</span>
+    </button>
+    <div class="detail">
+      ${n.length ? `<div class="news">${n.map(x => `<a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}<small>${esc(x.s || "")}</small></a>`).join("")}</div>` : ""}
+      ${actionsHTML(it)}
+    </div>`;
+  document.querySelectorAll(".row.open").forEach(r => r.classList.remove("open"));
+  $("list").prepend(div);
+  div.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+document.addEventListener("click", (e) => {
+  const feat = e.target.closest(".feat");
+  if (feat) return openKw(feat.dataset.kw);
+  const head = e.target.closest(".row > .head");
+  if (head) {
+    const row = head.parentNode;
+    if (row.classList.contains("sheet")) return row.remove();
+    return toggleRow(row);
+  }
+  const c = e.target.closest("[data-copy]");
+  if (c) return copyText(c.dataset.copy).then(() => toast("「" + c.dataset.copy + "」已複製"));
+  const s = e.target.closest("[data-sharekw]");
+  if (s) {
+    const kw = s.dataset.sharekw;
+    const text = "「" + kw + "」為什麼上熱搜？👀 看台灣即時熱搜";
+    return navigator.share ? navigator.share({ title: text, url: SITE_URL }).catch(() => {}) : share("copy-full", text, SITE_URL);
+  }
+  const sh = e.target.closest("[data-share]");
+  if (sh) share(sh.dataset.share, SHARE_TEXT, SITE_URL);
+});
+
+document.querySelectorAll("[data-sort]").forEach(b => b.addEventListener("click", () => {
+  SORT = b.dataset.sort;
+  document.querySelectorAll("[data-sort]").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+  render();
+}));
+$("q").addEventListener("input", (e) => { QUERY = e.target.value.trim().toLowerCase(); render(); });
+
+// ---------- 近 7 天回顧 ----------
+const WEEK = "日一二三四五六";
+let DAY = null;
+function renderHistory() {
+  const h = DATA.history || {};
+  const dates = Object.keys(h).sort().reverse();
+  $("historySec").hidden = dates.length < 2;
+  if (dates.length < 2) return;
+  if (!DAY || !h[DAY]) DAY = dates[1] || dates[0];
+  const today = dates[0];
+  $("days").innerHTML = dates.map(d => {
+    const dt = new Date(d + "T12:00:00+08:00");
+    const label = d === today ? "今天" : "週" + WEEK[dt.getDay()];
+    return `<button class="day" data-day="${d}" aria-pressed="${d === DAY}">${label}<b>${dt.getMonth() + 1}/${dt.getDate()}</b></button>`;
+  }).join("");
+  const list = h[DAY] || [];
+  const max = Math.max(1, ...list.map(x => num(x.traffic)));
+  $("chips").innerHTML = list.map(x => {
+    const r = num(x.traffic) / max;
+    return `<a class="chip ${r > .6 ? "lv3" : r > .25 ? "lv2" : ""}" target="_blank" rel="noopener" href="https://www.google.com/search?q=${encodeURIComponent(x.kw)}">${esc(x.kw)}<small>${esc(fmtTraffic(x.traffic))}</small></a>`;
+  }).join("");
+}
+$("days").addEventListener("click", (e) => {
+  const b = e.target.closest("[data-day]");
+  if (b) { DAY = b.dataset.day; renderHistory(); }
+});
+
+// ---------- 資料 ----------
+function apply(data) {
+  if (!data || !data.items || !data.items.length) return false;
+  DATA = data;
+  $("updated").textContent = "每小時自動更新 · " + ago(data.updated_iso || data.updated.replace(" ", "T") + "+08:00") + "更新";
+  const top = data.items[0];
+  $("heroSub").textContent = `目前最熱：「${top.kw}」${fmtTraffic(top.traffic)} 次搜尋。點任一關鍵字，三秒看懂它為什麼上熱搜。`;
+  render(); renderHistory();
+  return true;
+}
+try { apply(JSON.parse($("data").textContent)); } catch (e) {}
+
+async function refresh() {
   try {
-    const res = await fetch("trends.json?t=" + Date.now(), { signal: AbortSignal.timeout(8000) });
+    const res = await fetch("trends.json?t=" + Date.now(), { cache: "no-store" });
     if (res.ok) {
       const data = await res.json();
-      if (data.items && data.items.length) { render(data.items, data); return; }
+      if (!DATA.updated_iso || data.updated_iso !== DATA.updated_iso) apply(data);
     }
-  } catch (e) { /* 讀取失敗 → 快照 */ }
-  render(SNAPSHOT, false);
+  } catch (e) {}
 }
-$("refreshBtn").addEventListener("click", loadLive);
-loadLive();
+refresh();
+// 回到分頁時若已超過 10 分鐘就重新抓
+let lastFetch = Date.now();
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden && Date.now() - lastFetch > 600e3) { lastFetch = Date.now(); refresh(); }
+});
+
+// GitHub 星數
+fetch("https://api.github.com/repos/stwater20/trend").then(r => r.ok ? r.json() : null).then(d => {
+  if (d && d.stargazers_count > 0) document.querySelector("#ghStar .lbl").textContent = "Star " + d.stargazers_count;
+}).catch(() => {});
 </script>
 </body>
 </html>

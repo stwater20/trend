@@ -1,0 +1,12 @@
+{
+ "name": "台灣即時熱搜排行榜",
+ "short_name": "台灣熱搜",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#0c0d12",
+ "theme_color": "#ff4d2e",
+ "lang": "zh-Hant",
+ "icons": [
+  { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+ ]
+}
