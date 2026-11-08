@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08 11:31",
- "updated_iso": "2026-11-08T11:31+08:00",
+ "updated": "2026-11-08 19:21",
+ "updated_iso": "2026-11-08T19:21+08:00",
  "items": [
   {
    "kw": "勇士 對 魔術",
@@ -86,6 +86,73 @@
     }
    ],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "張啟楷",
+   "traffic": "200+",
+   "start": "2026-11-08T18:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "補貼",
+   "traffic": "200+",
+   "start": "2026-11-08T18:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "冷空氣來襲",
+   "traffic": "200+",
+   "start": "2026-11-08T18:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNlf7MnP_aBuuk6074-X_TX-cCuPecwYRTmuAic6EPW4BJADnkyS4lY_-cbX4",
+   "news": [
+    {
+     "t": "【多倫多天氣】秋季最冷空氣來襲　下周體感温度低至零下7度",
+     "u": "https://www.singtao.ca/7677057/2026-11-06/news-%E3%80%90%E5%A4%9A%E5%80%AB%E5%A4%9A%E5%A4%A9%E6%B0%A3%E3%80%91%E7%A7%8B%E5%AD%A3%E6%9C%80%E5%86%B7%E7%A9%BA%E6%B0%A3%E4%BE%86%E8%A5%B2%E3%80%80%E4%B8%8B%E5%91%A8%E9%AB%94%E6%84%9F%E6%B8%A9%E5%BA%A6%E4%BD%8E%E8%87%B3%E9%9B%B6%E4%B8%8B7%E5%BA%A6/",
+     "s": "Sing Tao Daily 星島日報加拿大"
+    },
+    {
+     "t": "入秋最強冷空氣報到 粉專：明晚到周三晨最冷低溫15度",
+     "u": "https://udn.com/news/story/7266/9864527",
+     "s": "UDN"
+    },
+    {
+     "t": "影音/20261108各地早晚稍涼這些地方有雨基隆北海岸和東半部注意長浪- 旅遊新聞",
+     "u": "https://news.pchome.com.tw/travel/thehubnews/20261108/index-79411256244292306009.html",
+     "s": "PChome Online 新聞"
+    }
+   ]
+  },
+  {
+   "kw": "敗訴",
+   "traffic": "200+",
+   "start": "2026-11-08T17:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "李相赫",
+   "traffic": "200+",
+   "start": "2026-11-08T17:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkcqOqN7bgyPTja4Ezg3wTwvl7gaQncwof_gna6T1T-bj1LcY-Rw-49kuNB2k",
+   "news": [
+    {
+     "t": "看7秒就想吐？官方公開Faker第一視角 10年老玩家都看不懂",
+     "u": "https://tw.news.yahoo.com/%E7%9C%8B7%E7%A7%92%E5%B0%B1%E6%83%B3%E5%90%90%EF%BC%9F%E5%AE%98%E6%96%B9%E5%85%AC%E9%96%8Bfaker%E7%AC%AC%E4%B8%80%E8%A6%96%E8%A7%92-10%E5%B9%B4%E8%80%81%E7%8E%A9%E5%AE%B6%E9%83%BD%E7%9C%8B%E4%B8%8D%E6%87%82-062500481.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "Faker神預言「20秒就能結束比賽」竟完全命中！網笑：友哈相赫真的能看到未來",
+     "u": "https://tw.news.yahoo.com/faker%E7%A5%9E%E9%A0%90%E8%A8%80%E3%80%8C20%E7%A7%92%E5%B0%B1%E8%83%BD%E7%B5%90%E6%9D%9F%E6%AF%94%E8%B3%BD%E3%80%8D%E7%AB%9F%E5%AE%8C%E5%85%A8%E5%91%BD%E4%B8%AD%EF%BC%81%E7%B6%B2%E7%AC%91%EF%BC%9A%E5%8F%8B%E5%93%88%E7%9B%B8%E8%B5%AB%E7%9C%9F%E7%9A%84%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9C%AA%E4%BE%86-232107003.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "《英雄聯盟》2026 世界大賽四強賽首戰GEN 大勝 IG 踏上決賽舞台明日T1 對決 BLG《League of Legends》",
+     "u": "https://gnn.gamer.com.tw/detail.php?sn=314660",
+     "s": "GNN 新聞網"
+    }
+   ]
   },
   {
    "kw": "弗朗茨·華格納",
@@ -183,6 +250,57 @@
      "s": "旺得富理財網"
     }
    ]
+  },
+  {
+   "kw": "林庭謙",
+   "traffic": "100+",
+   "start": "2026-11-08T19:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "f-16戰隼戰鬥機",
+   "traffic": "100+",
+   "start": "2026-11-08T19:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "工資",
+   "traffic": "100+",
+   "start": "2026-11-08T18:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "塔里克·史庫柏",
+   "traffic": "100+",
+   "start": "2026-11-08T18:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQinZsfrqMnzbhJ-5tJPBINJz2PK7CVL5qi-eHDv4j2EZVfsS1Hxwx4Ao0A0m0",
+   "news": [
+    {
+     "t": "「自由市場初探-投手篇part1」 - MLB - 棒球",
+     "u": "https://www.sportsv.net/articles/129360",
+     "s": "運動視界Sports Vision"
+    },
+    {
+     "t": "道奇隊預計不會給史庫柏超越3.25億美元天價合約　有信心留下王牌",
+     "u": "https://www.nownews.com/news/6890353",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "MLB》自由市場最夯球員！兩屆賽揚王牌Skubal爭奪戰 道奇、大都會正面對決 | TSNA",
+     "u": "https://today.line.me/tw/v3/article/MLB7ODw",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "kw": "屏東聖誕節",
+   "traffic": "100+",
+   "start": "2026-11-08T18:00+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "勇士直播",
@@ -335,6 +453,26 @@
     "traffic": "200+"
    },
    {
+    "kw": "張啟楷",
+    "traffic": "200+"
+   },
+   {
+    "kw": "補貼",
+    "traffic": "200+"
+   },
+   {
+    "kw": "冷空氣來襲",
+    "traffic": "200+"
+   },
+   {
+    "kw": "敗訴",
+    "traffic": "200+"
+   },
+   {
+    "kw": "李相赫",
+    "traffic": "200+"
+   },
+   {
     "kw": "謝祖武",
     "traffic": "100+"
    },
@@ -344,14 +482,6 @@
    },
    {
     "kw": "geng vs ig",
-    "traffic": "100+"
-   },
-   {
-    "kw": "aj·迪班薩",
-    "traffic": "100+"
-   },
-   {
-    "kw": "wta年終總決賽",
     "traffic": "100+"
    }
   ],
