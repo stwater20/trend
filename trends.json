@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-09 17:54",
- "updated_iso": "2026-11-09T17:54+08:00",
+ "updated": "2026-11-10 04:50",
+ "updated_iso": "2026-11-10T04:50+08:00",
  "items": [
+  {
+   "kw": "氣溫",
+   "traffic": "50000+",
+   "start": "2026-11-10T02:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI7ZXF9u4m90obyq2Wvv1UZXtnmAp5BxG6PuCSdSlJSKDm5amcZIfJ72WjNg4",
+   "news": [
+    {
+     "t": "冷空氣發威最涼一天！明中部以北低溫下探15度 這日起回暖飆31度",
+     "u": "https://udn.com/news/story/7266/9867316",
+     "s": "UDN"
+    },
+    {
+     "t": "東北季風增強持續到周三 今晚至明晨最冷下探至15度",
+     "u": "https://news.pts.org.tw/article/834866",
+     "s": "公視新聞"
+    },
+    {
+     "t": "今東北季風南下迎風有雨北轉涼",
+     "u": "http://www.metapp.org.tw/pages/post-9f9083b78dc22f751afc.html",
+     "s": "氣象應用推廣基金會"
+    }
+   ]
+  },
   {
    "kw": "台股",
    "traffic": "20000+",
@@ -24,6 +47,13 @@
      "s": "今周刊"
     }
    ]
+  },
+  {
+   "kw": "交通部中央氣象署",
+   "traffic": "10000+",
+   "start": "2026-11-09T23:40+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "台積電股價",
@@ -79,6 +109,29 @@
    ]
   },
   {
+   "kw": "中信兄弟",
+   "traffic": "1000+",
+   "start": "2026-11-10T03:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ0_MceS95n7faAQkv6fmqv-YvaV-5B2bYFMHojvha9zCVrIWAWTASxt_8CQo",
+   "news": [
+    {
+     "t": "亞冠賽》大戰兄弟票房開紅盤！ 台灣隊公布觀眾人數",
+     "u": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%A4%A7%E6%88%B0%E5%85%84%E5%BC%9F%E7%A5%A8%E6%88%BF%E9%96%8B%E7%B4%85%E7%9B%A4-%E5%8F%B0%E7%81%A3%E9%9A%8A%E5%85%AC%E5%B8%83%E8%A7%80%E7%9C%BE%E4%BA%BA%E6%95%B8-065215827.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "亞冠賽》張仁瑋變超級工具人 兄弟未來有不同的計劃",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5633788",
+     "s": "自由體育"
+    },
+    {
+     "t": "平野惠一為張仁瑋美技鼓掌！兄弟球季告終「可能有人離隊」送祝福",
+     "u": "https://sports.ettoday.net/news/3268587",
+     "s": "ETtoday運動雲"
+    }
+   ]
+  },
+  {
    "kw": "韓國綜合股價指數",
    "traffic": "1000+",
    "start": "2026-11-09T16:00+08:00",
@@ -130,29 +183,6 @@
    "start": "2026-11-09T05:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "曼聯 對 阿斯頓維拉",
-   "traffic": "1000+",
-   "start": "2026-11-09T00:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJeoqqXMJ7qD7JgoFthVo60sOBfXjJ8r5UhOuNUzgb4vnQv1su4UKrt9BW5Zk",
-   "news": [
-    {
-     "t": "英超》曼聯跌入降級區 前9戰僅1勝陷保級危機",
-     "u": "https://tw.sports.yahoo.com/news/%E8%8B%B1%E8%B6%85-%E6%9B%BC%E8%81%AF%E8%B7%8C%E5%85%A5%E9%99%8D%E7%B4%9A%E5%8D%80-%E5%89%8D9%E6%88%B0%E5%83%851%E5%8B%9D%E9%99%B7%E4%BF%9D%E7%B4%9A%E5%8D%B1%E6%A9%9F-034255544.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "艾舒利楊格：根夏積遜入波鬥法",
-     "u": "https://hk.on.cc/hk/bkn/cnt/sport/20261107/bkn-20261107233017360-1107_00882_001.html",
-     "s": "on.cc東網"
-    },
-    {
-     "t": "曼聯迎戰維拉卡域克帥位保衛戰- 體育",
-     "u": "https://epaper.tkww.hk/a/202611/08/AP6aef8747e4b0bcb39b185eca.html",
-     "s": "大公文匯網"
-    }
-   ]
   },
   {
    "kw": "易遊網",
@@ -231,55 +261,94 @@
    ]
   },
   {
-   "kw": "又一村事件",
-   "traffic": "500+",
-   "start": "2026-11-09T01:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz3AwCoVwi6fvchn_grTUAIhl6kd0mu5m-fF0HOfbkne9fR2vcCLpPOe4CFLY",
+   "kw": "天气",
+   "traffic": "200+",
+   "start": "2026-11-10T04:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRsZlZ5LPhBbSVZvNjFNt3xMMVq5MNMDTHzNjmgxQS4fRb3yIRYzcUcZXYDs",
    "news": [
     {
-     "t": "王鴻薇否認對又一村講「再大聲一點」！反擊謝金河：你幻聽了嗎",
-     "u": "https://tw.news.yahoo.com/%E7%8E%8B%E9%B4%BB%E8%96%87%E5%90%A6%E8%AA%8D%E5%B0%8D%E5%8F%88-%E6%9D%91%E8%AC%9B-%E5%86%8D%E5%A4%A7%E8%81%B2-%E9%BB%9E-%E5%8F%8D%E6%93%8A%E8%AC%9D%E9%87%91%E6%B2%B3-154700667.html",
-     "s": "Yahoo新聞"
+     "t": "How space weather powers auroras in the sky and threatens power grids on the ground",
+     "u": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
+     "s": "Phys.org"
     },
     {
-     "t": "蔣萬安不認霸凌又一村 張禹宣貼影片「噓聲超大」：這不叫出征？",
-     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5633895",
-     "s": "自由時報"
+     "t": "Solar storms challenge insurers’ diversification and damage triggers",
+     "u": "https://www.globalreinsurance.com/home/solar-storms-challenge-insurers-diversification-and-damage-triggers/1460219.article",
+     "s": "Global Reinsurance"
     },
     {
-     "t": "台北市長選戰／「霸凌」挺綠店家？蔣萬安：一向友善互動可接受檢驗",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=242543",
-     "s": "Rti 中央廣播電臺"
+     "t": "The science of space weather",
+     "u": "https://www.esa.int/media/the-science-of-space-weather",
+     "s": "ESA"
     }
    ]
   },
   {
-   "kw": "愛爾達",
-   "traffic": "500+",
-   "start": "2026-11-09T01:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "蔣友柏",
-   "traffic": "500+",
-   "start": "2026-11-09T00:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qpXtDWRpMboZmy2p6mYvQcbvgH5Zcq2qriU8hDFlJKgpt1eP2vNzy7O-MJ0",
+   "kw": "u23 世界盃棒球錦標賽",
+   "traffic": "200+",
+   "start": "2026-11-10T01:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnxbKMjDwKJb9AXf034MXVTuw2lOTJqqm0xJx7FPwPoDlm9-C5kC8rd3KQ4A",
    "news": [
     {
-     "t": "跟進嗎？沈伯洋鬆口想邀蔣友柏　蔣萬安：尊重",
-     "u": "https://www.setn.com/news/1935420",
-     "s": "三立新聞網SETN.com"
+     "t": "U23世界盃》明天決戰台灣！澳洲隊超謎 屠殺波多黎各卻爆冷輸捷克",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5634147",
+     "s": "自由體育"
     },
     {
-     "t": "沈伯洋真的要出手？傳將拜會宋楚瑜、黃珊珊、蔣友柏 本人這樣說",
-     "u": "https://www.ftvnews.com.tw/news/detail/2026B08W0447",
-     "s": "民視新聞網"
+     "t": "U23世界盃賽程｜U23中華隊賽程、分組、賽事直播資訊整理一次看！【2026年第六屆U-23世界盃棒球賽】",
+     "u": "https://tw.sports.yahoo.com/news/u23%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B%EF%BD%9Cu23%E4%B8%AD%E8%8F%AF%E9%9A%8A%E8%B3%BD%E7%A8%8B%E3%80%81%E5%88%86%E7%B5%84%E3%80%81%E8%B3%BD%E4%BA%8B%E7%9B%B4%E6%92%AD%E8%B3%87%E8%A8%8A%E6%95%B4%E7%90%86%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%81%E3%80%902026%E5%B9%B4%E7%AC%AC%E5%85%AD%E5%B1%86u-23%E4%B8%96%E7%95%8C%E7%9B%83%E6%A3%92%E7%90%83%E8%B3%BD%E3%80%91-015501300.html",
+     "s": "Yahoo運動"
     },
     {
-     "t": "沈伯洋談跨黨派交流 劉品妡：跨領域請益讓市政聽見基層聲音 | 自由電子報",
-     "u": "https://today.line.me/tw/v3/article/eLpRNMx",
-     "s": "LINE TODAY"
+     "t": "U23世界盃》中華隊如何晉級？凌晨決戰澳洲　A組戰況、轉播一次看",
+     "u": "https://www.nownews.com/news/6890630",
+     "s": "NOWnews今日新聞"
+    }
+   ]
+  },
+  {
+   "kw": "大同公司",
+   "traffic": "200+",
+   "start": "2026-11-10T00:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEUD7Lh4KXxpI7wmC-9lNXOdZiEUvbLrl4BuRir8m_vrKi3xUyAtbIGnGNuH0",
+   "news": [
+    {
+     "t": "大同前副董事長涉內線交易！子女帳戶買股賺600萬 返台機場遭帶回",
+     "u": "https://udn.com/news/story/7321/9867588",
+     "s": "UDN"
+    },
+    {
+     "t": "涉精英電腦內線交易 西門町地王吳振隆、主機板教父蔣東濬北檢複訊",
+     "u": "https://news.ltn.com.tw/news/society/breakingnews/5635082",
+     "s": "自由時報"
+    },
+    {
+     "t": "才剛百萬交保！「西門町地王」涉精英電腦內線交易　父子檔遭搜索帶回",
+     "u": "https://www.mirrormedia.mg/external/mirrordaily_96810",
+     "s": "鏡週刊Mirror Media"
+    }
+   ]
+  },
+  {
+   "kw": "cpi",
+   "traffic": "200+",
+   "start": "2026-11-09T23:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWT7Q_JinX6Jr0bPw3woIw0CpSgXcpZAgVtWWfWth7nsOqJm52GlpyvxcA95U",
+   "news": [
+    {
+     "t": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
+     "s": "Bloomberg.com"
+    },
+    {
+     "t": "BLS to skip 12-month inflation figures in October CPI report",
+     "u": "https://qz.com/bls-skip-12-month-cpi-october-inflation-report-110926",
+     "s": "Quartz"
+    },
+    {
+     "t": "What to watch in markets this week",
+     "u": "https://www.axios.com/2026/11/09/stocks-inflation-fed",
+     "s": "Axios"
     }
    ]
   },
@@ -475,117 +544,114 @@
    ]
   },
   {
-   "kw": "f1 線上看",
-   "traffic": "200+",
-   "start": "2026-11-09T01:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe7e58QPC0SVSJ5OSMqL-5ObUCDY69xEYOWf99hkcn2EL7C31NIJNQJ_b1UAo",
-   "news": [
-    {
-     "t": "São Paulo Grand Prix: Formula One 2026 – live",
-     "u": "https://www.theguardian.com/sport/live/2026/nov/08/sao-paulo-f1-grand-prix-live-updates",
-     "s": "The Guardian"
-    },
-    {
-     "t": "Sao Paulo Grand Prix: Lando Norris and George Russell hoping for more rain in race after wet qualifying",
-     "u": "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
-     "s": "BBC"
-    },
-    {
-     "t": "What are the tyre strategy options for the Sao Paulo GP?",
-     "u": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
-     "s": "Formula 1"
-    }
-   ]
-  },
-  {
-   "kw": "國安基金護盤名單",
-   "traffic": "200+",
-   "start": "2026-11-09T00:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS802uMrwNwDeFiuqgTFZagTwF9GellEDTtHFntPtwaF2oyHDswIKdyUQNvXmQ",
-   "news": [
-    {
-     "t": "國安基金進場台股穩了嗎？分析師揭「第13天反攻密碼」 點名二檔融資減、法人逆勢加碼股- 證券",
-     "u": "https://www.ctee.com.tw/news/20261108700255-430201",
-     "s": "工商時報"
-    },
-    {
-     "t": "國安基金啟動護盤看「它」臉色 台股興衰與「這指數」連動",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5633948",
-     "s": "自由財經"
-    },
-    {
-     "t": "外資狂提款1.5兆大盤驚入熊市！國安基金宣布第10次護盤「盤點大盤5天、1個月勝率」15檔官股穩盤名單最吸金- 上市櫃",
-     "u": "https://wantrich.chinatimes.com/news/20261108900038-420101",
-     "s": "旺得富理財網"
-    }
-   ]
-  },
-  {
-   "kw": "แมนยู พบ แอสตันวิลลา",
-   "traffic": "200+",
-   "start": "2026-11-09T00:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-SV3Zuzj9WjpcX6MJ5nyP5qufcxKroicRy_Qii5hsHJnbGxoPDVc9qI_uq64",
-   "news": [
-    {
-     "t": "สถิติไม่น่าจดจำ เผย แมนยู ร่วงไปอยู่โซนตกชั้นครั้งแรกรอบ 40 ปี | Khaosod",
-     "u": "https://today.line.me/th/v3/article/GgNwNw5",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "MU ควรหาโค้ชที่มีแนวทางการทำงานที่สอดคล้องกับความเป็นจริงอย่างเช่น Emery",
-     "u": "https://www.vietnam.vn/th/mu-nen-tim-kiem-mot-hlv-thuc-chien-nhu-emery",
-     "s": "Vietnam.vn"
-    },
-    {
-     "t": "มาแล้ว รายชื่อ 11 ตัวจริงแมนยู พบ วิลล่า ศึกพรีเมียร์ลีก บอลวันนี้ 23.30 น.",
-     "u": "https://www.thairath.co.th/sport/eurofootball/premierleague/2971224",
-     "s": "www.thairath.co.th"
-    }
-   ]
-  },
-  {
-   "kw": "gta6",
-   "traffic": "200+",
-   "start": "2026-11-09T00:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSk249MDEeYsamkE71yKC0ECdZNDRlGbRKQe3_RZaj1uwDwCU1bTkE0XNFdCZM",
+   "kw": "gta 6",
+   "traffic": "100+",
+   "start": "2026-11-10T00:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
    "news": [
     {
      "t": "Grand Theft Auto VI Pre-Load Begins on November 10",
-     "u": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10?utm_source=twitter&amp;utm_medium=o_social&amp;utm_campaign=gtavi_announcement_pre-load-20261103",
+     "u": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
      "s": "Rockstar Games"
     },
     {
-     "t": "Download Grand Theft Auto VI Faster and Get to Leonida Sooner With Spectrum Internet Gig",
-     "u": "https://corporate.charter.com/newsroom/spectrum-giving-free-gig-speed-lift-thanksgiving-grand-theft-auto",
-     "s": "Charter Communications"
+     "t": "How To Preload GTA 6 In Full On Xbox Series X|S (Even If You Haven't Bought It)",
+     "u": "https://www.purexbox.com/news/2026/11/how-to-preload-gta-6-in-full-on-xbox-series-xs-even-if-you-havent-bought-it",
+     "s": "Pure Xbox"
     },
     {
-     "t": "How to play 'GTA 6' a day before everyone else in the U.S.",
-     "u": "https://mashable.com/entertainment/gta-6-how-to-play-one-day-early",
-     "s": "Mashable"
+     "t": "Why New Zealand gets GTA 6 before the rest of the world, and the time-zone trick players are trying",
+     "u": "https://m.economictimes.com/news/international/us/why-new-zealand-gets-gta-6-before-the-rest-of-the-world-and-the-time-zone-trick-players-are-trying/articleshow/135683874.cms",
+     "s": "The Economic Times"
     }
    ]
   },
   {
-   "kw": "張啟楷",
-   "traffic": "200+",
-   "start": "2026-11-08T18:40+08:00",
-   "pic": "",
-   "news": []
+   "kw": "russell brand",
+   "traffic": "100+",
+   "start": "2026-11-10T00:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV4FUATC_TnzP0Oach5099_DtjqmdGBSnGOWkO2hXp3BtZjf9-X-ZirvTb0e0",
+   "news": [
+    {
+     "t": "Russell Brand sentenced to 10 years and six months in prison for rape and sexual assault",
+     "u": "https://www.cnn.com/2026/11/09/entertainment/russell-brand-rape-sentence-prison-intl",
+     "s": "CNN"
+    },
+    {
+     "t": "Russell Brand latest: Comedian jailed for 10 years and six months for rape and sexual assault",
+     "u": "https://news.sky.com/story/russell-brand-sentencing-jail-guilty-rape-sexual-assault-trial-live-latest-13592674",
+     "s": "Sky News"
+    },
+    {
+     "t": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+     "u": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
+     "s": "The Guardian"
+    }
+   ]
   },
   {
-   "kw": "補貼",
-   "traffic": "200+",
-   "start": "2026-11-08T18:20+08:00",
-   "pic": "",
-   "news": []
+   "kw": "冷氣團",
+   "traffic": "100+",
+   "start": "2026-11-09T23:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3N0jkQl6fDXxteREv3eeNEZVQOxYnZ1xpr6tzMIF0xbOkEUoCTLLcU3h9jIo",
+   "news": [
+    {
+     "t": "首波冷氣團何時抵達台灣？賈新興：恐拖到聖誕節　立冬後還是偏暖",
+     "u": "https://www.nownews.com/news/6890185",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "首波強烈大陸冷氣團何時報到？近30年平均時間曝 粉專指甚至等到跨年",
+     "u": "https://udn.com/news/story/7266/9863195",
+     "s": "UDN"
+    },
+    {
+     "t": "首波強烈大陸冷氣團何時報到？氣象粉專揭可能時間點， 今年寒冬什麼時候來一次看",
+     "u": "https://www.storm.mg/lifestyle/11179335",
+     "s": "風傳媒"
+    }
+   ]
   }
  ],
  "history": {
+  "2026-11-10": [
+   {
+    "kw": "氣溫",
+    "traffic": "50000+"
+   },
+   {
+    "kw": "中信兄弟",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "天气",
+    "traffic": "200+"
+   },
+   {
+    "kw": "u23 世界盃棒球錦標賽",
+    "traffic": "200+"
+   },
+   {
+    "kw": "大同公司",
+    "traffic": "200+"
+   },
+   {
+    "kw": "gta 6",
+    "traffic": "100+"
+   },
+   {
+    "kw": "russell brand",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-09": [
    {
     "kw": "台股",
     "traffic": "20000+"
+   },
+   {
+    "kw": "交通部中央氣象署",
+    "traffic": "10000+"
    },
    {
     "kw": "股票",
@@ -657,10 +723,6 @@
    },
    {
     "kw": "gta6",
-    "traffic": "200+"
-   },
-   {
-    "kw": "金融",
     "traffic": "200+"
    }
   ],
@@ -911,48 +973,6 @@
    },
    {
     "kw": "美国中期选举",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-03": [
-   {
-    "kw": "台 股 大 跌",
-    "traffic": "10000+"
-   },
-   {
-    "kw": "拓元",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "北投市場",
-    "traffic": "500+"
-   },
-   {
-    "kw": "快艇 對 暴龍",
-    "traffic": "500+"
-   },
-   {
-    "kw": "陳水扁",
-    "traffic": "200+"
-   },
-   {
-    "kw": "bts 演唱會",
-    "traffic": "200+"
-   },
-   {
-    "kw": "warriors vs suns",
-    "traffic": "100+"
-   },
-   {
-    "kw": "鋼",
-    "traffic": "100+"
-   },
-   {
-    "kw": "76ers vs bulls",
-    "traffic": "100+"
-   },
-   {
-    "kw": "無限 都 更",
     "traffic": "100+"
    }
   ]
