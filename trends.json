@@ -1,7 +1,60 @@
 {
- "updated": "2026-11-09 06:14",
- "updated_iso": "2026-11-09T06:14+08:00",
+ "updated": "2026-11-09 09:46",
+ "updated_iso": "2026-11-09T09:46+08:00",
  "items": [
+  {
+   "kw": "台股",
+   "traffic": "20000+",
+   "start": "2026-11-09T09:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0YnmDDdpVEeIxNBg5SbUWV26szc8m_q6dwIc2GinyQRfifx3XwM8t3H78agI",
+   "news": [
+    {
+     "t": "護盤急急如律令！國安基金口袋名單全統計 名師焦點鎖定「這幾檔」",
+     "u": "https://www.ctee.com.tw/news/20261109700059-439901",
+     "s": "工商時報"
+    },
+    {
+     "t": "國安基金護盤 今天進場來得及嗎??",
+     "u": "https://news.cnyes.com/news/id/6652610",
+     "s": "鉅亨網"
+    },
+    {
+     "t": "限空令是什麼？11/9開始實施！5大措施、影響…過去6次禁空令/限空令台股表現如何一表看",
+     "u": "https://www.businesstoday.com.tw/article/category/183008/post/202611070005/",
+     "s": "今周刊"
+    }
+   ]
+  },
+  {
+   "kw": "台積電股價",
+   "traffic": "2000+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "聯電股價",
+   "traffic": "2000+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhs0XmINSC_uKdUXI8dV7v3Gw3Dlyg7y14jXS5tHf8VI1qUPT7Mh75M91vqM",
+   "news": [
+    {
+     "t": "聯電閃見「8字頭」，股價腰斬能撿嗎？不只三星關8吋廠轉單大禮包，法人揭另1成長引擎…最新目標價曝光",
+     "u": "https://www.businesstoday.com.tw/article/category/183008/post/202611080006/",
+     "s": "今周刊"
+    },
+    {
+     "t": "三星驚傳2030年全面退出8吋晶圓代工！AI電源晶片拉貨引爆成熟製程漲價潮！",
+     "u": "https://yayanews.com.tw/37573/",
+     "s": "yayanews.com.tw"
+    },
+    {
+     "t": "三星退出8吋晶片代工 哪些廠商將受益？",
+     "u": "https://www.eettaiwan.com/20261105nt61-samsung-exits-8-inch-foundry-market-beneficiaries-trend/",
+     "s": "電子工程專輯"
+    }
+   ]
+  },
   {
    "kw": "股票",
    "traffic": "2000+",
@@ -30,6 +83,29 @@
    "traffic": "2000+",
    "news": [],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "旺宏股價",
+   "traffic": "1000+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFtT9GPs-ZCaKMJhD_UiLvnPPRZokgvpjzLAgZRvmktklla1PqZJTLgRwKbc8",
+   "news": [
+    {
+     "t": "現在入場記憶體是套牢還是抄底？資深分析師給答案1操作勝率大：南亞科、華邦電選「它」",
+     "u": "https://tw.stock.yahoo.com/news/%E7%8F%BE%E5%9C%A8%E5%85%A5%E5%A0%B4%E8%A8%98%E6%86%B6%E9%AB%94%E6%98%AF%E5%A5%97%E7%89%A2%E9%82%84%E6%98%AF%E6%8A%84%E5%BA%95-%E8%B3%87%E6%B7%B1%E5%88%86%E6%9E%90%E5%B8%AB%E7%B5%A6%E7%AD%94%E6%A1%881%E6%93%8D%E4%BD%9C%E5%8B%9D%E7%8E%87%E5%A4%A7-%E5%8D%97%E4%BA%9E%E7%A7%91-%E8%8F%AF%E9%82%A6%E9%9B%BB%E9%81%B8-%E5%AE%83-011800145.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "記憶體股跌慘了還能撿？專家拆解南亞科、華邦電優勢進場先看2大訊號- 證券",
+     "u": "https://www.ctee.com.tw/news/20261107700017-430201",
+     "s": "工商時報"
+    },
+    {
+     "t": "記憶體11月地獄開局！南亞科、華邦電、群聯、晶豪科、十銓...5雄目標價1次看：僅「這檔」法人喊加碼- 上市櫃",
+     "u": "https://wantrich.chinatimes.com/news/20261109900002-420101",
+     "s": "旺得富理財網"
+    }
+   ]
   },
   {
    "kw": "股災",
@@ -96,25 +172,25 @@
    "start": "2026-11-08T10:14+08:00"
   },
   {
-   "kw": "太陽 對 火箭",
-   "traffic": "1000+",
-   "start": "2026-11-08T09:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTudw7LFrWgyafsZXdja9NJqvOlbm_NKbmaZQHTy6wgFAwlVe0LuzuM3cRakHc",
+   "kw": "台幣匯率",
+   "traffic": "500+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu0Oj5rzmGDfPX2faam4F0YiA5gz8QFk9du_2Pw6dIlsudeEYFbqr1tdI0p5k",
    "news": [
     {
-     "t": "Penn State - Washington Open Thread",
-     "u": "https://www.blackshoediaries.com/penn-state-football/92071/penn-state-nittany-lions-football-washington-huskies-open-thread-bsd",
-     "s": "Black Shoe Diaries"
+     "t": "新台幣收復33元能鬆口氣？外資賣壓未必退專家點出2大回升指標- 金融",
+     "u": "https://www.ctee.com.tw/news/20261107700414-430302",
+     "s": "工商時報"
     },
     {
-     "t": "Oregon Ducks Football News",
-     "u": "https://www.addictedtoquack.com/morning-quack-fix/64648/oregon-ducks-football-news",
-     "s": "Addicted To Quack"
+     "t": "匯市最前線／台幣將32.5-33元整理",
+     "u": "https://udn.com/news/story/7239/9864401",
+     "s": "UDN"
     },
     {
-     "t": "Inside Look with Tyson Alger and Ken Woody: Now that wasn’t so bad",
-     "u": "https://lookouteugene-springfield.com/story/ducks/2026/11/05/inside-look-with-tyson-alger-and-ken-woody-now-that-wasnt-that-bad/",
-     "s": "Lookout Eugene-Springfield"
+     "t": "2026年底全球經濟情勢觀察 地緣政治、央行動向、AI投資與美國選舉牽動後市",
+     "u": "https://tw.stock.yahoo.com/news/2026%E5%B9%B4%E5%BA%95%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E6%83%85%E5%8B%A2%E8%A7%80%E5%AF%9F-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB-%E5%A4%AE%E8%A1%8C%E5%8B%95%E5%90%91-ai%E6%8A%95%E8%B3%87%E8%88%87%E7%BE%8E%E5%9C%8B%E9%81%B8%E8%88%89%E7%89%BD%E5%8B%95%E5%BE%8C%E5%B8%82-130946806.html",
+     "s": "Yahoo股市"
     }
    ]
   },
@@ -215,6 +291,82 @@
     }
    ],
    "start": "2026-11-08T10:14+08:00"
+  },
+  {
+   "kw": "國王 對 熱火",
+   "traffic": "200+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI65PyqdCMnZZnWrXYcGd_cItKiqpn16IXy01dqs2UmiwO7durhBYAmyNsTs0",
+   "news": [
+    {
+     "t": "NBA運彩分析》11/9 熱火犀利強攻拉抬西區長征士氣 國王恐難跳脫主場未嘗勝績陰影",
+     "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B119-%E7%86%B1%E7%81%AB%E7%8A%80%E5%88%A9%E5%BC%B7%E6%94%BB%E6%8B%89%E6%8A%AC%E8%A5%BF%E5%8D%80%E9%95%B7%E5%BE%81%E5%A3%AB%E6%B0%A3-%E5%9C%8B%E7%8E%8B%E6%81%90%E9%9B%A3%E8%B7%B3%E8%84%AB%E4%B8%BB%E5%A0%B4%E6%9C%AA%E5%98%97%E5%8B%9D%E7%B8%BE%E9%99%B0%E5%BD%B1-074304854.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "NBA熱火週日作客國王 兩隊陷低潮力求止敗反彈 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/oqpRxJj",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "NBA運彩分析 》熱火雙核心壓制禁區 客場力拚讓分過盤",
+     "u": "https://tsna.com/article/205447",
+     "s": "TSNA體育新聞團隊"
+    }
+   ]
+  },
+  {
+   "kw": "geng",
+   "traffic": "200+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSN4azF8UyrULbeoZfB1w81Mf0hNcqsu3gnYiXnKXlhMCUvoLTPLaUYvvkWclo",
+   "news": [
+    {
+     "t": "Gen.G sweep IG and become the first finalists of Worlds 2026",
+     "u": "https://www.sheepesports.com/en/articles/gen-g-sweep-ig-and-become-the-first-finalists-of-worlds-2026/en",
+     "s": "Sheep Esports"
+    },
+    {
+     "t": "November 8, 2026: T1 vs. Bilibili Gaming: Game 4 First Baron Prediction Market",
+     "u": "https://robinhood.com/us/en/prediction-markets/esports/events/t1-vs-bilibili-gaming-game-4-first-baron-nov-08-2026/",
+     "s": "Robinhood"
+    },
+    {
+     "t": "First to Reach the Finals, 'Chovy': \"T1? BLG? Both Are Tough Opponents, Unpredictable\"",
+     "u": "https://www.invenglobal.com/articles/28314/first-to-reach-the-finals-chovy-t1-blg-both-are-tough-opponents-unpredictable",
+     "s": "Inven Global"
+    }
+   ]
+  },
+  {
+   "kw": "南電",
+   "traffic": "200+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "國巨股票",
+   "traffic": "200+",
+   "start": "2026-11-09T09:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXXZ9pincHCPs_ELDixG_qTAU8i03zt5S1f8Jd8zMB-XrTqDTJB18wyVIuh-Y",
+   "news": [
+    {
+     "t": "郭彥均5間房賺4倍、800買國巨套爛！自嘲韭菜：股票太難不如老實存房",
+     "u": "https://house.udn.com/house/story/123589/9859227",
+     "s": "udn房地產"
+    },
+    {
+     "t": "收入不穩更要買房！郭彥均自揭「房產當撲滿」：傻存錢還清5間房貸",
+     "u": "https://news.housefun.com.tw/news/article/133381490818.html",
+     "s": "好房網News"
+    },
+    {
+     "t": "獨／郭彥均買國巨認賠20萬！轉抱0050賠17%吐資產現況：跌到無感",
+     "u": "https://www.nownews.com/news/6889883",
+     "s": "NOWnews今日新聞"
+    }
+   ]
   },
   {
    "kw": "金融",
@@ -390,139 +542,24 @@
    "start": "2026-11-08T18:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "冷空氣來襲",
-   "traffic": "200+",
-   "start": "2026-11-08T18:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNlf7MnP_aBuuk6074-X_TX-cCuPecwYRTmuAic6EPW4BJADnkyS4lY_-cbX4",
-   "news": [
-    {
-     "t": "【多倫多天氣】秋季最冷空氣來襲　下周體感温度低至零下7度",
-     "u": "https://www.singtao.ca/7677057/2026-11-06/news-%E3%80%90%E5%A4%9A%E5%80%AB%E5%A4%9A%E5%A4%A9%E6%B0%A3%E3%80%91%E7%A7%8B%E5%AD%A3%E6%9C%80%E5%86%B7%E7%A9%BA%E6%B0%A3%E4%BE%86%E8%A5%B2%E3%80%80%E4%B8%8B%E5%91%A8%E9%AB%94%E6%84%9F%E6%B8%A9%E5%BA%A6%E4%BD%8E%E8%87%B3%E9%9B%B6%E4%B8%8B7%E5%BA%A6/",
-     "s": "Sing Tao Daily 星島日報加拿大"
-    },
-    {
-     "t": "入秋最強冷空氣報到 粉專：明晚到周三晨最冷低溫15度",
-     "u": "https://udn.com/news/story/7266/9864527",
-     "s": "UDN"
-    },
-    {
-     "t": "影音/20261108各地早晚稍涼這些地方有雨基隆北海岸和東半部注意長浪- 旅遊新聞",
-     "u": "https://news.pchome.com.tw/travel/thehubnews/20261108/index-79411256244292306009.html",
-     "s": "PChome Online 新聞"
-    }
-   ]
-  },
-  {
-   "kw": "敗訴",
-   "traffic": "200+",
-   "start": "2026-11-08T17:50+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "李相赫",
-   "traffic": "200+",
-   "start": "2026-11-08T17:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkcqOqN7bgyPTja4Ezg3wTwvl7gaQncwof_gna6T1T-bj1LcY-Rw-49kuNB2k",
-   "news": [
-    {
-     "t": "看7秒就想吐？官方公開Faker第一視角 10年老玩家都看不懂",
-     "u": "https://tw.news.yahoo.com/%E7%9C%8B7%E7%A7%92%E5%B0%B1%E6%83%B3%E5%90%90%EF%BC%9F%E5%AE%98%E6%96%B9%E5%85%AC%E9%96%8Bfaker%E7%AC%AC%E4%B8%80%E8%A6%96%E8%A7%92-10%E5%B9%B4%E8%80%81%E7%8E%A9%E5%AE%B6%E9%83%BD%E7%9C%8B%E4%B8%8D%E6%87%82-062500481.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "Faker神預言「20秒就能結束比賽」竟完全命中！網笑：友哈相赫真的能看到未來",
-     "u": "https://tw.news.yahoo.com/faker%E7%A5%9E%E9%A0%90%E8%A8%80%E3%80%8C20%E7%A7%92%E5%B0%B1%E8%83%BD%E7%B5%90%E6%9D%9F%E6%AF%94%E8%B3%BD%E3%80%8D%E7%AB%9F%E5%AE%8C%E5%85%A8%E5%91%BD%E4%B8%AD%EF%BC%81%E7%B6%B2%E7%AC%91%EF%BC%9A%E5%8F%8B%E5%93%88%E7%9B%B8%E8%B5%AB%E7%9C%9F%E7%9A%84%E8%83%BD%E7%9C%8B%E5%88%B0%E6%9C%AA%E4%BE%86-232107003.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "《英雄聯盟》2026 世界大賽四強賽首戰GEN 大勝 IG 踏上決賽舞台明日T1 對決 BLG《League of Legends》",
-     "u": "https://gnn.gamer.com.tw/detail.php?sn=314660",
-     "s": "GNN 新聞網"
-    }
-   ]
-  },
-  {
-   "kw": "弗朗茨·華格納",
-   "traffic": "200+",
-   "start": "2026-11-08T10:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTz8NU-ZQB2reJsPaexyt00kZeB8g-bzNccQqGwvQNv3iG69m5jFF_0CHWXJxY",
-   "news": [
-    {
-     "t": "Magic's trajectory could put Franz Wagner in the Blazers' trade sights",
-     "u": "https://ripcityproject.com/magic-trajectory-could-put-franz-wagner-in-the-blazers-trade-sights",
-     "s": "Rip City Project"
-    },
-    {
-     "t": "Ex-Magic Head Coach Says Team Should Split Up Paolo Banchero, Franz Wagner",
-     "u": "https://sports.yahoo.com/articles/ex-magic-head-coach-says-170028408.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "Doc Rivers Weighs In on Magic’s Paolo Banchero-Franz Wagner Coexistence Challenge",
-     "u": "https://heavy.com/sports/nba/orlando-magic/orlando-magic-doc-rivers-weighs-in-paolo-banchero-franz-wagner/",
-     "s": "Heavy.com"
-    }
-   ]
-  },
-  {
-   "kw": "u23 世界盃棒球錦標賽",
-   "traffic": "200+",
-   "news": [
-    {
-     "t": "Close games and emotions: WBSC U-23 Baseball World Cup Day 1 had it all",
-     "u": "https://www.wbsc.org/en/events/2026-vi-wbsc-u-23-baseball-world-cup/news/wbsc-u-23-baseball-world-cup-2026-day-1-live-blog"
-    }
-   ],
-   "start": "2026-11-08T10:14+08:00"
-  },
-  {
-   "kw": "檢察官",
-   "traffic": "200+",
-   "news": [
-    {
-     "t": "檢察官AI助理年底試辦 省時三成",
-     "u": "https://udn.com/news/story/7321/9864332"
-    }
-   ],
-   "start": "2026-11-08T10:14+08:00"
-  },
-  {
-   "kw": "太空飛機",
-   "traffic": "200+",
-   "news": [],
-   "start": "2026-11-08T10:14+08:00"
-  },
-  {
-   "kw": "warriors vs magic",
-   "traffic": "200+",
-   "start": "2026-11-08T10:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8aEbYthKWZKgC3v-32EC1E3lRaduKgx23aLol3QsjCtPvpHcC-bzybJKRRCg",
-   "news": [
-    {
-     "t": "Final Injury Report for Magic-Warriors: Will Draymond Green, Jalen Suggs Play?",
-     "u": "https://sports.yahoo.com/articles/final-injury-report-magic-warriors-213000002.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "[Free] *Orlando Magic vs Golden State Warriors Live 𝐒𝐭𝐫𝐞𝐚𝐦𝐬 ON NBA Free Tv Game",
-     "u": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2166413",
-     "s": "Powell River Peak"
-    },
-    {
-     "t": "Orlando Magic at Golden State Warriors: Game Preview",
-     "u": "https://orlandomagic.com/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107",
-     "s": "NBA.com"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-09": [
    {
+    "kw": "台股",
+    "traffic": "20000+"
+   },
+   {
     "kw": "股票",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "台積電股價",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "聯電股價",
     "traffic": "2000+"
    },
    {
@@ -531,6 +568,10 @@
    },
    {
     "kw": "股災",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "旺宏股價",
     "traffic": "1000+"
    },
    {
@@ -547,6 +588,10 @@
    },
    {
     "kw": "生肖",
+    "traffic": "500+"
+   },
+   {
+    "kw": "台幣匯率",
     "traffic": "500+"
    },
    {
@@ -578,12 +623,8 @@
     "traffic": "200+"
    },
    {
-    "kw": "man utd đấu với aston villa",
-    "traffic": "100+"
-   },
-   {
-    "kw": "巴西大獎賽",
-    "traffic": "100+"
+    "kw": "國王 對 熱火",
+    "traffic": "200+"
    }
   ],
   "2026-11-08": [
