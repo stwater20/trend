@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 20:45",
- "updated_iso": "2026-11-10T20:45+08:00",
+ "updated": "2026-11-11 04:29",
+ "updated_iso": "2026-11-11T04:29+08:00",
  "items": [
   {
    "kw": "明天的天氣",
@@ -26,36 +26,6 @@
    ]
   },
   {
-   "kw": "氣溫",
-   "traffic": "50000+",
-   "start": "2026-11-10T02:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI7ZXF9u4m90obyq2Wvv1UZXtnmAp5BxG6PuCSdSlJSKDm5amcZIfJ72WjNg4",
-   "news": [
-    {
-     "t": "冷空氣發威最涼一天！明中部以北低溫下探15度 這日起回暖飆31度",
-     "u": "https://udn.com/news/story/7266/9867316",
-     "s": "UDN"
-    },
-    {
-     "t": "東北季風增強持續到周三 今晚至明晨最冷下探至15度",
-     "u": "https://news.pts.org.tw/article/834866",
-     "s": "公視新聞"
-    },
-    {
-     "t": "今東北季風南下迎風有雨北轉涼",
-     "u": "http://www.metapp.org.tw/pages/post-9f9083b78dc22f751afc.html",
-     "s": "氣象應用推廣基金會"
-    }
-   ]
-  },
-  {
-   "kw": "交通部中央氣象署",
-   "traffic": "10000+",
-   "start": "2026-11-09T23:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
    "kw": "勇士 對 鵜鶘",
    "traffic": "5000+",
    "start": "2026-11-10T10:10+08:00",
@@ -77,6 +47,36 @@
      "s": "緯來體育台"
     }
    ]
+  },
+  {
+   "kw": "普發一萬",
+   "traffic": "2000+",
+   "start": "2026-11-11T03:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7kCi6f4YZ8Wy0mVUzrMfjQJd1P0iKx1rGgukBm4MwuvbB_bN8i-lFhegOS44",
+   "news": [
+    {
+     "t": "全國普發一萬要來了！入帳時間、「ATM/郵局領現時程曝」，7地區加碼最高再領10000元",
+     "u": "https://www.storm.mg/lifestyle/11180013",
+     "s": "風傳媒"
+    },
+    {
+     "t": "藍營喊普發現金2萬、3萬賴清德：多說的！那是借錢啊| 政治",
+     "u": "https://newtalk.tw/news/view/2026-11-10/1070350",
+     "s": "Newtalk新聞"
+    },
+    {
+     "t": "全民普發一萬何時入帳？發放「關鍵6日期」曝光",
+     "u": "https://www.setn.com/news/1935857",
+     "s": "三立新聞網SETN.com"
+    }
+   ]
+  },
+  {
+   "kw": "老農津貼",
+   "traffic": "1000+",
+   "start": "2026-11-11T04:10+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "weather tomorrow",
@@ -102,25 +102,55 @@
    ]
   },
   {
-   "kw": "中信兄弟",
-   "traffic": "1000+",
-   "start": "2026-11-10T03:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ0_MceS95n7faAQkv6fmqv-YvaV-5B2bYFMHojvha9zCVrIWAWTASxt_8CQo",
+   "kw": "古裝劇",
+   "traffic": "500+",
+   "start": "2026-11-11T00:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "switch 2",
+   "traffic": "500+",
+   "start": "2026-11-11T00:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3P4qiGEBirP5kKmJ5FCzywWBXqZpgOM_TbQUWj7h7cfGSdrO_Ce40S8bYH3w",
    "news": [
     {
-     "t": "亞冠賽》大戰兄弟票房開紅盤！ 台灣隊公布觀眾人數",
-     "u": "https://tw.sports.yahoo.com/news/%E4%BA%9E%E5%86%A0%E8%B3%BD-%E5%A4%A7%E6%88%B0%E5%85%84%E5%BC%9F%E7%A5%A8%E6%88%BF%E9%96%8B%E7%B4%85%E7%9B%A4-%E5%8F%B0%E7%81%A3%E9%9A%8A%E5%85%AC%E5%B8%83%E8%A7%80%E7%9C%BE%E4%BA%BA%E6%95%B8-065215827.html",
-     "s": "Yahoo運動"
+     "t": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+     "u": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+     "s": "The New York Times"
     },
     {
-     "t": "亞冠賽》張仁瑋變超級工具人 兄弟未來有不同的計劃",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5633788",
-     "s": "自由體育"
+     "t": "'The Ocarina of Time' remake is setting Metacritic records left and right",
+     "u": "https://mashable.com/entertainment/zelda-ocarina-of-time-switch-2-metacritic-records",
+     "s": "Mashable"
     },
     {
-     "t": "平野惠一為張仁瑋美技鼓掌！兄弟球季告終「可能有人離隊」送祝福",
-     "u": "https://sports.ettoday.net/news/3268587",
-     "s": "ETtoday運動雲"
+     "t": "The ‘Legend Of Zelda: Ocarina Of Time’ Remake Sets An All-Time Metacritic Score Record",
+     "u": "https://www.forbes.com/sites/paultassi/2026/11/09/the-ocarina-of-time-remake-sets-an-all-time-metacritic-score-record/",
+     "s": "Forbes"
+    }
+   ]
+  },
+  {
+   "kw": "trip",
+   "traffic": "500+",
+   "start": "2026-11-11T00:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-x_tAiz4n25BRZWN-l720yx0LtGIccaqG5dOxP1U7LZ4d0iJZV6GYJGBVvNg",
+   "news": [
+    {
+     "t": "Meghan Markle Makes First Public Appearance Since Her Father’s Arrest",
+     "u": "https://www.nytimes.com/2026/11/10/world/europe/meghan-markle-brussels-speech-canceled-prince-harry.html",
+     "s": "The New York Times"
+    },
+    {
+     "t": "See Duchess Meghan's first public appearance since father's arrest",
+     "u": "https://www.usatoday.com/picture-gallery/entertainment/royals/2026/11/10/meghan-prince-harry-first-appearance-thomas-markle-arrest/92710273007/",
+     "s": "USA Today"
+    },
+    {
+     "t": "Celebrity Photos Updated Daily: Meghan Markle, Prince Harry, Brandy, Rihanna and More",
+     "u": "https://people.com/star-tracks-tuesday-november-10-2026-new-celebrity-photos-updated-daily-12245775",
+     "s": "People.com"
     }
    ]
   },
@@ -183,6 +213,29 @@
    "start": "2026-11-10T10:40+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "coach",
+   "traffic": "200+",
+   "start": "2026-11-11T00:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJUGHlA_og4wUo-DapCXyEzmX4fqZYQ4n7ZWkkK46lPUAZbRIcsERg4ii-56Q",
+   "news": [
+    {
+     "t": "Rutgers retains coach Greg Schiano in 'best long-term interests' of program",
+     "u": "https://www.espn.com/college-football/story/_/id/50443389/rutgers-coach-schiano-back-2027-losing-seasons",
+     "s": "ESPN"
+    },
+    {
+     "t": "Greg Schiano is staying, but Rutgers' bigger problem is the cost of keeping up in the Big Ten",
+     "u": "https://www.cbssports.com/college-football/news/greg-schiano-is-staying-but-rutgers-bigger-problem-is-the-cost-of-keeping-up-in-the-big-ten/",
+     "s": "CBS Sports"
+    },
+    {
+     "t": "Greg Schiano To Return As Rutgers Football Head Coach In 2027",
+     "u": "https://www.onthebanks.com/rutgers-football/58062/greg-schiano-to-return-as-rutgers-football-head-coach-in-2027",
+     "s": "On the Banks"
+    }
+   ]
   },
   {
    "kw": "張凌赫",
@@ -369,94 +422,94 @@
    ]
   },
   {
-   "kw": "天气",
-   "traffic": "200+",
-   "start": "2026-11-10T04:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRsZlZ5LPhBbSVZvNjFNt3xMMVq5MNMDTHzNjmgxQS4fRb3yIRYzcUcZXYDs",
+   "kw": "年金",
+   "traffic": "100+",
+   "start": "2026-11-11T04:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVS26ZHQ5YUEaDssfwbua0lVTP1A_5ZhVYS_Fji3Wo12X3YlDfRa_zrji_4qA",
    "news": [
     {
-     "t": "How space weather powers auroras in the sky and threatens power grids on the ground",
-     "u": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
-     "s": "Phys.org"
+     "t": "觀點投書：國民年金領不到5000元，是誰的問題？ | 徐文路 | 評論",
+     "u": "https://www.storm.mg/article/11179098",
+     "s": "風傳媒"
     },
     {
-     "t": "Solar storms challenge insurers’ diversification and damage triggers",
-     "u": "https://www.globalreinsurance.com/home/solar-storms-challenge-insurers-diversification-and-damage-triggers/1460219.article",
-     "s": "Global Reinsurance"
+     "t": "長者沒領到錢怪立法院？黃國昌轟賴清德鬼扯- 政治新聞",
+     "u": "https://news.pchome.com.tw/politics/nownews/20261104/index-79377096857245207001.html",
+     "s": "PChome Online 新聞"
     },
     {
-     "t": "The science of space weather",
-     "u": "https://www.esa.int/media/the-science-of-space-weather",
-     "s": "ESA"
+     "t": "國民年金修法誰在拖？民眾黨團點名衛福部 產假也要調至14週",
+     "u": "https://more-news.tw/761212/",
+     "s": "墨新聞-MORE News"
     }
    ]
   },
   {
-   "kw": "u23 世界盃棒球錦標賽",
-   "traffic": "200+",
-   "start": "2026-11-10T01:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnxbKMjDwKJb9AXf034MXVTuw2lOTJqqm0xJx7FPwPoDlm9-C5kC8rd3KQ4A",
+   "kw": "駕駛",
+   "traffic": "100+",
+   "start": "2026-11-11T04:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlcnvCVLeKWaN8Gy5eBnfgcQV80vmHNUh_av-EkPVk2o6mxl8RWEx5rePbIRU",
    "news": [
     {
-     "t": "U23世界盃》明天決戰台灣！澳洲隊超謎 屠殺波多黎各卻爆冷輸捷克",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5634147",
-     "s": "自由體育"
+     "t": "高齡駕駛換照新制！違規罰3600元，機車考照筆試更難了，「這時間」開始要路考…交通新制懶人包",
+     "u": "https://www.businesstoday.com.tw/article/category/183030/post/202611050038/",
+     "s": "今周刊"
     },
     {
-     "t": "U23世界盃賽程｜U23中華隊賽程、分組、賽事直播資訊整理一次看！【2026年第六屆U-23世界盃棒球賽】",
-     "u": "https://tw.sports.yahoo.com/news/u23%E4%B8%96%E7%95%8C%E7%9B%83%E8%B3%BD%E7%A8%8B%EF%BD%9Cu23%E4%B8%AD%E8%8F%AF%E9%9A%8A%E8%B3%BD%E7%A8%8B%E3%80%81%E5%88%86%E7%B5%84%E3%80%81%E8%B3%BD%E4%BA%8B%E7%9B%B4%E6%92%AD%E8%B3%87%E8%A8%8A%E6%95%B4%E7%90%86%E4%B8%80%E6%AC%A1%E7%9C%8B%EF%BC%81%E3%80%902026%E5%B9%B4%E7%AC%AC%E5%85%AD%E5%B1%86u-23%E4%B8%96%E7%95%8C%E7%9B%83%E6%A3%92%E7%90%83%E8%B3%BD%E3%80%91-015501300.html",
-     "s": "Yahoo運動"
+     "t": "政府新制發錢給長輩！滿70歲快領1筆「36000元交通補助」，全台都可申請、 資格方式一次看",
+     "u": "https://www.storm.mg/lifestyle/11179677",
+     "s": "風傳媒"
     },
     {
-     "t": "U23世界盃》中華隊如何晉級？凌晨決戰澳洲　A組戰況、轉播一次看",
-     "u": "https://www.nownews.com/news/6890630",
-     "s": "NOWnews今日新聞"
+     "t": "一場咖啡館裡的駕訓班，陪長輩笑著練出高齡駕駛防禦力",
+     "u": "https://tw.news.yahoo.com/%E4%B8%80%E5%A0%B4%E5%92%96%E5%95%A1%E9%A4%A8%E8%A3%A1%E7%9A%84%E9%A7%95%E8%A8%93%E7%8F%AD%EF%BC%8C%E9%99%AA%E9%95%B7%E8%BC%A9%E7%AC%91%E8%91%97%E7%B7%B4%E5%87%BA%E9%AB%98%E9%BD%A1%E9%A7%95%E9%A7%9B%E9%98%B2%E7%A6%A6%E5%8A%9B-073733214.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
   {
-   "kw": "大同公司",
-   "traffic": "200+",
-   "start": "2026-11-10T00:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEUD7Lh4KXxpI7wmC-9lNXOdZiEUvbLrl4BuRir8m_vrKi3xUyAtbIGnGNuH0",
+   "kw": "好 市 多 黑 五",
+   "traffic": "100+",
+   "start": "2026-11-11T01:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFleq_B9F_AoRdWTLqQ-16B88P_k4Z95H2UWFbXzeoQqGeQJ4eqVSOQ8AGHfM",
    "news": [
     {
-     "t": "大同前副董事長涉內線交易！子女帳戶買股賺600萬 返台機場遭帶回",
-     "u": "https://udn.com/news/story/7321/9867588",
+     "t": "2026 好市多黑色購物節》首次連辦14天，優惠商品搶先看！(持續更新)",
+     "u": "https://www.cardu.com.tw/epoint/detail.php?66426",
+     "s": "卡優新聞網"
+    },
+    {
+     "t": "好市多黑五首度延長至14天！開門時間大改、這類會員可搶先逛",
+     "u": "https://udn.com/news/story/7270/9868450",
      "s": "UDN"
     },
     {
-     "t": "涉精英電腦內線交易 西門町地王吳振隆、主機板教父蔣東濬北檢複訊",
-     "u": "https://news.ltn.com.tw/news/society/breakingnews/5635082",
-     "s": "自由時報"
-    },
-    {
-     "t": "才剛百萬交保！「西門町地王」涉精英電腦內線交易　父子檔遭搜索帶回",
-     "u": "https://www.mirrormedia.mg/external/mirrordaily_96810",
-     "s": "鏡週刊Mirror Media"
+     "t": "好市多黑五要來了！黑卡會員摩拳擦掌 坐等iPhone 18甜甜價",
+     "u": "https://fnc.ebc.net.tw/fncnews/life/222535",
+     "s": "東森電視"
     }
    ]
   },
   {
-   "kw": "cpi",
-   "traffic": "200+",
-   "start": "2026-11-09T23:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWT7Q_JinX6Jr0bPw3woIw0CpSgXcpZAgVtWWfWth7nsOqJm52GlpyvxcA95U",
+   "kw": "台新richart卡",
+   "traffic": "100+",
+   "start": "2026-11-11T00:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_fX-jn6wDCo308gBU8KOuczJvZ-VwBmTUPmQeUOC05oiiQUO1RS0S0P9rxw",
    "news": [
     {
-     "t": "BLS Will Not Publish 12-Month CPI, Core CPI Figures For October",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
-     "s": "Bloomberg.com"
+     "t": "張震嶽睽違13年再攻蛋 國泰世華世界卡、CUBE信用卡友享優先搶票權益",
+     "u": "https://travel.udn.com/travel/story/7160/9867168?from=udn-catebreaknews_ch2",
+     "s": "UDN"
     },
     {
-     "t": "BLS to skip 12-month inflation figures in October CPI report",
-     "u": "https://qz.com/bls-skip-12-month-cpi-october-inflation-report-110926",
-     "s": "Quartz"
+     "t": "張震嶽2027重返小巨蛋 國泰世華卡友享優先購票",
+     "u": "https://stock.ltn.com.tw/article/gp2cz8vpsabf",
+     "s": "自由時報"
     },
     {
-     "t": "What to watch in markets this week",
-     "u": "https://www.axios.com/2026/11/09/stocks-inflation-fed",
-     "s": "Axios"
+     "t": "秋季旅遊、周年慶購物刷台新Richart卡！「玩旅刷」、「大筆刷」回饋升級6％",
+     "u": "https://www.cdns.com.tw/articles/1487425",
+     "s": "中華新聞雲／中華日報"
     }
    ]
   },
@@ -535,78 +588,51 @@
      "s": "凤凰网"
     }
    ]
-  },
-  {
-   "kw": "gta 6",
-   "traffic": "100+",
-   "start": "2026-11-10T00:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvr3MnhC7loBDcBhBXQOjgXQdBnSX1GgBl8Gp0wCtDiGaqob5Fx5ug4CQtEz4",
-   "news": [
-    {
-     "t": "Grand Theft Auto VI Pre-Load Begins on November 10",
-     "u": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-     "s": "Rockstar Games"
-    },
-    {
-     "t": "How To Preload GTA 6 In Full On Xbox Series X|S (Even If You Haven't Bought It)",
-     "u": "https://www.purexbox.com/news/2026/11/how-to-preload-gta-6-in-full-on-xbox-series-xs-even-if-you-havent-bought-it",
-     "s": "Pure Xbox"
-    },
-    {
-     "t": "Why New Zealand gets GTA 6 before the rest of the world, and the time-zone trick players are trying",
-     "u": "https://m.economictimes.com/news/international/us/why-new-zealand-gets-gta-6-before-the-rest-of-the-world-and-the-time-zone-trick-players-are-trying/articleshow/135683874.cms",
-     "s": "The Economic Times"
-    }
-   ]
-  },
-  {
-   "kw": "russell brand",
-   "traffic": "100+",
-   "start": "2026-11-10T00:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQV4FUATC_TnzP0Oach5099_DtjqmdGBSnGOWkO2hXp3BtZjf9-X-ZirvTb0e0",
-   "news": [
-    {
-     "t": "Russell Brand sentenced to 10 years and six months in prison for rape and sexual assault",
-     "u": "https://www.cnn.com/2026/11/09/entertainment/russell-brand-rape-sentence-prison-intl",
-     "s": "CNN"
-    },
-    {
-     "t": "Russell Brand latest: Comedian jailed for 10 years and six months for rape and sexual assault",
-     "u": "https://news.sky.com/story/russell-brand-sentencing-jail-guilty-rape-sexual-assault-trial-live-latest-13592674",
-     "s": "Sky News"
-    },
-    {
-     "t": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
-     "u": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault",
-     "s": "The Guardian"
-    }
-   ]
-  },
-  {
-   "kw": "冷氣團",
-   "traffic": "100+",
-   "start": "2026-11-09T23:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3N0jkQl6fDXxteREv3eeNEZVQOxYnZ1xpr6tzMIF0xbOkEUoCTLLcU3h9jIo",
-   "news": [
-    {
-     "t": "首波冷氣團何時抵達台灣？賈新興：恐拖到聖誕節　立冬後還是偏暖",
-     "u": "https://www.nownews.com/news/6890185",
-     "s": "NOWnews今日新聞"
-    },
-    {
-     "t": "首波強烈大陸冷氣團何時報到？近30年平均時間曝 粉專指甚至等到跨年",
-     "u": "https://udn.com/news/story/7266/9863195",
-     "s": "UDN"
-    },
-    {
-     "t": "首波強烈大陸冷氣團何時報到？氣象粉專揭可能時間點， 今年寒冬什麼時候來一次看",
-     "u": "https://www.storm.mg/lifestyle/11179335",
-     "s": "風傳媒"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-11": [
+   {
+    "kw": "普發一萬",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "老農津貼",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "古裝劇",
+    "traffic": "500+"
+   },
+   {
+    "kw": "switch 2",
+    "traffic": "500+"
+   },
+   {
+    "kw": "trip",
+    "traffic": "500+"
+   },
+   {
+    "kw": "coach",
+    "traffic": "200+"
+   },
+   {
+    "kw": "年金",
+    "traffic": "100+"
+   },
+   {
+    "kw": "駕駛",
+    "traffic": "100+"
+   },
+   {
+    "kw": "好 市 多 黑 五",
+    "traffic": "100+"
+   },
+   {
+    "kw": "台新richart卡",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-10": [
    {
     "kw": "明天的天氣",
@@ -976,48 +1002,6 @@
    },
    {
     "kw": "taiex",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-04": [
-   {
-    "kw": "環球晶",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "寧夏 夜市",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "台幣匯率",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "archeage chronicles",
-    "traffic": "200+"
-   },
-   {
-    "kw": "加權",
-    "traffic": "200+"
-   },
-   {
-    "kw": "工資",
-    "traffic": "200+"
-   },
-   {
-    "kw": "易斯達航空",
-    "traffic": "200+"
-   },
-   {
-    "kw": "精誠",
-    "traffic": "100+"
-   },
-   {
-    "kw": "dem gop",
-    "traffic": "100+"
-   },
-   {
-    "kw": "美国中期选举",
     "traffic": "100+"
    }
   ]
