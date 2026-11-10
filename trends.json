@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10 04:50",
- "updated_iso": "2026-11-10T04:50+08:00",
+ "updated": "2026-11-10 11:38",
+ "updated_iso": "2026-11-10T11:38+08:00",
  "items": [
   {
    "kw": "氣溫",
@@ -26,29 +26,6 @@
    ]
   },
   {
-   "kw": "台股",
-   "traffic": "20000+",
-   "start": "2026-11-09T09:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0YnmDDdpVEeIxNBg5SbUWV26szc8m_q6dwIc2GinyQRfifx3XwM8t3H78agI",
-   "news": [
-    {
-     "t": "護盤急急如律令！國安基金口袋名單全統計 名師焦點鎖定「這幾檔」",
-     "u": "https://www.ctee.com.tw/news/20261109700059-439901",
-     "s": "工商時報"
-    },
-    {
-     "t": "國安基金護盤 今天進場來得及嗎??",
-     "u": "https://news.cnyes.com/news/id/6652610",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "限空令是什麼？11/9開始實施！5大措施、影響…過去6次禁空令/限空令台股表現如何一表看",
-     "u": "https://www.businesstoday.com.tw/article/category/183008/post/202611070005/",
-     "s": "今周刊"
-    }
-   ]
-  },
-  {
    "kw": "交通部中央氣象署",
    "traffic": "10000+",
    "start": "2026-11-09T23:40+08:00",
@@ -56,55 +33,25 @@
    "news": []
   },
   {
-   "kw": "台積電股價",
-   "traffic": "2000+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "聯電股價",
-   "traffic": "2000+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhs0XmINSC_uKdUXI8dV7v3Gw3Dlyg7y14jXS5tHf8VI1qUPT7Mh75M91vqM",
+   "kw": "勇士 對 鵜鶘",
+   "traffic": "5000+",
+   "start": "2026-11-10T10:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9RCIinmrMR_LIL3r7ciNofFQYOIHGCtccVnoF2hBJhaUnqhX7Y-QlthZI6bs",
    "news": [
     {
-     "t": "聯電閃見「8字頭」，股價腰斬能撿嗎？不只三星關8吋廠轉單大禮包，法人揭另1成長引擎…最新目標價曝光",
-     "u": "https://www.businesstoday.com.tw/article/category/183008/post/202611080006/",
-     "s": "今周刊"
+     "t": "台灣運彩AI分析》美國職籃 金州勇士vs紐奧良鵜鶘 勇士7連勝氣勢如虹！AI預測看好讓8.5分過關",
+     "u": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E7%81%A3%E9%81%8B%E5%BD%A9ai%E5%88%86%E6%9E%90-%E7%BE%8E%E5%9C%8B%E8%81%B7%E7%B1%83-%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%ABvs%E7%B4%90%E5%A5%A7%E8%89%AF%E9%B5%9C%E9%B6%98-%E5%8B%87%E5%A3%AB7%E9%80%A3%E5%8B%9D%E6%B0%A3%E5%8B%A2%E5%A6%82%E8%99%B9-ai%E9%A0%90%E6%B8%AC%E7%9C%8B%E5%A5%BD%E8%AE%938-092756648.html",
+     "s": "Yahoo運動"
     },
     {
-     "t": "三星驚傳2030年全面退出8吋晶圓代工！AI電源晶片拉貨引爆成熟製程漲價潮！",
-     "u": "https://yayanews.com.tw/37573/",
-     "s": "yayanews.com.tw"
+     "t": "NBA傳奇射手柯瑞率勇士挑戰8連勝 今日賽事預告與轉播",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5634608",
+     "s": "自由體育"
     },
     {
-     "t": "三星退出8吋晶片代工 哪些廠商將受益？",
-     "u": "https://www.eettaiwan.com/20261105nt61-samsung-exits-8-inch-foundry-market-beneficiaries-trend/",
-     "s": "電子工程專輯"
-    }
-   ]
-  },
-  {
-   "kw": "股票",
-   "traffic": "2000+",
-   "start": "2026-11-09T05:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwr2c0LSLOW-sM_Bmj8PgW4fh8eUc7fG4OtoOaqbtWI87B7SS41Q7255jgrc",
-   "news": [
-    {
-     "t": "國安基金第10次進場救市！別急著抄底：周代運揭護盤選股密碼",
-     "u": "https://tw.news.yahoo.com/%E5%9C%8B%E5%AE%89%E5%9F%BA%E9%87%91%E7%AC%AC10%E6%AC%A1%E9%80%B2%E5%A0%B4%E6%95%91%E5%B8%82-%E5%88%A5%E6%80%A5%E8%91%97%E6%8A%84%E5%BA%95-%E5%91%A8%E4%BB%A3%E9%81%8B%E6%8F%AD%E8%AD%B7%E7%9B%A4%E9%81%B8%E8%82%A1%E5%AF%86%E7%A2%BC-193300260.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "政策護盤 台股反攻拚回4萬點",
-     "u": "https://udn.com/news/story/7251/9865691",
-     "s": "UDN"
-    },
-    {
-     "t": "護駕到資本市場有底氣》銜命穩市公股銀：逢低加碼- 日報",
-     "u": "https://www.ctee.com.tw/news/20261109700044-439901",
-     "s": "工商時報"
+     "t": "NBA》Stephen Curry近況奇佳 明天帶領勇士迎戰鵜鶘挑戰8連勝",
+     "u": "https://sport.vl.com.tw/newspage01.aspx?sno=85896",
+     "s": "緯來體育台"
     }
    ]
   },
@@ -155,32 +102,9 @@
    ]
   },
   {
-   "kw": "旺宏股價",
-   "traffic": "1000+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFtT9GPs-ZCaKMJhD_UiLvnPPRZokgvpjzLAgZRvmktklla1PqZJTLgRwKbc8",
-   "news": [
-    {
-     "t": "現在入場記憶體是套牢還是抄底？資深分析師給答案1操作勝率大：南亞科、華邦電選「它」",
-     "u": "https://tw.stock.yahoo.com/news/%E7%8F%BE%E5%9C%A8%E5%85%A5%E5%A0%B4%E8%A8%98%E6%86%B6%E9%AB%94%E6%98%AF%E5%A5%97%E7%89%A2%E9%82%84%E6%98%AF%E6%8A%84%E5%BA%95-%E8%B3%87%E6%B7%B1%E5%88%86%E6%9E%90%E5%B8%AB%E7%B5%A6%E7%AD%94%E6%A1%881%E6%93%8D%E4%BD%9C%E5%8B%9D%E7%8E%87%E5%A4%A7-%E5%8D%97%E4%BA%9E%E7%A7%91-%E8%8F%AF%E9%82%A6%E9%9B%BB%E9%81%B8-%E5%AE%83-011800145.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "記憶體股跌慘了還能撿？專家拆解南亞科、華邦電優勢進場先看2大訊號- 證券",
-     "u": "https://www.ctee.com.tw/news/20261107700017-430201",
-     "s": "工商時報"
-    },
-    {
-     "t": "記憶體11月地獄開局！南亞科、華邦電、群聯、晶豪科、十銓...5雄目標價1次看：僅「這檔」法人喊加碼- 上市櫃",
-     "u": "https://wantrich.chinatimes.com/news/20261109900002-420101",
-     "s": "旺得富理財網"
-    }
-   ]
-  },
-  {
-   "kw": "股災",
-   "traffic": "1000+",
-   "start": "2026-11-09T05:20+08:00",
+   "kw": "桃園民調",
+   "traffic": "500+",
+   "start": "2026-11-10T10:40+08:00",
    "pic": "",
    "news": []
   },
@@ -215,48 +139,117 @@
    ]
   },
   {
-   "kw": "台幣匯率",
-   "traffic": "500+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu0Oj5rzmGDfPX2faam4F0YiA5gz8QFk9du_2Pw6dIlsudeEYFbqr1tdI0p5k",
+   "kw": "warriors vs pelicans",
+   "traffic": "200+",
+   "start": "2026-11-10T11:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRETmuqNwfbA20KojH2bEroGRrn3BpcXtZ8SFMFo7JyWG01gwYFai_3cKFjp6I",
    "news": [
     {
-     "t": "新台幣收復33元能鬆口氣？外資賣壓未必退專家點出2大回升指標- 金融",
-     "u": "https://www.ctee.com.tw/news/20261107700414-430302",
-     "s": "工商時報"
+     "t": "Game Preview: New Orleans Pelicans at Golden State Warriors - 11/9/26",
+     "u": "https://sports.yahoo.com/articles/game-preview-orleans-pelicans-golden-204420871.html",
+     "s": "Yahoo Sports"
     },
     {
-     "t": "匯市最前線／台幣將32.5-33元整理",
-     "u": "https://udn.com/news/story/7239/9864401",
+     "t": "Pelicans vs. Warriors Picks, Predictions, Props & Odds for Monday Night NBA Action",
+     "u": "https://www.hardrock.bet/news/pelicans-vs-warriors-picks-predictions-props-odds/",
+     "s": "Hard Rock Bet"
+    },
+    {
+     "t": "What Went Wrong For New Orleans Pelicans Against Clippers, How Can They Respond Against Warriors?",
+     "u": "https://www.wbir.com/video/sports/locked-on/lo-new-orleans/locked-on-pelicans-hit/what-went-wrong-for-new-orleans-pelicans-against-clippers-how-can-they-respond-against-warriors/535-bb86eb72-8358-4bba-889e-b3ad64d03e0a",
+     "s": "WBIR"
+    }
+   ]
+  },
+  {
+   "kw": "亞翔",
+   "traffic": "200+",
+   "start": "2026-11-10T09:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLxwstQM0z_bhsLYOr_rCPi5h276VgEo9qTUSOfDumDe0zx5lXC2FiKxs9HhU",
+   "news": [
+    {
+     "t": "亞翔、帆宣前三季賺贏去年",
+     "u": "https://udn.com/news/story/7252/9865394",
      "s": "UDN"
     },
     {
-     "t": "2026年底全球經濟情勢觀察 地緣政治、央行動向、AI投資與美國選舉牽動後市",
-     "u": "https://tw.stock.yahoo.com/news/2026%E5%B9%B4%E5%BA%95%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E6%83%85%E5%8B%A2%E8%A7%80%E5%AF%9F-%E5%9C%B0%E7%B7%A3%E6%94%BF%E6%B2%BB-%E5%A4%AE%E8%A1%8C%E5%8B%95%E5%90%91-ai%E6%8A%95%E8%B3%87%E8%88%87%E7%BE%8E%E5%9C%8B%E9%81%B8%E8%88%89%E7%89%BD%E5%8B%95%E5%BE%8C%E5%B8%82-130946806.html",
+     "t": "在手訂單衝上4400億元！「無塵室工程大廠」前3季獲利飆去年總和 EPS衝41.25元賺破4股本",
+     "u": "https://www.ftnn.com.tw/news/594073",
+     "s": "FTNN 新聞網"
+    },
+    {
+     "t": "【即時新聞】亞翔最新獲利飆破41元，外資轉向卡位帶動亮燈還能追嗎？",
+     "u": "https://cmnews.com.tw/article/newsyoudeservetoknow-98ea3e82-dcae-11f1-9faf-17adf507390b",
+     "s": "CMoney投資網誌"
+    }
+   ]
+  },
+  {
+   "kw": "王柏融",
+   "traffic": "200+",
+   "start": "2026-11-10T09:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-ktnNuERMaJoNgWM7P-yK4DEpjqgS-bRxIh2qSF8qpozMzCqMxr72pst_6PY",
+   "news": [
+    {
+     "t": "下一紙合約「薪」情 王柏融隨遇而安",
+     "u": "https://sports.ltn.com.tw/news/paper/1777906",
+     "s": "自由體育"
+    },
+    {
+     "t": "大王給「小鷹」壓力 盼肩負隊長重任",
+     "u": "https://sports.ltn.com.tw/news/paper/1777907",
+     "s": "自由體育"
+    },
+    {
+     "t": "鷹、兄弟球迷會 洪總、王威晨被告白",
+     "u": "https://tw.sports.yahoo.com/news/%E9%B7%B9-%E5%85%84%E5%BC%9F%E7%90%83%E8%BF%B7%E6%9C%83-%E6%B4%AA%E7%B8%BD-%E7%8E%8B%E5%A8%81%E6%99%A8%E8%A2%AB%E5%91%8A%E7%99%BD-213000582.html",
+     "s": "Yahoo運動"
+    }
+   ]
+  },
+  {
+   "kw": "信驊",
+   "traffic": "200+",
+   "start": "2026-11-10T09:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoPVRiSoZfgA93q7i1RnBbUwDumWLVLKMXLqBwL9HLBZ5BCD9KyqK_Pyy523o",
+   "news": [
+    {
+     "t": "屋漏偏逢連夜雨信驊股價近腰斬外資喊買但調降目標價機會與風險一次看- 日報",
+     "u": "https://www.ctee.com.tw/news/20261110700058-439901",
+     "s": "工商時報"
+    },
+    {
+     "t": "焦點股》信驊：外資開出降評第一槍 美國資料中心建置恐延後",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5635317",
+     "s": "自由財經"
+    },
+    {
+     "t": "外資喊真的完了？「這BMC大廠」Q3 EPS噴出48.13元目標價卻慘墜1字頭 瑞銀：利空攤牌",
+     "u": "https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E5%96%8A%E7%9C%9F%E7%9A%84%E5%AE%8C%E4%BA%86-%E9%80%99bmc%E5%A4%A7%E5%BB%A0-q3-eps%E5%99%B4%E5%87%BA48-13%E5%85%83%E7%9B%AE%E6%A8%99%E5%83%B9%E5%8D%BB%E6%85%98%E5%A2%9C1%E5%AD%97%E9%A0%AD-235000554.html",
      "s": "Yahoo股市"
     }
    ]
   },
   {
-   "kw": "生肖",
-   "traffic": "500+",
-   "start": "2026-11-09T05:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXBXRG5fNzyQ3_Es2Ywnw2HIXeLa2IgCyMZvbfO8iRM04gmYpVKVahgYG4Qg",
+   "kw": "環球晶股價",
+   "traffic": "200+",
+   "start": "2026-11-10T09:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnc5cfEf5AyFIy1_rY9Y7pYUEckGKeK5QtdcYjl9v2kc2SwDvn6D6GSws00P4",
    "news": [
     {
-     "t": "逆轉勝！「3生肖」年底前大翻身 命理師：第1名有望升官加薪",
-     "u": "https://tw.news.yahoo.com/%E9%80%86%E8%BD%89%E5%8B%9D-3%E7%94%9F%E8%82%96-%E5%B9%B4%E5%BA%95%E5%89%8D%E5%A4%A7%E7%BF%BB%E8%BA%AB-%E5%91%BD%E7%90%86%E5%B8%AB-%E7%AC%AC1%E5%90%8D%E6%9C%89%E6%9C%9B%E5%8D%87%E5%AE%98%E5%8A%A0%E8%96%AA-042600473.html",
+     "t": "環球晶從1,600殺到512元能接刀嗎？法人揭反轉訊號目標價下修仍喊買- 證券",
+     "u": "https://www.ctee.com.tw/news/20261108700496-430201",
+     "s": "工商時報"
+    },
+    {
+     "t": "這檔「台灣矽晶圓大廠」恐變國巨第二？專家看套牢劇本又重演：用想的都可怕",
+     "u": "https://tw.news.yahoo.com/%E9%80%99%E6%AA%94-%E5%8F%B0%E7%81%A3%E7%9F%BD%E6%99%B6%E5%9C%93%E5%A4%A7%E5%BB%A0-%E6%81%90%E8%AE%8A%E5%9C%8B%E5%B7%A8%E7%AC%AC%E4%BA%8C-%E5%B0%88%E5%AE%B6%E7%9C%8B%E5%A5%97%E7%89%A2%E5%8A%87%E6%9C%AC%E5%8F%88%E9%87%8D%E6%BC%94-%E7%94%A8%E6%83%B3%E7%9A%84%E9%83%BD%E5%8F%AF%E6%80%95-083448345.html",
      "s": "Yahoo新聞"
     },
     {
-     "t": "雨揚老師》11/08~11/14本週運勢：馬、鼠、虎運勢最佳| 生活",
-     "u": "https://newtalk.tw/news/view/2026-11-08/1068724",
-     "s": "Newtalk新聞"
-    },
-    {
-     "t": "3生肖命中注定榮華富貴！敢衝耐操抗壓性強， 很多大老闆都上榜",
-     "u": "https://www.storm.mg/lifestyle/11178321",
-     "s": "風傳媒"
+     "t": "從1600元跌到617元！環球晶重挫逾6成 股民崩潰：是要破產了嗎？",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5628932",
+     "s": "自由財經"
     }
    ]
   },
@@ -399,147 +392,32 @@
    ]
   },
   {
-   "kw": "國王 對 熱火",
-   "traffic": "200+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI65PyqdCMnZZnWrXYcGd_cItKiqpn16IXy01dqs2UmiwO7durhBYAmyNsTs0",
-   "news": [
-    {
-     "t": "NBA運彩分析》11/9 熱火犀利強攻拉抬西區長征士氣 國王恐難跳脫主場未嘗勝績陰影",
-     "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B119-%E7%86%B1%E7%81%AB%E7%8A%80%E5%88%A9%E5%BC%B7%E6%94%BB%E6%8B%89%E6%8A%AC%E8%A5%BF%E5%8D%80%E9%95%B7%E5%BE%81%E5%A3%AB%E6%B0%A3-%E5%9C%8B%E7%8E%8B%E6%81%90%E9%9B%A3%E8%B7%B3%E8%84%AB%E4%B8%BB%E5%A0%B4%E6%9C%AA%E5%98%97%E5%8B%9D%E7%B8%BE%E9%99%B0%E5%BD%B1-074304854.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "NBA熱火週日作客國王 兩隊陷低潮力求止敗反彈 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/oqpRxJj",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "NBA運彩分析 》熱火雙核心壓制禁區 客場力拚讓分過盤",
-     "u": "https://tsna.com/article/205447",
-     "s": "TSNA體育新聞團隊"
-    }
-   ]
-  },
-  {
-   "kw": "geng",
-   "traffic": "200+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSN4azF8UyrULbeoZfB1w81Mf0hNcqsu3gnYiXnKXlhMCUvoLTPLaUYvvkWclo",
-   "news": [
-    {
-     "t": "Gen.G sweep IG and become the first finalists of Worlds 2026",
-     "u": "https://www.sheepesports.com/en/articles/gen-g-sweep-ig-and-become-the-first-finalists-of-worlds-2026/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "November 8, 2026: T1 vs. Bilibili Gaming: Game 4 First Baron Prediction Market",
-     "u": "https://robinhood.com/us/en/prediction-markets/esports/events/t1-vs-bilibili-gaming-game-4-first-baron-nov-08-2026/",
-     "s": "Robinhood"
-    },
-    {
-     "t": "First to Reach the Finals, 'Chovy': \"T1? BLG? Both Are Tough Opponents, Unpredictable\"",
-     "u": "https://www.invenglobal.com/articles/28314/first-to-reach-the-finals-chovy-t1-blg-both-are-tough-opponents-unpredictable",
-     "s": "Inven Global"
-    }
-   ]
-  },
-  {
-   "kw": "南電",
-   "traffic": "200+",
-   "start": "2026-11-09T09:30+08:00",
+   "kw": "鴻準",
+   "traffic": "100+",
+   "start": "2026-11-10T10:00+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "國巨股票",
-   "traffic": "200+",
-   "start": "2026-11-09T09:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXXZ9pincHCPs_ELDixG_qTAU8i03zt5S1f8Jd8zMB-XrTqDTJB18wyVIuh-Y",
+   "kw": "寒潮",
+   "traffic": "100+",
+   "start": "2026-11-10T09:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-TUdxxjUHjLg2qala37xIoCoXbRYHgCUhZgFQJqe3Sn4jobxobLie6Fbbzwc",
    "news": [
     {
-     "t": "郭彥均5間房賺4倍、800買國巨套爛！自嘲韭菜：股票太難不如老實存房",
-     "u": "https://house.udn.com/house/story/123589/9859227",
-     "s": "udn房地產"
+     "t": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
+     "u": "https://m.sohu.com/a/1098969942_121443915?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "s": "搜狐网"
     },
     {
-     "t": "收入不穩更要買房！郭彥均自揭「房產當撲滿」：傻存錢還清5間房貸",
-     "u": "https://news.housefun.com.tw/news/article/133381490818.html",
-     "s": "好房網News"
+     "t": "寒潮+大风预警持续 部分地区降温超10℃",
+     "u": "https://news.qq.com/rain/a/20261109A0308E00",
+     "s": "腾讯新闻"
     },
     {
-     "t": "獨／郭彥均買國巨認賠20萬！轉抱0050賠17%吐資產現況：跌到無感",
-     "u": "https://www.nownews.com/news/6889883",
-     "s": "NOWnews今日新聞"
-    }
-   ]
-  },
-  {
-   "kw": "金融",
-   "traffic": "200+",
-   "start": "2026-11-09T06:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR3QyP-L4tGB05VbHgtzILl5y14pwYIaLL4N43358YQuQmSjxKYF-l51PJECE",
-   "news": [
-    {
-     "t": "Claude can now analyze your spending with its new Personal Finance tool",
-     "u": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-     "s": "TechCrunch"
-    },
-    {
-     "t": "Anthropic rolls out personal finance feature for Claude",
-     "u": "https://www.reuters.com/business/anthropic-rolls-out-personal-finance-feature-claude-2026-11-05/",
-     "s": "Reuters"
-    },
-    {
-     "t": "Now Claude Can Help With Your Finances Too",
-     "u": "https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/",
-     "s": "Engadget"
-    }
-   ]
-  },
-  {
-   "kw": "atlético madrid vs barcelona",
-   "traffic": "200+",
-   "start": "2026-11-09T05:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJ4iOYnByHErEn1i-vz2oprvmn39CplEvso4LCbKqMYyifUvyBiK0PvS91EM",
-   "news": [
-    {
-     "t": "Atlético - Barcelona, hoy en directo | Última hora de LaLiga EA Sports en vivo",
-     "u": "https://www.marca.com/futbol/laliga-ea-sports/atletico-barcelona/2026/11/08/01_0101_20261108_175_178-directo.html",
-     "s": "MARCA"
-    },
-    {
-     "t": "¡Pase de frente fantástico, despejado! Lee Kang-in desgarra la defensa del Barcelona con un 'pase clave que origina el gol inicial'... El Atlético de Madrid, igualado 1-1 al descanso",
-     "u": "https://www.starnewskorea.com/es/sports/2026/11/09/2026110905512318092",
-     "s": "스타뉴스"
-    },
-    {
-     "t": "«Imitó su baile»: Griezmann reacciona con entusiasmo al gol de Giuliano Simeone en la portería del Barcelona",
-     "u": "https://es-us.noticias.yahoo.com/deportes/imit%C3%B3-baile-griezmann-reacciona-entusiasmo-205907165.html",
-     "s": "Yahoo"
-    }
-   ]
-  },
-  {
-   "kw": "thứ hạng của man utd gặp aston villa",
-   "traffic": "200+",
-   "start": "2026-11-09T05:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeHNz4eauZeFxsEUEGclYJbRJI7UBMVUFe4AS9lciReL3kyVgQUdMvuGj3-hI",
-   "news": [
-    {
-     "t": "Man United 0-0 Aston Villa: Bruno Fernandes và Matheus Cunha đá chính",
-     "u": "https://yeuthethao.net.vn/man-united-0-0-aston-villa-bruno-fernandes-va-matheus-cunha-da-chinh-d901731.html",
-     "s": "yeuthethao.net.vn"
-    },
-    {
-     "t": "'Lại là nhục nhã cho Man Utd' Kỳ tích hòa 4-4 nhưng vẫn ở vị trí xuống hạng 18... 'Mất 2 bàn trong 3 phút 42 giây' Kỷ lục buồn nhất lịch sử EPL của câu lạc bộ",
-     "u": "https://www.starnewskorea.com/vi/sports/2026/11/09/2026110904123635758",
-     "s": "스타뉴스"
-    },
-    {
-     "t": "Man Utd thoát hiểm khó tin ở Ngoại hạng Anh",
-     "u": "https://vnexpress.net/man-utd-thoat-hiem-kho-tin-o-ngoai-hang-anh-5142238.html",
-     "s": "VnExpress"
+     "t": "明天跌至3℃！南京会更冷！本周天气如何？",
+     "u": "https://feng.ifeng.com/c/8xv3Ek2OYRe",
+     "s": "凤凰网"
     }
    ]
   },
@@ -620,8 +498,16 @@
     "traffic": "50000+"
    },
    {
+    "kw": "勇士 對 鵜鶘",
+    "traffic": "5000+"
+   },
+   {
     "kw": "中信兄弟",
     "traffic": "1000+"
+   },
+   {
+    "kw": "桃園民調",
+    "traffic": "500+"
    },
    {
     "kw": "天气",
@@ -636,11 +522,39 @@
     "traffic": "200+"
    },
    {
+    "kw": "warriors vs pelicans",
+    "traffic": "200+"
+   },
+   {
+    "kw": "亞翔",
+    "traffic": "200+"
+   },
+   {
+    "kw": "王柏融",
+    "traffic": "200+"
+   },
+   {
+    "kw": "信驊",
+    "traffic": "200+"
+   },
+   {
+    "kw": "環球晶股價",
+    "traffic": "200+"
+   },
+   {
     "kw": "gta 6",
     "traffic": "100+"
    },
    {
     "kw": "russell brand",
+    "traffic": "100+"
+   },
+   {
+    "kw": "鴻準",
+    "traffic": "100+"
+   },
+   {
+    "kw": "寒潮",
     "traffic": "100+"
    }
   ],

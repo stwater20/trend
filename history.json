@@ -6,8 +6,16 @@
     "traffic": "50000+"
    },
    {
+    "kw": "勇士 對 鵜鶘",
+    "traffic": "5000+"
+   },
+   {
     "kw": "中信兄弟",
     "traffic": "1000+"
+   },
+   {
+    "kw": "桃園民調",
+    "traffic": "500+"
    },
    {
     "kw": "天气",
@@ -22,11 +30,39 @@
     "traffic": "200+"
    },
    {
+    "kw": "warriors vs pelicans",
+    "traffic": "200+"
+   },
+   {
+    "kw": "亞翔",
+    "traffic": "200+"
+   },
+   {
+    "kw": "王柏融",
+    "traffic": "200+"
+   },
+   {
+    "kw": "信驊",
+    "traffic": "200+"
+   },
+   {
+    "kw": "環球晶股價",
+    "traffic": "200+"
+   },
+   {
     "kw": "gta 6",
     "traffic": "100+"
    },
    {
     "kw": "russell brand",
+    "traffic": "100+"
+   },
+   {
+    "kw": "鴻準",
+    "traffic": "100+"
+   },
+   {
+    "kw": "寒潮",
     "traffic": "100+"
    }
   ],
