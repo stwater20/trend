@@ -2,6 +2,10 @@
  "days": {
   "2026-11-10": [
    {
+    "kw": "明天的天氣",
+    "traffic": "100000+"
+   },
+   {
     "kw": "氣溫",
     "traffic": "50000+"
    },
@@ -14,7 +18,23 @@
     "traffic": "1000+"
    },
    {
+    "kw": "weather tomorrow",
+    "traffic": "1000+"
+   },
+   {
     "kw": "桃園民調",
+    "traffic": "500+"
+   },
+   {
+    "kw": "cuaca besok",
+    "traffic": "500+"
+   },
+   {
+    "kw": "周曉芸",
+    "traffic": "500+"
+   },
+   {
+    "kw": "sxmb",
     "traffic": "500+"
    },
    {
@@ -50,20 +70,16 @@
     "traffic": "200+"
    },
    {
-    "kw": "gta 6",
-    "traffic": "100+"
+    "kw": "張凌赫",
+    "traffic": "200+"
    },
    {
-    "kw": "russell brand",
-    "traffic": "100+"
+    "kw": "延三夜市",
+    "traffic": "200+"
    },
    {
-    "kw": "鴻準",
-    "traffic": "100+"
-   },
-   {
-    "kw": "寒潮",
-    "traffic": "100+"
+    "kw": "林百里",
+    "traffic": "200+"
    }
   ],
   "2026-11-09": [
