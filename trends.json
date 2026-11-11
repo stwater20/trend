@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11 04:29",
- "updated_iso": "2026-11-11T04:29+08:00",
+ "updated": "2026-11-11 09:17",
+ "updated_iso": "2026-11-11T09:17+08:00",
  "items": [
   {
    "kw": "明天的天氣",
@@ -49,6 +49,29 @@
    ]
   },
   {
+   "kw": "尼克 對 公鹿",
+   "traffic": "2000+",
+   "start": "2026-11-11T07:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgyjrdEeGKePuj2hzA-4NCAIhd5g-GgjzPu0YBW-v09kW2_51HEC91hXxYxJM",
+   "news": [
+    {
+     "t": "Bucks vs. Knicks, Tyler Herro out for Milwaukee with knee injury",
+     "u": "https://www.jsonline.com/story/sports/nba/bucks/2026/11/10/milwaukee-bucks-vs-new-york-knicks-injury-report-starters/92704845007/",
+     "s": "Milwaukee Journal Sentinel"
+    },
+    {
+     "t": "Two Key Starters Listed on Knicks vs Bucks Injury Report",
+     "u": "https://sports.yahoo.com/articles/two-key-starters-listed-knicks-201550817.html",
+     "s": "Yahoo Sports"
+    },
+    {
+     "t": "Kalshi raises $55 NBA code “SYRACUSE” for Bucks-Knicks on Tuesday",
+     "u": "https://www.syracuse.com/betting/2026/11/kalshi-raises-55-nba-code-syracuse-for-bucks-knicks-on-tuesday.html",
+     "s": "Syracuse.com"
+    }
+   ]
+  },
+  {
    "kw": "普發一萬",
    "traffic": "2000+",
    "start": "2026-11-11T03:50+08:00",
@@ -68,6 +91,105 @@
      "t": "全民普發一萬何時入帳？發放「關鍵6日期」曝光",
      "u": "https://www.setn.com/news/1935857",
      "s": "三立新聞網SETN.com"
+    }
+   ]
+  },
+  {
+   "kw": "日東紡股價",
+   "traffic": "1000+",
+   "start": "2026-11-11T08:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1xQ8aDSu6TCXCB8GY2bTNy_8WL-28v8OmpRdJIRypUwErZz_mnlawYCaDVuk",
+   "news": [
+    {
+     "t": "玻纖布狂潮持續洶湧！「這兩強」漲停同登基量價雙增王 國巨與華邦電一齊入榜",
+     "u": "https://tw.stock.yahoo.com/news/%E7%8E%BB%E7%BA%96%E5%B8%83%E7%8B%82%E6%BD%AE%E6%8C%81%E7%BA%8C%E6%B4%B6%E6%B9%A7-%E9%80%99%E5%85%A9%E5%BC%B7-%E6%BC%B2%E5%81%9C%E5%90%8C%E7%99%BB%E5%9F%BA%E9%87%8F%E5%83%B9%E9%9B%99%E5%A2%9E%E7%8E%8B-%E5%9C%8B%E5%B7%A8%E8%88%87%E8%8F%AF%E9%82%A6%E9%9B%BB-%E9%BD%8A%E5%85%A5%E6%A6%9C-003100892.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "外資狂砍台股1241億卻逆勢搶買「這檔」 2天掃逾10萬張、連拉2根漲停 | 蕭宥宸 | 新聞",
+     "u": "https://www.storm.mg/article/11180332",
+     "s": "風傳媒"
+    },
+    {
+     "t": "全民權證／台玻 鎖定逾100天",
+     "u": "https://udn.com/news/story/7255/9870556",
+     "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "迷客夏",
+   "traffic": "1000+",
+   "start": "2026-11-11T08:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEXN24cfV0H3zKBrdbP8m62VvhOPuMDG8LqBPgK6F6GyiiJRGfud4N_Kc8mXE",
+   "news": [
+    {
+     "t": "買飲料竟能抽演唱會門票！UG告五人限定杯登場，迷客夏11元加購紅茶",
+     "u": "https://supertaste.tvbs.com.tw/food/362352",
+     "s": "食尚玩家"
+    },
+    {
+     "t": "手搖優惠大戰！迷客夏11元開喝、拾汣茶屋祭99元殺紅眼",
+     "u": "https://tw.news.yahoo.com/%E6%89%8B%E6%90%96%E5%84%AA%E6%83%A0%E5%A4%A7%E6%88%B0-%E8%BF%B7%E5%AE%A2%E5%A4%8F11%E5%85%83%E9%96%8B%E5%96%9D-%E6%8B%BE%E6%B1%A3%E8%8C%B6%E5%B1%8B%E7%A5%AD99%E5%85%83%E6%AE%BA%E7%B4%85%E7%9C%BC-121649331.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "迷客夏買11送11寄杯喝！抹茶、焙茶、娜杯太妃、可可9大新品，未開賣就爆紅|美食",
+     "u": "https://www.walkerland.com.tw/subject/view/425605",
+     "s": "WalkerLand 窩客島"
+    }
+   ]
+  },
+  {
+   "kw": "2317",
+   "traffic": "1000+",
+   "start": "2026-11-11T08:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "76人 對 塞爾提克",
+   "traffic": "1000+",
+   "start": "2026-11-11T08:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQL7DMto1fNOTv421rMGq76NOzYm8lAeIW3t5xp0RvoLDqZ1VwPQPpzxazxllk",
+   "news": [
+    {
+     "t": "詹皇領軍東部龍頭七六人大戰塞爾提克 今日賽事預告與轉播",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5636355",
+     "s": "自由體育"
+    },
+    {
+     "t": "最懂你的兄弟，最難纏的對手！一文看懂Jayson Tatum與Jaylen Brown的「雙J」恩怨與羈絆- NBA - 籃球",
+     "u": "https://www.sportsv.net/articles/129409",
+     "s": "運動視界Sports Vision"
+    },
+    {
+     "t": "NBA》周三戰前東家 Brown：打就對了",
+     "u": "https://tw.sports.yahoo.com/news/nba-%E5%91%A8%E4%B8%89%E6%88%B0%E5%89%8D%E6%9D%B1%E5%AE%B6-brown-%E6%89%93%E5%B0%B1%E5%B0%8D%E4%BA%86-003120920.html",
+     "s": "Yahoo運動"
+    }
+   ]
+  },
+  {
+   "kw": "鉅亨網",
+   "traffic": "1000+",
+   "start": "2026-11-11T07:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSU-6j0aeIVkYh-rgajG3W024H7ZcYyn2gkxyGXqiB7ma4qtumKhxxVdO_e5FA",
+   "news": [
+    {
+     "t": "CoreWeave財報優預期 訂單塞爆到2028年 服務費最高漲價50％",
+     "u": "https://www.ctee.com.tw/news/20261111700539-430704",
+     "s": "工商時報"
+    },
+    {
+     "t": "CoreWeave財報優、緩解AI泡沫疑慮 盤後上揚-新聞內容-基金",
+     "u": "https://www.moneydj.com/funddj/ya/yp050000.djhtm?a=3F3E3E3B-A046-43B5-9FC6-2C7A857EDD03",
+     "s": "MoneyDJ"
+    },
+    {
+     "t": "CoreWeave股價自高點跌掉65%還沒脫困 財報亮眼也難解三大隱憂",
+     "u": "https://news.cnyes.com/news/id/6657925",
+     "s": "鉅亨網"
     }
    ]
   },
@@ -98,6 +220,29 @@
      "t": "Indian team goes back to the team hotel after heavy rain in Hamilton",
      "u": "https://timesofindia.indiatimes.com/short-videos/briefs/indian-team-goes-back-to-the-team-hotel-after-heavy-rain-in-hamilton/videoshow/135705137.cms",
      "s": "The Times of India"
+    }
+   ]
+  },
+  {
+   "kw": "南亞 科技",
+   "traffic": "500+",
+   "start": "2026-11-11T08:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgPW4BnWE_ejPQwP8-tWNROvGg-Jccfz9trPcDIDE-hxRYdqcxjzKXABro2vE",
+   "news": [
+    {
+     "t": "目標價652元！「記憶體大廠」今年EPS上看74元 報價大漲6成＋3年大單湧入毛利率飆86%",
+     "u": "https://tw.stock.yahoo.com/news/%E7%9B%AE%E6%A8%99%E5%83%B9652%E5%85%83-%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E5%BB%A0-%E4%BB%8A%E5%B9%B4eps%E4%B8%8A%E7%9C%8B74%E5%85%83-%E5%A0%B1%E5%83%B9%E5%A4%A7%E6%BC%B26%E6%88%90-3%E5%B9%B4%E5%A4%A7%E5%96%AE%E6%B9%A7%E5%85%A5%E6%AF%9B%E5%88%A9%E7%8E%87%E9%A3%8686-153000402.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "10月營收一次評》南亞科、華邦電、旺宏、群聯、宜鼎、威剛…6檔記憶體法人看好2027年DRAM大缺貨曝最新目標價- 上市櫃",
+     "u": "https://wantrich.chinatimes.com/news/20261110900192-420101",
+     "s": "旺得富理財網"
+    },
+    {
+     "t": "記憶體量能續放 台廠6強必收",
+     "u": "https://inews.setn.com/news/1936719",
+     "s": "三立新聞網SETN.com"
     }
    ]
   },
@@ -213,6 +358,52 @@
    "start": "2026-11-10T10:40+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "曾馨瑩",
+   "traffic": "200+",
+   "start": "2026-11-11T08:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicRskPHs5fRaC3lYysbn7VdWiNTdFadWMZBdsaqZ1wW1sRDjD2TLqdQ500r8",
+   "news": [
+    {
+     "t": "妞妞撮合神助攻3／曾馨瑩上台感謝「背後偉大的人」！郭台銘紅衣紅帽牽手進場　深情告白甜翻全場",
+     "u": "https://www.mirrormedia.mg/story/20261110ent005",
+     "s": "鏡週刊Mirror Media"
+    },
+    {
+     "t": "妞妞撮合神助攻／不當嬌滴滴首富千金！15歲妞妞「跳脫舒適圈做幕後」 零架子親盯場被讚爆| 鏡週刊",
+     "u": "https://today.line.me/tw/v3/article/Opl3gom",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "鴻海公主也不簡單！17歲妞妞操辦舞蹈賽　撮合曾馨瑩、郭台銘同框",
+     "u": "https://www.nownews.com/news/6891182",
+     "s": "NOWnews今日新聞"
+    }
+   ]
+  },
+  {
+   "kw": "kidzania taipei 奇薩尼亞台北",
+   "traffic": "200+",
+   "start": "2026-11-11T08:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeIioQ-V7t-3TpfqcAgO0LMEnfxMr6awhPfFYJdTGFGv0VSJK7lvNfOJ7Uxyw",
+   "news": [
+    {
+     "t": "KidZania宣布11/24開幕！2千坪兒童體驗樂園票價、場景公開",
+     "u": "https://fashion.ettoday.net/news/3269710",
+     "s": "ETtoday新聞雲"
+    },
+    {
+     "t": "全台首座「2000坪兒童樂園」11／24登場！ 台灣限定職業、場景搶先看",
+     "u": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E9%A6%96%E5%BA%A7-2000%E5%9D%AA%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%92-11-24%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%81%A3%E9%99%90%E5%AE%9A%E8%81%B7%E6%A5%AD-102300709.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "台灣有新樂園要來了！「規模超大2000坪、捷運台鐵都能到」吃飯停車方便， 開幕亮點地址曝",
+     "u": "https://www.storm.mg/lifestyle/11178224",
+     "s": "風傳媒"
+    }
+   ]
   },
   {
    "kw": "coach",
@@ -420,174 +611,6 @@
      "s": "自由財經"
     }
    ]
-  },
-  {
-   "kw": "年金",
-   "traffic": "100+",
-   "start": "2026-11-11T04:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVS26ZHQ5YUEaDssfwbua0lVTP1A_5ZhVYS_Fji3Wo12X3YlDfRa_zrji_4qA",
-   "news": [
-    {
-     "t": "觀點投書：國民年金領不到5000元，是誰的問題？ | 徐文路 | 評論",
-     "u": "https://www.storm.mg/article/11179098",
-     "s": "風傳媒"
-    },
-    {
-     "t": "長者沒領到錢怪立法院？黃國昌轟賴清德鬼扯- 政治新聞",
-     "u": "https://news.pchome.com.tw/politics/nownews/20261104/index-79377096857245207001.html",
-     "s": "PChome Online 新聞"
-    },
-    {
-     "t": "國民年金修法誰在拖？民眾黨團點名衛福部 產假也要調至14週",
-     "u": "https://more-news.tw/761212/",
-     "s": "墨新聞-MORE News"
-    }
-   ]
-  },
-  {
-   "kw": "駕駛",
-   "traffic": "100+",
-   "start": "2026-11-11T04:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlcnvCVLeKWaN8Gy5eBnfgcQV80vmHNUh_av-EkPVk2o6mxl8RWEx5rePbIRU",
-   "news": [
-    {
-     "t": "高齡駕駛換照新制！違規罰3600元，機車考照筆試更難了，「這時間」開始要路考…交通新制懶人包",
-     "u": "https://www.businesstoday.com.tw/article/category/183030/post/202611050038/",
-     "s": "今周刊"
-    },
-    {
-     "t": "政府新制發錢給長輩！滿70歲快領1筆「36000元交通補助」，全台都可申請、 資格方式一次看",
-     "u": "https://www.storm.mg/lifestyle/11179677",
-     "s": "風傳媒"
-    },
-    {
-     "t": "一場咖啡館裡的駕訓班，陪長輩笑著練出高齡駕駛防禦力",
-     "u": "https://tw.news.yahoo.com/%E4%B8%80%E5%A0%B4%E5%92%96%E5%95%A1%E9%A4%A8%E8%A3%A1%E7%9A%84%E9%A7%95%E8%A8%93%E7%8F%AD%EF%BC%8C%E9%99%AA%E9%95%B7%E8%BC%A9%E7%AC%91%E8%91%97%E7%B7%B4%E5%87%BA%E9%AB%98%E9%BD%A1%E9%A7%95%E9%A7%9B%E9%98%B2%E7%A6%A6%E5%8A%9B-073733214.html",
-     "s": "Yahoo新聞"
-    }
-   ]
-  },
-  {
-   "kw": "好 市 多 黑 五",
-   "traffic": "100+",
-   "start": "2026-11-11T01:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFleq_B9F_AoRdWTLqQ-16B88P_k4Z95H2UWFbXzeoQqGeQJ4eqVSOQ8AGHfM",
-   "news": [
-    {
-     "t": "2026 好市多黑色購物節》首次連辦14天，優惠商品搶先看！(持續更新)",
-     "u": "https://www.cardu.com.tw/epoint/detail.php?66426",
-     "s": "卡優新聞網"
-    },
-    {
-     "t": "好市多黑五首度延長至14天！開門時間大改、這類會員可搶先逛",
-     "u": "https://udn.com/news/story/7270/9868450",
-     "s": "UDN"
-    },
-    {
-     "t": "好市多黑五要來了！黑卡會員摩拳擦掌 坐等iPhone 18甜甜價",
-     "u": "https://fnc.ebc.net.tw/fncnews/life/222535",
-     "s": "東森電視"
-    }
-   ]
-  },
-  {
-   "kw": "台新richart卡",
-   "traffic": "100+",
-   "start": "2026-11-11T00:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_fX-jn6wDCo308gBU8KOuczJvZ-VwBmTUPmQeUOC05oiiQUO1RS0S0P9rxw",
-   "news": [
-    {
-     "t": "張震嶽睽違13年再攻蛋 國泰世華世界卡、CUBE信用卡友享優先搶票權益",
-     "u": "https://travel.udn.com/travel/story/7160/9867168?from=udn-catebreaknews_ch2",
-     "s": "UDN"
-    },
-    {
-     "t": "張震嶽2027重返小巨蛋 國泰世華卡友享優先購票",
-     "u": "https://stock.ltn.com.tw/article/gp2cz8vpsabf",
-     "s": "自由時報"
-    },
-    {
-     "t": "秋季旅遊、周年慶購物刷台新Richart卡！「玩旅刷」、「大筆刷」回饋升級6％",
-     "u": "https://www.cdns.com.tw/articles/1487425",
-     "s": "中華新聞雲／中華日報"
-    }
-   ]
-  },
-  {
-   "kw": "李灝宇",
-   "traffic": "100+",
-   "start": "2026-11-10T20:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv10kIQ_ba_JZJVb2--uWfLoBvXNWTswVVkQitGbCOsBnkvwNVxbYCPL9xSHY",
-   "news": [
-    {
-     "t": "MLB／史上首次！賽揚獎決選沒拿新人王 守護者新秀強投不敵麥克戈尼格",
-     "u": "https://tw.sports.yahoo.com/news/mlb-%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1-%E8%B3%BD%E6%8F%9A%E7%8D%8E%E6%B1%BA%E9%81%B8%E6%B2%92%E6%8B%BF%E6%96%B0%E4%BA%BA%E7%8E%8B-%E5%AE%88%E8%AD%B7%E8%80%85%E6%96%B0%E7%A7%80%E5%BC%B7%E6%8A%95%E4%B8%8D%E6%95%B5%E9%BA%A5%E5%85%8B%E6%88%88%E5%B0%BC%E6%A0%BC-064900752.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "MLB》老虎McGonigle、紅人Stewart 獲選年度最佳新秀",
-     "u": "https://sport.vl.com.tw/newspage01.aspx?sno=85965",
-     "s": "緯來體育台"
-    },
-    {
-     "t": "MLB／比李灝宇早22天升大聯盟 老虎麥克尼格WAR值勇冠美聯奪新人王",
-     "u": "https://udn.com/news/story/6999/9868414",
-     "s": "UDN"
-    }
-   ]
-  },
-  {
-   "kw": "美國cpi",
-   "traffic": "100+",
-   "start": "2026-11-10T19:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLPw-IR4hiNyKTpGvth91ARqdRZjPbklGF9imvlyevGhik3LsaDvpcBWBOlYo",
-   "news": [
-    {
-     "t": "中東戰事有望降溫 美國 CPI 最新數據牽動美元後市",
-     "u": "https://money.udn.com/money/story/5616/9868860",
-     "s": "經濟日報"
-    },
-    {
-     "t": "〈紐約匯市〉川普暫緩對伊朗動武 美元走弱 歐元、澳幣紐元勁揚",
-     "u": "https://news.cnyes.com/news/id/6654889",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "《金融》美國就業數據強勁推動美元上漲- 國際",
-     "u": "https://wantrich.chinatimes.com/news/20261109900089-420201",
-     "s": "旺得富理財網"
-    }
-   ]
-  },
-  {
-   "kw": "鴻準",
-   "traffic": "100+",
-   "start": "2026-11-10T10:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "寒潮",
-   "traffic": "100+",
-   "start": "2026-11-10T09:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-TUdxxjUHjLg2qala37xIoCoXbRYHgCUhZgFQJqe3Sn4jobxobLie6Fbbzwc",
-   "news": [
-    {
-     "t": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
-     "u": "https://m.sohu.com/a/1098969942_121443915?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "搜狐网"
-    },
-    {
-     "t": "寒潮+大风预警持续 部分地区降温超10℃",
-     "u": "https://news.qq.com/rain/a/20261109A0308E00",
-     "s": "腾讯新闻"
-    },
-    {
-     "t": "明天跌至3℃！南京会更冷！本周天气如何？",
-     "u": "https://feng.ifeng.com/c/8xv3Ek2OYRe",
-     "s": "凤凰网"
-    }
-   ]
   }
  ],
  "history": {
@@ -597,7 +620,31 @@
     "traffic": "2000+"
    },
    {
+    "kw": "尼克 對 公鹿",
+    "traffic": "2000+"
+   },
+   {
     "kw": "老農津貼",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "日東紡股價",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "迷客夏",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "2317",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "76人 對 塞爾提克",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "鉅亨網",
     "traffic": "1000+"
    },
    {
@@ -613,7 +660,19 @@
     "traffic": "500+"
    },
    {
+    "kw": "南亞 科技",
+    "traffic": "500+"
+   },
+   {
     "kw": "coach",
+    "traffic": "200+"
+   },
+   {
+    "kw": "曾馨瑩",
+    "traffic": "200+"
+   },
+   {
+    "kw": "kidzania taipei 奇薩尼亞台北",
     "traffic": "200+"
    },
    {
