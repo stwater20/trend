@@ -2,8 +2,36 @@
  "days": {
   "2026-11-13": [
    {
+    "kw": "台 股 夜 盤",
+    "traffic": "20000+"
+   },
+   {
+    "kw": "報酬 率",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "日本",
+    "traffic": "1000+"
+   },
+   {
     "kw": "土耳其 對 比利時",
     "traffic": "500+"
+   },
+   {
+    "kw": "76人 對 暴龍",
+    "traffic": "500+"
+   },
+   {
+    "kw": "outlook 當機",
+    "traffic": "200+"
+   },
+   {
+    "kw": "返 稅",
+    "traffic": "200+"
+   },
+   {
+    "kw": "軍 公教",
+    "traffic": "200+"
    },
    {
     "kw": "鄭朝方",
@@ -11,6 +39,18 @@
    },
    {
     "kw": "星街彗星",
+    "traffic": "100+"
+   },
+   {
+    "kw": "全家咖啡",
+    "traffic": "100+"
+   },
+   {
+    "kw": "klasemen tim nasional sepak bola italia vs tim nasional sepak bola prancis",
+    "traffic": "100+"
+   },
+   {
+    "kw": "劉揚偉",
     "traffic": "100+"
    }
   ],
