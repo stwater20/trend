@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-12 08:49",
- "updated_iso": "2026-11-12T08:49+08:00",
+ "updated": "2026-11-12 16:25",
+ "updated_iso": "2026-11-12T16:25+08:00",
  "items": [
   {
-   "kw": "鄭 明典",
-   "traffic": "100000+",
-   "start": "2026-11-11T15:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSy7tROWt6ACoW3538LqQDQ2LurZmEfHVxtKCishEkVTBaTd5-qZnCRf9rJh0M",
+   "kw": "加權指數",
+   "traffic": "2000+",
+   "start": "2026-11-12T14:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3K6_2nXYWQ8-Lr_BKDqvIuHjm_-dKuZ4fNdSLsgVV5qhwOv04ig2SUmvVGSI",
    "news": [
     {
-     "t": "週末好天氣沒了！氣象粉專曝：華南雲雨區移入全台濕答答",
-     "u": "https://tw.news.yahoo.com/%E9%80%B1%E6%9C%AB%E5%A5%BD%E5%A4%A9%E6%B0%A3%E6%B2%92%E4%BA%86-%E6%B0%A3%E8%B1%A1%E7%B2%89%E5%B0%88%E6%9B%9D-%E8%8F%AF%E5%8D%97%E9%9B%B2%E9%9B%A8%E5%8D%80%E7%A7%BB%E5%85%A5%E5%85%A8%E5%8F%B0%E6%BF%95%E7%AD%94%E7%AD%94-083740300.html",
-     "s": "Yahoo新聞"
+     "t": "盤中速報 - 櫃買市場加權指數下跌-6.9點至337.21點，跌幅2.01%｜新聞快訊｜豐雲學堂",
+     "u": "https://www.sinotrade.com.tw/richclub/news/6af54ed971992d574504053b",
+     "s": "永豐金證券"
     },
     {
-     "t": "周六變天 賈新興曝2波鋒面+2波東北季風接力時程 下周恐更冷",
-     "u": "https://udn.com/news/story/7266/9870953",
-     "s": "UDN"
+     "t": "《集中市場》集中市場12:00，指數43771.90點，成交值7292.33億元",
+     "u": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6358798001&PU=0010",
+     "s": "富聯網"
     },
     {
-     "t": "天氣／低溫下探15度！再冷一下「這天起」回暖又30度…一周過完春夏秋冬，雨何時來？10日報先看",
-     "u": "https://www.businesstoday.com.tw/article/category/183030/post/202611100026/",
-     "s": "今周刊"
+     "t": "《櫃買市場》櫃買市場13:30，指數335.73點，成交值2783.19億元",
+     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6358891001&PU=1002",
+     "s": "富聯網"
     }
    ]
   },
@@ -118,27 +118,64 @@
    ]
   },
   {
-   "kw": "日東紡股價",
-   "traffic": "1000+",
-   "start": "2026-11-11T08:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1xQ8aDSu6TCXCB8GY2bTNy_8WL-28v8OmpRdJIRypUwErZz_mnlawYCaDVuk",
+   "kw": "邱澤",
+   "traffic": "500+",
+   "start": "2026-11-12T16:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "交通部中央气象署",
+   "traffic": "500+",
+   "start": "2026-11-12T15:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuTp6cOn2ONn7lxUqPT5k-FufgKBoYAfLJl15j8VsKeh8GjtrHAIpSaE6EufY",
    "news": [
     {
-     "t": "玻纖布狂潮持續洶湧！「這兩強」漲停同登基量價雙增王 國巨與華邦電一齊入榜",
-     "u": "https://tw.stock.yahoo.com/news/%E7%8E%BB%E7%BA%96%E5%B8%83%E7%8B%82%E6%BD%AE%E6%8C%81%E7%BA%8C%E6%B4%B6%E6%B9%A7-%E9%80%99%E5%85%A9%E5%BC%B7-%E6%BC%B2%E5%81%9C%E5%90%8C%E7%99%BB%E5%9F%BA%E9%87%8F%E5%83%B9%E9%9B%99%E5%A2%9E%E7%8E%8B-%E5%9C%8B%E5%B7%A8%E8%88%87%E8%8F%AF%E9%82%A6%E9%9B%BB-%E9%BD%8A%E5%85%A5%E6%A6%9C-003100892.html",
-     "s": "Yahoo股市"
+     "t": "縣市預報 - 新北市",
+     "u": "https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=65&T=202611111700",
+     "s": "交通部中央氣象署"
     },
     {
-     "t": "外資狂砍台股1241億卻逆勢搶買「這檔」 2天掃逾10萬張、連拉2根漲停 | 蕭宥宸 | 新聞",
-     "u": "https://www.storm.mg/article/11180332",
-     "s": "風傳媒"
+     "t": "縣市預報 - 新北市",
+     "u": "https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=65&T=202611111100",
+     "s": "交通部中央氣象署"
     },
     {
-     "t": "全民權證／台玻 鎖定逾100天",
-     "u": "https://udn.com/news/story/7255/9870556",
-     "s": "UDN"
+     "t": "彰化縣- 縣市預報",
+     "u": "https://www.cwa.gov.tw/V8/C/W/County/County.html?CID=10007&T=202611101100",
+     "s": "交通部中央氣象署"
     }
    ]
+  },
+  {
+   "kw": "勵馨基金會",
+   "traffic": "500+",
+   "start": "2026-11-12T15:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgFHXOxl6lv6-UcvwMl7-6IY5LTbOIu28ARc0xOLS306AwdPIYwUtwRC6byqY",
+   "news": [
+    {
+     "t": "快訊／跟進沈伯洋！蔣萬安捐1個月薪水",
+     "u": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%B7%9F%E9%80%B2%E6%B2%88%E4%BC%AF%E6%B4%8B-%E8%94%A3%E8%90%AC%E5%AE%89%E6%8D%901%E5%80%8B%E6%9C%88%E8%96%AA%E6%B0%B4-074924483.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "綠營召開台北擴大選戰會議 聚焦固組織、催票、闢謠、防介選",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1051102",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "北市選情真實差距？學者示警蔣萬安純靠「這張牌」難抗洋流：支持者憂心大於安心| 李瑋萱 | 新聞",
+     "u": "https://www.storm.mg/article/11180785",
+     "s": "風傳媒"
+    }
+   ]
+  },
+  {
+   "kw": "3037",
+   "traffic": "500+",
+   "start": "2026-11-12T14:50+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "公鹿 對 湖人",
@@ -210,39 +247,25 @@
    ]
   },
   {
-   "kw": "江蕙",
-   "traffic": "500+",
-   "start": "2026-11-11T16:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "東京 巨 蛋",
-   "traffic": "500+",
-   "start": "2026-11-11T16:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "英雄聯盟世界大賽",
-   "traffic": "500+",
-   "start": "2026-11-11T15:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_Czxhbzw00SRHGSdtvWbS-kgELPk81bRFAxNtXhPh45iacssySt3W_mpGlsU",
+   "kw": "3653",
+   "traffic": "200+",
+   "start": "2026-11-12T14:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT25cL1GGeF2OjK6SPX1iQ9QaBEhpHy4OWs3ijr2vbZwJ_SW7K6HT-DIVjUOQY",
    "news": [
     {
-     "t": "Faker不敗神話滅了！5個月前才合體黃仁勳 網笑「雙神同日殞落」",
-     "u": "https://tw.news.yahoo.com/faker%E4%B8%8D%E6%95%97%E7%A5%9E%E8%A9%B1%E6%BB%85%E4%BA%86-5%E5%80%8B%E6%9C%88%E5%89%8D%E6%89%8D%E5%90%88%E9%AB%94%E9%BB%83%E4%BB%81%E5%8B%B3-%E7%B6%B2%E7%AC%91-%E9%9B%99%E7%A5%9E%E5%90%8C%E6%97%A5%E6%AE%9E%E8%90%BD-123130599.html",
-     "s": "Yahoo新聞"
+     "t": "健策(3653)第三季毛利率逼近五成！Rubin上蓋設計一年三度反覆，獲利為何還能再創高？",
+     "u": "https://news.cnyes.com/news/id/6660182",
+     "s": "鉅亨網"
     },
     {
-     "t": "Faker 世界賽不敵 BLG！黃仁勳舊合照被翻出，網嘆：「雙神殞落！」",
-     "u": "https://www.juksy.com/article/154482",
-     "s": "JUKSY 街星"
+     "t": "綠海中唯一的曙光！散熱族群全倒 「這檔小兵」逆水行舟上漲",
+     "u": "https://inews.setn.com/news/1934407",
+     "s": "三立新聞網SETN.com"
     },
     {
-     "t": "LOL／迷因「反T1聯盟」是什麼？歌曲紅到韓國、終結他的四連冠只能靠我們",
-     "u": "https://game.udn.com/game/story/122089/9866294",
-     "s": "udn遊戲角落"
+     "t": "健策前三季 EPS 45.03元 創同期新高",
+     "u": "https://money.udn.com/money/story/5710/9872837",
+     "s": "經濟日報"
     }
    ]
   },
@@ -383,9 +406,62 @@
    "news": []
   },
   {
-   "kw": "施振榮",
-   "traffic": "200+",
-   "start": "2026-11-11T16:10+08:00",
+   "kw": "鴻海法說會",
+   "traffic": "100+",
+   "start": "2026-11-12T16:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3m52av0Xz5TkBUAZhLTO0LcVDeWSTGyAHOz1hN_tqEzb8mii_FxSWXAhsaI0",
+   "news": [
+    {
+     "t": "鴻海法說1》第三季獲利寫單季新高 每股賺5.51元、年增34%",
+     "u": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7%E6%B3%95%E8%AA%AA1%E3%80%8B%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%8D%B2%E5%88%A9%E5%AF%AB%E5%96%AE%E5%AD%A3%E6%96%B0%E9%AB%98-%E6%AF%8F%E8%82%A1%E8%B3%BA551%E5%85%83%E3%80%81%E5%B9%B4%E5%A2%9E34-071732107.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "輝達、蘋果雙重加持！鴻海Q3海賺775億　優於預期10%",
+     "u": "https://finance.ettoday.net/news/3271016",
+     "s": "ETtoday財經雲"
+    },
+    {
+     "t": "鴻海久違實體法說登場 美國擴產、AI交付成焦點",
+     "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774392_OHO25S7NL72AYU1OZFWB4",
+     "s": "DIGITIMES"
+    }
+   ]
+  },
+  {
+   "kw": "鄭運鵬",
+   "traffic": "100+",
+   "start": "2026-11-12T15:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "白馨儒",
+   "traffic": "100+",
+   "start": "2026-11-12T14:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOvx9Kwd6L-9RG2IkY7xA0hj9XCEPx9heM2BTrCRdZ6c1VG7ld-akPiIvRgqw",
+   "news": [
+    {
+     "t": "女星宣布退出民進黨！直言：執政黨不代表想做什麼就做什麼- 娛樂",
+     "u": "https://www.chinatimes.com/realtimenews/20261112002659-260404",
+     "s": "中時新聞網"
+    },
+    {
+     "t": "女星退出民進黨！當無酬志工14年　白馨儒宣布：以後選人不選黨",
+     "u": "https://www.nownews.com/news/6891675",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "民進黨無酬志工當了14年！女星震撼宣布退黨「今後選人不選黨」",
+     "u": "https://stars.udn.com/star/story/10089/9873555",
+     "s": "噓！星聞"
+    }
+   ]
+  },
+  {
+   "kw": "6669",
+   "traffic": "100+",
+   "start": "2026-11-12T14:40+08:00",
    "pic": "",
    "news": []
   },
@@ -487,40 +563,14 @@
      "s": "LINE TODAY"
     }
    ]
-  },
-  {
-   "kw": "鄭麗文",
-   "traffic": "100+",
-   "start": "2026-11-12T00:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "sk海力士",
-   "traffic": "100+",
-   "start": "2026-11-11T23:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQVZNwL3yNxfobynit252VD5A99CSyF9Tbi5BXUF_ZMi0dWrJan4ulJvY3bHo",
-   "news": [
-    {
-     "t": "此前精準預測兩年熊市！「記憶體死神」再示警：「2028獲利懸崖」是超級周期的終極考驗",
-     "u": "https://news.cnyes.com/news/id/6656867",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "AI 吸走七成 DRAM，記憶體荒恐延續到 2030 年代，GPU 價格難回落",
-     "u": "https://technews.tw/2026/11/09/there-is-no-end-in-sight-for-the-gpu-supply-problem/",
-     "s": "TechNews 科技新報"
-    },
-    {
-     "t": "記憶體不缺貨了？宏碁董座昔日預言被挖出 網驚：欠陳俊聖一個道歉",
-     "u": "https://udn.com/news/story/12806/9859881",
-     "s": "UDN"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-12": [
+   {
+    "kw": "加權指數",
+    "traffic": "2000+"
+   },
    {
     "kw": "亞冠賽",
     "traffic": "1000+"
@@ -535,6 +585,22 @@
    },
    {
     "kw": "暴龍 對 塞爾提克",
+    "traffic": "500+"
+   },
+   {
+    "kw": "邱澤",
+    "traffic": "500+"
+   },
+   {
+    "kw": "交通部中央气象署",
+    "traffic": "500+"
+   },
+   {
+    "kw": "勵馨基金會",
+    "traffic": "500+"
+   },
+   {
+    "kw": "3037",
     "traffic": "500+"
    },
    {
@@ -558,6 +624,10 @@
     "traffic": "200+"
    },
    {
+    "kw": "3653",
+    "traffic": "200+"
+   },
+   {
     "kw": "復仇者聯盟5",
     "traffic": "100+"
    },
@@ -575,10 +645,6 @@
    },
    {
     "kw": "鄭麗文",
-    "traffic": "100+"
-   },
-   {
-    "kw": "阿依娜·薩巴倫卡",
     "traffic": "100+"
    }
   ],
