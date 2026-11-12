@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 16:25",
- "updated_iso": "2026-11-12T16:25+08:00",
+ "updated": "2026-11-13 01:38",
+ "updated_iso": "2026-11-13T01:38+08:00",
  "items": [
   {
    "kw": "加權指數",
@@ -22,6 +22,29 @@
      "t": "《櫃買市場》櫃買市場13:30，指數335.73點，成交值2783.19億元",
      "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6358891001&PU=1002",
      "s": "富聯網"
+    }
+   ]
+  },
+  {
+   "kw": "美股指數",
+   "traffic": "1000+",
+   "start": "2026-11-12T23:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVBAE2-gKDODNdSqn2zhq05fd2kokKyJCeSxI4tHZBZPrWq6LDcBK8YhY2KfU",
+   "news": [
+    {
+     "t": "「輝達親兒子」助攻！美股4大指數全收紅 那指漲400點、費半狂飆逾5%",
+     "u": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E8%A6%AA%E5%85%92%E5%AD%90-%E5%8A%A9%E6%94%BB-%E7%BE%8E%E8%82%A14%E5%A4%A7%E6%8C%87%E6%95%B8%E5%85%A8%E6%94%B6%E7%B4%85-%E9%82%A3%E6%8C%87%E6%BC%B2400%E9%BB%9E-%E8%B2%BB%E5%8D%8A%E7%8B%82%E9%A3%86%E9%80%BE5-220700098.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "這波反彈要追多嗎？專家：輝達醜聞還有得燒",
+     "u": "https://www.cw.com.tw/article/5143664",
+     "s": "天下雜誌"
+    },
+    {
+     "t": "美通膨升溫推升升息預期 AI概念股反彈帶動台股走揚 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/wJvXPjl",
+     "s": "LINE TODAY"
     }
    ]
   },
@@ -72,48 +95,48 @@
    ]
   },
   {
-   "kw": "景 碩",
-   "traffic": "1000+",
-   "start": "2026-11-11T22:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cCbZNXuCaM1-RdrvIzwONrmdmcLThR0Lbj996diqnzjppnmLAfxsd-XgZy0",
+   "kw": "土耳其 對 比利時",
+   "traffic": "500+",
+   "start": "2026-11-13T00:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKOekKz37u3Usy5qKK6_ItRUlD727-cJUFe6puh1A7eBK2urUyQbkkuffqhyo",
    "news": [
     {
-     "t": "「MSCI新名單」法人押寶5個股　答案明天揭曉",
-     "u": "https://finance.ettoday.net/news/3269967",
-     "s": "ETtoday財經雲"
+     "t": "足球運彩分析》11/13 土耳其換帥首秀 比利時少了Lukaku能否維持進攻品質",
+     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1113-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%8F%9B%E5%B8%A5%E9%A6%96%E7%A7%80-%E6%AF%94%E5%88%A9%E6%99%82%E5%B0%91%E4%BA%86lukaku%E8%83%BD%E5%90%A6%E7%B6%AD%E6%8C%81%E9%80%B2%E6%94%BB%E5%93%81%E8%B3%AA-083709046.html",
+     "s": "Yahoo運動"
     },
     {
-     "t": "焦點股》南電：新接美系大單！ ABF毛利率突破40％",
-     "u": "https://stock.ltn.com.tw/article/hqgh1d80slsu",
-     "s": "自由時報"
+     "t": "歐洲國家聯賽比利時迎回邊鋒Doku 射手Lukaku因髖關節不適缺陣 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/GgNj9p7",
+     "s": "LINE TODAY"
     },
     {
-     "t": "MSCI換股2／MSCI換股倒數！南電景碩列潛力股 雷老闆看好明年營收增5成",
-     "u": "https://inews.setn.com/news/1936940",
-     "s": "三立新聞網SETN.com"
+     "t": "【歐國聯】比利時猛將回歸勝算高",
+     "u": "https://football.on.cc/%E8%B6%B3%E7%90%83%E5%BF%AB%E8%A8%8A/bkn-20261112140040334-1112_00882_001/%E3%80%90%E6%AD%90%E5%9C%8B%E8%81%AF%E3%80%91%E6%AF%94%E5%88%A9%E6%99%82%E7%8C%9B%E5%B0%87%E5%9B%9E%E6%AD%B8%E5%8B%9D%E7%AE%97%E9%AB%98",
+     "s": "波經"
     }
    ]
   },
   {
-   "kw": "外資買賣超",
-   "traffic": "1000+",
-   "start": "2026-11-11T17:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmh0fZTXe2YTrkEmpNvv7KW5zEch2dTHgRImH71Ydm8A2NsaJGh1f2cIWRuh8",
+   "kw": "qqq",
+   "traffic": "500+",
+   "start": "2026-11-12T23:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG1ayY6a3Rw0-cE5FGLIw2jqqjXCMMaaWD9q3oVieZvBVW9Q0EH6ReHWxPed4",
    "news": [
     {
-     "t": "台股3天狂彈6100點「量一天比一天少」！陳嘉偉：環球晶、國巨連10日線都還碰不到",
-     "u": "https://udn.com/news/story/12806/9872155",
-     "s": "UDN"
+     "t": "Daily ETF Flows: $4B Flows Into SOXX",
+     "u": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-4b-flows-235544540.html",
+     "s": "Yahoo Finance"
     },
     {
-     "t": "不甩外資硬賣7億！台股狂飆1545創第六大漲點 股民笑：小兒賣不下去被嘎爛",
-     "u": "https://tw.stock.yahoo.com/news/%E4%B8%8D%E7%94%A9%E5%A4%96%E8%B3%87%E7%A1%AC%E8%B3%A37%E5%84%84-%E5%8F%B0%E8%82%A1%E7%8B%82%E9%A3%861545%E5%89%B5%E7%AC%AC%E5%85%AD%E5%A4%A7%E6%BC%B2%E9%BB%9E-%E8%82%A1%E6%B0%91%E7%AC%91-%E5%B0%8F%E5%85%92%E8%B3%A3%E4%B8%8D%E4%B8%8B%E5%8E%BB%E8%A2%AB%E5%98%8E%E7%88%9B-085000447.html",
-     "s": "Yahoo股市"
+     "t": "QUICK SPARK: SPY, QQQ Attract $9B as ETF Investors Shrug Off Volatility Worries",
+     "u": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/11/63085138/quick-spark-spy-qqq-attract-9b-as-etf-investors-shrug-off-volatility-worries",
+     "s": "Benzinga"
     },
     {
-     "t": "台積電一檔扛921點！台股收復44K 專家提醒這一訊號成反彈關鍵- 證券",
-     "u": "https://www.ctee.com.tw/news/20261111701420-430201",
-     "s": "工商時報"
+     "t": "INVESCO QQQ (QQQ) Adds Apple and NVIDIA on Tuesday",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-adds-apple-110409863.html",
+     "s": "Yahoo Finance"
     }
    ]
   },
@@ -224,25 +247,48 @@
    ]
   },
   {
-   "kw": "夫家",
-   "traffic": "500+",
-   "start": "2026-11-11T22:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn7wDTO2RmNYn26N4ZDcuq-fOvkfsL2UrLhsUUlgd_-Y5hwWxdTJgXISlHDwI",
+   "kw": "tim cook",
+   "traffic": "200+",
+   "start": "2026-11-12T23:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4UDj9xNBl20ofcCTxIE1-dNrG84lyaMq6tI-Ns5DEnlr7P9xhUGPSeAE3AIs",
    "news": [
     {
-     "t": "擋中國大嫂分祖產！小姑利用「這規定」遷戶籍、搬家具擺拍仍敗訴",
-     "u": "https://news.ltn.com.tw/news/society/breakingnews/5637482",
-     "s": "自由時報"
+     "t": "Nvidia Drama Triggers Difficult Search for Huang’s Successor",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor",
+     "s": "Bloomberg.com"
     },
     {
-     "t": "陸配獲繼承權掀爭產風波！　夫家兄妹提告「偷存款飾品」拒給",
-     "u": "https://www.ettoday.net/news/20261111/3270412.htm",
-     "s": "ETtoday新聞雲"
+     "t": "Trump says 'there is only one man' to replace Jensen Huang as Nvidia CEO",
+     "u": "https://www.foxbusiness.com/markets/trump-jensen-huang-nvidia-ceo-replacement",
+     "s": "Fox Business"
     },
     {
-     "t": "台商病逝留1347萬遺產！陸配妻兒跨海爭產 為何手足也能分杯羹？",
-     "u": "https://www.chinatimes.com/realtimenews/20261102000022-260402",
-     "s": "中時新聞網"
+     "t": "Arm CEO Rene Haas has been talked up as a possible replacement for Jensen Huang",
+     "u": "https://www.marketwatch.com/livecoverage/nvidia-ceo-jensen-huang-stock-board/card/arm-ceo-rene-haas-has-been-talked-up-as-a-possible-replacement-for-jensen-huang-OiRvpBr1rYlVjsrxu82D",
+     "s": "MarketWatch"
+    }
+   ]
+  },
+  {
+   "kw": "harvey jones",
+   "traffic": "200+",
+   "start": "2026-11-12T23:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHkjKnQcdjdoKCHHgYa1Ac9PULALmhr5Os_ZD8gw3szn6gcVo5qsIyzOt2vxI",
+   "news": [
+    {
+     "t": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+     "u": "https://www.bbc.com/news/articles/cqgm37dv20e8o",
+     "s": "BBC"
+    },
+    {
+     "t": "Who is Harvey Jones, Nvidia's first-ever board chair?",
+     "u": "https://www.reuters.com/technology/who-is-harvey-jones-nvidias-first-ever-board-chair-2026-11-12/",
+     "s": "Reuters"
+    },
+    {
+     "t": "NVIDIA Appoints Jones as First Chairman of the Board, Bringing Over 30 Years of Technology Management and Investment Experience",
+     "u": "https://news.futunn.com/en/post/1004332399/nvidia-appoints-jones-as-first-chairman-of-the-board-bringing",
+     "s": "富途牛牛"
     }
    ]
   },
@@ -353,57 +399,103 @@
    ]
   },
   {
-   "kw": "神田沙也加",
-   "traffic": "200+",
-   "start": "2026-11-11T23:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRkw7RYsk5FclKp6m5_aYzzDUeVTDgT0yBVPpMidYcEvL-cwQe7s9SxTba7Wc",
-   "news": [
-    {
-     "t": "神田沙也加遭劈腿輕生！「逝世將滿5年」渣男舊愛突宣布開唱　選在忌日隔天挨轟",
-     "u": "https://www.mirrormedia.mg/external/mirrordaily_96816",
-     "s": "鏡週刊Mirror Media"
-    },
-    {
-     "t": "挑神田沙也加忌日隔天開唱！ 「國民渣男」大動作復出被狂轟 | ETtoday星光雲",
-     "u": "https://today.line.me/tw/v3/article/qoZZjDy",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "女星遭劈腿輕生亡！渣男前任大動作復出　選忌日隔天開唱挨轟",
-     "u": "https://star.setn.com/news/1936180",
-     "s": "娛樂星聞"
-    }
-   ]
-  },
-  {
-   "kw": "康康",
-   "traffic": "200+",
-   "start": "2026-11-11T22:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQphiqqYnxLl3oiNKj9BwFYqBGtuyU-nzrCn9rsTViuwKCe11vg09LAx3ynooo",
-   "news": [
-    {
-     "t": "唱過你的青春，康康回家唱新歌",
-     "u": "https://tw.news.yahoo.com/%E5%94%B1%E9%81%8E%E4%BD%A0%E7%9A%84%E9%9D%92%E6%98%A5-%E5%BA%B7%E5%BA%B7%E5%9B%9E%E5%AE%B6%E5%94%B1%E6%96%B0%E6%AD%8C-150522371.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "黃仁勳出軌康康親揭「男人有錢作怪」！爆粉絲深夜私約房號一開門嚇傻",
-     "u": "https://stars.udn.com/star/story/10092/9872157",
-     "s": "噓！星聞"
-    },
-    {
-     "t": "遠傳偕遠樂文創主辦「康康30週年演唱會」",
-     "u": "https://www.cna.com.tw/business/chinese/449745",
-     "s": "中央社 CNA"
-    }
-   ]
-  },
-  {
-   "kw": "8299",
-   "traffic": "200+",
-   "start": "2026-11-11T17:10+08:00",
+   "kw": "鄭朝方",
+   "traffic": "100+",
+   "start": "2026-11-13T01:10+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "星街彗星",
+   "traffic": "100+",
+   "start": "2026-11-13T00:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTK1ZqpxJZaheSGMSGuQuIPly1ZrNFQ1Sx5joAZGPaQvvgMFORP3diZkYhDBb8",
+   "news": [
+    {
+     "t": "VTuber 星街彗星宣布亞巡 2027 年舉行 粉絲見面會「星詠者睡衣派對」明年 3 月台北登場",
+     "u": "https://gnn.gamer.com.tw/detail.php?sn=314955",
+     "s": "GNN 新聞網"
+    },
+    {
+     "t": "星街彗星宣布索尼音樂Echoes主流出道！2027睡衣趴登台灣、亞巡與雙人巡演曝光",
+     "u": "https://www.4gamers.com.tw/news/detail/83271/hoshimachi-suisei-major-debut-echoes-2027-asia-tour-taiwan",
+     "s": "4Gamers"
+    },
+    {
+     "t": "VTuber 星街彗星宣布亞巡「NEVER LANDING」與多人巡演「Metamorphose」2027 年登場- 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/188577296",
+     "s": "CMoney"
+    }
+   ]
+  },
+  {
+   "kw": "tsla stock",
+   "traffic": "100+",
+   "start": "2026-11-12T23:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Wbi7oIuzQ20mjKA0j2GMMKK66WX1SGhNhltKWQwpmgA3jXyBm9IeaZ5Pp0Q",
+   "news": [
+    {
+     "t": "Company offers to resurrect the Cybertruck after Tesla ends production",
+     "u": "https://autos.yahoo.com/ev-and-future-tech/articles/company-offers-resurrect-cybertruck-tesla-120144218.html",
+     "s": "Yahoo Autos"
+    },
+    {
+     "t": "Farewell to Elon Musk’s Cybertruck. Has any car ever been more repellent? | Arwa Mahdawi",
+     "u": "https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent",
+     "s": "The Guardian"
+    },
+    {
+     "t": "Tesla to keep producing Cybertrucks until the end of next summer",
+     "u": "https://mashable.com/tech/tesla-cybertruck-production-2027",
+     "s": "Mashable"
+    }
+   ]
+  },
+  {
+   "kw": "tsm adr",
+   "traffic": "100+",
+   "start": "2026-11-12T23:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsXbOxDooHPbMVpnUO85pGbpwnQ65MtxbWCMAEb4Xc-fdHRYoMCnl9EB_pyAU",
+   "news": [
+    {
+     "t": "TSMC's October sales jump as global chip boom rolls on",
+     "u": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+     "s": "CNBC"
+    },
+    {
+     "t": "TSMC’s Revenue Rises 60% in a Sign of Resilient AI Chip Demand",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-10/tsmc-taiwan-semiconductor-manufacturing-revenue-earnings-ai-chip-demand",
+     "s": "Bloomberg.com"
+    },
+    {
+     "t": "TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers",
+     "u": "https://www.barrons.com/articles/tsmc-stock-softbank-ai-winners-losers-c77fd2a7",
+     "s": "Barron's"
+    }
+   ]
+  },
+  {
+   "kw": "特斯拉",
+   "traffic": "100+",
+   "start": "2026-11-12T23:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkieprV8Hxykqdqp11nSmBThhvuddH_i1lv9lR6fROmpJjewzjsVydEhmRtvc",
+   "news": [
+    {
+     "t": "標題 : Rivian押「雙線」賭局：機器人計程車不會終結買車潮，R2、AI與Uber合約拚未來",
+     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-4c6cd719-deb3-11f1-8e54-e8631a2298d7",
+     "s": "美股放大鏡"
+    },
+    {
+     "t": "【即時新聞】對決特斯拉！Rivian(RIVN)強攻AI自駕並攜手Uber推5萬輛計程車搶市",
+     "u": "https://cmnews.com.tw/article/newsyoudeservetoknow-9b2d09c5-deba-11f1-9228-e1da0541eca1",
+     "s": "CMoney投資網誌"
+    },
+    {
+     "t": "《DJ Insight》Rivian升級駕駛輔助功能，爭取更多軟體收入- 新聞",
+     "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=123ab203-144d-431d-bc48-dac25c540995",
+     "s": "MoneyDJ"
+    }
+   ]
   },
   {
    "kw": "鴻海法說會",
@@ -487,85 +579,23 @@
      "s": "ESPN"
     }
    ]
-  },
-  {
-   "kw": "復仇者聯盟5",
-   "traffic": "100+",
-   "start": "2026-11-12T00:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjAq0k8rf6gKZg-Maa1nfYmZvpn-SIS-o5yeWI9g0fI17Q8eFZUGJKOlhF6pQ",
-   "news": [
-    {
-     "t": "Vision’s next MCU appearance after VisionQuest has been officially revealed",
-     "u": "https://www.imdb.com/news/ni66105499/?ref_=nmnw_art_perm",
-     "s": "IMDb"
-    },
-    {
-     "t": "Did Anthony Mackie just let a Doomsday spoiler slip?",
-     "u": "https://www.avclub.com/anthony-mackie-avengers-doomsday-paul-bettany-spoiler",
-     "s": "A.V. Club"
-    },
-    {
-     "t": "Paul Bettany might return as Vision in Avengers: Doomsday after all as Anthony Mackie lets a big spoiler slip",
-     "u": "https://www.yahoo.com/entertainment/movies/articles/paul-bettany-might-return-vision-100710415.html",
-     "s": "Yahoo"
-    }
-   ]
-  },
-  {
-   "kw": "光洋科",
-   "traffic": "100+",
-   "start": "2026-11-12T00:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "基泰大直",
-   "traffic": "100+",
-   "start": "2026-11-12T00:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_7tNuHes7L0UCMLd76DfvweXfcSGCDW6gld7pvhiKEJw7CRXEwEbKLAwyM_s",
-   "news": [
-    {
-     "t": "基泰大直案三度協調會有望公辦都更？ 住戶點出一關鍵",
-     "u": "https://udn.com/news/story/7241/9871902",
-     "s": "UDN"
-    },
-    {
-     "t": "基泰大直案租金補償談不攏！住戶批「江湖喬事」業者盼一次性賠償- 生活",
-     "u": "https://www.ctee.com.tw/news/20261111701608-431401",
-     "s": "工商時報"
-    },
-    {
-     "t": "獨家／基泰大直塌3年！受災戶爆李四川密室協商停付租金　競辦澄清喊告",
-     "u": "https://www.setn.com/news/1937495",
-     "s": "三立新聞網SETN.com"
-    }
-   ]
-  },
-  {
-   "kw": "戈偉如",
-   "traffic": "100+",
-   "start": "2026-11-12T00:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa80-FnN85_rXAsczCy8_VVQqbR5uIwXQ_T9fLp8bnydzYTvVTKPT4sV8PmEM",
-   "news": [
-    {
-     "t": "戈偉如久違露面！金友莊PO「美女姊姊們」近照蔣黎麗也來了- 娛樂",
-     "u": "https://www.chinatimes.com/realtimenews/20261109002826-260404",
-     "s": "中時新聞網"
-    },
-    {
-     "t": "62歲戈偉如近況曝光！同框金友莊、蔣黎麗「真實狀態」太震撼",
-     "u": "https://stars.udn.com/star/story/10091/9871367?from=udn-catenewnews_ch1022",
-     "s": "噓！星聞"
-    },
-    {
-     "t": "62歲戈偉如「淡妝露甜笑」凍齡近況曝光！消失演藝圈12年罕見露面 | ETtoday星光雲",
-     "u": "https://today.line.me/tw/v3/article/yzGOMgE",
-     "s": "LINE TODAY"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-13": [
+   {
+    "kw": "土耳其 對 比利時",
+    "traffic": "500+"
+   },
+   {
+    "kw": "鄭朝方",
+    "traffic": "100+"
+   },
+   {
+    "kw": "星街彗星",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-12": [
    {
     "kw": "加權指數",
@@ -577,6 +607,10 @@
    },
    {
     "kw": "尼克 對 騎士",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "美股指數",
     "traffic": "1000+"
    },
    {
@@ -604,6 +638,10 @@
     "traffic": "500+"
    },
    {
+    "kw": "qqq",
+    "traffic": "500+"
+   },
+   {
     "kw": "公牛 對 馬刺",
     "traffic": "200+"
    },
@@ -628,23 +666,15 @@
     "traffic": "200+"
    },
    {
+    "kw": "tim cook",
+    "traffic": "200+"
+   },
+   {
+    "kw": "harvey jones",
+    "traffic": "200+"
+   },
+   {
     "kw": "復仇者聯盟5",
-    "traffic": "100+"
-   },
-   {
-    "kw": "光洋科",
-    "traffic": "100+"
-   },
-   {
-    "kw": "基泰大直",
-    "traffic": "100+"
-   },
-   {
-    "kw": "戈偉如",
-    "traffic": "100+"
-   },
-   {
-    "kw": "鄭麗文",
     "traffic": "100+"
    }
   ],
@@ -1015,48 +1045,6 @@
    },
    {
     "kw": "新社花海",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-06": [
-   {
-    "kw": "勇士 對 熱火",
-    "traffic": "5000+"
-   },
-   {
-    "kw": "富喬",
-    "traffic": "500+"
-   },
-   {
-    "kw": "台新銀行",
-    "traffic": "500+"
-   },
-   {
-    "kw": "warriors vs heat",
-    "traffic": "200+"
-   },
-   {
-    "kw": "gina hinojosa",
-    "traffic": "200+"
-   },
-   {
-    "kw": "金山電",
-    "traffic": "200+"
-   },
-   {
-    "kw": "日月光",
-    "traffic": "200+"
-   },
-   {
-    "kw": "3037",
-    "traffic": "200+"
-   },
-   {
-    "kw": "兆豐",
-    "traffic": "200+"
-   },
-   {
-    "kw": "當沖",
     "traffic": "100+"
    }
   ]
