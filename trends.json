@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 23:28",
- "updated_iso": "2026-11-13T23:28+08:00",
+ "updated": "2026-11-14 06:00",
+ "updated_iso": "2026-11-14T06:00+08:00",
  "items": [
   {
    "kw": "台 股 夜 盤",
@@ -26,11 +26,64 @@
    ]
   },
   {
+   "kw": "交通 堵塞",
+   "traffic": "5000+",
+   "start": "2026-11-13T23:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9PpF3IiAYt8luo6lWpg3KIAn3n3fBGSLSWrXMebuj_HPqlEICrPqqOdM_XEs",
+   "news": [
+    {
+     "t": "國道1號紫爆變停車場！一路塞到台北 民眾哀號：動不了",
+     "u": "https://tw.news.yahoo.com/%E5%9C%8B%E9%81%931%E8%99%9F%E7%B4%AB%E7%88%86%E8%AE%8A%E5%81%9C%E8%BB%8A%E5%A0%B4-%E8%B7%AF%E5%A1%9E%E5%88%B0%E5%8F%B0%E5%8C%97-%E6%B0%91%E7%9C%BE%E5%93%80%E8%99%9F-%E5%8B%95%E4%B8%8D%E4%BA%86-124446970.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "國1林口南下紫爆逾25公里回堵到汐止 事故尚未排除",
+     "u": "https://udn.com/news/story/7266/9877453",
+     "s": "UDN"
+    },
+    {
+     "t": "國1大貨車翻邊坡「癱瘓雙北交通」原因曝光　用路人哀號：我只想回家！",
+     "u": "https://www.setn.com/news/1938683",
+     "s": "三立新聞網SETN.com"
+    }
+   ]
+  },
+  {
+   "kw": "台指期夜盤指數",
+   "traffic": "2000+",
+   "start": "2026-11-14T05:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
    "kw": "報酬 率",
    "traffic": "2000+",
    "start": "2026-11-13T06:30+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "雷暴",
+   "traffic": "1000+",
+   "start": "2026-11-14T01:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJglxElcmfgO80nt_zv3D85FOH2Gdy54sk7ANhlFgpx_mqdBya263TwSB50FI",
+   "news": [
+    {
+     "t": "天文台︰極地渦旋分裂冷空氣南下 下周能否破入秋最涼仍有待觀察",
+     "u": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410216/%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%A5%B5%E5%9C%B0%E6%B8%A6%E6%97%8B%E5%88%86%E8%A3%82%E5%86%B7%E7%A9%BA%E6%B0%A3%E5%8D%97%E4%B8%8B-%E4%B8%8B%E5%91%A8%E8%83%BD%E5%90%A6%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC%E4%BB%8D%E6%9C%89%E5%BE%85%E8%A7%80%E5%AF%9F",
+     "s": "香港01"
+    },
+    {
+     "t": "香港天氣周六初時大雨伴狂風雷暴！氣溫23至27°C，下周中期北風增強降溫！",
+     "u": "https://www.juksy.com/article/154701",
+     "s": "JUKSY 街星"
+    },
+    {
+     "t": "未來一週的天氣轉變較大兼談極地渦旋｜香港天文台(HKO)｜天氣隨筆",
+     "u": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/111144/%E6%9C%AA%E4%BE%86%E4%B8%80%E9%80%B1%E7%9A%84%E5%A4%A9%E6%B0%A3%E8%BD%89%E8%AE%8A%E8%BC%83%E5%A4%A7%E5%85%BC%E8%AB%87%E6%A5%B5%E5%9C%B0%E6%B8%A6%E6%97%8B",
+     "s": "Hong Kong Observatory"
+    }
+   ]
   },
   {
    "kw": "日本",
@@ -52,6 +105,52 @@
      "t": "北海道恐發生規模8.8以上強震！日本政府示警了",
      "u": "https://news.ebc.net.tw/news/world/580387",
      "s": "東森新聞"
+    }
+   ]
+  },
+  {
+   "kw": "發票",
+   "traffic": "500+",
+   "start": "2026-11-14T05:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS8ijMMA6dAAsD_5k70wMyJDHAdCkm7m4Y_xpfzzoWvBkGBEpy3NDgVBSTNA0",
+   "news": [
+    {
+     "t": "發票1000萬領了沒？全聯買菜、加油90元中獎　獎落縣市、明細一覽",
+     "u": "https://www.nownews.com/news/6891825",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "你有在711消費嗎？4張千萬未兌領大獎今天逾期",
+     "u": "https://money.udn.com/money/story/5648/9858840",
+     "s": "經濟日報"
+    },
+    {
+     "t": "付18元外送費爽中百萬！13張發票今到期 「5300萬獎金」未領全充公",
+     "u": "https://news.videoland.com.tw/article/68306676-170d-4294-9ade-b959b803a8a0.html",
+     "s": "緯來新聞網"
+    }
+   ]
+  },
+  {
+   "kw": "青春共體",
+   "traffic": "500+",
+   "start": "2026-11-13T23:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_CvXP1SmU5PbSAeQXmbYl9s9BPfSt_LOak9kmwGkk6yfi7BvGD2A_mhwJ1O4",
+   "news": [
+    {
+     "t": "Netflix 心理驚悚影集《青春共體》也太好看！劇情有夠暗黑，短短 8 集看得頭皮發麻",
+     "u": "https://www.adaymag.com/2026/11/12/netflix-the-body.html",
+     "s": "A Day Magazine"
+    },
+    {
+     "t": "集體無意識與同儕壓力盲從崩潰《 青春共體 》驚悚異象席捲全美",
+     "u": "https://livio.com.tw/254447/",
+     "s": "Livio生活網"
+    },
+    {
+     "t": "Netflix影集《青春共體》評價+劇情討論+結局(全8集)：散播謠言就是在替魔鬼效力",
+     "u": "https://screenpotatoes.com/2026/11/12/the-body/",
+     "s": "NETFLIX追劇筆記本"
     }
    ]
   },
@@ -155,25 +254,71 @@
    "news": []
   },
   {
-   "kw": "土耳其 對 比利時",
-   "traffic": "500+",
-   "start": "2026-11-13T00:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKOekKz37u3Usy5qKK6_ItRUlD727-cJUFe6puh1A7eBK2urUyQbkkuffqhyo",
+   "kw": "夜市",
+   "traffic": "200+",
+   "start": "2026-11-14T05:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKJVgshxFl--1HOlhsHOqIXsVFyVOktcAtqzGsIIYnDhpg9PWXizl0hNAGjRA",
    "news": [
     {
-     "t": "足球運彩分析》11/13 土耳其換帥首秀 比利時少了Lukaku能否維持進攻品質",
-     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1113-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%8F%9B%E5%B8%A5%E9%A6%96%E7%A7%80-%E6%AF%94%E5%88%A9%E6%99%82%E5%B0%91%E4%BA%86lukaku%E8%83%BD%E5%90%A6%E7%B6%AD%E6%8C%81%E9%80%B2%E6%94%BB%E5%93%81%E8%B3%AA-083709046.html",
-     "s": "Yahoo運動"
+     "t": "拿手機狂拍！大批市民綁「安可」飄帶衝饒河夜市 親揭力挺蔣萬安原因",
+     "u": "https://udn.com/news/story/124652/9877750",
+     "s": "UDN"
     },
     {
-     "t": "歐洲國家聯賽比利時迎回邊鋒Doku 射手Lukaku因髖關節不適缺陣 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/GgNj9p7",
-     "s": "LINE TODAY"
+     "t": "之前「蓋牌」遭出征！蔣萬安掃饒河夜市吃東發號 業者坦言有點緊張",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5640126",
+     "s": "自由時報"
     },
     {
-     "t": "【歐國聯】比利時猛將回歸勝算高",
-     "u": "https://football.on.cc/%E8%B6%B3%E7%90%83%E5%BF%AB%E8%A8%8A/bkn-20261112140040334-1112_00882_001/%E3%80%90%E6%AD%90%E5%9C%8B%E8%81%AF%E3%80%91%E6%AF%94%E5%88%A9%E6%99%82%E7%8C%9B%E5%B0%87%E5%9B%9E%E6%AD%B8%E5%8B%9D%E7%AE%97%E9%AB%98",
-     "s": "波經"
+     "t": "選戰倒數衝刺陸戰！ 蔣萬安赴饒河夜市掃街拜票",
+     "u": "https://www.ttv.com.tw/videocity/video_play.asp?id=958794&from=613",
+     "s": "台視全球資訊網"
+    }
+   ]
+  },
+  {
+   "kw": "avril lavigne",
+   "traffic": "200+",
+   "start": "2026-11-14T00:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsaQP4YWazJpeXnkVQfExaaMPhqbcS5ACiAzVE5b-RZwb8yn_Nq3gwRCiIilg",
+   "news": [
+    {
+     "t": "Avril Lavigne reveals she welcomed first child in surprise announcement",
+     "u": "https://nz.news.yahoo.com/avril-lavigne-reveals-she-welcomed-175507831.html",
+     "s": "Yahoo News New Zealand"
+    },
+    {
+     "t": "‘Sk8er Boi’ singer announces surprise birth of her first baby",
+     "u": "https://www.independent.co.uk/bulletin/culture/avril-lavigne-welcomes-baby-first-child-girl-b3084801.html",
+     "s": "The Independent"
+    },
+    {
+     "t": "Avril Lavigne, a new mother at 42, has been married twice: to Deryck Whibley and Chad Kroeger",
+     "u": "https://www.nacionale.com/en/articles/who-has-avril-lavigne-been-married-to-deryck-whibley-chad-kroeger-mod-sun-baby",
+     "s": "Nacionale"
+    }
+   ]
+  },
+  {
+   "kw": "消费券",
+   "traffic": "200+",
+   "start": "2026-11-13T23:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpo-gSfJUHMbdWi9T3Z2nK5goL7re5xxwv2Zdu-g0EvSFxNrc6JJ1ZOPORgpQ",
+   "news": [
+    {
+     "t": "徐立信昨曬消費券政績今涉發900份敬老券買票遭搜索約談| 2026九合一選舉",
+     "u": "https://udn.com/vote2026/story/7315/9869565",
+     "s": "UDN"
+    },
+    {
+     "t": "涉賄選遭約談 北市議員徐立信限制住居、出境、出海",
+     "u": "https://www.cna.com.tw/news/asoc/202611100357.aspx",
+     "s": "中央社 CNA"
+    },
+    {
+     "t": "18萬消費券涉賄遭限居！北市議員徐立信：有人故意栽贓、抹黑",
+     "u": "https://news.tvbs.com.tw/local/4048808",
+     "s": "TVBS新聞網"
     }
    ]
   },
@@ -305,6 +450,36 @@
    "news": []
   },
   {
+   "kw": "天气",
+   "traffic": "100+",
+   "start": "2026-11-14T04:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SmxyWX88Ws1Y7YMWSscDUtya--iFrgtzuwdqwvgwMbIx2cd5uHocwm2jKw8",
+   "news": [
+    {
+     "t": "挪威队官方晒训练花絮，厄德高和哈兰德训练前和队友打起雪仗",
+     "u": "https://news.zhibo8.com/zuqiu/2026-11-13/6af68e2c8259fnative.htm",
+     "s": "直播吧"
+    },
+    {
+     "t": "索尔巴肯：世界杯踢巴西时本可能丢更多球，对英格兰本该零封",
+     "u": "https://m.dongqiudi.com/article/6650742.html",
+     "s": "懂球帝"
+    },
+    {
+     "t": "威尔士主帅谈限制哈兰德：需高位压迫，并迫使其被动参与防守",
+     "u": "https://m.qie.tv/news/app/share/20260395593501.html",
+     "s": "企鹅体育"
+    }
+   ]
+  },
+  {
+   "kw": "詹子萱",
+   "traffic": "100+",
+   "start": "2026-11-13T23:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
    "kw": "公投",
    "traffic": "100+",
    "start": "2026-11-13T22:40+08:00",
@@ -356,124 +531,43 @@
      "s": "The Outerhaven"
     }
    ]
-  },
-  {
-   "kw": "資訊 安全",
-   "traffic": "100+",
-   "start": "2026-11-13T21:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "娛樂",
-   "traffic": "100+",
-   "start": "2026-11-13T21:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgIFOhq4JL76iwAcWKe4V-56zekA4kkMHIHE5EulafGn24SART3_BByyamu8w",
-   "news": [
-    {
-     "t": "黃德斌張文傑杜拜電影巡禮宣傳《九龍城寨》 與戴玉麒沙灘曬肌",
-     "u": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60409780/%E9%BB%83%E5%BE%B7%E6%96%8C%E5%BC%B5%E6%96%87%E5%82%91%E6%9D%9C%E6%8B%9C%E9%9B%BB%E5%BD%B1%E5%B7%A1%E7%A6%AE%E5%AE%A3%E5%82%B3-%E4%B9%9D%E9%BE%8D%E5%9F%8E%E5%AF%A8-%E8%88%87%E6%88%B4%E7%8E%89%E9%BA%92%E6%B2%99%E7%81%98%E6%9B%AC%E8%82%8C",
-     "s": "香港01"
-    },
-    {
-     "t": "黃德斌杜拜戲水 Man爆騷肌",
-     "u": "https://orientaldaily.on.cc/content/%E5%A8%9B%E6%A8%82/odn-20261113-1113_00282_064/%E9%BB%83%E5%BE%B7%E6%96%8C%E6%9D%9C%E6%8B%9C%E6%88%B2%E6%B0%B4-Man%E7%88%86%E9%A8%B7%E8%82%8C",
-     "s": "東方日報"
-    },
-    {
-     "t": "張文傑、黃德斌、戴玉麒到杜拜出席香港電影巡禮 《九龍城寨之終章》盼不負期待",
-     "u": "https://www.singtaousa.com/2026/11/11/entertainment/dubai-hk-film-circuit-sequel/",
-     "s": "Singtaousa"
-    }
-   ]
-  },
-  {
-   "kw": "謝龍介",
-   "traffic": "100+",
-   "start": "2026-11-13T21:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "2466",
-   "traffic": "100+",
-   "start": "2026-11-13T14:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "1301",
-   "traffic": "100+",
-   "start": "2026-11-13T14:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "2313",
-   "traffic": "100+",
-   "start": "2026-11-13T14:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "3035",
-   "traffic": "100+",
-   "start": "2026-11-13T14:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "全家咖啡",
-   "traffic": "100+",
-   "start": "2026-11-13T07:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV5Xp3KI5Jt9HQ6wZXRxd5YiI2ZnJQPyAVtH6TnkKEGkbQHk8b6r7t2tDKlyA",
-   "news": [
-    {
-     "t": "全家拿鐵25元「只有5天」！單品拿鐵5元喝　7-11美式拿鐵買一送一",
-     "u": "https://www.nownews.com/news/6891616",
-     "s": "NOWnews今日新聞"
-    },
-    {
-     "t": "咖啡優惠來了！ 星巴克買1送1 超商咖啡買11送11、拿鐵買30送30",
-     "u": "https://fnc.ebc.net.tw/fncnews/headline/222435",
-     "s": "東森電視"
-    },
-    {
-     "t": "雙11美食優惠開搶！7-11買11送11、星巴克第2杯半價 8大品牌咖啡手搖懶人包",
-     "u": "https://www.elle.com/tw/life/hot-news/g74382301/1111-sale-2026/",
-     "s": "ELLE"
-    }
-   ]
-  },
-  {
-   "kw": "klasemen tim nasional sepak bola italia vs tim nasional sepak bola prancis",
-   "traffic": "100+",
-   "start": "2026-11-13T07:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC9CluR9i7foe45KbafQeCHHY4pvDKHVj6CKDbrYZGkbM8miAZb9-dCMWX-9k",
-   "news": [
-    {
-     "t": "Italia melakukan comeback luar biasa untuk mengalahkan Prancis.",
-     "u": "https://www.vietnam.vn/id/italia-xuat-sac-nguoc-dong-danh-bai-tuyen-phap",
-     "s": "Vietnam.vn"
-    },
-    {
-     "t": "\"Tanpa satu kata pun\".. Mbappe menanggapi \"rumor pelarian\" dengan pesan yang jelas",
-     "u": "https://www.goal.com/id/berita/tanpa-satu-kata-pun-mbappe-menanggapi-rumor-pelarian-dengan-pesan-yang-jelas/bltcbc548abda5cbb62",
-     "s": "Goal.com"
-    },
-    {
-     "t": "Link Live Streaming Italia Vs Perancis, Mancini Bidik Kemenangan di San Siro",
-     "u": "https://bola.kompas.com/read/2026/11/12/21330208/link-live-streaming-italia-vs-perancis-mancini-bidik-kemenangan-di-san-siro",
-     "s": "Kompas.com"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-14": [
+   {
+    "kw": "台指期夜盤指數",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "雷暴",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "發票",
+    "traffic": "500+"
+   },
+   {
+    "kw": "夜市",
+    "traffic": "200+"
+   },
+   {
+    "kw": "avril lavigne",
+    "traffic": "200+"
+   },
+   {
+    "kw": "天气",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-13": [
    {
     "kw": "台 股 夜 盤",
     "traffic": "20000+"
+   },
+   {
+    "kw": "交通 堵塞",
+    "traffic": "5000+"
    },
    {
     "kw": "報酬 率",
@@ -505,6 +599,10 @@
    },
    {
     "kw": "軍事演習",
+    "traffic": "500+"
+   },
+   {
+    "kw": "青春共體",
     "traffic": "500+"
    },
    {
@@ -542,14 +640,6 @@
    {
     "kw": "曾莞婷",
     "traffic": "200+"
-   },
-   {
-    "kw": "鄭朝方",
-    "traffic": "100+"
-   },
-   {
-    "kw": "星街彗星",
-    "traffic": "100+"
    }
   ],
   "2026-11-12": [
@@ -959,48 +1049,6 @@
    },
    {
     "kw": "geng vs ig",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-07": [
-   {
-    "kw": "林得恩",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "湖人 對 拓荒者",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "灰熊 對 雷霆",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "獨行俠 對 爵士",
-    "traffic": "500+"
-   },
-   {
-    "kw": "公鹿 對 暴龍",
-    "traffic": "500+"
-   },
-   {
-    "kw": "國王 對 馬刺",
-    "traffic": "200+"
-   },
-   {
-    "kw": "陳瑩",
-    "traffic": "200+"
-   },
-   {
-    "kw": "vj·埃奇庫姆",
-    "traffic": "200+"
-   },
-   {
-    "kw": "cavaliers vs 76ers",
-    "traffic": "200+"
-   },
-   {
-    "kw": "新社花海",
     "traffic": "100+"
    }
   ]
