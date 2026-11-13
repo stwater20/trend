@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 07:42",
- "updated_iso": "2026-11-13T07:42+08:00",
+ "updated": "2026-11-13 14:54",
+ "updated_iso": "2026-11-13T14:54+08:00",
  "items": [
   {
    "kw": "台 股 夜 盤",
@@ -31,29 +31,6 @@
    "start": "2026-11-13T06:30+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "加權指數",
-   "traffic": "2000+",
-   "start": "2026-11-12T14:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3K6_2nXYWQ8-Lr_BKDqvIuHjm_-dKuZ4fNdSLsgVV5qhwOv04ig2SUmvVGSI",
-   "news": [
-    {
-     "t": "盤中速報 - 櫃買市場加權指數下跌-6.9點至337.21點，跌幅2.01%｜新聞快訊｜豐雲學堂",
-     "u": "https://www.sinotrade.com.tw/richclub/news/6af54ed971992d574504053b",
-     "s": "永豐金證券"
-    },
-    {
-     "t": "《集中市場》集中市場12:00，指數43771.90點，成交值7292.33億元",
-     "u": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=6358798001&PU=0010",
-     "s": "富聯網"
-    },
-    {
-     "t": "《櫃買市場》櫃買市場13:30，指數335.73點，成交值2783.19億元",
-     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6358891001&PU=1002",
-     "s": "富聯網"
-    }
-   ]
   },
   {
    "kw": "日本",
@@ -208,32 +185,92 @@
    ]
   },
   {
-   "kw": "3037",
-   "traffic": "500+",
-   "start": "2026-11-12T14:50+08:00",
+   "kw": "2314",
+   "traffic": "200+",
+   "start": "2026-11-13T14:40+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "公鹿 對 湖人",
-   "traffic": "500+",
-   "start": "2026-11-12T08:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL0skAmcotLmE-wEZvhcGd_0CSgaM8Uhwq0RGXDHQrDcxEmKhiwlM8JU_hepg",
+   "kw": "浩 鼎",
+   "traffic": "200+",
+   "start": "2026-11-13T14:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBdIX9dWpwcGiH6i9e5otxKrbFuBc2fnpix3aqyNcLKCg18t-Y56I3XJCIiEo",
    "news": [
     {
-     "t": "雷迪克：格莱姆斯手指肿胀 问题不大将谨慎对待",
-     "u": "https://lq.7m.com.cn/news/20261110/283720.shtml",
-     "s": "7M体育"
+     "t": "浩鼎明日暫停交易 ADC 藥物授權有譜？",
+     "u": "https://udn.com/news/story/7241/9875046",
+     "s": "UDN"
     },
     {
-     "t": "湖人队沃克·凯斯勒和格莱姆斯会出战吗？湖人对阵雄鹿伤病报告",
-     "u": "https://m.sohu.com/a/1100352492_120753534?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "Sohu"
+     "t": "熱門股－浩鼎 外資連三日買超",
+     "u": "https://www.chinatimes.com/newspapers/20261113000455-260206",
+     "s": "中時新聞網"
     },
     {
-     "t": "雄鹿惨败过后能否在主场找回尊严？",
-     "u": "https://www.nowscore.com/news/1271072.htm",
-     "s": "捷报比分网"
+     "t": "【11:49 即時新聞】浩鼎(4174)亮燈漲停放量續強，短線買盤積極",
+     "u": "https://cmnews.com.tw/article/cmoneyairesearcher-23c36967-de4c-11f1-a416-d2ff9c2dc10a",
+     "s": "CMoney投資網誌"
+    }
+   ]
+  },
+  {
+   "kw": "3017",
+   "traffic": "200+",
+   "start": "2026-11-13T14:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "7610",
+   "traffic": "200+",
+   "start": "2026-11-13T14:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFx2_hgzd70C11VvVrC6twzb4S4klhtMYtqzghDTyNKkTK5yi8LO6z6eYOoUQ",
+   "news": [
+    {
+     "t": "聯友金屬母子公司拚轉板/掛牌，明年營運看倍增- 新聞",
+     "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=fc911eb5-9dbf-4b59-8cbb-49ab9492badc",
+     "s": "MoneyDJ"
+    },
+    {
+     "t": "沒天然資源，卻坐上全球稀土博弈牌桌！「這家台企」在關鍵金屬供應鏈中突圍",
+     "u": "https://www.gvm.com.tw/article/134204",
+     "s": "遠見雜誌"
+    },
+    {
+     "t": "聯友金屬看好氧化鎢需求　新產線明年第4季貢獻營收",
+     "u": "https://money.udn.com/money/story/5612/9872645",
+     "s": "經濟日報"
+    }
+   ]
+  },
+  {
+   "kw": "00757",
+   "traffic": "200+",
+   "start": "2026-11-13T14:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "曾莞婷",
+   "traffic": "200+",
+   "start": "2026-11-13T13:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsecU2M7VANlHreTUrwFy_pnKV6VuqR4-DydDbJWouuwBtJ32N9__4GIx9GWM",
+   "news": [
+    {
+     "t": "台股血洗「曾菲特」也失靈！44歲曾莞婷擁6間房卻蒸發千萬 哀號：補到沒子彈",
+     "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E8%A1%80%E6%B4%97-%E6%9B%BE%E8%8F%B2%E7%89%B9-%E4%B9%9F%E5%A4%B1%E9%9D%88-44%E6%AD%B2%E6%9B%BE%E8%8E%9E%E5%A9%B7%E6%93%816%E9%96%93%E6%88%BF%E5%8D%BB%E8%92%B8%E7%99%BC%E5%8D%83%E8%90%AC-%E5%93%80%E8%99%9F-040400472.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "曾莞婷股市慘遭血洗！　8位數千萬資產蒸發　「曾菲特」自嘲",
+     "u": "https://stars.udn.com/star/story/10089/9876530?from=udn-catenewnews_ch1022",
+     "s": "噓！星聞"
+    },
+    {
+     "t": "曾莞婷股票蒸發千萬！一路加碼到沒子彈　虧爛急掙錢：有動力上班",
+     "u": "https://www.nownews.com/news/6892047",
+     "s": "NOWnews今日新聞"
     }
    ]
   },
@@ -321,57 +358,32 @@
    ]
   },
   {
-   "kw": "3653",
-   "traffic": "200+",
-   "start": "2026-11-12T14:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT25cL1GGeF2OjK6SPX1iQ9QaBEhpHy4OWs3ijr2vbZwJ_SW7K6HT-DIVjUOQY",
-   "news": [
-    {
-     "t": "健策(3653)第三季毛利率逼近五成！Rubin上蓋設計一年三度反覆，獲利為何還能再創高？",
-     "u": "https://news.cnyes.com/news/id/6660182",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "綠海中唯一的曙光！散熱族群全倒 「這檔小兵」逆水行舟上漲",
-     "u": "https://inews.setn.com/news/1934407",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "健策前三季 EPS 45.03元 創同期新高",
-     "u": "https://money.udn.com/money/story/5710/9872837",
-     "s": "經濟日報"
-    }
-   ]
-  },
-  {
-   "kw": "公牛 對 馬刺",
-   "traffic": "200+",
-   "start": "2026-11-12T08:30+08:00",
+   "kw": "2466",
+   "traffic": "100+",
+   "start": "2026-11-13T14:40+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "溜馬 對 巫師",
-   "traffic": "200+",
-   "start": "2026-11-12T08:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKpB37eVtJ35GtEJ9HMZb-r-V089BFg_zwuuzJSZB6qWwQelizt5DrOCkL9lM",
-   "news": [
-    {
-     "t": "Washington Wizards @ Indiana Pacers Odds",
-     "u": "https://sportsbook.fanduel.com/basketball/nba/washington-wizards-@-indiana-pacers-36298489",
-     "s": "FanDuel Sportsbook"
-    },
-    {
-     "t": "When will Haliburton return? Indiana Pacers take on the Washington Wizards",
-     "u": "https://sports.yahoo.com/articles/haliburton-return-indiana-pacers-washington-234354526.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "Washington Wizards vs Indiana Pacers Prediction, Picks & Odds | NBA Wednesday",
-     "u": "https://www.sportsgambler.com/betting-tips/basketball/washington-wizards-vs-indiana-pacers-prediction-odds-6019811/",
-     "s": "Sportsgambler"
-    }
-   ]
+   "kw": "1301",
+   "traffic": "100+",
+   "start": "2026-11-13T14:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "2313",
+   "traffic": "100+",
+   "start": "2026-11-13T14:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "3035",
+   "traffic": "100+",
+   "start": "2026-11-13T14:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "全家咖啡",
@@ -471,98 +483,6 @@
      "s": "CMoney"
     }
    ]
-  },
-  {
-   "kw": "tsla stock",
-   "traffic": "100+",
-   "start": "2026-11-12T23:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1Wbi7oIuzQ20mjKA0j2GMMKK66WX1SGhNhltKWQwpmgA3jXyBm9IeaZ5Pp0Q",
-   "news": [
-    {
-     "t": "Company offers to resurrect the Cybertruck after Tesla ends production",
-     "u": "https://autos.yahoo.com/ev-and-future-tech/articles/company-offers-resurrect-cybertruck-tesla-120144218.html",
-     "s": "Yahoo Autos"
-    },
-    {
-     "t": "Farewell to Elon Musk’s Cybertruck. Has any car ever been more repellent? | Arwa Mahdawi",
-     "u": "https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent",
-     "s": "The Guardian"
-    },
-    {
-     "t": "Tesla to keep producing Cybertrucks until the end of next summer",
-     "u": "https://mashable.com/tech/tesla-cybertruck-production-2027",
-     "s": "Mashable"
-    }
-   ]
-  },
-  {
-   "kw": "tsm adr",
-   "traffic": "100+",
-   "start": "2026-11-12T23:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsXbOxDooHPbMVpnUO85pGbpwnQ65MtxbWCMAEb4Xc-fdHRYoMCnl9EB_pyAU",
-   "news": [
-    {
-     "t": "TSMC's October sales jump as global chip boom rolls on",
-     "u": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
-     "s": "CNBC"
-    },
-    {
-     "t": "TSMC’s Revenue Rises 60% in a Sign of Resilient AI Chip Demand",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-10/tsmc-taiwan-semiconductor-manufacturing-revenue-earnings-ai-chip-demand",
-     "s": "Bloomberg.com"
-    },
-    {
-     "t": "TSMC and SoftBank Reveal a Chasm Between AI Winners and Losers",
-     "u": "https://www.barrons.com/articles/tsmc-stock-softbank-ai-winners-losers-c77fd2a7",
-     "s": "Barron's"
-    }
-   ]
-  },
-  {
-   "kw": "特斯拉",
-   "traffic": "100+",
-   "start": "2026-11-12T23:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkieprV8Hxykqdqp11nSmBThhvuddH_i1lv9lR6fROmpJjewzjsVydEhmRtvc",
-   "news": [
-    {
-     "t": "標題 : Rivian押「雙線」賭局：機器人計程車不會終結買車潮，R2、AI與Uber合約拚未來",
-     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-4c6cd719-deb3-11f1-8e54-e8631a2298d7",
-     "s": "美股放大鏡"
-    },
-    {
-     "t": "【即時新聞】對決特斯拉！Rivian(RIVN)強攻AI自駕並攜手Uber推5萬輛計程車搶市",
-     "u": "https://cmnews.com.tw/article/newsyoudeservetoknow-9b2d09c5-deba-11f1-9228-e1da0541eca1",
-     "s": "CMoney投資網誌"
-    },
-    {
-     "t": "《DJ Insight》Rivian升級駕駛輔助功能，爭取更多軟體收入- 新聞",
-     "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=123ab203-144d-431d-bc48-dac25c540995",
-     "s": "MoneyDJ"
-    }
-   ]
-  },
-  {
-   "kw": "鴻海法說會",
-   "traffic": "100+",
-   "start": "2026-11-12T16:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3m52av0Xz5TkBUAZhLTO0LcVDeWSTGyAHOz1hN_tqEzb8mii_FxSWXAhsaI0",
-   "news": [
-    {
-     "t": "鴻海法說1》第三季獲利寫單季新高 每股賺5.51元、年增34%",
-     "u": "https://tw.stock.yahoo.com/news/%E9%B4%BB%E6%B5%B7%E6%B3%95%E8%AA%AA1%E3%80%8B%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%8D%B2%E5%88%A9%E5%AF%AB%E5%96%AE%E5%AD%A3%E6%96%B0%E9%AB%98-%E6%AF%8F%E8%82%A1%E8%B3%BA551%E5%85%83%E3%80%81%E5%B9%B4%E5%A2%9E34-071732107.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "輝達、蘋果雙重加持！鴻海Q3海賺775億　優於預期10%",
-     "u": "https://finance.ettoday.net/news/3271016",
-     "s": "ETtoday財經雲"
-    },
-    {
-     "t": "鴻海久違實體法說登場 美國擴產、AI交付成焦點",
-     "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774392_OHO25S7NL72AYU1OZFWB4",
-     "s": "DIGITIMES"
-    }
-   ]
   }
  ],
  "history": {
@@ -600,6 +520,30 @@
     "traffic": "200+"
    },
    {
+    "kw": "2314",
+    "traffic": "200+"
+   },
+   {
+    "kw": "浩 鼎",
+    "traffic": "200+"
+   },
+   {
+    "kw": "3017",
+    "traffic": "200+"
+   },
+   {
+    "kw": "7610",
+    "traffic": "200+"
+   },
+   {
+    "kw": "00757",
+    "traffic": "200+"
+   },
+   {
+    "kw": "曾莞婷",
+    "traffic": "200+"
+   },
+   {
     "kw": "鄭朝方",
     "traffic": "100+"
    },
@@ -617,6 +561,10 @@
    },
    {
     "kw": "劉揚偉",
+    "traffic": "100+"
+   },
+   {
+    "kw": "2466",
     "traffic": "100+"
    }
   ],
