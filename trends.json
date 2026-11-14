@@ -1,30 +1,7 @@
 {
- "updated": "2026-11-14 06:00",
- "updated_iso": "2026-11-14T06:00+08:00",
+ "updated": "2026-11-14 10:29",
+ "updated_iso": "2026-11-14T10:29+08:00",
  "items": [
-  {
-   "kw": "台 股 夜 盤",
-   "traffic": "20000+",
-   "start": "2026-11-13T06:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE5D3osJmNYUUArsx_eO7EXIJw1sNjBOdFDqn0z4sknZe8DAFQy75jaPSZiCY",
-   "news": [
-    {
-     "t": "【Follow法人】外資狂掃台玻14萬張！反手砍台積電92億元 群創也遭賣逾3萬張",
-     "u": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%A4%96%E8%B3%87%E7%8B%82%E6%8E%83%E5%8F%B0%E7%8E%BB14%E8%90%AC%E5%BC%B5%EF%BC%81%E5%8F%8D%E6%89%8B%E7%A0%8D%E5%8F%B0%E7%A9%8D%E9%9B%BB92%E5%84%84%E5%85%83-%E7%BE%A4%E5%89%B5%E4%B9%9F%E9%81%AD%E8%B3%A3%E9%80%BE3%E8%90%AC%E5%BC%B5-084306476.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "外資連11砍！今群創賣超最兇　買賣超前十大個股一次看",
-     "u": "https://finance.ettoday.net/news/3271124",
-     "s": "ETtoday財經雲"
-    },
-    {
-     "t": "盤勢分析》盤勢波動加劇 靜待外資轉買",
-     "u": "https://stock.ltn.com.tw/article/3tm9up7reatw",
-     "s": "自由時報"
-    }
-   ]
-  },
   {
    "kw": "交通 堵塞",
    "traffic": "5000+",
@@ -49,16 +26,46 @@
    ]
   },
   {
-   "kw": "台指期夜盤指數",
+   "kw": "u23",
    "traffic": "2000+",
-   "start": "2026-11-14T05:30+08:00",
+   "start": "2026-11-14T09:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl49mKJd5Kp0VKW64cNdIDJMHgmcwKRMko82xLkLO-KdlKoHOPp7-MZ5NV-lk",
+   "news": [
+    {
+     "t": "南韓的噩夢！林佾葳複製亞運驚奇6局6K僅失1分完全宰制！韓媒崩潰了",
+     "u": "https://tw.sports.yahoo.com/news/%E5%8D%97%E9%9F%93%E7%9A%84%E5%99%A9%E5%A4%A2-%E6%9E%97%E4%BD%BE%E8%91%B3%E8%A4%87%E8%A3%BD%E4%BA%9E%E9%81%8B%E9%A9%9A%E5%A5%876%E5%B1%806k%E5%83%85%E5%A4%B11%E5%88%86%E5%AE%8C%E5%85%A8%E5%AE%B0%E5%88%B6-%E9%9F%93%E5%AA%92%E5%B4%A9%E6%BD%B0%E4%BA%86-095820490.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "U23世界盃》漂亮！林佾葳主宰戰局 台灣6：1扳倒南韓",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5639305",
+     "s": "自由體育"
+    },
+    {
+     "t": "WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Five-run second inning lifts Chinese Taipei past Korea",
+     "u": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-36-korea-chinese-taipei",
+     "s": "World Baseball Softball Confederation (WBSC)"
+    }
+   ]
+  },
+  {
+   "kw": "馬刺 對 勇士",
+   "traffic": "2000+",
+   "start": "2026-11-14T09:40+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "報酬 率",
+   "kw": "軍公教",
    "traffic": "2000+",
-   "start": "2026-11-13T06:30+08:00",
+   "start": "2026-11-14T09:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "台指期夜盤指數",
+   "traffic": "2000+",
+   "start": "2026-11-14T05:30+08:00",
    "pic": "",
    "news": []
   },
@@ -86,25 +93,25 @@
    ]
   },
   {
-   "kw": "日本",
-   "traffic": "1000+",
-   "start": "2026-11-13T06:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkwDmHOW2NPt4F61uLa-JLjoC_lNuxndtnDQTNm1LGGubgcYtyx1c58m6HoBs",
+   "kw": "火箭 對 爵士",
+   "traffic": "500+",
+   "start": "2026-11-14T09:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxY_jfC8YP_ngtkdxik38pqCGS0vEqvG0M1339rEf4CXeMb_pdQGjK38GehSc",
    "news": [
     {
-     "t": "日本311震源區出現關鍵變化 研究：已開始累積下次大地震能量",
-     "u": "https://news.tvbs.com.tw/world/4048298",
-     "s": "TVBS新聞網"
+     "t": "【常规赛G13】NBA杯小组赛 客战休斯顿",
+     "u": "https://bbs.hupu.com/643907760.html",
+     "s": "虎扑体育网"
     },
     {
-     "t": "不只南海海槽！日本海溝型規模9強震高風險區 北海道沖繩也上榜",
-     "u": "https://news.tvbs.com.tw/world/4049735",
-     "s": "TVBS新聞網"
+     "t": "火箭vs爵士前瞻：主场龙火箭欲取三连胜 爵士内线多人伤缺恐难逃连败",
+     "u": "https://m.qie.tv/news/app/share/20260395589001.html",
+     "s": "企鹅体育"
     },
     {
-     "t": "北海道恐發生規模8.8以上強震！日本政府示警了",
-     "u": "https://news.ebc.net.tw/news/world/580387",
-     "s": "東森新聞"
+     "t": "火箭主场迎战爵士！伤病与禁赛情况更新",
+     "u": "https://m.sohu.com/a/1101369447_121926208?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "s": "Sohu"
     }
    ]
   },
@@ -247,9 +254,69 @@
    ]
   },
   {
-   "kw": "76人 對 暴龍",
-   "traffic": "500+",
-   "start": "2026-11-13T07:10+08:00",
+   "kw": "公牛 對 老鷹",
+   "traffic": "200+",
+   "start": "2026-11-14T09:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBEiKDWO4t7XSlD_Id8tQhIqkwbVipPloPVSSN5IXYR5KtAf81xMunf6V95nc",
+   "news": [
+    {
+     "t": "NBA专场分析 公牛对决老鹰",
+     "u": "https://www.nowscore.com/news/1272478.htm",
+     "s": "捷报比分网"
+    },
+    {
+     "t": "手感火热！鲍威尔半场7中5拿下12分1板1助1断 首节10分",
+     "u": "https://m.zhibo8.cc/news/web/nba/2026-11-14/6af7c1d459656native.htm",
+     "s": "直播吧"
+    },
+    {
+     "t": "老鹰vs公牛：首节结束，老鹰24-33公牛，鲍威尔得到10分",
+     "u": "https://www.qiumiwu.com/news/2042430185773",
+     "s": "球迷屋"
+    }
+   ]
+  },
+  {
+   "kw": "鵜鶘 對 灰熊",
+   "traffic": "200+",
+   "start": "2026-11-14T09:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "熊海靈",
+   "traffic": "200+",
+   "start": "2026-11-14T09:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKPRcEvLYB8eQR_89qNplrHeVLbfnR4uw2wJYRleJDpTZy04yyZCFjZq4yJfg",
+   "news": [
+    {
+     "t": "張琍敏長居美國「台健保稅金照繳！」返台投票力挺蔣萬安、李四川",
+     "u": "https://tw.news.yahoo.com/%E5%BC%B5%E7%90%8D%E6%95%8F%E9%95%B7%E5%B1%85%E7%BE%8E%E5%9C%8B-%E5%8F%B0%E5%81%A5%E4%BF%9D%E7%A8%85%E9%87%91%E7%85%A7%E7%B9%B3-%E8%BF%94%E5%8F%B0%E6%8A%95%E7%A5%A8%E5%8A%9B%E6%8C%BA%E8%94%A3%E8%90%AC%E5%AE%89-%E6%9D%8E%E5%9B%9B%E5%B7%9D-091909104.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "女星逆風挺羅大佑！讚一針見血「嗆爆民進黨爛黨」 開酸沈伯洋",
+     "u": "https://news.tvbs.com.tw/entertainment/drama/4050006",
+     "s": "TVBS新聞網"
+    },
+    {
+     "t": "熊海靈表態挺蔣萬安讚羅大佑　網酸出來蹭",
+     "u": "https://www.mirrormedia.mg/external/setn_1937607",
+     "s": "鏡週刊Mirror Media"
+    }
+   ]
+  },
+  {
+   "kw": "島國禮作市集",
+   "traffic": "200+",
+   "start": "2026-11-14T09:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "華南銀行",
+   "traffic": "200+",
+   "start": "2026-11-14T09:10+08:00",
    "pic": "",
    "news": []
   },
@@ -413,41 +480,27 @@
    ]
   },
   {
-   "kw": "outlook 當機",
-   "traffic": "200+",
-   "start": "2026-11-13T07:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "返 稅",
-   "traffic": "200+",
-   "start": "2026-11-13T07:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbNWMUxc3--NA15wp9AHfLOsN5nMwQXxDFajEvGAwJKZIQq8m9Uy4TYYY6eVk",
+   "kw": "楊超越",
+   "traffic": "100+",
+   "start": "2026-11-14T10:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUEJs9TLymADbAXMALPjuo3imnaGRtxNcw076Va0LU8tVWnp1kOuaeCRAlpMI",
    "news": [
     {
-     "t": "日本退稅新制買ON鞋還便宜嗎？台灣人最愛買的跑鞋TOP3，其中這款超划算",
-     "u": "https://www.elle.com/tw/fashion/flash/g74395012/japan-tax-refund-on-running-shoes/",
+     "t": "《今天是太陽雨》男主角是誰？董思成曾是NCT成員，跟《良陳美錦》任敏從小就認識，關於他的5個故事",
+     "u": "https://www.elle.com/tw/entertainment/voice/g74371111/about-dong-si-cheng/",
      "s": "ELLE"
     },
     {
-     "t": "信用卡號安全碼不用填！日本新退稅神技曝光 3分鐘輕鬆爽領現金",
-     "u": "https://tw.news.yahoo.com/%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%99%9F%E5%AE%89%E5%85%A8%E7%A2%BC%E4%B8%8D%E7%94%A8%E5%A1%AB-%E6%97%A5%E6%9C%AC%E6%96%B0%E9%80%80%E7%A8%85%E7%A5%9E%E6%8A%80%E6%9B%9D%E5%85%89-3%E5%88%86%E9%90%98%E8%BC%95%E9%AC%86%E7%88%BD%E9%A0%98%E7%8F%BE%E9%87%91-010000586.html",
-     "s": "Yahoo新聞"
+     "t": "Netflix《今天是太陽雨》衝出好評！6大劇情、角色介紹：楊超越演技逆襲，網讚年度黑馬",
+     "u": "https://www.beauty321.com/post/73683",
+     "s": "BEAUTY美人圈"
     },
     {
-     "t": "日本退稅新制害慘台灣旅客！漏做1步驟　近萬元退款瞬間泡湯",
-     "u": "https://travel.setn.com/News/1938046",
-     "s": "三立新聞網SETN.com"
+     "t": "從成衣廠女工到女明星！楊超越「天選鄭雨」 走紅後供同母異父妹妹讀書卻劃下這條紅線| 姊妹淘",
+     "u": "https://today.line.me/tw/v3/article/7NG3nKr",
+     "s": "LINE TODAY"
     }
    ]
-  },
-  {
-   "kw": "軍 公教",
-   "traffic": "200+",
-   "start": "2026-11-13T07:00+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "天气",
@@ -478,65 +531,24 @@
    "start": "2026-11-13T23:50+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "公投",
-   "traffic": "100+",
-   "start": "2026-11-13T22:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTa_YW4VOBKfKcCYyol5QR2y0N2SAdjX2h6rJheint3HLJsNn3Dgg3dfISwN4A",
-   "news": [
-    {
-     "t": "廢非核家園公投／牛煦庭稱廢核未解決電力缺口 陳培瑜：核電非經濟成長必要條件",
-     "u": "https://news.pts.org.tw/article/835462",
-     "s": "公視新聞"
-    },
-    {
-     "t": "陳培瑜批藍白推核能公投騙選票 陳以信反嗆：民進黨還挺非核家園？",
-     "u": "https://udn.com/vote2026/story/124652/9876198",
-     "s": "UDN"
-    },
-    {
-     "t": "11/28「廢除非核家園」公投案通過門檻、怎麼投一次看| 政治",
-     "u": "https://www.cna.com.tw/news/aipl/202611120231.aspx",
-     "s": "中央社 CNA"
-    }
-   ]
-  },
-  {
-   "kw": "詐騙集團",
-   "traffic": "100+",
-   "start": "2026-11-13T22:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "mma 2026",
-   "traffic": "100+",
-   "start": "2026-11-13T22:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJvw10jYPl50ZQ8Gu_ZkbAH7IoV2hsZWfhveqGhQb6QPw_ogQbSRKpCXJLgSo",
-   "news": [
-    {
-     "t": "MMA goes global, doubles length with NCT, Ateez, HANA",
-     "u": "https://www.koreajoongangdaily.com/entertainment/mma-goes-global-doubles-length-with-nct-ateez-hana/12971013",
-     "s": "Korea JoongAng Daily"
-    },
-    {
-     "t": "MMA2026 — Day 2 Spoilers: IVE and ILLIT Unveil Special Stages",
-     "u": "https://en.koreadaily.com/mma2026-day-2-spoilers-ive-illit/",
-     "s": "The Korea Daily"
-    },
-    {
-     "t": "K-pop’s Game Changers to Ignite MMA2026 with Exclusive Stages In Two-Night Spectacle",
-     "u": "https://www.theouterhaven.net/k-pops-game-changers-to-ignite-mma2026-with-exclusive-stages-in-two-night-spectacle/",
-     "s": "The Outerhaven"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-14": [
    {
     "kw": "台指期夜盤指數",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "u23",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "馬刺 對 勇士",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "軍公教",
     "traffic": "2000+"
    },
    {
@@ -548,6 +560,10 @@
     "traffic": "500+"
    },
    {
+    "kw": "火箭 對 爵士",
+    "traffic": "500+"
+   },
+   {
     "kw": "夜市",
     "traffic": "200+"
    },
@@ -556,7 +572,31 @@
     "traffic": "200+"
    },
    {
+    "kw": "公牛 對 老鷹",
+    "traffic": "200+"
+   },
+   {
+    "kw": "鵜鶘 對 灰熊",
+    "traffic": "200+"
+   },
+   {
+    "kw": "熊海靈",
+    "traffic": "200+"
+   },
+   {
+    "kw": "島國禮作市集",
+    "traffic": "200+"
+   },
+   {
+    "kw": "華南銀行",
+    "traffic": "200+"
+   },
+   {
     "kw": "天气",
+    "traffic": "100+"
+   },
+   {
+    "kw": "楊超越",
     "traffic": "100+"
    }
   ],
