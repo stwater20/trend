@@ -1,27 +1,27 @@
 {
- "updated": "2026-11-14 18:38",
- "updated_iso": "2026-11-14T18:38+08:00",
+ "updated": "2026-11-15 01:12",
+ "updated_iso": "2026-11-15T01:12+08:00",
  "items": [
   {
-   "kw": "交通 堵塞",
-   "traffic": "5000+",
-   "start": "2026-11-13T23:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9PpF3IiAYt8luo6lWpg3KIAn3n3fBGSLSWrXMebuj_HPqlEICrPqqOdM_XEs",
+   "kw": "股利",
+   "traffic": "2000+",
+   "start": "2026-11-14T23:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAhHnRvpLH9bNYo0DLPoypZOlZnMiq1LBA_UwujK557KTghDW-1ng4A-rzk4",
    "news": [
     {
-     "t": "國道1號紫爆變停車場！一路塞到台北 民眾哀號：動不了",
-     "u": "https://tw.news.yahoo.com/%E5%9C%8B%E9%81%931%E8%99%9F%E7%B4%AB%E7%88%86%E8%AE%8A%E5%81%9C%E8%BB%8A%E5%A0%B4-%E8%B7%AF%E5%A1%9E%E5%88%B0%E5%8F%B0%E5%8C%97-%E6%B0%91%E7%9C%BE%E5%93%80%E8%99%9F-%E5%8B%95%E4%B8%8D%E4%BA%86-124446970.html",
-     "s": "Yahoo新聞"
+     "t": "張曉強：台積設5億美元基金挖掘下一個晶片大廠 押注AI基建正循環",
+     "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774737_U1D65B324SGY2C6EF0KLI",
+     "s": "DIGITIMES"
     },
     {
-     "t": "國1林口南下紫爆逾25公里回堵到汐止 事故尚未排除",
-     "u": "https://udn.com/news/story/7266/9877453",
+     "t": "台積電董事會調高股利並投資AI｜新聞事件整理與重點摘要",
+     "u": "https://tw.stock.yahoo.com/news-story/a7f33b97-1d7a-4f2e-b7c1-25dd89b396a2",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "扶植新創台積設立創投基金| 財經焦點| 產經",
+     "u": "https://udn.com/news/story/7238/9877926",
      "s": "UDN"
-    },
-    {
-     "t": "國1大貨車翻邊坡「癱瘓雙北交通」原因曝光　用路人哀號：我只想回家！",
-     "u": "https://www.setn.com/news/1938683",
-     "s": "三立新聞網SETN.com"
     }
    ]
   },
@@ -70,27 +70,57 @@
    "news": []
   },
   {
-   "kw": "雷暴",
+   "kw": "挪威 對 威爾斯",
    "traffic": "1000+",
-   "start": "2026-11-14T01:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJglxElcmfgO80nt_zv3D85FOH2Gdy54sk7ANhlFgpx_mqdBya263TwSB50FI",
+   "start": "2026-11-15T00:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKJgM35kvh1znqLv0DcuOqbEL31FhxLiG2pYirLpFjQmcIyO1uJo2D94I36s",
    "news": [
     {
-     "t": "天文台︰極地渦旋分裂冷空氣南下 下周能否破入秋最涼仍有待觀察",
-     "u": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60410216/%E5%A4%A9%E6%96%87%E5%8F%B0-%E6%A5%B5%E5%9C%B0%E6%B8%A6%E6%97%8B%E5%88%86%E8%A3%82%E5%86%B7%E7%A9%BA%E6%B0%A3%E5%8D%97%E4%B8%8B-%E4%B8%8B%E5%91%A8%E8%83%BD%E5%90%A6%E7%A0%B4%E5%85%A5%E7%A7%8B%E6%9C%80%E6%B6%BC%E4%BB%8D%E6%9C%89%E5%BE%85%E8%A7%80%E5%AF%9F",
-     "s": "香港01"
+     "t": "Norway v Wales: Nations League – live",
+     "u": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
+     "s": "The Guardian"
     },
     {
-     "t": "香港天氣周六初時大雨伴狂風雷暴！氣溫23至27°C，下周中期北風增強降溫！",
-     "u": "https://www.juksy.com/article/154701",
-     "s": "JUKSY 街星"
+     "t": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
+     "u": "https://www.skysports.com/football/live-blog/13612159/norway-vs-wales-live-nations-league-group-a4-score-updates-commentary-news-and-line-ups",
+     "s": "Sky Sports"
     },
     {
-     "t": "未來一週的天氣轉變較大兼談極地渦旋｜香港天文台(HKO)｜天氣隨筆",
-     "u": "https://www.hko.gov.hk/tc/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E7%AD%86/111144/%E6%9C%AA%E4%BE%86%E4%B8%80%E9%80%B1%E7%9A%84%E5%A4%A9%E6%B0%A3%E8%BD%89%E8%AE%8A%E8%BC%83%E5%A4%A7%E5%85%BC%E8%AB%87%E6%A5%B5%E5%9C%B0%E6%B8%A6%E6%97%8B",
-     "s": "Hong Kong Observatory"
+     "t": "Erling Haaland: How Wales aim to stop Norway’s Man City star again",
+     "u": "https://www.bbc.com/sport/football/articles/c3y0e0z0r8kzo",
+     "s": "BBC"
     }
    ]
+  },
+  {
+   "kw": "好市多",
+   "traffic": "1000+",
+   "start": "2026-11-15T00:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMtwzxVJsFU7DGyZktJOzqA8cS0Wyz7j3WYKbn0HGHrRTCNukIeXvonkoC6k",
+   "news": [
+    {
+     "t": "好市多蛤蜊濃湯沒了？換鮑魚粥接位網崩潰 官方急回應",
+     "u": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A%E8%9B%A4%E8%9C%8A%E6%BF%83%E6%B9%AF%E6%B2%92%E4%BA%86-%E6%8F%9B%E9%AE%91%E9%AD%9A%E7%B2%A5%E6%8E%A5%E4%BD%8D%E7%B6%B2%E5%B4%A9%E6%BD%B0-%E5%AE%98%E6%96%B9%E6%80%A5%E5%9B%9E%E6%87%89-040900003.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "好市多蛤蠣濃湯下架！一票人崩潰 官方回應：依季節調整",
+     "u": "https://news.ebc.net.tw/news/living/580656",
+     "s": "東森新聞"
+    },
+    {
+     "t": "好市多蛤蜊濃湯突下架！熟食部改賣「鮑魚粥」 官方回應了 | 鏡週刊",
+     "u": "https://today.line.me/tw/v3/article/2D9KYVX",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "kw": "許淑華",
+   "traffic": "500+",
+   "start": "2026-11-14T22:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "日本 對 巴西",
@@ -162,117 +192,101 @@
    ]
   },
   {
-   "kw": "青春共體",
-   "traffic": "500+",
-   "start": "2026-11-13T23:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_CvXP1SmU5PbSAeQXmbYl9s9BPfSt_LOak9kmwGkk6yfi7BvGD2A_mhwJ1O4",
+   "kw": "比特幣",
+   "traffic": "200+",
+   "start": "2026-11-15T00:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "geng vs blg",
+   "traffic": "200+",
+   "start": "2026-11-14T23:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOgvZE47DuVdGdn6Wc-kmTIMMyCRYLuEY5djqM4Set3t0kG_H7ePfdXXCfHf4",
    "news": [
     {
-     "t": "Netflix 心理驚悚影集《青春共體》也太好看！劇情有夠暗黑，短短 8 集看得頭皮發麻",
-     "u": "https://www.adaymag.com/2026/11/12/netflix-the-body.html",
-     "s": "A Day Magazine"
+     "t": "Worlds 2026: BLG Viper vs Gen.G Ruler",
+     "u": "https://www.sheepesports.com/en/articles/worlds-2026-blg-viper-vs-gen-g-ruler/en",
+     "s": "Sheep Esports"
     },
     {
-     "t": "集體無意識與同儕壓力盲從崩潰《 青春共體 》驚悚異象席捲全美",
-     "u": "https://livio.com.tw/254447/",
-     "s": "Livio生活網"
+     "t": "League of Legends World Championship tickets cost more than $1,300",
+     "u": "https://sports.yahoo.com/articles/league-legends-world-championship-tickets-165618740.html",
+     "s": "Yahoo Sports"
     },
     {
-     "t": "Netflix影集《青春共體》評價+劇情討論+結局(全8集)：散播謠言就是在替魔鬼效力",
-     "u": "https://screenpotatoes.com/2026/11/12/the-body/",
-     "s": "NETFLIX追劇筆記本"
+     "t": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
+     "u": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
+     "s": "CelebrityAccess"
     }
    ]
   },
   {
-   "kw": "郑明典",
-   "traffic": "500+",
-   "start": "2026-11-13T23:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceHKpzda8WIYGzcP_cQtlNyeyUutnV9cqD7NQ7uwmb3JxLpEjerF9uh7uF-g",
+   "kw": "btc",
+   "traffic": "200+",
+   "start": "2026-11-14T23:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rV53S6yEFhDT5gzMoiDzQTNEVsa9Sg-EXcBrPjoGcBFsvGYFRMJX-sCN86g",
    "news": [
     {
-     "t": "全台午後雷雨狂襲！ 鄭明典警告：帶熱帶性低氣壓特徵",
-     "u": "https://tw.news.yahoo.com/%E5%85%A8%E5%8F%B0%E5%8D%88%E5%BE%8C%E9%9B%B7%E9%9B%A8%E7%8B%82%E8%A5%B2-%E9%84%AD%E6%98%8E%E5%85%B8%E8%AD%A6%E5%91%8A-%E5%B8%B6%E7%86%B1%E5%B8%B6%E6%80%A7%E4%BD%8E%E6%B0%A3%E5%A3%93%E7%89%B9%E5%BE%B5-134245642.html",
-     "s": "Yahoo新聞"
+     "t": "‘People are chucking stuff like gold and Bitcoin’ as rising inflation leads investors to seek yield",
+     "u": "https://fortune.com/2026/11/13/people-chucking-gold-bitcoin-rising-inflation-investors-yield/",
+     "s": "Fortune"
     },
     {
-     "t": "【雅方氣象報報】明天華南雲帶東移 下午起短暫雨│中視午間氣象 20261113",
-     "u": "https://www.ctv.com.tw/Article/-%E9%9B%85%E6%96%B9%E6%B0%A3%E8%B1%A1%E5%A0%B1%E5%A0%B1-%E6%98%8E%E5%A4%A9%E8%8F%AF%E5%8D%97%E9%9B%B2%E5%B8%B6%E6%9D%B1%E7%A7%BB-%E4%B8%8B%E5%8D%88%E8%B5%B7%E7%9F%AD%E6%9A%AB%E9%9B%A8-%E4%B8%AD%E8%A6%96%E5%8D%88%E9%96%93%E6%B0%A3%E8%B1%A1-20261113",
-     "s": "中視全球資訊網"
+     "t": "Nvidia Faces Crisis After CEO’s Departure and $600 Billion Loss",
+     "u": "https://forklog.com/en/nvidia-faces-crisis-after-ceos-departure-and-600-billion-loss/",
+     "s": "ForkLog"
     },
     {
-     "t": "【全台變天「大雷雨彈」狂轟熱區曝 鄭明典示警：有點熱帶低壓特徵】 要變天了！！ （#起啵）",
-     "u": "https://www.facebook.com/ETtoday/posts/%E5%85%A8%E5%8F%B0%E8%AE%8A%E5%A4%A9%E5%A4%A7%E9%9B%B7%E9%9B%A8%E5%BD%88%E7%8B%82%E8%BD%9F%E7%86%B1%E5%8D%80%E6%9B%9D-%E9%84%AD%E6%98%8E%E5%85%B8%E7%A4%BA%E8%AD%A6%E6%9C%89%E9%BB%9E%E7%86%B1%E5%B8%B6%E4%BD%8E%E5%A3%93%E7%89%B9%E5%BE%B5%E8%A6%81%E8%AE%8A%E5%A4%A9%E4%BA%86-%E8%B5%B7%E5%95%B5/1627985876027158/",
-     "s": "Facebook"
+     "t": "We Asked 3 AIs: Is Bitcoin's Bull Market Over After a $13K Drop in 10 Days? Here's What Worried Us",
+     "u": "https://cryptopotato.com/we-asked-3-ais-is-bitcoins-bull-market-over-after-a-13k-drop-in-10-days-heres-what-worried-us/",
+     "s": "CryptoPotato"
     }
    ]
   },
   {
-   "kw": "萊 爾 富 戰鬥 陀螺",
-   "traffic": "500+",
-   "start": "2026-11-13T21:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUUyOJMfEQgGo4AbhIV_gbqep1t44qZKC27wvC9tUfjOIWVY0Tnd7R8SKMe7w",
+   "kw": "孔劉",
+   "traffic": "200+",
+   "start": "2026-11-14T23:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNfbQhH9G73KoIgGUbr5GnskfCtGQv7AaTRpHb8iYzrTM3YrJdz-r4EeX8fMw",
    "news": [
     {
-     "t": "萊爾富再推戰鬥陀螺！11/14限量開賣「CX-07」、「UX-20」、「BX-49」 | 生活 | 要聞",
-     "u": "https://money.udn.com/money/story/122328/9877159",
-     "s": "經濟日報"
+     "t": "宋慧喬、孔劉新劇《夢響年代》開播前合體《藉口Go》！宋慧喬霸氣喊「我才是前輩」，孔劉秒變乖巧後輩 XD",
+     "u": "https://www.koreastardaily.com/tc/news/164533",
+     "s": "KSD 韓星網"
     },
     {
-     "t": "萊爾富戰鬥陀螺新品！限量三款《BEYBLADE X》系列開賣",
-     "u": "https://www.cardu.com.tw/epoint/detail.php?66600",
-     "s": "卡優新聞網"
+     "t": "44歲宋慧喬嫩到像高中生！自曝「買葡萄酒被要求確認年齡」 一旁孔劉反應太真實| 時尚名人",
+     "u": "https://style.udn.com/style/story/8065/9869644",
+     "s": "udnSTYLE"
     },
     {
-     "t": "脆友一句玩笑成真！萊爾富將開「五股雜糧店」 本人收到開幕邀請「雜糧任你搬」",
-     "u": "https://news.pchome.com.tw/living/m00361/20261107/index-79402190771052361009.html",
-     "s": "PChome Online 新聞"
+     "t": "砸800億韓幣！宋慧喬、孔劉《夢響年代》定檔12月　被列19禁必看",
+     "u": "https://www.nownews.com/news/6891690",
+     "s": "NOWnews今日新聞"
     }
    ]
   },
   {
-   "kw": "宗山塁",
-   "traffic": "500+",
-   "start": "2026-11-13T21:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDRuRrCGx8LgK1fpZe6lp9hfhZAHPmqgg8e8lG83yS8jh3PkCW1wLN0XzMh5w",
+   "kw": "doctor x:白色黑手黨時代",
+   "traffic": "200+",
+   "start": "2026-11-14T23:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugFxN0kq3d7UKoVQJfiGvLuJQtj0_xCPOtmp53NfLkKYSQB2hASZf8OKV-ks",
    "news": [
     {
-     "t": "井口ジャパン、4本塁打で韓国撃破 8回に4点差追いつかれるも…宗山の決勝弾で2戦全勝（Full-Count）",
-     "u": "https://news.yahoo.co.jp/articles/f0543526138766db06c45feb713b6d48cdd7ad87",
-     "s": "Yahoo!ニュース"
+     "t": "金智媛《Doctor X》今晚迎大結局！收視率飆16%連6週奪冠，金宇錫身世揭震撼真相",
+     "u": "https://www.koreastardaily.com/tc/news/164590",
+     "s": "KSD 韓星網"
     },
     {
-     "t": "【侍ジャパン】宗山塁が決勝３ラン含む３安打５打点と大暴れ 連勝に貢献「追いつかれたのは僕のせいだと思ってた。日本のショートは僕って言ってもらえるように」",
-     "u": "https://hochi.news/articles/20261113-OHT1T51425.html",
-     "s": "スポーツ報知"
+     "t": "《Doctor X》8大幕後秘辛：專業醫師大讚金智媛苦練手術技巧、「這一幕」是特別設計！",
+     "u": "https://www.beauty321.com/post/73624",
+     "s": "BEAUTY美人圈"
     },
     {
-     "t": "韓国代表 崔元豪監督が「日本の方が格上」も「次は期待以上の結果が出せるんじゃないか」八回に驚異の粘り 日本戦１２連敗も前向く",
-     "u": "https://www.daily.co.jp/baseball/2026/11/13/0021032177.shtml",
-     "s": "デイリースポーツ"
-    }
-   ]
-  },
-  {
-   "kw": "軍事演習",
-   "traffic": "500+",
-   "start": "2026-11-13T21:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmE_GUDGUGmZNBZMIgIUaYVVl-kucqtRdE_82h4HMQndlWJZfVdP51ZR813tg",
-   "news": [
-    {
-     "t": "G7外相会合、台湾海峡の平和・安定を強調 総統府が感謝を表明",
-     "u": "https://www.rti.org.tw/jp/news?uid=3&pid=1051281",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "台湾国防部長、中国空母「遼寧」の西太平洋での領域拒否演習を指摘 友好国と連携し監視へ",
-     "u": "https://novaist.jp/articles/china-carrier-pacific-drills/",
-     "s": "NOVAIST"
-    },
-    {
-     "t": "G7による台湾絡めた声明を批判=外交部",
-     "u": "https://japanese.cri.cn/2026/11/12/ARTI1794478542766711",
-     "s": "CGTN Japanese"
+     "t": "《Doctor X》第11集預告公開：金宇碩懇求「能不能讓手術失敗？」",
+     "u": "https://www.diarypoint.com/zh-hant/news/6904/doctor-x-episode-11-preview-kim-woo-seok-pleads-could-you-let-the-surgery-fail",
+     "s": "www.diarypoint.com"
     }
    ]
   },
@@ -397,48 +411,25 @@
    ]
   },
   {
-   "kw": "avril lavigne",
-   "traffic": "200+",
-   "start": "2026-11-14T00:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsaQP4YWazJpeXnkVQfExaaMPhqbcS5ACiAzVE5b-RZwb8yn_Nq3gwRCiIilg",
+   "kw": "ufo",
+   "traffic": "100+",
+   "start": "2026-11-15T00:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-95SzXTsjDK4LBHVGzyxSV-_MNCKcoMoFwb1fhjVRnG_3zF0uyzqOn2mTNy4",
    "news": [
     {
-     "t": "Avril Lavigne reveals she welcomed first child in surprise announcement",
-     "u": "https://nz.news.yahoo.com/avril-lavigne-reveals-she-welcomed-175507831.html",
-     "s": "Yahoo News New Zealand"
+     "t": "UFO with tentacles seen near US military base before vanishing",
+     "u": "https://www.dailymail.com/sciencetech/article-16278729/ufo-hovers-alaska-military-base.html",
+     "s": "Daily Mail"
     },
     {
-     "t": "‘Sk8er Boi’ singer announces surprise birth of her first baby",
-     "u": "https://www.independent.co.uk/bulletin/culture/avril-lavigne-welcomes-baby-first-child-girl-b3084801.html",
-     "s": "The Independent"
+     "t": "Kite, Drone Or Alien? Viral Video Of Jellyfish-Like Object Baffles Internet",
+     "u": "https://www.ndtv.com/offbeat/kite-drone-or-alien-viral-video-of-jellyfish-like-object-baffles-internet-12311991",
+     "s": "NDTV"
     },
     {
-     "t": "Avril Lavigne, a new mother at 42, has been married twice: to Deryck Whibley and Chad Kroeger",
-     "u": "https://www.nacionale.com/en/articles/who-has-avril-lavigne-been-married-to-deryck-whibley-chad-kroeger-mod-sun-baby",
-     "s": "Nacionale"
-    }
-   ]
-  },
-  {
-   "kw": "消费券",
-   "traffic": "200+",
-   "start": "2026-11-13T23:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpo-gSfJUHMbdWi9T3Z2nK5goL7re5xxwv2Zdu-g0EvSFxNrc6JJ1ZOPORgpQ",
-   "news": [
-    {
-     "t": "徐立信昨曬消費券政績今涉發900份敬老券買票遭搜索約談| 2026九合一選舉",
-     "u": "https://udn.com/vote2026/story/7315/9869565",
-     "s": "UDN"
-    },
-    {
-     "t": "涉賄選遭約談 北市議員徐立信限制住居、出境、出海",
-     "u": "https://www.cna.com.tw/news/asoc/202611100357.aspx",
-     "s": "中央社 CNA"
-    },
-    {
-     "t": "18萬消費券涉賄遭限居！北市議員徐立信：有人故意栽贓、抹黑",
-     "u": "https://news.tvbs.com.tw/local/4048808",
-     "s": "TVBS新聞網"
+     "t": "This Week's Weird News 11/13/26 | KFI AM 640 | Coast to Coast AM with George Noory",
+     "u": "https://kfiam640.iheart.com/featured/coast-to-coast-am/content/2026-11-13-this-weeks-weird-news-111326/",
+     "s": "KFI AM 640"
     }
    ]
   },
@@ -540,32 +531,27 @@
      "s": "PAR 表演藝術"
     }
    ]
-  },
-  {
-   "kw": "李明依",
-   "traffic": "100+",
-   "start": "2026-11-14T17:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuYzKvstXOuqsWOnGbFORi9xqqBgGEi-Rtac1QDjvf0WD-Rdy8SdQaphVlRKQ",
-   "news": [
-    {
-     "t": "李明依質疑文化部能不能公布「誰領補助」 網打臉：你演的戲也拿了2500萬",
-     "u": "https://tw.news.yahoo.com/%E6%9D%8E%E6%98%8E%E4%BE%9D%E8%B3%AA%E7%96%91%E6%96%87%E5%8C%96%E9%83%A8%E8%83%BD%E4%B8%8D%E8%83%BD%E5%85%AC%E5%B8%83-%E8%AA%B0%E9%A0%98%E8%A3%9C%E5%8A%A9-%E7%B6%B2%E6%89%93%E8%87%89-%E4%BD%A0%E6%BC%94%E7%9A%84%E6%88%B2%E4%B9%9F%E6%8B%BF%E4%BA%862500%E8%90%AC-074100795.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "才喊力挺蔣萬安！金鐘女星突公開發文了引全網熱議：真的好奇| 星聞",
-     "u": "https://www.setn.com/news/1937687",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "遭挖參演戲劇領千萬補助！李明依發聲了",
-     "u": "https://www.mirrormedia.mg/external/setn_1938958",
-     "s": "鏡週刊Mirror Media"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-15": [
+   {
+    "kw": "挪威 對 威爾斯",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "好市多",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "比特幣",
+    "traffic": "200+"
+   },
+   {
+    "kw": "ufo",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-14": [
    {
     "kw": "台指期夜盤指數",
@@ -584,6 +570,10 @@
     "traffic": "2000+"
    },
    {
+    "kw": "股利",
+    "traffic": "2000+"
+   },
+   {
     "kw": "雷暴",
     "traffic": "1000+"
    },
@@ -597,6 +587,10 @@
    },
    {
     "kw": "日本 對 巴西",
+    "traffic": "500+"
+   },
+   {
+    "kw": "許淑華",
     "traffic": "500+"
    },
    {
@@ -636,16 +630,8 @@
     "traffic": "200+"
    },
    {
-    "kw": "天气",
-    "traffic": "100+"
-   },
-   {
-    "kw": "楊超越",
-    "traffic": "100+"
-   },
-   {
-    "kw": "009826",
-    "traffic": "100+"
+    "kw": "geng vs blg",
+    "traffic": "200+"
    }
   ],
   "2026-11-13": [
@@ -1056,88 +1042,6 @@
    {
     "kw": "gta6",
     "traffic": "200+"
-   }
-  ],
-  "2026-11-08": [
-   {
-    "kw": "勇士 對 魔術",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "曾峻岳",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "勇士",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "太陽 對 火箭",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "英特爾",
-    "traffic": "500+"
-   },
-   {
-    "kw": "雷霆 對 巫師",
-    "traffic": "500+"
-   },
-   {
-    "kw": "warriors vs magic",
-    "traffic": "200+"
-   },
-   {
-    "kw": "u23 世界盃棒球錦標賽",
-    "traffic": "200+"
-   },
-   {
-    "kw": "檢察官",
-    "traffic": "200+"
-   },
-   {
-    "kw": "太空飛機",
-    "traffic": "200+"
-   },
-   {
-    "kw": "弗朗茨·華格納",
-    "traffic": "200+"
-   },
-   {
-    "kw": "彭双浪",
-    "traffic": "200+"
-   },
-   {
-    "kw": "張啟楷",
-    "traffic": "200+"
-   },
-   {
-    "kw": "補貼",
-    "traffic": "200+"
-   },
-   {
-    "kw": "冷空氣來襲",
-    "traffic": "200+"
-   },
-   {
-    "kw": "敗訴",
-    "traffic": "200+"
-   },
-   {
-    "kw": "李相赫",
-    "traffic": "200+"
-   },
-   {
-    "kw": "謝祖武",
-    "traffic": "100+"
-   },
-   {
-    "kw": "勇士直播",
-    "traffic": "100+"
-   },
-   {
-    "kw": "geng vs ig",
-    "traffic": "100+"
    }
   ]
  }
