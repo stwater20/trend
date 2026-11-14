@@ -2,6 +2,18 @@
  "days": {
   "2026-11-15": [
    {
+    "kw": "lol 世界賽",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "blg",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "twitch",
+    "traffic": "2000+"
+   },
+   {
     "kw": "挪威 對 威爾斯",
     "traffic": "1000+"
    },
@@ -10,11 +22,31 @@
     "traffic": "1000+"
    },
    {
+    "kw": "lol",
+    "traffic": "1000+"
+   },
+   {
     "kw": "比特幣",
     "traffic": "200+"
    },
    {
+    "kw": "cfo",
+    "traffic": "200+"
+   },
+   {
+    "kw": "rb",
+    "traffic": "200+"
+   },
+   {
     "kw": "ufo",
+    "traffic": "100+"
+   },
+   {
+    "kw": "portugal vs denmark",
+    "traffic": "100+"
+   },
+   {
+    "kw": "潔西卡·佩古拉",
     "traffic": "100+"
    }
   ],
