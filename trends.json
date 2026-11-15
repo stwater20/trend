@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-15 09:58",
- "updated_iso": "2026-11-15T09:58+08:00",
+ "updated": "2026-11-15 17:35",
+ "updated_iso": "2026-11-15T17:35+08:00",
  "items": [
+  {
+   "kw": "沈伯洋",
+   "traffic": "2000+",
+   "start": "2026-11-15T14:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf_6vSWqws8uyUBBGCVbK2aFUI-pGTm-M-YatOftulF8QbE2vMxF6zWk2Yt_I",
+   "news": [
+    {
+     "t": "最新民調領先蔣萬安 沈伯洋：戒慎恐懼 盼各界支持轉作選票",
+     "u": "https://udn.com/news/story/124652/9879953",
+     "s": "UDN"
+    },
+    {
+     "t": "台北市長最新民調出爐！沈伯洋領先蔣萬安4.1個百分點 陳水扁曝關鍵：5月就說他會贏",
+     "u": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E5%87%BA%E7%88%90-%E6%B2%88%E4%BC%AF%E6%B4%8B%E9%A0%98%E5%85%88%E8%94%A3%E8%90%AC%E5%AE%894-1%E5%80%8B%E7%99%BE%E5%88%86%E9%BB%9E-%E9%99%B3%E6%B0%B4%E6%89%81%E6%9B%9D%E9%97%9C%E9%8D%B5-5%E6%9C%88%E5%B0%B1%E8%AA%AA%E4%BB%96%E6%9C%83%E8%B4%8F-084334691.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "民調封關前看北市長選舉 學者憂開票後「2個世界」能否坐下說話",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5641538",
+     "s": "自由時報"
+    }
+   ]
+  },
+  {
+   "kw": "車票",
+   "traffic": "2000+",
+   "start": "2026-11-15T13:20+08:00",
+   "pic": "",
+   "news": []
+  },
   {
    "kw": "u23 賽程",
    "traffic": "2000+",
@@ -116,6 +146,13 @@
      "s": "UDN"
     }
    ]
+  },
+  {
+   "kw": "吳音寧",
+   "traffic": "1000+",
+   "start": "2026-11-15T14:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "張書偉",
@@ -291,6 +328,50 @@
      "s": "LINE TODAY"
     }
    ]
+  },
+  {
+   "kw": "洋流",
+   "traffic": "200+",
+   "start": "2026-11-15T17:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvvY6uVZ83Q_X4lS5gcxvPCAE0SEmFMDc5U905F36xjvu-fXAPjwvvyW_EviE",
+   "news": [
+    {
+     "t": "「洋流」家庭巧拼地墊結合香菜手繪應援看板 珍藏日本鯉魚旗隨風飄揚",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5641588",
+     "s": "自由時報"
+    },
+    {
+     "t": "沈伯洋台北大洋流最終場還沒開場起點已擠爆！86歲鐵粉嬤：我每場都來| 政治",
+     "u": "https://www.setn.com/news/1939330",
+     "s": "三立新聞網SETN.com"
+    },
+    {
+     "t": "11/15各報重點新聞一覽 | 自由電子報",
+     "u": "https://today.line.me/tw/v3/article/EXwKLYO",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "kw": "洋流車掃",
+   "traffic": "200+",
+   "start": "2026-11-15T17:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "bpjs ketenagakerjaan",
+   "traffic": "200+",
+   "start": "2026-11-15T14:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "員林火災",
+   "traffic": "200+",
+   "start": "2026-11-15T14:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "灰狼 對 公牛",
@@ -472,151 +553,6 @@
      "s": "CelebrityAccess"
     }
    ]
-  },
-  {
-   "kw": "btc",
-   "traffic": "200+",
-   "start": "2026-11-14T23:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0rV53S6yEFhDT5gzMoiDzQTNEVsa9Sg-EXcBrPjoGcBFsvGYFRMJX-sCN86g",
-   "news": [
-    {
-     "t": "‘People are chucking stuff like gold and Bitcoin’ as rising inflation leads investors to seek yield",
-     "u": "https://fortune.com/2026/11/13/people-chucking-gold-bitcoin-rising-inflation-investors-yield/",
-     "s": "Fortune"
-    },
-    {
-     "t": "Nvidia Faces Crisis After CEO’s Departure and $600 Billion Loss",
-     "u": "https://forklog.com/en/nvidia-faces-crisis-after-ceos-departure-and-600-billion-loss/",
-     "s": "ForkLog"
-    },
-    {
-     "t": "We Asked 3 AIs: Is Bitcoin's Bull Market Over After a $13K Drop in 10 Days? Here's What Worried Us",
-     "u": "https://cryptopotato.com/we-asked-3-ais-is-bitcoins-bull-market-over-after-a-13k-drop-in-10-days-heres-what-worried-us/",
-     "s": "CryptoPotato"
-    }
-   ]
-  },
-  {
-   "kw": "孔劉",
-   "traffic": "200+",
-   "start": "2026-11-14T23:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNfbQhH9G73KoIgGUbr5GnskfCtGQv7AaTRpHb8iYzrTM3YrJdz-r4EeX8fMw",
-   "news": [
-    {
-     "t": "宋慧喬、孔劉新劇《夢響年代》開播前合體《藉口Go》！宋慧喬霸氣喊「我才是前輩」，孔劉秒變乖巧後輩 XD",
-     "u": "https://www.koreastardaily.com/tc/news/164533",
-     "s": "KSD 韓星網"
-    },
-    {
-     "t": "44歲宋慧喬嫩到像高中生！自曝「買葡萄酒被要求確認年齡」 一旁孔劉反應太真實| 時尚名人",
-     "u": "https://style.udn.com/style/story/8065/9869644",
-     "s": "udnSTYLE"
-    },
-    {
-     "t": "砸800億韓幣！宋慧喬、孔劉《夢響年代》定檔12月　被列19禁必看",
-     "u": "https://www.nownews.com/news/6891690",
-     "s": "NOWnews今日新聞"
-    }
-   ]
-  },
-  {
-   "kw": "doctor x:白色黑手黨時代",
-   "traffic": "200+",
-   "start": "2026-11-14T23:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugFxN0kq3d7UKoVQJfiGvLuJQtj0_xCPOtmp53NfLkKYSQB2hASZf8OKV-ks",
-   "news": [
-    {
-     "t": "金智媛《Doctor X》今晚迎大結局！收視率飆16%連6週奪冠，金宇錫身世揭震撼真相",
-     "u": "https://www.koreastardaily.com/tc/news/164590",
-     "s": "KSD 韓星網"
-    },
-    {
-     "t": "《Doctor X》8大幕後秘辛：專業醫師大讚金智媛苦練手術技巧、「這一幕」是特別設計！",
-     "u": "https://www.beauty321.com/post/73624",
-     "s": "BEAUTY美人圈"
-    },
-    {
-     "t": "《Doctor X》第11集預告公開：金宇碩懇求「能不能讓手術失敗？」",
-     "u": "https://www.diarypoint.com/zh-hant/news/6904/doctor-x-episode-11-preview-kim-woo-seok-pleads-could-you-let-the-surgery-fail",
-     "s": "www.diarypoint.com"
-    }
-   ]
-  },
-  {
-   "kw": "ioi",
-   "traffic": "200+",
-   "start": "2026-11-14T18:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3cKHJdEQRe0GwYjlhrRt4gts8UaZLpMx6EWvjWyttRjJB4fuL3dOfWYMOfx4",
-   "news": [
-    {
-     "t": "IOIPG REIT lowers IPO price to 91 sen, public tranche oversubscribed 0.59 times",
-     "u": "https://theedgemalaysia.com/node/825555",
-     "s": "The Edge Malaysia"
-    },
-    {
-     "t": "IOI Properties Group Says Institutional, Final Retail Price Fixed At 0.91 RGT/Offer Unit",
-     "u": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46T0IT:0-ioi-properties-group-says-institutional-final-retail-price-fixed-at-0-91-rgt-offer-unit/",
-     "s": "TradingView"
-    },
-    {
-     "t": "IOIPG Malaysia Real Estate Investment Trust has completed an IPO in the amount of MYR 2.002 billion.",
-     "u": "https://www.marketscreener.com/news/ioipg-malaysia-real-estate-investment-trust-has-completed-an-ipo-in-the-amount-of-myr-2-002-billion-ce785ed8de80f220",
-     "s": "www.marketscreener.com"
-    }
-   ]
-  },
-  {
-   "kw": "plg",
-   "traffic": "200+",
-   "start": "2026-11-14T17:50+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "portugal vs denmark",
-   "traffic": "100+",
-   "start": "2026-11-15T05:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFBR2xb0SFJZCpiCaNc15UGqNQ_KesirVjeXuCXiMq76oomIJR9LV_bJ_irAs",
-   "news": [
-    {
-     "t": "Portugal vs Denmark FREE live streams: TV channels, kick-off time and predictions for Nations League clash in Braga",
-     "u": "https://www.fourfourtwo.com/competition/watch-portugal-vs-denmark-nations-league-2026-27-free",
-     "s": "FourFourTwo"
-    },
-    {
-     "t": "Licensable picture: UEFA Nations League - Group A4 - Portugal v Denmark",
-     "u": "https://www.reutersconnect.com/item/uefa-nations-league-group-a4-portugal-v-denmark/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQkUxTFlGQTQ",
-     "s": "Reuters Connect"
-    },
-    {
-     "t": "Portugal Denmark Nations League Soccer",
-     "u": "https://www.couriernews.com/sports/portugal-denmark-nations-league-soccer/image_8c6363b6-a2b7-5217-9ddd-8c63e4dcbd08.html",
-     "s": "couriernews.com"
-    }
-   ]
-  },
-  {
-   "kw": "潔西卡·佩古拉",
-   "traffic": "100+",
-   "start": "2026-11-15T04:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNXN1pqus1q2RoXv-u2DN5J7BYVP3Nh-W7L9qf1dBb0trWbcq3HtwIBCcsUXY",
-   "news": [
-    {
-     "t": "WTA年终总决赛：佩古拉晋级四强 高芙无缘半决赛",
-     "u": "https://m.sohu.com/a/1101110975_114977?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "Sohu"
-    },
-    {
-     "t": "高芙1-5落后连赢六局，逆转科斯秋克",
-     "u": "https://m.dongqiudi.com/article/6647663.html",
-     "s": "懂球帝"
-    },
-    {
-     "t": "24岁乌克兰美女怒摔球拍2连败 替补压力下的崩溃",
-     "u": "https://3g.china.com/act/redian/13004758/20261111/49862436.html",
-     "s": "中华网"
-    }
-   ]
   }
  ],
  "history": {
@@ -638,6 +574,14 @@
     "traffic": "2000+"
    },
    {
+    "kw": "沈伯洋",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "車票",
+    "traffic": "2000+"
+   },
+   {
     "kw": "挪威 對 威爾斯",
     "traffic": "1000+"
    },
@@ -655,6 +599,10 @@
    },
    {
     "kw": "鵜鶘 對 金塊",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "吳音寧",
     "traffic": "1000+"
    },
    {
@@ -688,18 +636,6 @@
    {
     "kw": "熱火 對 活塞",
     "traffic": "200+"
-   },
-   {
-    "kw": "聖槍哥",
-    "traffic": "200+"
-   },
-   {
-    "kw": "viper lol",
-    "traffic": "200+"
-   },
-   {
-    "kw": "ufo",
-    "traffic": "100+"
    }
   ],
   "2026-11-14": [
