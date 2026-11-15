@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15 17:35",
- "updated_iso": "2026-11-15T17:35+08:00",
+ "updated": "2026-11-16 01:16",
+ "updated_iso": "2026-11-16T01:16+08:00",
  "items": [
   {
    "kw": "沈伯洋",
@@ -125,29 +125,6 @@
    ]
   },
   {
-   "kw": "股利",
-   "traffic": "2000+",
-   "start": "2026-11-14T23:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmAhHnRvpLH9bNYo0DLPoypZOlZnMiq1LBA_UwujK557KTghDW-1ng4A-rzk4",
-   "news": [
-    {
-     "t": "張曉強：台積設5億美元基金挖掘下一個晶片大廠 押注AI基建正循環",
-     "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774737_U1D65B324SGY2C6EF0KLI",
-     "s": "DIGITIMES"
-    },
-    {
-     "t": "台積電董事會調高股利並投資AI｜新聞事件整理與重點摘要",
-     "u": "https://tw.stock.yahoo.com/news-story/a7f33b97-1d7a-4f2e-b7c1-25dd89b396a2",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "扶植新創台積設立創投基金| 財經焦點| 產經",
-     "u": "https://udn.com/news/story/7238/9877926",
-     "s": "UDN"
-    }
-   ]
-  },
-  {
    "kw": "吳音寧",
    "traffic": "1000+",
    "start": "2026-11-15T14:30+08:00",
@@ -208,48 +185,101 @@
    ]
   },
   {
-   "kw": "挪威 對 威爾斯",
-   "traffic": "1000+",
-   "start": "2026-11-15T00:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKJgM35kvh1znqLv0DcuOqbEL31FhxLiG2pYirLpFjQmcIyO1uJo2D94I36s",
+   "kw": "金價",
+   "traffic": "500+",
+   "start": "2026-11-15T22:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEx4QCRjXm5tk0sRAToRAgJmJuMJi1gDrfLiVkIaXL_wDA_kYYt3s61sxPQWs",
    "news": [
     {
-     "t": "Norway v Wales: Nations League – live",
-     "u": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-     "s": "The Guardian"
+     "t": "Fed鷹派訊號發威 國際金價再度跌破4000美元關卡",
+     "u": "https://stock.ltn.com.tw/article/a6hsbk29bnx6",
+     "s": "自由時報"
     },
     {
-     "t": "Norway vs Wales LIVE! Nations League Group A4 score updates, commentary, news and line-ups",
-     "u": "https://www.skysports.com/football/live-blog/13612159/norway-vs-wales-live-nations-league-group-a4-score-updates-commentary-news-and-line-ups",
-     "s": "Sky Sports"
+     "t": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
+     "u": "https://news.cnyes.com/news/id/6661670",
+     "s": "鉅亨網"
     },
     {
-     "t": "Erling Haaland: How Wales aim to stop Norway’s Man City star again",
-     "u": "https://www.bbc.com/sport/football/articles/c3y0e0z0r8kzo",
-     "s": "BBC"
+     "t": "黃金本週跌慘了！創6月初以來最慘紀錄 分析師一句話潑冷水",
+     "u": "https://news.wearn.com/c2146184.html",
+     "s": "聚財網"
     }
    ]
   },
   {
-   "kw": "好市多",
-   "traffic": "1000+",
-   "start": "2026-11-15T00:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMtwzxVJsFU7DGyZktJOzqA8cS0Wyz7j3WYKbn0HGHrRTCNukIeXvonkoC6k",
+   "kw": "股東",
+   "traffic": "500+",
+   "start": "2026-11-15T22:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "2026",
+   "traffic": "500+",
+   "start": "2026-11-15T21:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTK4eFdPE1SvYEbvFwOHkLfEeQvcYAIDIiLh2O-A13r6dm0UAfdFBTQX-81M",
    "news": [
     {
-     "t": "好市多蛤蜊濃湯沒了？換鮑魚粥接位網崩潰 官方急回應",
-     "u": "https://tw.news.yahoo.com/%E5%A5%BD%E5%B8%82%E5%A4%9A%E8%9B%A4%E8%9C%8A%E6%BF%83%E6%B9%AF%E6%B2%92%E4%BA%86-%E6%8F%9B%E9%AE%91%E9%AD%9A%E7%B2%A5%E6%8E%A5%E4%BD%8D%E7%B6%B2%E5%B4%A9%E6%BD%B0-%E5%AE%98%E6%96%B9%E6%80%A5%E5%9B%9E%E6%87%89-040900003.html",
-     "s": "Yahoo新聞"
+     "t": "Cal Poly vs Montana State Prediction, Picks & Odds | 15 Nov 2026",
+     "u": "https://www.sportsgambler.com/betting-tips/basketball/cal-poly-mustangs-vs-montana-state-bobcats-prediction-odds-2026-11-15/",
+     "s": "Sportsgambler"
     },
     {
-     "t": "好市多蛤蠣濃湯下架！一票人崩潰 官方回應：依季節調整",
-     "u": "https://news.ebc.net.tw/news/living/580656",
-     "s": "東森新聞"
+     "t": "Cal Poly Mustangs vs Montana State Bobcats Picks, Prop Bets For November 15, 2026 - NCAAB Predictions",
+     "u": "https://www.covers.com/sport/basketball/ncaab/matchup/390329/picks",
+     "s": "Covers.com"
     },
     {
-     "t": "好市多蛤蜊濃湯突下架！熟食部改賣「鮑魚粥」 官方回應了 | 鏡週刊",
-     "u": "https://today.line.me/tw/v3/article/2D9KYVX",
-     "s": "LINE TODAY"
+     "t": "Montana State and Cal Poly to meet for cross-conference matchup",
+     "u": "https://apnews.com/article/mens-college-basketball-college-basketball-college-sports-aa18b248c9b14b8a8596e9ceed6e6ee8",
+     "s": "AP News"
+    }
+   ]
+  },
+  {
+   "kw": "亞歷山大·茲維列夫",
+   "traffic": "500+",
+   "start": "2026-11-15T21:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8dOUyhZZqfpFLpc0pwHL2yex1xPOVyd1FXoERtkbZoKxyphKRMX-jikAvQVY",
+   "news": [
+    {
+     "t": "Zverev withstands Jodar test, ignites Nitto ATP Finals charge",
+     "u": "https://www.atptour.com/en/news/zverev-jodar-nitto-atp-finals-2026-sunday",
+     "s": "ATP Tour"
+    },
+    {
+     "t": "ATP Finals tennis: Alexander Zverev beats Rafael Jódar in straight sets – as it happened",
+     "u": "https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live",
+     "s": "The Guardian"
+    },
+    {
+     "t": "Slice of luck for Zverev as he breaks",
+     "u": "https://www.nytimes.com/athletic/live-blogs/zverev-vs-jodar-live-updates-atp-finals-2026-score-result/PxQJujhjalus/4jrLsEU81MIR/",
+     "s": "The New York Times"
+    }
+   ]
+  },
+  {
+   "kw": "蔡文誠",
+   "traffic": "500+",
+   "start": "2026-11-15T20:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxK4gCz5dvWBadYnERTKmDkzGG2VfGlvp8XoITZjrk22NGdiMRI0GDUBoOuPQ",
+   "news": [
+    {
+     "t": "從素人拚成七冠本土洋將 蔡文誠引退勉後輩：肯努力就會出頭",
+     "u": "https://tw.sports.yahoo.com/news/%E5%BE%9E%E7%B4%A0%E4%BA%BA%E6%8B%9A%E6%88%90%E4%B8%83%E5%86%A0%E6%9C%AC%E5%9C%9F%E6%B4%8B%E5%B0%87-%E8%94%A1%E6%96%87%E8%AA%A0%E5%BC%95%E9%80%80%E5%8B%89%E5%BE%8C%E8%BC%A9-%E8%82%AF%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%9C%83%E5%87%BA%E9%A0%AD-140800930.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "平凡的偉大——「本土洋將」蔡文誠 - 台灣職籃 - 籃球",
+     "u": "https://www.sportsv.net/articles/129460",
+     "s": "運動視界Sports Vision"
+    },
+    {
+     "t": "PLG》蔡文誠引退致詞稿寫到凌晨2點 野獸爸也特地留台北見證儀式",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5641883",
+     "s": "自由體育"
     }
    ]
   },
@@ -300,34 +330,48 @@
    ]
   },
   {
-   "kw": "許淑華",
-   "traffic": "500+",
-   "start": "2026-11-14T22:30+08:00",
+   "kw": "謝金河",
+   "traffic": "200+",
+   "start": "2026-11-16T01:00+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "日本 對 巴西",
-   "traffic": "500+",
-   "start": "2026-11-14T17:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQO3BNGs8rMKknvo7AuZt18NINPJ24MgxWQvNbmZmjDJ23xAM4PxYmkK5eXrPE",
+   "kw": "新北市長候選人",
+   "traffic": "200+",
+   "start": "2026-11-16T00:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "香港六合彩",
+   "traffic": "200+",
+   "start": "2026-11-15T21:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVseGHU_oHQN9p7_LqFGZ9Jk5LY9VrvvU1VYcMQ2gDe1lx3kPeseYWVLG-10",
    "news": [
     {
-     "t": "日本教練森保一提早引退",
-     "u": "https://hk.sports.yahoo.com/news/%E6%97%A5%E6%9C%AC%E6%95%99%E7%B7%B4%E6%A3%AE%E4%BF%9D-%E6%8F%90%E6%97%A9%E5%BC%95%E9%80%80-140004617.html",
-     "s": "Yahoo體育：新聞"
+     "t": "六合彩11.17头奖1300万搅珠前攻略！6个最旺号码+2招增中奖机会",
+     "u": "https://global.hk01.com/%E7%83%AD%E7%88%86%E8%AF%9D%E9%A2%98/60411108/%E5%85%AD%E5%90%88%E5%BD%A911-17%E5%A4%B4%E5%A5%961300%E4%B8%87%E6%90%85%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E4%B8%AA%E6%9C%80%E6%97%BA%E5%8F%B7%E7%A0%81-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E5%A5%96%E6%9C%BA%E4%BC%9A",
+     "s": "香港01"
     },
     {
-     "t": "森巴兵試陣踢得開放 日本鬥巴西球星大晒冷",
-     "u": "https://hk.on.cc/hk/bkn/cnt/sport/20261114/bkn-20261114120118858-1114_00882_001.html",
+     "t": "六合彩拟集气加码制投注越多头奖越高",
+     "u": "https://www.stheadline.com/zh-hans/daily-hongkong/3636580/%E5%85%AD%E5%90%88%E5%BD%A9%E6%8B%9F%E9%9B%86%E6%B0%94%E5%8A%A0%E7%A0%81%E5%88%B6%E6%8A%95%E6%B3%A8%E8%B6%8A%E5%A4%9A%E5%A4%B4%E5%A5%96%E8%B6%8A%E9%AB%98",
+     "s": "星島頭條"
+    },
+    {
+     "t": "今期六合彩头奖无人中周二基金1300万｜即时新闻｜中港台｜on.cc东网",
+     "u": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115193109008-1115_00822_001_cn.html",
      "s": "on.cc東網"
-    },
-    {
-     "t": "巴西再戰日本隊 Carlo Ancelotti陣容大換血放眼未來 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/mWp7YDe",
-     "s": "LINE TODAY"
     }
    ]
+  },
+  {
+   "kw": "高雄市長候選人",
+   "traffic": "200+",
+   "start": "2026-11-15T20:50+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "洋流",
@@ -477,85 +521,19 @@
      "s": "شبكة تواصل الإخبارية"
     }
    ]
-  },
-  {
-   "kw": "cfo",
-   "traffic": "200+",
-   "start": "2026-11-15T03:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qDUGyx7H7uiXEnq5EQILYq0dJjxyQRhS2zpsVdoBZCM1RxEiYeJ_NZ_PfHQ",
-   "news": [
-    {
-     "t": "NVIDIA Announces CEO Transition",
-     "u": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-     "s": "NVIDIA Newsroom"
-    },
-    {
-     "t": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-     "u": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-     "s": "The New York Times"
-    },
-    {
-     "t": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-     "u": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
-     "s": "Reuters"
-    }
-   ]
-  },
-  {
-   "kw": "rb",
-   "traffic": "200+",
-   "start": "2026-11-15T02:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdqzx3IWckDsxFFUam1FFQZY2S13sYB8T5C9TqITZjqCbWN8D2Mlhy36L-Mjg",
-   "news": [
-    {
-     "t": "Chiefs' Kenneth Walker III (groin) to sit out vs. Falcons",
-     "u": "https://www.espn.com/nfl/story/_/id/50480529/chiefs-kenneth-walker-iii-groin-sit-sources-say",
-     "s": "ESPN"
-    },
-    {
-     "t": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
-     "u": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
-     "s": "CBS Sports"
-    },
-    {
-     "t": "Chris Jones will travel on his own to Atlanta for Sunday’s game",
-     "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chris-jones-will-travel-on-his-own-to-atlanta-for-sundays-game",
-     "s": "NBC Sports"
-    }
-   ]
-  },
-  {
-   "kw": "比特幣",
-   "traffic": "200+",
-   "start": "2026-11-15T00:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "geng vs blg",
-   "traffic": "200+",
-   "start": "2026-11-14T23:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOgvZE47DuVdGdn6Wc-kmTIMMyCRYLuEY5djqM4Set3t0kG_H7ePfdXXCfHf4",
-   "news": [
-    {
-     "t": "Worlds 2026: BLG Viper vs Gen.G Ruler",
-     "u": "https://www.sheepesports.com/en/articles/worlds-2026-blg-viper-vs-gen-g-ruler/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "League of Legends World Championship tickets cost more than $1,300",
-     "u": "https://sports.yahoo.com/articles/league-legends-world-championship-tickets-165618740.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-     "u": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
-     "s": "CelebrityAccess"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-16": [
+   {
+    "kw": "謝金河",
+    "traffic": "200+"
+   },
+   {
+    "kw": "新北市長候選人",
+    "traffic": "200+"
+   }
+  ],
   "2026-11-15": [
    {
     "kw": "lol 世界賽",
@@ -614,27 +592,27 @@
     "traffic": "500+"
    },
    {
+    "kw": "金價",
+    "traffic": "500+"
+   },
+   {
+    "kw": "股東",
+    "traffic": "500+"
+   },
+   {
+    "kw": "2026",
+    "traffic": "500+"
+   },
+   {
+    "kw": "亞歷山大·茲維列夫",
+    "traffic": "500+"
+   },
+   {
+    "kw": "蔡文誠",
+    "traffic": "500+"
+   },
+   {
     "kw": "比特幣",
-    "traffic": "200+"
-   },
-   {
-    "kw": "cfo",
-    "traffic": "200+"
-   },
-   {
-    "kw": "rb",
-    "traffic": "200+"
-   },
-   {
-    "kw": "灰狼 對 公牛",
-    "traffic": "200+"
-   },
-   {
-    "kw": "灰熊 對 籃網",
-    "traffic": "200+"
-   },
-   {
-    "kw": "熱火 對 活塞",
     "traffic": "200+"
    }
   ],
@@ -1045,88 +1023,6 @@
    },
    {
     "kw": "林百里",
-    "traffic": "200+"
-   }
-  ],
-  "2026-11-09": [
-   {
-    "kw": "台股",
-    "traffic": "20000+"
-   },
-   {
-    "kw": "交通部中央氣象署",
-    "traffic": "10000+"
-   },
-   {
-    "kw": "股票",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "台積電股價",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "聯電股價",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "曼聯 對 阿斯頓維拉",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "股災",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "旺宏股價",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "韓國綜合股價指數",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "又一村事件",
-    "traffic": "500+"
-   },
-   {
-    "kw": "愛爾達",
-    "traffic": "500+"
-   },
-   {
-    "kw": "蔣友柏",
-    "traffic": "500+"
-   },
-   {
-    "kw": "生肖",
-    "traffic": "500+"
-   },
-   {
-    "kw": "台幣匯率",
-    "traffic": "500+"
-   },
-   {
-    "kw": "易遊網",
-    "traffic": "500+"
-   },
-   {
-    "kw": "鄭英耀",
-    "traffic": "500+"
-   },
-   {
-    "kw": "f1 線上看",
-    "traffic": "200+"
-   },
-   {
-    "kw": "國安基金護盤名單",
-    "traffic": "200+"
-   },
-   {
-    "kw": "แมนยู พบ แอสตันวิลลา",
-    "traffic": "200+"
-   },
-   {
-    "kw": "gta6",
     "traffic": "200+"
    }
   ]
