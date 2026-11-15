@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-16 01:16",
- "updated_iso": "2026-11-16T01:16+08:00",
+ "updated": "2026-11-16 05:54",
+ "updated_iso": "2026-11-16T05:54+08:00",
  "items": [
+  {
+   "kw": "輝達",
+   "traffic": "5000+",
+   "start": "2026-11-16T05:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "76人 對 溜馬",
+   "traffic": "2000+",
+   "start": "2026-11-16T01:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6YzsrrRXdwVN_Zg8JWe1XsEpG-DhJOQZJFSE81d4A15XebrJKZ3XU_ul1zEk",
+   "news": [
+    {
+     "t": "NBA／76人禁區沒大人要到詹皇頂？安比德在內3中鋒都休",
+     "u": "https://tw.sports.yahoo.com/news/nba-76%E4%BA%BA%E7%A6%81%E5%8D%80%E6%B2%92%E5%A4%A7%E4%BA%BA%E8%A6%81%E5%88%B0%E8%A9%B9%E7%9A%87%E9%A0%82-%E5%AE%89%E6%AF%94%E5%BE%B7%E5%9C%A8%E5%85%A73%E4%B8%AD%E9%8B%92%E9%83%BD%E4%BC%91-002232238.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "NBA 11/16賽程》湖人VS太陽、76人VS溜馬必看！詹皇恐又要扛中鋒",
+     "u": "https://www.nownews.com/news/6892633",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "NBA》76人重返勝軌迎戰溜馬 Maxey領軍力拚主場連勝 | TSNA",
+     "u": "https://today.line.me/tw/v3/article/oqp53lw",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
   {
    "kw": "沈伯洋",
    "traffic": "2000+",
@@ -56,71 +86,25 @@
    ]
   },
   {
-   "kw": "lol 世界賽",
-   "traffic": "2000+",
-   "start": "2026-11-15T03:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf55m38cjosOsOCIQA-67cECixJyw_TtIJLVEcTiIY-1YqSFwhjqkrkkEDrnQ",
+   "kw": "西班牙 對 英格蘭",
+   "traffic": "1000+",
+   "start": "2026-11-16T03:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWtUD-IpwAiB6ZcwYv-iKE0CAIX6w-yoOIJtZpNj3iFvep9kQ657sxbn-MVwg",
    "news": [
     {
-     "t": "《英雄聯盟》2026 世界賽決賽隊伍GEN 賽前訪問Chovy 希望與隊友創造「Gen.G 之年」《League of Legends》",
-     "u": "https://gnn.gamer.com.tw/detail.php?sn=315021",
-     "s": "GNN 新聞網"
+     "t": "足球運彩分析》11/16 西班牙迎來進攻雙核回歸 Kane能否再度扮演救世主拯救英格蘭",
+     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1116-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%8E%E4%BE%86%E9%80%B2%E6%94%BB%E9%9B%99%E6%A0%B8%E5%9B%9E%E6%AD%B8-kane%E8%83%BD%E5%90%A6%E5%86%8D%E5%BA%A6%E6%89%AE%E6%BC%94%E6%95%91%E4%B8%96%E4%B8%BB%E6%8B%AF%E6%95%91%E8%8B%B1%E6%A0%BC%E8%98%AD-085301664.html",
+     "s": "Yahoo運動"
     },
     {
-     "t": "《英雄聯盟》BLG挑戰「一穿四」橫掃LCK！Bin：這次奪冠就是最強冠軍之一",
-     "u": "https://tw.news.yahoo.com/%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8Bblg%E6%8C%91%E6%88%B0%E3%80%8C%E4%B8%80%E7%A9%BF%E5%9B%9B%E3%80%8D%E6%A9%AB%E6%8E%83lck%EF%BC%81bin%EF%BC%9A%E9%80%99%E6%AC%A1%E5%A5%AA%E5%86%A0%E5%B0%B1%E6%98%AF%E6%9C%80%E5%BC%B7%E5%86%A0%E8%BB%8D%E4%B9%8B%E4%B8%80-024352129.html",
-     "s": "Yahoo新聞"
+     "t": "足球》西班牙2比0力退捷克歐國聯5戰全勝 「無敵艦隊」豪取44場正式賽不敗 | TSNA",
+     "u": "https://today.line.me/tw/v3/article/60oMz1n?referral=topic-football",
+     "s": "LINE TODAY"
     },
     {
-     "t": "LOL世界賽／Gen.G對決BLG！冠軍賽看點、時間、直播、表演一次看",
-     "u": "https://www.nownews.com/news/6892328",
-     "s": "NOWnews今日新聞"
-    }
-   ]
-  },
-  {
-   "kw": "blg",
-   "traffic": "2000+",
-   "start": "2026-11-15T02:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVYS8bOMjtTGqLXXnWzUR1TKhtyMwk8ItBRst3E4SUbupy6jsB9WF1PNdeF8",
-   "news": [
-    {
-     "t": "Worlds 2026: BLG Knight vs Gen.G Chovy",
-     "u": "https://www.sheepesports.com/en/articles/worlds-2026-blg-knight-vs-gen-g-chovy/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-     "u": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
-     "s": "CelebrityAccess"
-    },
-    {
-     "t": "League of Legends World Championship tickets cost more than $1,300",
-     "u": "https://www.usatoday.com/story/shopping/sports/tickets/2026/11/12/shop-last-minute-league-of-legends-world-championship-e-sports-tickets/92731292007/",
-     "s": "USA Today"
-    }
-   ]
-  },
-  {
-   "kw": "twitch",
-   "traffic": "2000+",
-   "start": "2026-11-15T02:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LxfvV6Aku-36afdXY9rQxna6G84QWx23KuKcNJfdDck3pXJ7k28SGwLdjE",
-   "news": [
-    {
-     "t": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-     "u": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
-     "s": "KTLA"
-    },
-    {
-     "t": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
-     "u": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
-     "s": "Notebookcheck"
-    },
-    {
-     "t": "Kick Takes GTA 6 Giveaway to California With Lucia Cosplayer On Special Truck",
-     "u": "https://sports.ndtv.com/us/us-streamers/kick-takes-gta-6-giveaway-to-california-with-lucia-cosplayer-on-special-truck-12326023",
-     "s": "NDTV Sports"
+     "t": "耶馬再戰卡尼報失落金球獎之仇- 體育",
+     "u": "https://epaper.tkww.hk/a/202611/15/AP6af8c1bbe4b0bcb39b1916d7.html",
+     "s": "大公文匯網"
     }
    ]
   },
@@ -162,25 +146,32 @@
    ]
   },
   {
-   "kw": "lol",
-   "traffic": "1000+",
-   "start": "2026-11-15T02:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnqXytY2zsgGb-35ABk0E4opZuu_zz2BWVxk7H6BKUQyHlD-SJZ822qMW68u8",
+   "kw": "張仁瑋",
+   "traffic": "500+",
+   "start": "2026-11-16T05:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "發票",
+   "traffic": "500+",
+   "start": "2026-11-16T05:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdK_iO4iaUOVl0KOlhsx_3l1A9bl-AYK2pUKQgOiZ0mURWfHvJH97RvXjgVw",
    "news": [
     {
-     "t": "LoL Esports 2027 and Beyond",
-     "u": "https://lolesports.com/news/lol-esports-2027-and-beyond",
-     "s": "LoL Esports"
+     "t": "統一發票千萬獎只花10元就中 17名幸運兒一次看",
+     "u": "https://news.ebc.net.tw/news/living/580844",
+     "s": "東森新聞"
     },
     {
-     "t": "Riot Games Considering Replacing Worlds Play-In with Demacia Cup Global Invitational in 2027",
-     "u": "https://www.sheepesports.com/en/articles/riot-games-considering-replacing-worlds-play-in-with-demacia-cup-global-invitational-in/en",
-     "s": "Sheep Esports"
+     "t": "全聯超商消費、加油都中1000萬！17張千萬發票中獎快點領， 財政部公布地點明細",
+     "u": "https://www.storm.mg/lifestyle/11181398",
+     "s": "風傳媒"
     },
     {
-     "t": "Worlds 2027 to take place in Japan and South Korea",
-     "u": "https://www.sheepesports.com/en/articles/worlds-2027-to-take-place-in-japan-and-south-korea/en",
-     "s": "Sheep Esports"
+     "t": "只買飲料就抱走千萬！4張千萬發票沒人領 今最後期限",
+     "u": "https://new-reporter.com/news/332784/",
+     "s": "記者爆料網"
     }
    ]
   },
@@ -330,6 +321,82 @@
    ]
   },
   {
+   "kw": "退休金",
+   "traffic": "200+",
+   "start": "2026-11-16T05:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_h_baqd4rDYCHytblTdA5Y5v_r7R3Cvg03fJdPGHD_ohl-15PbMWW6g3NtKo",
+   "news": [
+    {
+     "t": "富人也缺退休金！富裕美國人平均僅達目標一半，退休需約260萬美元",
+     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-118b47f0-e130-11f1-aebd-67d83fa42ad0",
+     "s": "美股放大鏡"
+    },
+    {
+     "t": "HSBC 匯豐控股- 富人也缺退休金！富裕美國人平均僅達目標一半，退休需約260萬美元- 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/188736516",
+     "s": "CMoney"
+    },
+    {
+     "t": "退休金制度快崩潰- 日報",
+     "u": "https://www.ctee.com.tw/news/20261116700277-439904",
+     "s": "工商時報"
+    }
+   ]
+  },
+  {
+   "kw": "費玉清",
+   "traffic": "200+",
+   "start": "2026-11-16T05:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "wta年終總決賽",
+   "traffic": "200+",
+   "start": "2026-11-16T05:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCZJSutRUM64Yb3V98CREvKqIV7FBUmFf7UWOeR6d8nZDM10p2pTvSsr4NPhM",
+   "news": [
+    {
+     "t": "WTA年終賽》4戰全勝未失一盤 Andreeva挺進年終賽冠軍戰",
+     "u": "https://tw.sports.yahoo.com/news/wta%E5%B9%B4%E7%B5%82%E8%B3%BD-4%E6%88%B0%E5%85%A8%E5%8B%9D%E6%9C%AA%E5%A4%B1-%E7%9B%A4-andreeva%E6%8C%BA%E9%80%B2%E5%B9%B4%E7%B5%82%E8%B3%BD%E5%86%A0%E8%BB%8D%E6%88%B0-033217014.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "網球》批她「耍大牌欠修理」佩古拉年終賽4強碰頭卻慘敗",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5641157",
+     "s": "自由體育"
+    },
+    {
+     "t": "Svitolina直落二闖WTA年終決賽 將與Andreeva爭冠 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/0MWKOkG",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "kw": "米拉·安祖莉娃",
+   "traffic": "200+",
+   "start": "2026-11-16T05:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPWzOuNa5G6mTT1nwe4qjqGdy2TwYmVBaakrc5BYdOBOdkJqt5Qiz1R5VF9Vg",
+   "news": [
+    {
+     "t": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+     "u": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
+     "s": "The Guardian"
+    },
+    {
+     "t": "Mirra Andreeva has taken the WTA Finals by storm. Now she must embrace the pressure",
+     "u": "https://www.nytimes.com/athletic/7782008/2026/11/15/wta-finals-final-mirra-andreeva-elina-svitolina/",
+     "s": "The New York Times"
+    },
+    {
+     "t": "Andreeva beats Pegula, will face Svitolina in WTA Finals championship match",
+     "u": "https://www.reuters.com/sports/tennis/andreeva-dispatches-pegula-reach-wta-finals-championship-match-2026-11-14/",
+     "s": "Reuters"
+    }
+   ]
+  },
+  {
    "kw": "謝金河",
    "traffic": "200+",
    "start": "2026-11-16T01:00+08:00",
@@ -416,121 +483,52 @@
    "start": "2026-11-15T14:30+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "灰狼 對 公牛",
-   "traffic": "200+",
-   "start": "2026-11-15T09:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxFpxZAHoXbAEur_7-9mVjWKrF2tGPR4qW4nGNSy2B6VifGiVTWxv1Nj6E9wo",
-   "news": [
-    {
-     "t": "NBA》Dosunmu將爆砍84分？外界多看好灰狼主場輕鬆拿下公牛收5連勝",
-     "u": "https://tw.sports.yahoo.com/news/nba-dosunmu%E5%B0%87%E7%88%86%E7%A0%8D84%E5%88%86-%E5%A4%96%E7%95%8C%E5%A4%9A%E7%9C%8B%E5%A5%BD%E7%81%B0%E7%8B%BC%E4%B8%BB%E5%A0%B4%E8%BC%95%E9%AC%86%E6%8B%BF%E4%B8%8B%E5%85%AC%E7%89%9B%E6%94%B65%E9%80%A3%E5%8B%9D-150034408.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "NBA運彩分析 》金塊客場出擊挑戰鵜鶘，威廉姆斯獨木難支",
-     "u": "https://tsna.com/article/205751",
-     "s": "TSNA體育新聞團隊"
-    },
-    {
-     "t": "NBA 11/15賽程》熱火VS活塞必看！字母哥挑戰4連勝、卻碰王者活塞",
-     "u": "https://www.nownews.com/news/6892373",
-     "s": "NOWnews今日新聞"
-    }
-   ]
-  },
-  {
-   "kw": "灰熊 對 籃網",
-   "traffic": "200+",
-   "start": "2026-11-15T09:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCZT4fmkrXb9nOFAhpzg2mADmggyCM7c8Uie9Jf2hd-hn1hCq-GOahyExxjlI",
-   "news": [
-    {
-     "t": "NBA／ 獨行俠「電話不想接」！熱火搶厄文無望 名記建議轉盯灰熊王牌",
-     "u": "https://tw.sports.yahoo.com/news/nba-%E7%8D%A8%E8%A1%8C%E4%BF%A0-%E9%9B%BB%E8%A9%B1%E4%B8%8D%E6%83%B3%E6%8E%A5-%E7%86%B1%E7%81%AB%E6%90%B6%E5%8E%84%E6%96%87%E7%84%A1%E6%9C%9B-%E5%90%8D%E8%A8%98%E5%BB%BA%E8%AD%B0%E8%BD%89%E7%9B%AF%E7%81%B0%E7%86%8A%E7%8E%8B%E7%89%8C-091704584.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "NBA》開季1勝10敗急需後場戰力 國王向Gabe Vincent開出合約 | TSNA",
-     "u": "https://today.line.me/tw/v3/article/MLBlmYw",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "NBA》熱火有意網羅Kevin Porter Jr.聯手字母哥補強後場戰力- 籃球",
-     "u": "https://tsna.com/article/205661",
-     "s": "TSNA體育新聞團隊"
-    }
-   ]
-  },
-  {
-   "kw": "熱火 對 活塞",
-   "traffic": "200+",
-   "start": "2026-11-15T08:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgz_dU3v6369bzDB-MpxHyzQSBmgYM7IDpRVXltSWAfVETW3l_8k7Sd03wmgA",
-   "news": [
-    {
-     "t": "NBA》強強對決！Cunningham領軍活塞 作客3連勝的熱火",
-     "u": "https://tw.sports.yahoo.com/news/nba-%E5%BC%B7%E5%BC%B7%E5%B0%8D%E6%B1%BA-cunningham%E9%A0%98%E8%BB%8D%E6%B4%BB%E5%A1%9E-%E4%BD%9C%E5%AE%A23%E9%80%A3%E5%8B%9D%E7%9A%84%E7%86%B1%E7%81%AB-094933330.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "NBA》Cunningham轟52分11助攻無失誤！ 活塞2OT險勝巫師",
-     "u": "https://sport.vl.com.tw/newspage01.aspx?sno=86274",
-     "s": "緯來體育台"
-    },
-    {
-     "t": "逾50分、10助攻無失誤 坎寧安史上第1人",
-     "u": "https://sports.ltn.com.tw/news/paper/1778459",
-     "s": "自由體育"
-    }
-   ]
-  },
-  {
-   "kw": "聖槍哥",
-   "traffic": "200+",
-   "start": "2026-11-15T08:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOcKgo6DItxyEYsyKjposyu_uWiGuSqRO5m8g56vYo-ymkcX_SC2STKc7J5_8",
-   "news": [
-    {
-     "t": "[流言板]忘剑得神彬，Bin成为LPL历史首位大满贯上路选手",
-     "u": "https://bbs.hupu.com/643943278.html",
-     "s": "虎扑"
-    },
-    {
-     "t": "🎮就在今天？Viper岩雀洒石成川 ON神牛重创GEN BLG拿冠军点",
-     "u": "https://m.zhibo8.cc/news/web/other/2026-11-15/6af8af96c8372native.htm",
-     "s": "直播吧"
-    }
-   ]
-  },
-  {
-   "kw": "viper lol",
-   "traffic": "200+",
-   "start": "2026-11-15T08:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvHDcQw_qvuseGADL3zd8fPc6DbTnVdodFEpCpfml63x0tFq1pU_guXjC3gJA",
-   "news": [
-    {
-     "t": "Knight named Worlds 2026 Most Valuable Player (MVP)",
-     "u": "https://www.sheepesports.com/en/articles/knight-named-as-worlds-2026-most-valuable-player/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "Viper Lol reaches a new peak with second Worlds title after five years",
-     "u": "https://twaslnews1.twaslnews.com/7703124/",
-     "s": "شبكة تواصل الإخبارية"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-16": [
+   {
+    "kw": "輝達",
+    "traffic": "5000+"
+   },
+   {
+    "kw": "76人 對 溜馬",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "西班牙 對 英格蘭",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "張仁瑋",
+    "traffic": "500+"
+   },
+   {
+    "kw": "發票",
+    "traffic": "500+"
+   },
    {
     "kw": "謝金河",
     "traffic": "200+"
    },
    {
     "kw": "新北市長候選人",
+    "traffic": "200+"
+   },
+   {
+    "kw": "退休金",
+    "traffic": "200+"
+   },
+   {
+    "kw": "費玉清",
+    "traffic": "200+"
+   },
+   {
+    "kw": "wta年終總決賽",
+    "traffic": "200+"
+   },
+   {
+    "kw": "米拉·安祖莉娃",
     "traffic": "200+"
    }
   ],
