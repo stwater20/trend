@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 10:14",
- "updated_iso": "2026-11-16T10:14+08:00",
+ "updated": "2026-11-16 17:55",
+ "updated_iso": "2026-11-16T17:55+08:00",
  "items": [
   {
    "kw": "輝達",
@@ -8,6 +8,29 @@
    "start": "2026-11-16T05:40+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "bts 演唱會",
+   "traffic": "2000+",
+   "start": "2026-11-16T16:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAbNhoDHKi7MhgSqHkBPfJB13WsLwjDrGy0eDH_rnEy1xmsObD6CMGnZc2bUA",
+   "news": [
+    {
+     "t": "BTS高雄開唱倒數！高市府推「高雄紫愛你應援指南」 K-POP隨播即跳、百元數位券加碼串聯店家與夜市快閃迎接全球ARMY",
+     "u": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=A93D9E50A70C41F9",
+     "s": "高雄市政府全球資訊網"
+    },
+    {
+     "t": "ARMY請注意！一卡通「BTS高雄演唱會限量優惠」懶人包",
+     "u": "https://www.cdns.com.tw/articles/1490775",
+     "s": "中華新聞雲／中華日報"
+    },
+    {
+     "t": "BTS高雄開唱掀紫色應援熱潮！穿紫拍照拿70元禮券搭MeN Go、613接駁車輕鬆追星| 徐炳文 | 地方新聞",
+     "u": "https://www.storm.mg/article/11181949",
+     "s": "風傳媒"
+    }
+   ]
   },
   {
    "kw": "76人 對 溜馬",
@@ -33,34 +56,50 @@
    ]
   },
   {
-   "kw": "沈伯洋",
-   "traffic": "2000+",
-   "start": "2026-11-15T14:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf_6vSWqws8uyUBBGCVbK2aFUI-pGTm-M-YatOftulF8QbE2vMxF6zWk2Yt_I",
+   "kw": "蔡英文",
+   "traffic": "1000+",
+   "start": "2026-11-16T17:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6bovm8UfnuDBIRdDZg4D9HVsqSYAf8o6IAT5sw0XE7EwU1svK34aS0L6Kts0",
    "news": [
     {
-     "t": "最新民調領先蔣萬安 沈伯洋：戒慎恐懼 盼各界支持轉作選票",
-     "u": "https://udn.com/news/story/124652/9879953",
+     "t": "王美惠造勢晚會蕭副總統：嘉義縣市合作帶動產業發展| 政治",
+     "u": "https://www.cna.com.tw/news/aipl/202611150202.aspx",
+     "s": "中央社 CNA"
+    },
+    {
+     "t": "張啓楷《2036 城市願景白皮書》出爐！未上任兩政見落地 痛批王美惠輕軌大縮水",
+     "u": "https://pchome.megatime.com.tw/news/cat1/20261114/79465680427811279001.html",
+     "s": "PChome Online 股市"
+    },
+    {
+     "t": "蕭美琴送帽助選成話題 沈伯洋收魯夫草帽 王美惠獲「戰貓安全帽」",
+     "u": "https://udn.com/vote2026/story/124652/9880428",
      "s": "UDN"
-    },
-    {
-     "t": "台北市長最新民調出爐！沈伯洋領先蔣萬安4.1個百分點 陳水扁曝關鍵：5月就說他會贏",
-     "u": "https://tw.news.yahoo.com/%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E6%9C%80%E6%96%B0%E6%B0%91%E8%AA%BF%E5%87%BA%E7%88%90-%E6%B2%88%E4%BC%AF%E6%B4%8B%E9%A0%98%E5%85%88%E8%94%A3%E8%90%AC%E5%AE%894-1%E5%80%8B%E7%99%BE%E5%88%86%E9%BB%9E-%E9%99%B3%E6%B0%B4%E6%89%81%E6%9B%9D%E9%97%9C%E9%8D%B5-5%E6%9C%88%E5%B0%B1%E8%AA%AA%E4%BB%96%E6%9C%83%E8%B4%8F-084334691.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "民調封關前看北市長選舉 學者憂開票後「2個世界」能否坐下說話",
-     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5641538",
-     "s": "自由時報"
     }
    ]
   },
   {
-   "kw": "車票",
-   "traffic": "2000+",
-   "start": "2026-11-15T13:20+08:00",
-   "pic": "",
-   "news": []
+   "kw": "ตรวจหวย",
+   "traffic": "1000+",
+   "start": "2026-11-16T16:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDi2AbaDsna6e8psI7uscduZjBabnKccV0l_s0EQ0baSBKniuydK3DQgLdDc",
+   "news": [
+    {
+     "t": "ผลสลากกินแบ่งรัฐบาล งวดประจำวันที่ 16 พ.ย. 69 เลขที่ออกได้แก่ | สวพ.FM91",
+     "u": "https://today.line.me/th/v3/article/pepR3Wq",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "ตรวจหวย 16 พ.ย. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16/11/69",
+     "u": "https://www.thairath.co.th/lottery/latest-result/2972690",
+     "s": "thairath.co.th"
+    },
+    {
+     "t": "หวยแม่จำเนียร 10 อันดับเลขขายดี งวด 16 พ.ย. 2569 เลขมาแรง งวด 16/11/69",
+     "u": "https://www.sanook.com/news/9911954/",
+     "s": "Sanook"
+    }
+   ]
   },
   {
    "kw": "西班牙 對 英格蘭",
@@ -84,13 +123,6 @@
      "s": "大公文匯網"
     }
    ]
-  },
-  {
-   "kw": "吳音寧",
-   "traffic": "1000+",
-   "start": "2026-11-15T14:30+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "欣興",
@@ -252,6 +284,89 @@
    ]
   },
   {
+   "kw": "無名油飯",
+   "traffic": "200+",
+   "start": "2026-11-16T17:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "葛如鈞",
+   "traffic": "200+",
+   "start": "2026-11-16T17:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpM0LQOP5gTLpiXbVhlxtaU0ZruYk4efi6RrpI7alM-xCl5aQthDwicy1GEQ",
+   "news": [
+    {
+     "t": "沈伯洋大洋流喊破10萬人！他目睹藍營「掃街1幕」：台北市大局已定",
+     "u": "https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%A4%A7%E6%B4%8B%E6%B5%81%E5%96%8A%E7%A0%B410%E8%90%AC%E4%BA%BA-%E4%BB%96%E7%9B%AE%E7%9D%B9%E8%97%8D%E7%87%9F-%E6%8E%83%E8%A1%971%E5%B9%95-%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%B1%80%E5%B7%B2%E5%AE%9A-025400665.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "九合一選戰》沈伯洋台北大洋流最終場！42艘船、10萬人水陸會師擠爆關渡",
+     "u": "https://www.gvm.com.tw/article/134529",
+     "s": "遠見雜誌"
+    },
+    {
+     "t": "台北市長選戰／沈伯洋「洋流」水陸空大會師 賴清德、陳其邁站台助陣",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1051635",
+     "s": "Rti 中央廣播電臺"
+    }
+   ]
+  },
+  {
+   "kw": "9904",
+   "traffic": "200+",
+   "start": "2026-11-16T17:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPq4ppqZzSVTbqOMsBBjEPMj2Udhh4N7QXmkxkM3_MeIp99IS87QQCYnPGqRc",
+   "news": [
+    {
+     "t": "焦點股》寶成：業外收益大進補 逆勢強彈",
+     "u": "https://stock.ltn.com.tw/article/2ur2jhrxtmj8",
+     "s": "自由時報"
+    },
+    {
+     "t": "轉投資挹注寶成前三季大賺- 日報",
+     "u": "https://www.ctee.com.tw/news/20261114700158-439901",
+     "s": "工商時報"
+    },
+    {
+     "t": "寶成前三季EPS 3.66元",
+     "u": "https://udn.com/news/story/7252/9877613",
+     "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "哈利波特:魔法覺醒",
+   "traffic": "200+",
+   "start": "2026-11-16T16:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnjLz9gqRMhGTVr7aQ-4hUvUdJLOlQnWbqDcxnqBvSZ-uzjROD4NIDx9LUgg",
+   "news": [
+    {
+     "t": "歷經五年時光《哈利波特：魔法覺醒》宣布將於2027 年 3 月 3 日停止營運《Harry Potter: Magic Awakened》",
+     "u": "https://gnn.gamer.com.tw/detail.php?sn=315082",
+     "s": "GNN 新聞網"
+    },
+    {
+     "t": "快訊／哈利波特破億手遊突宣布關服⋯玩家傻眼：才剛過五週年",
+     "u": "https://game.ettoday.net/article/3273165.htm",
+     "s": "ETtoday遊戲雲"
+    },
+    {
+     "t": "《哈利波特：魔法覺醒》明年3月結束營運！官方證實：IP授權到期",
+     "u": "https://www.nownews.com/news/6892845",
+     "s": "NOWnews今日新聞"
+    }
+   ]
+  },
+  {
+   "kw": "2884",
+   "traffic": "200+",
+   "start": "2026-11-16T16:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
    "kw": "景碩",
    "traffic": "200+",
    "start": "2026-11-16T09:50+08:00",
@@ -400,73 +515,6 @@
    "start": "2026-11-16T01:00+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "新北市長候選人",
-   "traffic": "200+",
-   "start": "2026-11-16T00:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "香港六合彩",
-   "traffic": "200+",
-   "start": "2026-11-15T21:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJVseGHU_oHQN9p7_LqFGZ9Jk5LY9VrvvU1VYcMQ2gDe1lx3kPeseYWVLG-10",
-   "news": [
-    {
-     "t": "六合彩11.17头奖1300万搅珠前攻略！6个最旺号码+2招增中奖机会",
-     "u": "https://global.hk01.com/%E7%83%AD%E7%88%86%E8%AF%9D%E9%A2%98/60411108/%E5%85%AD%E5%90%88%E5%BD%A911-17%E5%A4%B4%E5%A5%961300%E4%B8%87%E6%90%85%E7%8F%A0%E5%89%8D%E6%94%BB%E7%95%A5-6%E4%B8%AA%E6%9C%80%E6%97%BA%E5%8F%B7%E7%A0%81-2%E6%8B%9B%E5%A2%9E%E4%B8%AD%E5%A5%96%E6%9C%BA%E4%BC%9A",
-     "s": "香港01"
-    },
-    {
-     "t": "六合彩拟集气加码制投注越多头奖越高",
-     "u": "https://www.stheadline.com/zh-hans/daily-hongkong/3636580/%E5%85%AD%E5%90%88%E5%BD%A9%E6%8B%9F%E9%9B%86%E6%B0%94%E5%8A%A0%E7%A0%81%E5%88%B6%E6%8A%95%E6%B3%A8%E8%B6%8A%E5%A4%9A%E5%A4%B4%E5%A5%96%E8%B6%8A%E9%AB%98",
-     "s": "星島頭條"
-    },
-    {
-     "t": "今期六合彩头奖无人中周二基金1300万｜即时新闻｜中港台｜on.cc东网",
-     "u": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115193109008-1115_00822_001_cn.html",
-     "s": "on.cc東網"
-    }
-   ]
-  },
-  {
-   "kw": "高雄市長候選人",
-   "traffic": "200+",
-   "start": "2026-11-15T20:50+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "洋流",
-   "traffic": "200+",
-   "start": "2026-11-15T17:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvvY6uVZ83Q_X4lS5gcxvPCAE0SEmFMDc5U905F36xjvu-fXAPjwvvyW_EviE",
-   "news": [
-    {
-     "t": "「洋流」家庭巧拼地墊結合香菜手繪應援看板 珍藏日本鯉魚旗隨風飄揚",
-     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5641588",
-     "s": "自由時報"
-    },
-    {
-     "t": "沈伯洋台北大洋流最終場還沒開場起點已擠爆！86歲鐵粉嬤：我每場都來| 政治",
-     "u": "https://www.setn.com/news/1939330",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "11/15各報重點新聞一覽 | 自由電子報",
-     "u": "https://today.line.me/tw/v3/article/EXwKLYO",
-     "s": "LINE TODAY"
-    }
-   ]
-  },
-  {
-   "kw": "洋流車掃",
-   "traffic": "200+",
-   "start": "2026-11-15T17:00+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
@@ -480,7 +528,19 @@
     "traffic": "2000+"
    },
    {
+    "kw": "bts 演唱會",
+    "traffic": "2000+"
+   },
+   {
     "kw": "西班牙 對 英格蘭",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "蔡英文",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "ตรวจหวย",
     "traffic": "1000+"
    },
    {
@@ -537,10 +597,6 @@
    },
    {
     "kw": "陳永福",
-    "traffic": "200+"
-   },
-   {
-    "kw": "創意",
     "traffic": "200+"
    }
   ],
