@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 05:54",
- "updated_iso": "2026-11-16T05:54+08:00",
+ "updated": "2026-11-16 10:14",
+ "updated_iso": "2026-11-16T10:14+08:00",
  "items": [
   {
    "kw": "輝達",
@@ -63,29 +63,6 @@
    "news": []
   },
   {
-   "kw": "u23 賽程",
-   "traffic": "2000+",
-   "start": "2026-11-15T08:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjpk2X_NNuof9RyeSYJ9KS24rmREj7gq_atc4NgBad2lPd75dZ6_T9oxt3Dnk",
-   "news": [
-    {
-     "t": "黃鈞麟一棒擊沉日本！U23中華隊2比1逆轉勝 晉級獎牌戰差一步",
-     "u": "https://tw.news.yahoo.com/%E9%BB%83%E9%88%9E%E9%BA%9F-%E6%A3%92%E6%93%8A%E6%B2%89%E6%97%A5%E6%9C%AC-u23%E4%B8%AD%E8%8F%AF%E9%9A%8A2%E6%AF%941%E9%80%86%E8%BD%89%E5%8B%9D-%E6%99%89%E7%B4%9A%E7%8D%8E%E7%89%8C%E6%88%B0%E5%B7%AE-%E6%AD%A5-022452732.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "U23世界盃》兄弟新星超前轟、混血火球男完投！台灣克日本奪2連勝",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5640370",
-     "s": "自由體育"
-    },
-    {
-     "t": "由RAXUS呈現，2026年WBSC U-23世界盃棒球賽：戰報—黃俊麟第六局全壘打建功，助中華隊力克日本",
-     "u": "https://www.wbsc.org/zh/news/wbsc-u-23-baseball-world-cup-2026-presented-by-raxus-game-report-41-chinese-taipei-japan",
-     "s": "World Baseball Softball Confederation (WBSC)"
-    }
-   ]
-  },
-  {
    "kw": "西班牙 對 英格蘭",
    "traffic": "1000+",
    "start": "2026-11-16T03:20+08:00",
@@ -116,32 +93,32 @@
    "news": []
   },
   {
-   "kw": "張書偉",
-   "traffic": "1000+",
-   "start": "2026-11-15T07:50+08:00",
+   "kw": "欣興",
+   "traffic": "500+",
+   "start": "2026-11-16T10:00+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "鵜鶘 對 金塊",
-   "traffic": "1000+",
-   "start": "2026-11-15T07:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBUSEvuhXNpm04_D2356eRChNoLa2t-gRru3TrV9nmUtDwg4rfPsUk89owH7E",
+   "kw": "國王 對 雷霆",
+   "traffic": "500+",
+   "start": "2026-11-16T09:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJbf_LsaANNwsPTjcdIPyc8xz-AZDBSMsj75AYFdky6uWtr43Qii7KqTQ_qFE",
    "news": [
     {
-     "t": "去太陽聯手Booker？鵜鶘控衛喊吹密 美媒分析下家",
-     "u": "https://tw.sports.yahoo.com/news/%E5%8E%BB%E5%A4%AA%E9%99%BD%E8%81%AF%E6%89%8Bbooker-%E9%B5%9C%E9%B6%98%E6%8E%A7%E8%A1%9B%E5%96%8A%E5%90%B9%E5%AF%86-%E7%BE%8E%E5%AA%92%E5%88%86%E6%9E%903%E4%B8%8B%E5%AE%B6-005000508.html",
+     "t": "NBA》雷霆、國王雙雙陷入連敗！雷霆作客沙加緬度力拚止敗 Topic近期傷癒復出成亮點",
+     "u": "https://tw.sports.yahoo.com/news/nba-%E9%9B%B7%E9%9C%86-%E5%9C%8B%E7%8E%8B%E9%9B%99%E9%9B%99%E9%99%B7%E5%85%A5%E9%80%A3%E6%95%97-%E9%9B%B7%E9%9C%86%E4%BD%9C%E5%AE%A2%E6%B2%99%E5%8A%A0%E7%B7%AC%E5%BA%A6%E5%8A%9B%E6%8B%9A%E6%AD%A2%E6%95%97-topic%E8%BF%91%E6%9C%9F%E5%82%B7%E7%99%92%E5%BE%A9%E5%87%BA%E6%88%90%E4%BA%AE%E9%BB%9E-101348681.html",
      "s": "Yahoo運動"
     },
     {
-     "t": "NBA》「內部有人刻意破壞！」 鵜鶘明星後衛穆雷高喊吹密",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5640315",
+     "t": "NBA球星SGA率雷霆踢館國王人馬 今日賽事預告與轉播",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5641624",
      "s": "自由體育"
     },
     {
-     "t": "受夠紐奧良！穆雷轟球隊內部「蓄意破壞」後高喊賣我",
-     "u": "https://sports.ettoday.net/news/3271942",
-     "s": "ETtoday運動雲"
+     "t": "NBA運彩分析》11/16 西區強權難敵傷兵陷連敗 雷霆有望找國王開刀刷大分？",
+     "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1116-%E8%A5%BF%E5%8D%80%E5%BC%B7%E6%AC%8A%E9%9B%A3%E6%95%B5%E5%82%B7%E5%85%B5%E9%99%B7%E9%80%A3%E6%95%97-%E9%9B%B7%E9%9C%86%E6%9C%89%E6%9C%9B%E6%89%BE%E5%9C%8B%E7%8E%8B%E9%96%8B%E5%88%80%E5%88%B7%E5%A4%A7%E5%88%86%EF%BC%9F-084456935.html",
+     "s": "Yahoo運動"
     }
    ]
   },
@@ -275,50 +252,71 @@
    ]
   },
   {
-   "kw": "南港展覽館",
-   "traffic": "500+",
-   "start": "2026-11-15T09:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C5lz2SRJgTrui7c6VTly5QnxKc9dUjkZ0snt6izo5GLry5Fw2MZOvR4kTiQ",
+   "kw": "景碩",
+   "traffic": "200+",
+   "start": "2026-11-16T09:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLW86SJ-ECzWD9xzHfc72LQZQEt5bCaWZp5CKZK4i-vc6UItMd0KRNSVCUd7Q",
    "news": [
     {
-     "t": "返家製茶拿頭等獎、下班顧社群 木柵兩家茶坊迎茶博會",
-     "u": "https://www.cdns.com.tw/articles/1490331",
-     "s": "中華新聞雲／中華日報"
+     "t": "台股4檔遭關禁閉！全新近5日飆逾2成、景碩同入列 致茂、台勝科今日出關",
+     "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A14%E6%AA%94%E9%81%AD%E9%97%9C%E7%A6%81%E9%96%89-%E5%85%A8%E6%96%B0%E8%BF%915%E6%97%A5%E9%A3%86%E9%80%BE2%E6%88%90-%E6%99%AF%E7%A2%A9%E5%90%8C%E5%85%A5%E5%88%97-%E8%87%B4%E8%8C%82-%E5%8F%B0%E5%8B%9D%E7%A7%91%E4%BB%8A%E6%97%A5%E5%87%BA%E9%97%9C-005000314.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "台灣國際茶業博覽會登場高雄山茶8大特色茶席亮相| 生活",
-     "u": "https://newtalk.tw/news/view/2026-11-14/1071139",
-     "s": "Newtalk新聞"
+     "t": "《台北股市》處置股：13日6檔 致茂、台勝科準備出關了！",
+     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6359550001&PU=1002",
+     "s": "富聯網"
     },
     {
-     "t": "科學化評鑑接軌國際 蘇宗振肯定茶農、咖啡農努力 期許台灣好茶與咖啡走向世界 | 勁報",
-     "u": "https://today.line.me/tw/v3/article/BEmj77z",
-     "s": "LINE TODAY"
+     "t": "《興櫃股》注意股：合聖科技* 近5日漲47.12%",
+     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6354978001&PU=1002",
+     "s": "富聯網"
     }
    ]
   },
   {
-   "kw": "騎士 對 獨行俠",
-   "traffic": "500+",
-   "start": "2026-11-15T08:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTD4i8mzZDsr9Lo4OcnSfSnTR2DjNA_66f26vTFuxF1InBUzwM1J34rcPFMU8",
+   "kw": "京元電",
+   "traffic": "200+",
+   "start": "2026-11-16T09:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "00892",
+   "traffic": "200+",
+   "start": "2026-11-16T09:30+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcM6h56xxbtrNWKpWmA7sjpzywXkJuPLTl0Xwd6AZh4ZNXuXQQ1Aa2M9URlWA",
    "news": [
     {
-     "t": "NBA》獨行俠慘敗灰狼後急需反彈！作客騎士面臨防守考驗 航班問題增添變數",
-     "u": "https://tw.sports.yahoo.com/news/nba-%E7%8D%A8%E8%A1%8C%E4%BF%A0%E6%85%98%E6%95%97%E7%81%B0%E7%8B%BC%E5%BE%8C%E6%80%A5%E9%9C%80%E5%8F%8D%E5%BD%88-%E4%BD%9C%E5%AE%A2%E9%A8%8E%E5%A3%AB%E9%9D%A2%E8%87%A8%E9%98%B2%E5%AE%88%E8%80%83%E9%A9%97-%E8%88%AA%E7%8F%AD%E5%95%8F%E9%A1%8C%E5%A2%9E%E6%B7%BB%E8%AE%8A%E6%95%B8-082628531.html",
-     "s": "Yahoo運動"
+     "t": "季增13萬人搶息！00878豪配1.25元新高今最後買進日 「這6檔」年化配息率飆逾16%超香",
+     "u": "https://tw.stock.yahoo.com/news/%E5%AD%A3%E5%A2%9E13%E8%90%AC%E4%BA%BA%E6%90%B6%E6%81%AF-00878%E8%B1%AA%E9%85%8D1-25%E5%85%83%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%996%E6%AA%94-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%86%E9%80%BE16-012000015.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "台灣運彩AI分析》美國職籃克里夫蘭騎士vs達拉斯獨行俠AI預測：騎士讓2.5有望過關！ | 麗台運動",
-     "u": "https://today.line.me/tw/v3/article/LXeK8Lz",
-     "s": "LINE TODAY"
+     "t": "00878配息1.25元創新高! 今為參與配息最後買進日",
+     "u": "https://stock.ltn.com.tw/article/87kbescl8qhp",
+     "s": "自由時報"
     },
     {
-     "t": "前役43分今剩12分！弗拉格熄火 獨行俠慘輸灰狼39分",
-     "u": "https://news.tvbs.com.tw/sports/nba/4050010",
-     "s": "TVBS新聞網"
+     "t": "台股回檔 ETF「跌」出高殖利率！29檔除息大秀開跑 單次殖利率最高17.09％",
+     "u": "https://www.ctee.com.tw/news/20261116700070-439901",
+     "s": "工商時報"
     }
    ]
+  },
+  {
+   "kw": "陳永福",
+   "traffic": "200+",
+   "start": "2026-11-16T09:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "創意",
+   "traffic": "200+",
+   "start": "2026-11-16T09:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "退休金",
@@ -469,20 +467,6 @@
    "start": "2026-11-15T17:00+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "bpjs ketenagakerjaan",
-   "traffic": "200+",
-   "start": "2026-11-15T14:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "員林火災",
-   "traffic": "200+",
-   "start": "2026-11-15T14:30+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
@@ -508,6 +492,14 @@
     "traffic": "500+"
    },
    {
+    "kw": "欣興",
+    "traffic": "500+"
+   },
+   {
+    "kw": "國王 對 雷霆",
+    "traffic": "500+"
+   },
+   {
     "kw": "謝金河",
     "traffic": "200+"
    },
@@ -529,6 +521,26 @@
    },
    {
     "kw": "米拉·安祖莉娃",
+    "traffic": "200+"
+   },
+   {
+    "kw": "景碩",
+    "traffic": "200+"
+   },
+   {
+    "kw": "京元電",
+    "traffic": "200+"
+   },
+   {
+    "kw": "00892",
+    "traffic": "200+"
+   },
+   {
+    "kw": "陳永福",
+    "traffic": "200+"
+   },
+   {
+    "kw": "創意",
     "traffic": "200+"
    }
   ],
