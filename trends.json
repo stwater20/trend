@@ -1,13 +1,59 @@
 {
- "updated": "2026-11-16 17:55",
- "updated_iso": "2026-11-16T17:55+08:00",
+ "updated": "2026-11-17 04:33",
+ "updated_iso": "2026-11-17T04:33+08:00",
  "items": [
+  {
+   "kw": "黃珊珊",
+   "traffic": "10000+",
+   "start": "2026-11-16T23:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNal4I2xbiqcWABXmIC9fJLPEAVhxg0e6_V_I2GXHdZ_ceG6KxFpWvqNG23c",
+   "news": [
+    {
+     "t": "TVBS台北市長封關民調 蔣萬安支持度46%、沈伯洋44%",
+     "u": "https://tw.news.yahoo.com/tvbs%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%B0%81%E9%97%9C%E6%B0%91%E8%AA%BF-%E8%94%A3%E8%90%AC%E5%AE%89%E6%94%AF%E6%8C%81%E5%BA%A646%E3%80%81%E6%B2%88%E4%BC%AF%E6%B4%8B44-085350910.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "洋流這麼熱還跟蔣五五波對沈不利？ 趙曉慧揭未表態黑數關鍵",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5642886",
+     "s": "自由時報"
+    },
+    {
+     "t": "穩了？翁曉玲看這兩份民調、曝重大關鍵：蔣萬安會勝選！",
+     "u": "https://www.setn.com/news/1939960",
+     "s": "三立新聞網SETN.com"
+    }
+   ]
+  },
   {
    "kw": "輝達",
    "traffic": "5000+",
    "start": "2026-11-16T05:40+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "robert pattinson",
+   "traffic": "2000+",
+   "start": "2026-11-16T23:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSOABnPz_Zco-Aaboy_1mcnDHoXR293SEUoBiiQ5FpBL_qeS8GKtBOGjYZ5yY",
+   "news": [
+    {
+     "t": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+     "u": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
+     "s": "Variety"
+    },
+    {
+     "t": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
+     "u": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
+     "s": "The Guardian"
+    },
+    {
+     "t": "James Bond live updates: Robert Pattinson named as new 007",
+     "u": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
+     "s": "BBC"
+    }
+   ]
   },
   {
    "kw": "bts 演唱會",
@@ -33,25 +79,25 @@
    ]
   },
   {
-   "kw": "76人 對 溜馬",
-   "traffic": "2000+",
-   "start": "2026-11-16T01:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6YzsrrRXdwVN_Zg8JWe1XsEpG-DhJOQZJFSE81d4A15XebrJKZ3XU_ul1zEk",
+   "kw": "羅伯派汀森",
+   "traffic": "1000+",
+   "start": "2026-11-16T23:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSFOLnJ_ZKlpRIEEk3S0HACGtMt3YQSzbt7wcLBRC-l6KjuLNeyNCTg5gCQ5Q",
    "news": [
     {
-     "t": "NBA／76人禁區沒大人要到詹皇頂？安比德在內3中鋒都休",
-     "u": "https://tw.sports.yahoo.com/news/nba-76%E4%BA%BA%E7%A6%81%E5%8D%80%E6%B2%92%E5%A4%A7%E4%BA%BA%E8%A6%81%E5%88%B0%E8%A9%B9%E7%9A%87%E9%A0%82-%E5%AE%89%E6%AF%94%E5%BE%B7%E5%9C%A8%E5%85%A73%E4%B8%AD%E9%8B%92%E9%83%BD%E4%BC%91-002232238.html",
-     "s": "Yahoo運動"
+     "t": "羅伯派汀森確定接演新任詹姆士龐德！與《沙丘》導演打造第26部《007》系列電影",
+     "u": "https://www.vogue.com.tw/article/robert-pattinson-new-james-bond",
+     "s": "Vogue Taiwan"
     },
     {
-     "t": "NBA 11/16賽程》湖人VS太陽、76人VS溜馬必看！詹皇恐又要扛中鋒",
-     "u": "https://www.nownews.com/news/6892633",
-     "s": "NOWnews今日新聞"
+     "t": "羅伯派汀森接演007！他擊敗4位競爭對手成為「第七任詹姆斯龐德」，他說：這一切遠遠超過美夢成真",
+     "u": "https://www.elle.com/tw/entertainment/gossip/g74441037/robert-pattinson-007-james-bond/",
+     "s": "ELLE"
     },
     {
-     "t": "NBA》76人重返勝軌迎戰溜馬 Maxey領軍力拚主場連勝 | TSNA",
-     "u": "https://today.line.me/tw/v3/article/oqp53lw",
-     "s": "LINE TODAY"
+     "t": "詹姆士龐德演員正式確認！羅伯派汀森接棒《007》導演大讚：他擁有龐德歷久不衰的靈魂",
+     "u": "https://www.harpersbazaar.com/tw/culture/drama/g74441274/robert-pattinson-new-james-bond-007/",
+     "s": "Harper's BAZAAR"
     }
    ]
   },
@@ -102,25 +148,25 @@
    ]
   },
   {
-   "kw": "西班牙 對 英格蘭",
-   "traffic": "1000+",
-   "start": "2026-11-16T03:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWtUD-IpwAiB6ZcwYv-iKE0CAIX6w-yoOIJtZpNj3iFvep9kQ657sxbn-MVwg",
+   "kw": "丁守中",
+   "traffic": "500+",
+   "start": "2026-11-16T22:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnaiMb6jjjULSGdcv5P6I60in-fDorhyOAd4h2TfGWMwllTx-L2jaioEdjPs",
    "news": [
     {
-     "t": "足球運彩分析》11/16 西班牙迎來進攻雙核回歸 Kane能否再度扮演救世主拯救英格蘭",
-     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1116-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%8E%E4%BE%86%E9%80%B2%E6%94%BB%E9%9B%99%E6%A0%B8%E5%9B%9E%E6%AD%B8-kane%E8%83%BD%E5%90%A6%E5%86%8D%E5%BA%A6%E6%89%AE%E6%BC%94%E6%95%91%E4%B8%96%E4%B8%BB%E6%8B%AF%E6%95%91%E8%8B%B1%E6%A0%BC%E8%98%AD-085301664.html",
-     "s": "Yahoo運動"
+     "t": "兩岸統一貨幣！新台幣消失惹議　央行總裁妙回「英國拒歐元」",
+     "u": "https://finance.ettoday.net/news/3273117",
+     "s": "ETtoday財經雲"
     },
     {
-     "t": "足球》西班牙2比0力退捷克歐國聯5戰全勝 「無敵艦隊」豪取44場正式賽不敗 | TSNA",
-     "u": "https://today.line.me/tw/v3/article/60oMz1n?referral=topic-football",
-     "s": "LINE TODAY"
+     "t": "邱進益拋2032兩岸統一貨幣 藍青年：堅決反對「被統」框架論述",
+     "u": "https://udn.com/news/story/6656/9882465",
+     "s": "UDN"
     },
     {
-     "t": "耶馬再戰卡尼報失落金球獎之仇- 體育",
-     "u": "https://epaper.tkww.hk/a/202611/15/AP6af8c1bbe4b0bcb39b1916d7.html",
-     "s": "大公文匯網"
+     "t": "藍大老喊10年兩岸統一！丁守中、關中切割了：他個人意見",
+     "u": "https://tw.news.yahoo.com/%E8%97%8D%E5%A4%A7%E8%80%81%E5%96%8A10%E5%B9%B4%E5%85%A9%E5%B2%B8%E7%B5%B1-%E4%B8%81%E5%AE%88%E4%B8%AD-%E9%97%9C%E4%B8%AD%E5%88%87%E5%89%B2%E4%BA%86-%E4%BB%96%E5%80%8B%E4%BA%BA%E6%84%8F%E8%A6%8B-103800561.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
@@ -185,101 +231,71 @@
    ]
   },
   {
-   "kw": "金價",
-   "traffic": "500+",
-   "start": "2026-11-15T22:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEx4QCRjXm5tk0sRAToRAgJmJuMJi1gDrfLiVkIaXL_wDA_kYYt3s61sxPQWs",
+   "kw": "黃士修",
+   "traffic": "200+",
+   "start": "2026-11-16T23:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCDvhb_J9ODlVRQdwCjF1ifzvTFdWLGysYiYz_-NE7rfhjITMtVlHLG4ds2cw",
    "news": [
     {
-     "t": "Fed鷹派訊號發威 國際金價再度跌破4000美元關卡",
-     "u": "https://stock.ltn.com.tw/article/a6hsbk29bnx6",
-     "s": "自由時報"
+     "t": "廢非核公投意見會／黃士修稱重啟核電條件具足 沈佩玲：用核電不等於廢非核家園",
+     "u": "https://news.pts.org.tw/article/835945",
+     "s": "公視新聞"
     },
     {
-     "t": "〈貴金屬盤後〉金價周跌4.5% 創6月初以來最差單周",
-     "u": "https://news.cnyes.com/news/id/6661670",
-     "s": "鉅亨網"
+     "t": "擁核指重啟3原則已具備 反核批核電廠不是說開就開",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1051771",
+     "s": "Rti 中央廣播電臺"
     },
     {
-     "t": "黃金本週跌慘了！創6月初以來最慘紀錄 分析師一句話潑冷水",
-     "u": "https://news.wearn.com/c2146184.html",
-     "s": "聚財網"
+     "t": "能源韌性與國力發展的共生關係──對台灣能源風險的省思",
+     "u": "https://tw.news.yahoo.com/%E8%83%BD%E6%BA%90%E9%9F%8C%E6%80%A7%E8%88%87%E5%9C%8B%E5%8A%9B%E7%99%BC%E5%B1%95%E7%9A%84%E5%85%B1%E7%94%9F%E9%97%9C%E4%BF%82%E2%94%80%E2%94%80%E5%B0%8D%E5%8F%B0%E7%81%A3%E8%83%BD%E6%BA%90%E9%A2%A8%E9%9A%AA%E7%9A%84%E7%9C%81%E6%80%9D-230000948.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
   {
-   "kw": "股東",
-   "traffic": "500+",
-   "start": "2026-11-15T22:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "2026",
-   "traffic": "500+",
-   "start": "2026-11-15T21:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTK4eFdPE1SvYEbvFwOHkLfEeQvcYAIDIiLh2O-A13r6dm0UAfdFBTQX-81M",
+   "kw": "王星越",
+   "traffic": "200+",
+   "start": "2026-11-16T22:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd6y3Fu266L86dmFuKxcN4GCHiLeUaSRRceH41XTE8aqBOc1_JZIO4fV_m7gs",
    "news": [
     {
-     "t": "Cal Poly vs Montana State Prediction, Picks & Odds | 15 Nov 2026",
-     "u": "https://www.sportsgambler.com/betting-tips/basketball/cal-poly-mustangs-vs-montana-state-bobcats-prediction-odds-2026-11-15/",
-     "s": "Sportsgambler"
+     "t": "《難哄》章若楠新劇搭檔《墨雨雲間》王星越 兩人上演公主虐戀權臣因1理由掀雙方粉絲戰火",
+     "u": "https://www.upmedia.mg/tw/popularity/chinese-dramas/274164",
+     "s": "上報Up Media"
     },
     {
-     "t": "Cal Poly Mustangs vs Montana State Bobcats Picks, Prop Bets For November 15, 2026 - NCAAB Predictions",
-     "u": "https://www.covers.com/sport/basketball/ncaab/matchup/390329/picks",
-     "s": "Covers.com"
+     "t": "新浪网·",
+     "u": "https://www.sina.cn/news/detail/5365098099246881.html",
+     "s": "新浪网"
     },
     {
-     "t": "Montana State and Cal Poly to meet for cross-conference matchup",
-     "u": "https://apnews.com/article/mens-college-basketball-college-basketball-college-sports-aa18b248c9b14b8a8596e9ceed6e6ee8",
-     "s": "AP News"
+     "t": "《春日宴》番位引争议 玩文字花招",
+     "u": "https://3g.china.com/act/ent/11005281/20261114/49871681.html",
+     "s": "中华网"
     }
    ]
   },
   {
-   "kw": "亞歷山大·茲維列夫",
-   "traffic": "500+",
-   "start": "2026-11-15T21:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8dOUyhZZqfpFLpc0pwHL2yex1xPOVyd1FXoERtkbZoKxyphKRMX-jikAvQVY",
+   "kw": "葛萊美",
+   "traffic": "200+",
+   "start": "2026-11-16T22:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxZu0ANmn47FpJHnga8Iwlb78WjgZBygqG25Hn75sHZrqXat4cPf7Quj5znD8",
    "news": [
     {
-     "t": "Zverev withstands Jodar test, ignites Nitto ATP Finals charge",
-     "u": "https://www.atptour.com/en/news/zverev-jodar-nitto-atp-finals-2026-sunday",
-     "s": "ATP Tour"
+     "t": "2027葛萊美獎入圍名單一覽！JENNIE憑合作曲入圍兩大獎、日本歌手LiSA角逐最佳亞洲流行音樂演出",
+     "u": "https://www.vogue.com.tw/article/grammys-2027-nominations",
+     "s": "Vogue Taiwan"
     },
     {
-     "t": "ATP Finals tennis: Alexander Zverev beats Rafael Jódar in straight sets – as it happened",
-     "u": "https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live",
-     "s": "The Guardian"
+     "t": "跟BTS唱反調！張員瑛領軍IVE入圍葛萊美 新女團、Jennie都被提名",
+     "u": "https://ent.ltn.com.tw/news/breakingnews/5643015",
+     "s": "自由娛樂"
     },
     {
-     "t": "Slice of luck for Zverev as he breaks",
-     "u": "https://www.nytimes.com/athletic/live-blogs/zverev-vs-jodar-live-updates-atp-finals-2026-score-result/PxQJujhjalus/4jrLsEU81MIR/",
-     "s": "The New York Times"
-    }
-   ]
-  },
-  {
-   "kw": "蔡文誠",
-   "traffic": "500+",
-   "start": "2026-11-15T20:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxK4gCz5dvWBadYnERTKmDkzGG2VfGlvp8XoITZjrk22NGdiMRI0GDUBoOuPQ",
-   "news": [
-    {
-     "t": "從素人拚成七冠本土洋將 蔡文誠引退勉後輩：肯努力就會出頭",
-     "u": "https://tw.sports.yahoo.com/news/%E5%BE%9E%E7%B4%A0%E4%BA%BA%E6%8B%9A%E6%88%90%E4%B8%83%E5%86%A0%E6%9C%AC%E5%9C%9F%E6%B4%8B%E5%B0%87-%E8%94%A1%E6%96%87%E8%AA%A0%E5%BC%95%E9%80%80%E5%8B%89%E5%BE%8C%E8%BC%A9-%E8%82%AF%E5%8A%AA%E5%8A%9B%E5%B0%B1%E6%9C%83%E5%87%BA%E9%A0%AD-140800930.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "平凡的偉大——「本土洋將」蔡文誠 - 台灣職籃 - 籃球",
-     "u": "https://www.sportsv.net/articles/129460",
-     "s": "運動視界Sports Vision"
-    },
-    {
-     "t": "PLG》蔡文誠引退致詞稿寫到凌晨2點 野獸爸也特地留台北見證儀式",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5641883",
-     "s": "自由體育"
+     "t": "葛萊美獎公布入圍名單碧昂絲破紀錄 周董Jolin無緣角逐首設獎項",
+     "u": "https://tw.news.yahoo.com/%E8%91%9B%E8%90%8A%E7%BE%8E%E7%8D%8E%E5%85%AC%E5%B8%83%E5%85%A5%E5%9C%8D%E5%90%8D%E5%96%AE%E7%A2%A7%E6%98%82%E7%B5%B2%E7%A0%B4%E7%B4%80%E9%8C%84-%E5%91%A8%E8%91%A3jolin%E7%84%A1%E7%B7%A3%E8%A7%92%E9%80%90%E9%A6%96%E8%A8%AD%E7%8D%8E%E9%A0%85-142419591.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
@@ -510,15 +526,41 @@
    ]
   },
   {
-   "kw": "謝金河",
-   "traffic": "200+",
-   "start": "2026-11-16T01:00+08:00",
-   "pic": "",
-   "news": []
+   "kw": "德國 對 荷蘭",
+   "traffic": "100+",
+   "start": "2026-11-17T04:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+   "news": [
+    {
+     "t": "Germany vs Netherlands: UEFA Nations League stats & head-to-head",
+     "u": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
+     "s": "BBC"
+    },
+    {
+     "t": "LIVE: Germany vs Netherlands – UEFA Nations League",
+     "u": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league",
+     "s": "Al Jazeera"
+    },
+    {
+     "t": "Jürgen Klopp prioritises Germany rebuild ahead of Netherlands showdown",
+     "u": "https://www.espn.com/soccer/story/_/id/50492068/jurgen-klopp-germany-netherlands-nations-league",
+     "s": "ESPN"
+    }
+   ]
   }
  ],
  "history": {
+  "2026-11-17": [
+   {
+    "kw": "德國 對 荷蘭",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-16": [
+   {
+    "kw": "黃珊珊",
+    "traffic": "10000+"
+   },
    {
     "kw": "輝達",
     "traffic": "5000+"
@@ -532,6 +574,10 @@
     "traffic": "2000+"
    },
    {
+    "kw": "robert pattinson",
+    "traffic": "2000+"
+   },
+   {
     "kw": "西班牙 對 英格蘭",
     "traffic": "1000+"
    },
@@ -541,6 +587,10 @@
    },
    {
     "kw": "ตรวจหวย",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "羅伯派汀森",
     "traffic": "1000+"
    },
    {
@@ -557,6 +607,10 @@
    },
    {
     "kw": "國王 對 雷霆",
+    "traffic": "500+"
+   },
+   {
+    "kw": "丁守中",
     "traffic": "500+"
    },
    {
@@ -581,22 +635,6 @@
    },
    {
     "kw": "米拉·安祖莉娃",
-    "traffic": "200+"
-   },
-   {
-    "kw": "景碩",
-    "traffic": "200+"
-   },
-   {
-    "kw": "京元電",
-    "traffic": "200+"
-   },
-   {
-    "kw": "00892",
-    "traffic": "200+"
-   },
-   {
-    "kw": "陳永福",
     "traffic": "200+"
    }
   ],
@@ -1007,88 +1045,6 @@
    },
    {
     "kw": "coach",
-    "traffic": "200+"
-   }
-  ],
-  "2026-11-10": [
-   {
-    "kw": "明天的天氣",
-    "traffic": "100000+"
-   },
-   {
-    "kw": "氣溫",
-    "traffic": "50000+"
-   },
-   {
-    "kw": "勇士 對 鵜鶘",
-    "traffic": "5000+"
-   },
-   {
-    "kw": "中信兄弟",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "weather tomorrow",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "桃園民調",
-    "traffic": "500+"
-   },
-   {
-    "kw": "cuaca besok",
-    "traffic": "500+"
-   },
-   {
-    "kw": "周曉芸",
-    "traffic": "500+"
-   },
-   {
-    "kw": "sxmb",
-    "traffic": "500+"
-   },
-   {
-    "kw": "天气",
-    "traffic": "200+"
-   },
-   {
-    "kw": "u23 世界盃棒球錦標賽",
-    "traffic": "200+"
-   },
-   {
-    "kw": "大同公司",
-    "traffic": "200+"
-   },
-   {
-    "kw": "warriors vs pelicans",
-    "traffic": "200+"
-   },
-   {
-    "kw": "亞翔",
-    "traffic": "200+"
-   },
-   {
-    "kw": "王柏融",
-    "traffic": "200+"
-   },
-   {
-    "kw": "信驊",
-    "traffic": "200+"
-   },
-   {
-    "kw": "環球晶股價",
-    "traffic": "200+"
-   },
-   {
-    "kw": "張凌赫",
-    "traffic": "200+"
-   },
-   {
-    "kw": "延三夜市",
-    "traffic": "200+"
-   },
-   {
-    "kw": "林百里",
     "traffic": "200+"
    }
   ]
