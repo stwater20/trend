@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-17 11:58",
- "updated_iso": "2026-11-17T11:58+08:00",
+ "updated": "2026-11-17 21:35",
+ "updated_iso": "2026-11-17T21:35+08:00",
  "items": [
+  {
+   "kw": "明天的天氣",
+   "traffic": "50000+",
+   "start": "2026-11-17T20:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzZCdtUQfQ3lmuTF6hW1QwCmZFxgbDgRPvO_Q7SKaeH9zilZCukTZM2LCZtRA",
+   "news": [
+    {
+     "t": "明起全台降溫！北東降雨機率增 這日迎首波冷氣團低溫下探12度",
+     "u": "https://udn.com/news/story/7266/9884729",
+     "s": "UDN"
+    },
+    {
+     "t": "東北季風明起發威 高山後天迎初雪 週五升級首波冷氣團",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1051897",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "白天偏熱早晚涼明午鋒面再變天",
+     "u": "http://www.metapp.org.tw/pages/post-9242ac94ab7f9071b3a2.html",
+     "s": "氣象應用推廣基金會"
+    }
+   ]
+  },
   {
    "kw": "黃珊珊",
    "traffic": "10000+",
@@ -49,25 +72,71 @@
    ]
   },
   {
-   "kw": "bts 演唱會",
-   "traffic": "2000+",
-   "start": "2026-11-16T16:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAbNhoDHKi7MhgSqHkBPfJB13WsLwjDrGy0eDH_rnEy1xmsObD6CMGnZc2bUA",
+   "kw": "cuaca besok",
+   "traffic": "1000+",
+   "start": "2026-11-17T20:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVaDydsX6gn_ba9d2bcUFo72tnKEmmfid3VijIvS50GW7C7CadDGXoKap8Hg",
    "news": [
     {
-     "t": "BTS高雄開唱倒數！高市府推「高雄紫愛你應援指南」 K-POP隨播即跳、百元數位券加碼串聯店家與夜市快閃迎接全球ARMY",
-     "u": "https://www.kcg.gov.tw/News_Content.aspx?n=F29A02A9D36C47F0&s=A93D9E50A70C41F9",
-     "s": "高雄市政府全球資訊網"
+     "t": "El Niño dan IOD Positif Tidak Merata, Hujan dan Angin Kencang di Sebagian Wilayah Indonesia",
+     "u": "https://darilaut.id/berita/el-nino-dan-iod-positif-tidak-merata-hujan-dan-angin-kencang-di-sebagian-wilayah-indonesia",
+     "s": "Darilaut.id"
     },
     {
-     "t": "ARMY請注意！一卡通「BTS高雄演唱會限量優惠」懶人包",
-     "u": "https://www.cdns.com.tw/articles/1490775",
-     "s": "中華新聞雲／中華日報"
+     "t": "Prakiraan Cuaca Indonesia Sepekan Periode 17 – 23 November 2026: Aktivitas Atmosfer Masih Dinamis, Meningkatkan Potensi Hujan di Sejumlah Wilayah Indonesia",
+     "u": "https://www.bmkg.go.id/cuaca/potensi-hujan-sepekan/prakiraan-cuaca-indonesia-sepekan-periode-17-23-november-2026-aktivitas-atmosfer-masih-dinamis-meningkatkan-potensi-hujan-di-sejumlah-wilayah-indonesia",
+     "s": "BMKG"
     },
     {
-     "t": "BTS高雄開唱掀紫色應援熱潮！穿紫拍照拿70元禮券搭MeN Go、613接駁車輕鬆追星| 徐炳文 | 地方新聞",
-     "u": "https://www.storm.mg/article/11181949",
-     "s": "風傳媒"
+     "t": "BMKG imbau masyarakat waspadai hujan petir di berbagai wilayah",
+     "u": "https://sultra.antaranews.com/berita/546791/bmkg-imbau-masyarakat-waspadai-hujan-petir-di-berbagai-wilayah",
+     "s": "ANTARA News Sultra"
+    }
+   ]
+  },
+  {
+   "kw": "weather tomorrow",
+   "traffic": "1000+",
+   "start": "2026-11-17T20:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS42v1DsGyrGvRMqXlvLaLpeImVWLzNK6ENYb2xKAWWH7Dv9rMSI3a-RFeRGgc",
+   "news": [
+    {
+     "t": "Tropical Cyclone 05B (Akvan) develops over Bay of Bengal",
+     "u": "https://fredpickhardt.substack.com/p/tropical-cyclone-05b-akvan-develops",
+     "s": "Substack"
+    },
+    {
+     "t": "Cyclone Akvan path's changed? IMD now forecasts landfall between Nellore and Visakhapatnam",
+     "u": "https://timesofindia.indiatimes.com/city/chennai/cyclone-akvan-path-changed-imd-now-forecasts-landfall-between-nellore-and-visakhapatnam/articleshow/135926089.cms",
+     "s": "The Times of India"
+    },
+    {
+     "t": "Prakasam tobacco farmers hit by Arnab and Murasu now fear Cyclone Akvan",
+     "u": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-tobacco-farmers-hit-by-arnab-and-murasu-now-fear-cyclone-akvan/article71711071.ece",
+     "s": "The Hindu"
+    }
+   ]
+  },
+  {
+   "kw": "洪麗華",
+   "traffic": "1000+",
+   "start": "2026-11-17T19:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwhFykutbAgbViHGdBBa7sOtCdUGQJ7B4_xEQMaOM7UUvp5q20X7xXot6Va-E",
+   "news": [
+    {
+     "t": "台中市長選舉政見會何欣純首推交通、江啟臣主打智慧安全| 地方",
+     "u": "https://www.cna.com.tw/news/aloc/202611170312.aspx",
+     "s": "中央社 CNA"
+    },
+    {
+     "t": "控國民黨恐嚇長輩！何欣純政見會喊話：老人健保補助一定延續",
+     "u": "https://www.setn.com/news/1940574",
+     "s": "三立新聞網SETN.com"
+    },
+    {
+     "t": "快訊／第二胎市府養到國中！洪麗華拋震撼彈：有本事生10個都我養",
+     "u": "https://www.ettoday.net/news/20261117/3273896.htm",
+     "s": "ETtoday新聞雲"
     }
    ]
   },
@@ -118,48 +187,71 @@
    ]
   },
   {
-   "kw": "蔡英文",
-   "traffic": "1000+",
-   "start": "2026-11-16T17:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6bovm8UfnuDBIRdDZg4D9HVsqSYAf8o6IAT5sw0XE7EwU1svK34aS0L6Kts0",
+   "kw": "勞動部勞動力發展署",
+   "traffic": "500+",
+   "start": "2026-11-17T20:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKzRLLDfbr-DBRFMpWVbFslNej1Y9Q0Cxbf0fivF9uOUiEQB4xHfDSy44sciQ",
    "news": [
     {
-     "t": "王美惠造勢晚會蕭副總統：嘉義縣市合作帶動產業發展| 政治",
-     "u": "https://www.cna.com.tw/news/aipl/202611150202.aspx",
-     "s": "中央社 CNA"
+     "t": "大專生畢業前先卡位！企業預聘計畫開放申請至116年1月最高補助企業7.2萬、留任再領1萬 | 陳逸群 | 地方新聞",
+     "u": "https://www.storm.mg/article/11182196",
+     "s": "風傳媒"
     },
     {
-     "t": "張啓楷《2036 城市願景白皮書》出爐！未上任兩政見落地 痛批王美惠輕軌大縮水",
-     "u": "https://pchome.megatime.com.tw/news/cat1/20261114/79465680427811279001.html",
-     "s": "PChome Online 股市"
+     "t": "桃竹苗「企業預聘」助青年學用接軌 116學年度開放申請 | 台灣好新聞",
+     "u": "https://today.line.me/tw/v3/article/gzpeOOX",
+     "s": "LINE TODAY"
     },
     {
-     "t": "蕭美琴送帽助選成話題 沈伯洋收魯夫草帽 王美惠獲「戰貓安全帽」",
-     "u": "https://udn.com/vote2026/story/124652/9880428",
+     "t": "畢業前先卡位職場！桃竹苗分署推企業預聘 116學年度開跑",
+     "u": "https://www.chinatimes.com/realtimenews/20261117002406-260421",
+     "s": "中時新聞網"
+    }
+   ]
+  },
+  {
+   "kw": "航空",
+   "traffic": "500+",
+   "start": "2026-11-17T19:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgxg_R3nVQp--soD8ZCQSblV1ONlr0HOnsmP8b0vFrHsXlYJYWgmwWfSsVQJg",
+   "news": [
+    {
+     "t": "才爆全美停飛令 換聯合航空出包「大規模系統故障」",
+     "u": "https://tw.yahoo.com/%E6%89%8D%E7%88%86%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9B%E4%BB%A4-%E6%8F%9B%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA%E5%87%BA%E5%8C%85-%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-231943226.html",
+     "s": "Yahoo"
+    },
+    {
+     "t": "一台路由器癱瘓全美航空的警訊",
+     "u": "https://forum.ettoday.net/news/3273222",
+     "s": "ETtoday新聞雲"
+    },
+    {
+     "t": "聯航通訊也故障 取消和延誤數百航班 稱當機無關網安",
+     "u": "https://udn.com/news/story/6813/9884119",
      "s": "UDN"
     }
    ]
   },
   {
-   "kw": "ตรวจหวย",
-   "traffic": "1000+",
-   "start": "2026-11-16T16:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDi2AbaDsna6e8psI7uscduZjBabnKccV0l_s0EQ0baSBKniuydK3DQgLdDc",
+   "kw": "謝龍介",
+   "traffic": "500+",
+   "start": "2026-11-17T19:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMknZAqPPtnUafHw2GxnAt2LQiKlnhFDnsoMdRiX1GUE8mALI4gZM-FuhqMFc",
    "news": [
     {
-     "t": "ผลสลากกินแบ่งรัฐบาล งวดประจำวันที่ 16 พ.ย. 69 เลขที่ออกได้แก่ | สวพ.FM91",
-     "u": "https://today.line.me/th/v3/article/pepR3Wq",
-     "s": "LINE TODAY"
+     "t": "蔣萬安反對翡翠水庫蓋光電 卓榮泰：早無設置計畫",
+     "u": "https://news.pts.org.tw/article/836177",
+     "s": "公視新聞"
     },
     {
-     "t": "ตรวจหวย 16 พ.ย. 2569 ผลสลากกินแบ่งรัฐบาล ตรวจลอตเตอรี่ 16/11/69",
-     "u": "https://www.thairath.co.th/lottery/latest-result/2972690",
-     "s": "thairath.co.th"
+     "t": "陳亭妃公辦政見會承諾烏山頭水庫光電板約滿不續租",
+     "u": "https://www.cdns.com.tw/articles/1492129",
+     "s": "中華新聞雲／中華日報"
     },
     {
-     "t": "หวยแม่จำเนียร 10 อันดับเลขขายดี งวด 16 พ.ย. 2569 เลขมาแรง งวด 16/11/69",
-     "u": "https://www.sanook.com/news/9911954/",
-     "s": "Sanook"
+     "t": "議員候選人稱烏山頭光電有鉛污染 星能：已對造謠者提告",
+     "u": "https://stock.ltn.com.tw/article/f0bmyaymra6x",
+     "s": "自由時報"
     }
    ]
   },
@@ -183,6 +275,29 @@
      "t": "藍大老喊10年兩岸統一！丁守中、關中切割了：他個人意見",
      "u": "https://tw.news.yahoo.com/%E8%97%8D%E5%A4%A7%E8%80%81%E5%96%8A10%E5%B9%B4%E5%85%A9%E5%B2%B8%E7%B5%B1-%E4%B8%81%E5%AE%88%E4%B8%AD-%E9%97%9C%E4%B8%AD%E5%88%87%E5%89%B2%E4%BA%86-%E4%BB%96%E5%80%8B%E4%BA%BA%E6%84%8F%E8%A6%8B-103800561.html",
      "s": "Yahoo新聞"
+    }
+   ]
+  },
+  {
+   "kw": "江夏豐",
+   "traffic": "200+",
+   "start": "2026-11-17T20:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptpr_zBbbWNk2c_ZSklr0-qUxHm7PzVp3ppchHH7y_fn1z28wJwV9K1f1sPU",
+   "news": [
+    {
+     "t": "單季401次三振、11局無安打還自轟再見全壘打！傳奇球星江夏豐辭世",
+     "u": "https://tw.sports.yahoo.com/news/%E5%96%AE%E5%AD%A3401%E6%AC%A1%E4%B8%89%E6%8C%AF-11%E5%B1%80%E7%84%A1%E5%AE%89%E6%89%93%E9%82%84%E8%87%AA%E8%BD%9F%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93-%E5%82%B3%E5%A5%87%E7%90%83%E6%98%9F%E6%B1%9F%E5%A4%8F%E8%B1%90%E8%BE%AD%E4%B8%96-075855487.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "日職傳奇投手江夏豐終年78歲單季401K紀錄屹立不搖| 運動",
+     "u": "https://www.cna.com.tw/news/aspt/202611170187.aspx",
+     "s": "中央社 CNA"
+    },
+    {
+     "t": "快訊／日本傳奇左投江夏豐78歲逝世！401K紀錄至今無人破",
+     "u": "https://sports.ettoday.net/news/3273528",
+     "s": "ETtoday運動雲"
     }
    ]
   },
@@ -286,87 +401,50 @@
    ]
   },
   {
-   "kw": "無名油飯",
-   "traffic": "200+",
-   "start": "2026-11-16T17:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "葛如鈞",
-   "traffic": "200+",
-   "start": "2026-11-16T17:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVpM0LQOP5gTLpiXbVhlxtaU0ZruYk4efi6RrpI7alM-xCl5aQthDwicy1GEQ",
+   "kw": "bodycam",
+   "traffic": "100+",
+   "start": "2026-11-17T19:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEB3BlnoYx8tKpzj16wgOvlURzilHiy27XBJTEjR-JYZybV8QWExvz_2on-Ow",
    "news": [
     {
-     "t": "沈伯洋大洋流喊破10萬人！他目睹藍營「掃街1幕」：台北市大局已定",
-     "u": "https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%A4%A7%E6%B4%8B%E6%B5%81%E5%96%8A%E7%A0%B410%E8%90%AC%E4%BA%BA-%E4%BB%96%E7%9B%AE%E7%9D%B9%E8%97%8D%E7%87%9F-%E6%8E%83%E8%A1%971%E5%B9%95-%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%B1%80%E5%B7%B2%E5%AE%9A-025400665.html",
-     "s": "Yahoo新聞"
+     "t": "Fresno City Council calls truce between City Attorney Janz and Councilmember Arias in rare, sparse statement",
+     "u": "https://fresnoland.org/2026/11/09/fresno-city-council-calls-truce-between-city-attorney-and-councilmember/",
+     "s": "Fresnoland"
     },
     {
-     "t": "九合一選戰》沈伯洋台北大洋流最終場！42艘船、10萬人水陸會師擠爆關渡",
-     "u": "https://www.gvm.com.tw/article/134529",
-     "s": "遠見雜誌"
+     "t": "Singh Calls for All Records Released. Not Just Arrest Report",
+     "u": "https://gvwire.com/2026/11/16/singh-calls-for-all-records-released-not-just-arrest-report/",
+     "s": "GV Wire"
     },
     {
-     "t": "台北市長選戰／沈伯洋「洋流」水陸空大會師 賴清德、陳其邁站台助陣",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1051635",
-     "s": "Rti 中央廣播電臺"
+     "t": "City attorney cleared over confirmation of candidate’s DUI to media; questions remain",
+     "u": "https://www.yahoo.com/news/politics/articles/city-attorney-cleared-over-confirmation-225509418.html",
+     "s": "Yahoo"
     }
    ]
   },
   {
-   "kw": "9904",
-   "traffic": "200+",
-   "start": "2026-11-16T17:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPq4ppqZzSVTbqOMsBBjEPMj2Udhh4N7QXmkxkM3_MeIp99IS87QQCYnPGqRc",
+   "kw": "gta",
+   "traffic": "100+",
+   "start": "2026-11-17T19:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRluJjHDIy16Pcrsjrnr49LI_8-z4pXsl6i_MBYYySKFbMZH6TdqwyPKtOeC3A",
    "news": [
     {
-     "t": "焦點股》寶成：業外收益大進補 逆勢強彈",
-     "u": "https://stock.ltn.com.tw/article/2ur2jhrxtmj8",
-     "s": "自由時報"
+     "t": "PlayStation, Xbox, Rockstar Outage Nov. 19 Odds - You Can Bet on it With Grand Theft Auto 6 Release",
+     "u": "https://www.gambling911.com/playstation-xbox-rockstar-outage-november-19-odds",
+     "s": "Gambling911"
     },
     {
-     "t": "轉投資挹注寶成前三季大賺- 日報",
-     "u": "https://www.ctee.com.tw/news/20261114700158-439901",
-     "s": "工商時報"
+     "t": "GTA 6 Review Embargo Date Explained – When Do Reviews Come Out?",
+     "u": "https://www.vice.com/en/article/gta-6-review-embargo-date/",
+     "s": "VICE"
     },
     {
-     "t": "寶成前三季EPS 3.66元",
-     "u": "https://udn.com/news/story/7252/9877613",
-     "s": "UDN"
+     "t": "Why Bloomberg Is Wrong About GTA VI Being Gaming’s “Biggest Financial Bet”",
+     "u": "https://emeraldbook.org/news/nov-1626-3/",
+     "s": "Emerald Book"
     }
    ]
-  },
-  {
-   "kw": "哈利波特:魔法覺醒",
-   "traffic": "200+",
-   "start": "2026-11-16T16:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnjLz9gqRMhGTVr7aQ-4hUvUdJLOlQnWbqDcxnqBvSZ-uzjROD4NIDx9LUgg",
-   "news": [
-    {
-     "t": "歷經五年時光《哈利波特：魔法覺醒》宣布將於2027 年 3 月 3 日停止營運《Harry Potter: Magic Awakened》",
-     "u": "https://gnn.gamer.com.tw/detail.php?sn=315082",
-     "s": "GNN 新聞網"
-    },
-    {
-     "t": "快訊／哈利波特破億手遊突宣布關服⋯玩家傻眼：才剛過五週年",
-     "u": "https://game.ettoday.net/article/3273165.htm",
-     "s": "ETtoday遊戲雲"
-    },
-    {
-     "t": "《哈利波特：魔法覺醒》明年3月結束營運！官方證實：IP授權到期",
-     "u": "https://www.nownews.com/news/6892845",
-     "s": "NOWnews今日新聞"
-    }
-   ]
-  },
-  {
-   "kw": "2884",
-   "traffic": "200+",
-   "start": "2026-11-16T16:30+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "艾德萊斯·阿德巴約",
@@ -540,8 +618,36 @@
  "history": {
   "2026-11-17": [
    {
+    "kw": "明天的天氣",
+    "traffic": "50000+"
+   },
+   {
     "kw": "賴瑞隆",
     "traffic": "1000+"
+   },
+   {
+    "kw": "cuaca besok",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "weather tomorrow",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "洪麗華",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "勞動部勞動力發展署",
+    "traffic": "500+"
+   },
+   {
+    "kw": "航空",
+    "traffic": "500+"
+   },
+   {
+    "kw": "謝龍介",
+    "traffic": "500+"
    },
    {
     "kw": "预算",
@@ -549,6 +655,10 @@
    },
    {
     "kw": "5274",
+    "traffic": "200+"
+   },
+   {
+    "kw": "江夏豐",
     "traffic": "200+"
    },
    {
@@ -581,6 +691,10 @@
    },
    {
     "kw": "澳洲",
+    "traffic": "100+"
+   },
+   {
+    "kw": "bodycam",
     "traffic": "100+"
    }
   ],
