@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 21:35",
- "updated_iso": "2026-11-17T21:35+08:00",
+ "updated": "2026-11-18 06:28",
+ "updated_iso": "2026-11-18T06:28+08:00",
  "items": [
   {
    "kw": "明天的天氣",
@@ -22,52 +22,6 @@
      "t": "白天偏熱早晚涼明午鋒面再變天",
      "u": "http://www.metapp.org.tw/pages/post-9242ac94ab7f9071b3a2.html",
      "s": "氣象應用推廣基金會"
-    }
-   ]
-  },
-  {
-   "kw": "黃珊珊",
-   "traffic": "10000+",
-   "start": "2026-11-16T23:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmNal4I2xbiqcWABXmIC9fJLPEAVhxg0e6_V_I2GXHdZ_ceG6KxFpWvqNG23c",
-   "news": [
-    {
-     "t": "TVBS台北市長封關民調 蔣萬安支持度46%、沈伯洋44%",
-     "u": "https://tw.news.yahoo.com/tvbs%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%B7%E5%B0%81%E9%97%9C%E6%B0%91%E8%AA%BF-%E8%94%A3%E8%90%AC%E5%AE%89%E6%94%AF%E6%8C%81%E5%BA%A646%E3%80%81%E6%B2%88%E4%BC%AF%E6%B4%8B44-085350910.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "洋流這麼熱還跟蔣五五波對沈不利？ 趙曉慧揭未表態黑數關鍵",
-     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5642886",
-     "s": "自由時報"
-    },
-    {
-     "t": "穩了？翁曉玲看這兩份民調、曝重大關鍵：蔣萬安會勝選！",
-     "u": "https://www.setn.com/news/1939960",
-     "s": "三立新聞網SETN.com"
-    }
-   ]
-  },
-  {
-   "kw": "robert pattinson",
-   "traffic": "2000+",
-   "start": "2026-11-16T23:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSOABnPz_Zco-Aaboy_1mcnDHoXR293SEUoBiiQ5FpBL_qeS8GKtBOGjYZ5yY",
-   "news": [
-    {
-     "t": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
-     "u": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-     "s": "Variety"
-    },
-    {
-     "t": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
-     "u": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
-     "s": "The Guardian"
-    },
-    {
-     "t": "James Bond live updates: Robert Pattinson named as new 007",
-     "u": "https://www.bbc.com/news/live/ckg5j69ndv2vt",
-     "s": "BBC"
     }
    ]
   },
@@ -164,27 +118,80 @@
    ]
   },
   {
-   "kw": "羅伯派汀森",
-   "traffic": "1000+",
-   "start": "2026-11-16T23:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSFOLnJ_ZKlpRIEEk3S0HACGtMt3YQSzbt7wcLBRC-l6KjuLNeyNCTg5gCQ5Q",
+   "kw": "道瓊工業平均指數",
+   "traffic": "500+",
+   "start": "2026-11-18T06:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8SIk0uCqkubG9D0H4yqNIIPzKgKTgzsRMUQ6mrlsdFJikLh9OF4NwK5yWv0",
    "news": [
     {
-     "t": "羅伯派汀森確定接演新任詹姆士龐德！與《沙丘》導演打造第26部《007》系列電影",
-     "u": "https://www.vogue.com.tw/article/robert-pattinson-new-james-bond",
-     "s": "Vogue Taiwan"
+     "t": "美國安局內部機密通訊大當機 暫無網攻跡象",
+     "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%AE%89%E5%B1%80%E5%85%A7%E9%83%A8%E6%A9%9F%E5%AF%86%E9%80%9A%E8%A8%8A%E5%A4%A7%E7%95%B6%E6%A9%9F-%E6%9A%AB%E7%84%A1%E7%B6%B2%E6%94%BB%E8%B7%A1%E8%B1%A1-212004059.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "羅伯派汀森接演007！他擊敗4位競爭對手成為「第七任詹姆斯龐德」，他說：這一切遠遠超過美夢成真",
-     "u": "https://www.elle.com/tw/entertainment/gossip/g74441037/robert-pattinson-007-james-bond/",
-     "s": "ELLE"
+     "t": "美媒：美國安局內部通訊網路故障 暫未見駭客入侵跡象",
+     "u": "https://udn.com/news/story/6813/9885381",
+     "s": "UDN"
     },
     {
-     "t": "詹姆士龐德演員正式確認！羅伯派汀森接棒《007》導演大讚：他擁有龐德歷久不衰的靈魂",
-     "u": "https://www.harpersbazaar.com/tw/culture/drama/g74441274/robert-pattinson-new-james-bond-007/",
-     "s": "Harper's BAZAAR"
+     "t": "美國安局內部高度機密通信網絡出現中斷",
+     "u": "https://www.epochtimes.com/b5/26/11/17/n14890332.htm",
+     "s": "大紀元"
     }
    ]
+  },
+  {
+   "kw": "輝達盤後",
+   "traffic": "500+",
+   "start": "2026-11-18T05:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT7WTG6_IRK-jFfvcerFc105e3o_l9uoc5c9go51z744FMYQVjIX6YTsYRKBQ",
+   "news": [
+    {
+     "t": "快訊／美股開盤跌一片！那指跌逾300點、英特爾殺逾5%、台積電ADR跌近4% 台股明天恐再迎震盪",
+     "u": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E8%B7%8C-%E7%89%87-%E9%82%A3%E6%8C%87%E8%B7%8C%E9%80%BE300%E9%BB%9E-%E8%8B%B1%E7%89%B9%E7%88%BE%E6%AE%BA%E9%80%BE5-144900928.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "華爾街再次震盪！英偉達和其他人工智能概念股股價下跌",
+     "u": "https://www.singtaousa.com/2026/11/17/news/usa/stock-markets-ai-earnings-oil/",
+     "s": "Singtaousa"
+    },
+    {
+     "t": "道指尾市挫逾千點 收市跌848點 納指曾失守24000點",
+     "u": "https://news.rthk.hk/rthk/ch/component/k2/1878211-20261118.htm",
+     "s": "RTHK News"
+    }
+   ]
+  },
+  {
+   "kw": "海鯤號潛艦",
+   "traffic": "500+",
+   "start": "2026-11-18T05:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8A2Psb4PHHVQOZrGNbL9bTJY9FX332t8C1FrGGFTadc30Kh80lQYzY_PIdr8",
+   "news": [
+    {
+     "t": "獨家》潛艦海鯤號出塢了！台船碼頭6艘「超級」海洋戰隊齊聚影像曝",
+     "u": "https://def.ltn.com.tw/article/breakingnews/5643747",
+     "s": "自由軍武頻道"
+    },
+    {
+     "t": "獨家影像曝！潛艦海鯤號逾月未出港 台船大塢「坐墩」只見3個數字",
+     "u": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6%E5%BD%B1%E5%83%8F%E6%9B%9D-%E6%BD%9B%E8%89%A6%E6%B5%B7%E9%AF%A4%E8%99%9F%E9%80%BE%E6%9C%88%E6%9C%AA%E5%87%BA%E6%B8%AF-%E5%8F%B0%E8%88%B9%E5%A4%A7%E5%A1%A2-%E5%9D%90%E5%A2%A9-%E5%8F%AA%E8%A6%8B3%E5%80%8B%E6%95%B8%E5%AD%97-091723905.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "6753 龍德造船- 138億潛艦救難艦兜幾？ - 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/188674006",
+     "s": "CMoney"
+    }
+   ]
+  },
+  {
+   "kw": "夜盤指數",
+   "traffic": "500+",
+   "start": "2026-11-18T05:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "勞動部勞動力發展署",
@@ -256,25 +263,94 @@
    ]
   },
   {
-   "kw": "丁守中",
-   "traffic": "500+",
-   "start": "2026-11-16T22:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnaiMb6jjjULSGdcv5P6I60in-fDorhyOAd4h2TfGWMwllTx-L2jaioEdjPs",
+   "kw": "tsm",
+   "traffic": "200+",
+   "start": "2026-11-18T06:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbL4MqiLexxqlp9oyWn99iwvsohK3Rb8oBzyYKxwgl8Gp0DOIQ9F3qc0hXsk",
    "news": [
     {
-     "t": "兩岸統一貨幣！新台幣消失惹議　央行總裁妙回「英國拒歐元」",
-     "u": "https://finance.ettoday.net/news/3273117",
-     "s": "ETtoday財經雲"
+     "t": "Why is Taiwan Semiconductor Manufacturing stock tumbling today?",
+     "u": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-tumbling-today-93CH-5028421",
+     "s": "Investing.com"
     },
     {
-     "t": "邱進益拋2032兩岸統一貨幣 藍青年：堅決反對「被統」框架論述",
-     "u": "https://udn.com/news/story/6656/9882465",
-     "s": "UDN"
+     "t": "Joseph Carlson Eyes TSMC Over NVDA After 7.7% Drop in 2 Days - Taiwan Semiconductor (NYSE:TSM)",
+     "u": "https://www.benzinga.com/markets/prediction-markets/26/11/63343723/tsmc-joseph-carlson",
+     "s": "Benzinga"
     },
     {
-     "t": "藍大老喊10年兩岸統一！丁守中、關中切割了：他個人意見",
-     "u": "https://tw.news.yahoo.com/%E8%97%8D%E5%A4%A7%E8%80%81%E5%96%8A10%E5%B9%B4%E5%85%A9%E5%B2%B8%E7%B5%B1-%E4%B8%81%E5%AE%88%E4%B8%AD-%E9%97%9C%E4%B8%AD%E5%88%87%E5%89%B2%E4%BA%86-%E4%BB%96%E5%80%8B%E4%BA%BA%E6%84%8F%E8%A6%8B-103800561.html",
-     "s": "Yahoo新聞"
+     "t": "After TSMC's 20% Pullback, Wall Street Trader Que You-Shang Says NT$3,000 Target Could Arrive Early in 2027",
+     "u": "https://finance.biggo.com/news/3a1372d6-4e19-4272-a193-143bc5cd3a53",
+     "s": "BigGo Finance"
+    }
+   ]
+  },
+  {
+   "kw": "亞歷山大·茲維列夫",
+   "traffic": "200+",
+   "start": "2026-11-18T06:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8sfIvNq2mWOvnkyVQV-HViDPkRTjnyISh3ssKkHncOU-uadH7eZQwxzK0T3g",
+   "news": [
+    {
+     "t": "Zverev shuts down Shelton to seal Nitto ATP Finals SF berth",
+     "u": "https://www.atptour.com/en/news/zverev-shelton-nitto-atp-finals-2026-tuesday",
+     "s": "ATP Tour"
+    },
+    {
+     "t": "Alexander Zverev reacts immediately after beating Ben Shelton to reach ATP Finals semi-finals",
+     "u": "https://sports.yahoo.com/articles/alexander-zverev-reacts-immediately-beating-220000542.html",
+     "s": "Yahoo Sports"
+    },
+    {
+     "t": "Alexander Zverev starts ATP Finals with convincing win over Rafael Jodar",
+     "u": "https://www.espn.com/tennis/story/_/id/50490503/alexander-zverev-opens-atp-finals-win-rafael-jodar",
+     "s": "ESPN"
+    }
+   ]
+  },
+  {
+   "kw": "dplus kia",
+   "traffic": "200+",
+   "start": "2026-11-18T05:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRIvX6C-_vZ8WrcD7uDfDK8cVRm8qPyOoGeXRxgSdLy6E4xiIDJ33Nxgm-VBY",
+   "news": [
+    {
+     "t": "2027 LoL Worlds Co-Hosted by South Korea, Japan",
+     "u": "https://www.chosun.com/english/sports-en/2026/11/15/VPH6OYO5QFFEBEET35SFKOGXP4/",
+     "s": "조선일보"
+    },
+    {
+     "t": "Riot Games Considering Replacing Worlds Play-In with Demacia Cup Global Invitational in 2027",
+     "u": "https://www.sheepesports.com/en/articles/riot-games-considering-replacing-worlds-play-in-with-demacia-cup-global-invitational-in/en",
+     "s": "Sheep Esports"
+    },
+    {
+     "t": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
+     "u": "https://www.asiae.co.kr/en/article/2026111400394915464",
+     "s": "아시아경제"
+    }
+   ]
+  },
+  {
+   "kw": "nvda stock",
+   "traffic": "200+",
+   "start": "2026-11-18T05:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEN813vIYdA9W3Aa-7_SCaz4KzUH-RQLjEFfpga8wXEoKTNg5l_AQAB4vwmg",
+   "news": [
+    {
+     "t": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
+     "u": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+     "s": "CNBC"
+    },
+    {
+     "t": "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO",
+     "u": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-to-report-q3-results-after-the-bell-with-colette-kress-to-host-first-call-as-interim-ceo-202616349.html",
+     "s": "Yahoo Finance"
+    },
+    {
+     "t": "Nvidia shares set for $335 billion swing after earnings, options show",
+     "u": "https://www.reuters.com/business/nvidia-shares-set-335-billion-swing-after-earnings-options-show-2026-11-17/",
+     "s": "Reuters"
     }
    ]
   },
@@ -332,71 +408,48 @@
    "news": []
   },
   {
-   "kw": "黃士修",
-   "traffic": "200+",
-   "start": "2026-11-16T23:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCDvhb_J9ODlVRQdwCjF1ifzvTFdWLGysYiYz_-NE7rfhjITMtVlHLG4ds2cw",
+   "kw": "血糖",
+   "traffic": "100+",
+   "start": "2026-11-18T06:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_o5XYvAYaLkhj8t7aRfAcDnLab948pEeRFlfDUZ6upUkcAt6RHCVicBD7OI",
    "news": [
     {
-     "t": "廢非核公投意見會／黃士修稱重啟核電條件具足 沈佩玲：用核電不等於廢非核家園",
-     "u": "https://news.pts.org.tw/article/835945",
-     "s": "公視新聞"
+     "t": "她戒澱粉、三餐少吃竟「糖尿病前期」 醫揭關鍵：吃對自帶瘦瘦素",
+     "u": "https://health.setn.com/news/1937377",
+     "s": "三立新聞網SETN.com"
     },
     {
-     "t": "擁核指重啟3原則已具備 反核批核電廠不是說開就開",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1051771",
-     "s": "Rti 中央廣播電臺"
+     "t": "水果配地瓜小心「雙重碳水」讓血糖大飆升- 樂活",
+     "u": "https://www.ctee.com.tw/news/20261117700654-430905",
+     "s": "工商時報"
     },
     {
-     "t": "能源韌性與國力發展的共生關係──對台灣能源風險的省思",
-     "u": "https://tw.news.yahoo.com/%E8%83%BD%E6%BA%90%E9%9F%8C%E6%80%A7%E8%88%87%E5%9C%8B%E5%8A%9B%E7%99%BC%E5%B1%95%E7%9A%84%E5%85%B1%E7%94%9F%E9%97%9C%E4%BF%82%E2%94%80%E2%94%80%E5%B0%8D%E5%8F%B0%E7%81%A3%E8%83%BD%E6%BA%90%E9%A2%A8%E9%9A%AA%E7%9A%84%E7%9C%81%E6%80%9D-230000948.html",
-     "s": "Yahoo新聞"
+     "t": "變胖又傷腎！這些NG組合別再吃",
+     "u": "https://news.ebc.net.tw/news/health/580917",
+     "s": "東森新聞"
     }
    ]
   },
   {
-   "kw": "王星越",
-   "traffic": "200+",
-   "start": "2026-11-16T22:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd6y3Fu266L86dmFuKxcN4GCHiLeUaSRRceH41XTE8aqBOc1_JZIO4fV_m7gs",
+   "kw": "wales vs portugal",
+   "traffic": "100+",
+   "start": "2026-11-18T05:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLaLp_P4bXt8sS4yUM6Cn1YP0erMjCMJ7MQFgDeLcN5q6wd7O9oklHj09Q5Kk",
    "news": [
     {
-     "t": "《難哄》章若楠新劇搭檔《墨雨雲間》王星越 兩人上演公主虐戀權臣因1理由掀雙方粉絲戰火",
-     "u": "https://www.upmedia.mg/tw/popularity/chinese-dramas/274164",
-     "s": "上報Up Media"
+     "t": "Germany joyfully thrash Netherlands",
+     "u": "https://www.taipeitimes.com/News/sport/archives/2026/11/18/2003867936",
+     "s": "Taipei Times"
     },
     {
-     "t": "新浪网·",
-     "u": "https://www.sina.cn/news/detail/5365098099246881.html",
-     "s": "新浪网"
+     "t": "A big winner under Jürgen Klopp flies almost completely under the radar",
+     "u": "https://www.goal.com/en/news/a-big-winner-under-juergen-klopp-flies-completely-under-the-radar-amid-wirtz-and-gruda/blt0dbf535e50f9c36e",
+     "s": "Goal.com"
     },
     {
-     "t": "《春日宴》番位引争议 玩文字花招",
-     "u": "https://3g.china.com/act/ent/11005281/20261114/49871681.html",
-     "s": "中华网"
-    }
-   ]
-  },
-  {
-   "kw": "葛萊美",
-   "traffic": "200+",
-   "start": "2026-11-16T22:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxZu0ANmn47FpJHnga8Iwlb78WjgZBygqG25Hn75sHZrqXat4cPf7Quj5znD8",
-   "news": [
-    {
-     "t": "2027葛萊美獎入圍名單一覽！JENNIE憑合作曲入圍兩大獎、日本歌手LiSA角逐最佳亞洲流行音樂演出",
-     "u": "https://www.vogue.com.tw/article/grammys-2027-nominations",
-     "s": "Vogue Taiwan"
-    },
-    {
-     "t": "跟BTS唱反調！張員瑛領軍IVE入圍葛萊美 新女團、Jennie都被提名",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5643015",
-     "s": "自由娛樂"
-    },
-    {
-     "t": "葛萊美獎公布入圍名單碧昂絲破紀錄 周董Jolin無緣角逐首設獎項",
-     "u": "https://tw.news.yahoo.com/%E8%91%9B%E8%90%8A%E7%BE%8E%E7%8D%8E%E5%85%AC%E5%B8%83%E5%85%A5%E5%9C%8D%E5%90%8D%E5%96%AE%E7%A2%A7%E6%98%82%E7%B5%B2%E7%A0%B4%E7%B4%80%E9%8C%84-%E5%91%A8%E8%91%A3jolin%E7%84%A1%E7%B7%A3%E8%A7%92%E9%80%90%E9%A6%96%E8%A8%AD%E7%8D%8E%E9%A0%85-142419591.html",
-     "s": "Yahoo新聞"
+     "t": "Licensable picture: Dänemark vs Norwegen, Nations League, 6. Spieltag, Saison 2026 2027",
+     "u": "https://www.reutersconnect.com/item/danemark-vs-norwegen-nations-league-6-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVEExUlU",
+     "s": "Reuters Connect"
     }
    ]
   },
@@ -590,32 +643,51 @@
      "s": "大紀元"
     }
    ]
-  },
-  {
-   "kw": "德國 對 荷蘭",
-   "traffic": "100+",
-   "start": "2026-11-17T04:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "news": [
-    {
-     "t": "Germany vs Netherlands: UEFA Nations League stats & head-to-head",
-     "u": "https://www.bbc.com/sport/football/live/cmly7wxld228t",
-     "s": "BBC"
-    },
-    {
-     "t": "LIVE: Germany vs Netherlands – UEFA Nations League",
-     "u": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league",
-     "s": "Al Jazeera"
-    },
-    {
-     "t": "Jürgen Klopp prioritises Germany rebuild ahead of Netherlands showdown",
-     "u": "https://www.espn.com/soccer/story/_/id/50492068/jurgen-klopp-germany-netherlands-nations-league",
-     "s": "ESPN"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-18": [
+   {
+    "kw": "道瓊工業平均指數",
+    "traffic": "500+"
+   },
+   {
+    "kw": "輝達盤後",
+    "traffic": "500+"
+   },
+   {
+    "kw": "海鯤號潛艦",
+    "traffic": "500+"
+   },
+   {
+    "kw": "夜盤指數",
+    "traffic": "500+"
+   },
+   {
+    "kw": "tsm",
+    "traffic": "200+"
+   },
+   {
+    "kw": "亞歷山大·茲維列夫",
+    "traffic": "200+"
+   },
+   {
+    "kw": "dplus kia",
+    "traffic": "200+"
+   },
+   {
+    "kw": "nvda stock",
+    "traffic": "200+"
+   },
+   {
+    "kw": "血糖",
+    "traffic": "100+"
+   },
+   {
+    "kw": "wales vs portugal",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-17": [
    {
     "kw": "明天的天氣",
@@ -1106,88 +1178,6 @@
    {
     "kw": "復仇者聯盟5",
     "traffic": "100+"
-   }
-  ],
-  "2026-11-11": [
-   {
-    "kw": "鄭 明典",
-    "traffic": "100000+"
-   },
-   {
-    "kw": "普發一萬",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "尼克 對 公鹿",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "老農津貼",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "日東紡股價",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "迷客夏",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "2317",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "76人 對 塞爾提克",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "鉅亨網",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "外資買賣超",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "景 碩",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "古裝劇",
-    "traffic": "500+"
-   },
-   {
-    "kw": "switch 2",
-    "traffic": "500+"
-   },
-   {
-    "kw": "trip",
-    "traffic": "500+"
-   },
-   {
-    "kw": "南亞 科技",
-    "traffic": "500+"
-   },
-   {
-    "kw": "江蕙",
-    "traffic": "500+"
-   },
-   {
-    "kw": "東京 巨 蛋",
-    "traffic": "500+"
-   },
-   {
-    "kw": "英雄聯盟世界大賽",
-    "traffic": "500+"
-   },
-   {
-    "kw": "夫家",
-    "traffic": "500+"
-   },
-   {
-    "kw": "coach",
-    "traffic": "200+"
    }
   ]
  }
