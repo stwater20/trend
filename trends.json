@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 04:33",
- "updated_iso": "2026-11-17T04:33+08:00",
+ "updated": "2026-11-17 11:58",
+ "updated_iso": "2026-11-17T11:58+08:00",
  "items": [
   {
    "kw": "黃珊珊",
@@ -24,13 +24,6 @@
      "s": "三立新聞網SETN.com"
     }
    ]
-  },
-  {
-   "kw": "輝達",
-   "traffic": "5000+",
-   "start": "2026-11-16T05:40+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "robert pattinson",
@@ -75,6 +68,29 @@
      "t": "BTS高雄開唱掀紫色應援熱潮！穿紫拍照拿70元禮券搭MeN Go、613接駁車輕鬆追星| 徐炳文 | 地方新聞",
      "u": "https://www.storm.mg/article/11181949",
      "s": "風傳媒"
+    }
+   ]
+  },
+  {
+   "kw": "賴瑞隆",
+   "traffic": "1000+",
+   "start": "2026-11-17T10:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbMb9wUjDvldMM1bQaG4S-PP9yPAMOOXzsRhnj8iPu2KWxjKzYbHZu_TB8dqI",
+   "news": [
+    {
+     "t": "高雄封關民調變盤？柯志恩46.1%險勝賴瑞隆",
+     "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B0%81%E9%97%9C%E6%B0%91%E8%AA%BF%E8%AE%8A%E7%9B%A4-%E6%9F%AF%E5%BF%97%E6%81%A946-1-%E9%9A%AA%E5%8B%9D%E8%B3%B4%E7%91%9E%E9%9A%86-024536186.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "高雄市長選戰／高雄最新民調：賴瑞隆43.9%大幅領先柯志恩24.7%",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1051791",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "狐獴被上鐵鏈！高市動保處淪黑心門神民團要陳其邁說清楚- 生活",
+     "u": "https://www.ctee.com.tw/news/20261116701100-431401",
+     "s": "工商時報"
     }
    ]
   },
@@ -171,64 +187,34 @@
    ]
   },
   {
-   "kw": "欣興",
-   "traffic": "500+",
-   "start": "2026-11-16T10:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "國王 對 雷霆",
-   "traffic": "500+",
-   "start": "2026-11-16T09:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJbf_LsaANNwsPTjcdIPyc8xz-AZDBSMsj75AYFdky6uWtr43Qii7KqTQ_qFE",
+   "kw": "预算",
+   "traffic": "200+",
+   "start": "2026-11-17T11:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZNaLjA0h8OrsLEI1VFsvNS4axVynq1bozo7vn-oAa8h_dl6ORgjZSFWsiT7M",
    "news": [
     {
-     "t": "NBA》雷霆、國王雙雙陷入連敗！雷霆作客沙加緬度力拚止敗 Topic近期傷癒復出成亮點",
-     "u": "https://tw.sports.yahoo.com/news/nba-%E9%9B%B7%E9%9C%86-%E5%9C%8B%E7%8E%8B%E9%9B%99%E9%9B%99%E9%99%B7%E5%85%A5%E9%80%A3%E6%95%97-%E9%9B%B7%E9%9C%86%E4%BD%9C%E5%AE%A2%E6%B2%99%E5%8A%A0%E7%B7%AC%E5%BA%A6%E5%8A%9B%E6%8B%9A%E6%AD%A2%E6%95%97-topic%E8%BF%91%E6%9C%9F%E5%82%B7%E7%99%92%E5%BE%A9%E5%87%BA%E6%88%90%E4%BA%AE%E9%BB%9E-101348681.html",
-     "s": "Yahoo運動"
+     "t": "欧盟七年预算还没通过，默茨先收到的，是多国总理的严词拒绝",
+     "u": "https://m.sohu.com/a/1101571893_122106459?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "s": "Sohu"
     },
     {
-     "t": "NBA球星SGA率雷霆踢館國王人馬 今日賽事預告與轉播",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5641624",
-     "s": "自由體育"
+     "t": "匈牙利阻挠欧盟向乌克兰提供450亿欧元资金，但这将带来什么后果？",
+     "u": "https://dailynewshungary.com/cn/%E5%8C%88%E7%89%99%E5%88%A9%E9%98%BB%E6%8C%A0%E6%AC%A7%E7%9B%9F%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B450%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E9%87%91%EF%BC%8C%E4%BD%86%E8%BF%99/",
+     "s": "Daily News Hungary"
     },
     {
-     "t": "NBA運彩分析》11/16 西區強權難敵傷兵陷連敗 雷霆有望找國王開刀刷大分？",
-     "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1116-%E8%A5%BF%E5%8D%80%E5%BC%B7%E6%AC%8A%E9%9B%A3%E6%95%B5%E5%82%B7%E5%85%B5%E9%99%B7%E9%80%A3%E6%95%97-%E9%9B%B7%E9%9C%86%E6%9C%89%E6%9C%9B%E6%89%BE%E5%9C%8B%E7%8E%8B%E9%96%8B%E5%88%80%E5%88%B7%E5%A4%A7%E5%88%86%EF%BC%9F-084456935.html",
-     "s": "Yahoo運動"
+     "t": "RMF24：欧盟或将俄罗斯体育纳入第22 轮制裁方案",
+     "u": "https://ua.news/cn/world/es-mozhe-vkliuchiti-rosiiskii-sport-do-22-go-paketa-sanktsii-rmf24",
+     "s": "UA.NEWS"
     }
    ]
   },
   {
-   "kw": "張仁瑋",
-   "traffic": "500+",
-   "start": "2026-11-16T05:30+08:00",
+   "kw": "5274",
+   "traffic": "200+",
+   "start": "2026-11-17T11:10+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "發票",
-   "traffic": "500+",
-   "start": "2026-11-16T05:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROdK_iO4iaUOVl0KOlhsx_3l1A9bl-AYK2pUKQgOiZ0mURWfHvJH97RvXjgVw",
-   "news": [
-    {
-     "t": "統一發票千萬獎只花10元就中 17名幸運兒一次看",
-     "u": "https://news.ebc.net.tw/news/living/580844",
-     "s": "東森新聞"
-    },
-    {
-     "t": "全聯超商消費、加油都中1000萬！17張千萬發票中獎快點領， 財政部公布地點明細",
-     "u": "https://www.storm.mg/lifestyle/11181398",
-     "s": "風傳媒"
-    },
-    {
-     "t": "只買飲料就抱走千萬！4張千萬發票沒人領 今最後期限",
-     "u": "https://new-reporter.com/news/332784/",
-     "s": "記者爆料網"
-    }
-   ]
   },
   {
    "kw": "黃士修",
@@ -383,145 +369,147 @@
    "news": []
   },
   {
-   "kw": "景碩",
-   "traffic": "200+",
-   "start": "2026-11-16T09:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLW86SJ-ECzWD9xzHfc72LQZQEt5bCaWZp5CKZK4i-vc6UItMd0KRNSVCUd7Q",
+   "kw": "艾德萊斯·阿德巴約",
+   "traffic": "100+",
+   "start": "2026-11-17T11:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUw0jOWdGtSYv-V1VD9RRv5wqVgMc6D8F9FNrCQOd3fzJb7qgxtHJkX1ek3cY",
    "news": [
     {
-     "t": "台股4檔遭關禁閉！全新近5日飆逾2成、景碩同入列 致茂、台勝科今日出關",
-     "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A14%E6%AA%94%E9%81%AD%E9%97%9C%E7%A6%81%E9%96%89-%E5%85%A8%E6%96%B0%E8%BF%915%E6%97%A5%E9%A3%86%E9%80%BE2%E6%88%90-%E6%99%AF%E7%A2%A9%E5%90%8C%E5%85%A5%E5%88%97-%E8%87%B4%E8%8C%82-%E5%8F%B0%E5%8B%9D%E7%A7%91%E4%BB%8A%E6%97%A5%E5%87%BA%E9%97%9C-005000314.html",
-     "s": "Yahoo股市"
+     "t": "Heat star Bam Adebayo exits win over Rockets early with hip tightness",
+     "u": "https://www.espn.com/nba/story/_/id/50507278/heat-star-bam-adebayo-exits-win-early-hip-tightness",
+     "s": "ESPN"
     },
     {
-     "t": "《台北股市》處置股：13日6檔 致茂、台勝科準備出關了！",
-     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6359550001&PU=1002",
-     "s": "富聯網"
+     "t": "Giannis Antetokounmpo scores 20 as Miami Heat roll past Houston Rockets 128-110 for 5th straight win",
+     "u": "https://www.cbsnews.com/miami/news/heat-rockets-128-110-fifth-straight-win-antetokounmpo-thompson-allen-3-pointers/",
+     "s": "CBS News"
     },
     {
-     "t": "《興櫃股》注意股：合聖科技* 近5日漲47.12%",
-     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6354978001&PU=1002",
-     "s": "富聯網"
+     "t": "Final: Heat 128, Rockets 110",
+     "u": "https://sports.yahoo.com/articles/final-heat-128-rockets-110-031355845.html",
+     "s": "Yahoo Sports"
     }
    ]
   },
   {
-   "kw": "京元電",
-   "traffic": "200+",
-   "start": "2026-11-16T09:40+08:00",
+   "kw": "陳思羽",
+   "traffic": "100+",
+   "start": "2026-11-17T11:30+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "00892",
-   "traffic": "200+",
-   "start": "2026-11-16T09:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcM6h56xxbtrNWKpWmA7sjpzywXkJuPLTl0Xwd6AZh4ZNXuXQQ1Aa2M9URlWA",
+   "kw": "印尼",
+   "traffic": "100+",
+   "start": "2026-11-17T11:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKba0EDhnGvEuqWgcuuB7Q6bRYQf6duOu6UJC9DNz56r769_TkAf3_rGZkQFc",
    "news": [
     {
-     "t": "季增13萬人搶息！00878豪配1.25元新高今最後買進日 「這6檔」年化配息率飆逾16%超香",
-     "u": "https://tw.stock.yahoo.com/news/%E5%AD%A3%E5%A2%9E13%E8%90%AC%E4%BA%BA%E6%90%B6%E6%81%AF-00878%E8%B1%AA%E9%85%8D1-25%E5%85%83%E6%96%B0%E9%AB%98%E4%BB%8A%E6%9C%80%E5%BE%8C%E8%B2%B7%E9%80%B2%E6%97%A5-%E9%80%996%E6%AA%94-%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E9%A3%86%E9%80%BE16-012000015.html",
-     "s": "Yahoo股市"
+     "t": "輝達印尼子公司遭突襲成空殼！恐偷渡中國引發美方震怒",
+     "u": "https://www.setn.com/news/1939987",
+     "s": "三立新聞網SETN.com"
     },
     {
-     "t": "00878配息1.25元創新高! 今為參與配息最後買進日",
-     "u": "https://stock.ltn.com.tw/article/87kbescl8qhp",
-     "s": "自由時報"
+     "t": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5643144",
+     "s": "自由財經"
     },
     {
-     "t": "台股回檔 ETF「跌」出高殖利率！29檔除息大秀開跑 單次殖利率最高17.09％",
-     "u": "https://www.ctee.com.tw/news/20261116700070-439901",
-     "s": "工商時報"
+     "t": "黃樂涉轉賣輝達晶片至中國 Megaspeed：已於去年離職",
+     "u": "https://news.pts.org.tw/article/835903",
+     "s": "公視新聞"
     }
    ]
   },
   {
-   "kw": "陳永福",
-   "traffic": "200+",
-   "start": "2026-11-16T09:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "創意",
-   "traffic": "200+",
-   "start": "2026-11-16T09:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "退休金",
-   "traffic": "200+",
-   "start": "2026-11-16T05:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_h_baqd4rDYCHytblTdA5Y5v_r7R3Cvg03fJdPGHD_ohl-15PbMWW6g3NtKo",
+   "kw": "塔里克·史庫柏",
+   "traffic": "100+",
+   "start": "2026-11-17T11:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4k_TsL7nzfWH6UscKfSwGSeFul869g5SCnfN3rDQhlyWeuA-NJzivsTFJ1T8",
    "news": [
     {
-     "t": "富人也缺退休金！富裕美國人平均僅達目標一半，退休需約260萬美元",
-     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-118b47f0-e130-11f1-aebd-67d83fa42ad0",
-     "s": "美股放大鏡"
+     "t": "Every MLB team's chance of signing Skubal -- and their backup plans",
+     "u": "https://www.espn.com/mlb/story/_/id/50454235/tarik-skubal-all-30-teams-backup-plans",
+     "s": "ESPN"
     },
     {
-     "t": "HSBC 匯豐控股- 富人也缺退休金！富裕美國人平均僅達目標一半，退休需約260萬美元- 股市爆料同學會",
-     "u": "https://www.cmoney.tw/forum/article/188736516",
-     "s": "CMoney"
-    },
-    {
-     "t": "退休金制度快崩潰- 日報",
-     "u": "https://www.ctee.com.tw/news/20261116700277-439904",
-     "s": "工商時報"
-    }
-   ]
-  },
-  {
-   "kw": "費玉清",
-   "traffic": "200+",
-   "start": "2026-11-16T05:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "wta年終總決賽",
-   "traffic": "200+",
-   "start": "2026-11-16T05:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCZJSutRUM64Yb3V98CREvKqIV7FBUmFf7UWOeR6d8nZDM10p2pTvSsr4NPhM",
-   "news": [
-    {
-     "t": "WTA年終賽》4戰全勝未失一盤 Andreeva挺進年終賽冠軍戰",
-     "u": "https://tw.sports.yahoo.com/news/wta%E5%B9%B4%E7%B5%82%E8%B3%BD-4%E6%88%B0%E5%85%A8%E5%8B%9D%E6%9C%AA%E5%A4%B1-%E7%9B%A4-andreeva%E6%8C%BA%E9%80%B2%E5%B9%B4%E7%B5%82%E8%B3%BD%E5%86%A0%E8%BB%8D%E6%88%B0-033217014.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "網球》批她「耍大牌欠修理」佩古拉年終賽4強碰頭卻慘敗",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5641157",
-     "s": "自由體育"
-    },
-    {
-     "t": "Svitolina直落二闖WTA年終決賽 將與Andreeva爭冠 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/0MWKOkG",
-     "s": "LINE TODAY"
-    }
-   ]
-  },
-  {
-   "kw": "米拉·安祖莉娃",
-   "traffic": "200+",
-   "start": "2026-11-16T05:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPWzOuNa5G6mTT1nwe4qjqGdy2TwYmVBaakrc5BYdOBOdkJqt5Qiz1R5VF9Vg",
-   "news": [
-    {
-     "t": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
-     "u": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
-     "s": "The Guardian"
-    },
-    {
-     "t": "Mirra Andreeva has taken the WTA Finals by storm. Now she must embrace the pressure",
-     "u": "https://www.nytimes.com/athletic/7782008/2026/11/15/wta-finals-final-mirra-andreeva-elina-svitolina/",
+     "t": "The November of Tarik Skubal and Scott Boras is here. A decision years ago set it all in motion",
+     "u": "https://www.nytimes.com/athletic/7775083/2026/11/12/tarik-skubal-scott-boras-history-in-motion/",
      "s": "The New York Times"
     },
     {
-     "t": "Andreeva beats Pegula, will face Svitolina in WTA Finals championship match",
-     "u": "https://www.reuters.com/sports/tennis/andreeva-dispatches-pegula-reach-wta-finals-championship-match-2026-11-14/",
-     "s": "Reuters"
+     "t": "New Tarik Skubal Rumors on Historic Contract Price & Threat from Dodgers' Rivals in MLB Free Agency",
+     "u": "https://bleacherreport.com/articles/25533667-new-tarik-skubal-rumors-historic-contract-price-threat-dodgers-rivals-mlb-free-agency",
+     "s": "Bleacher Report"
+    }
+   ]
+  },
+  {
+   "kw": "喬爾·恩比德",
+   "traffic": "100+",
+   "start": "2026-11-17T11:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSSZt2wTLRI9I3xLEqlbhBimaqgUlwUs1D48jWSkFG1vj4bUlaVqh0p9xcQw",
+   "news": [
+    {
+     "t": "76ers 135-123 Nets (Nov 16, 2026) Game Recap",
+     "u": "https://www.espn.com/nba/recap/_/gameId/401909997",
+     "s": "ESPN"
+    },
+    {
+     "t": "Embiid, Brown Shine as 76ers Beat Nets With LeBron Out, Box Score Stats, Highlights for Maxey, More",
+     "u": "https://bleacherreport.com/articles/25534384-embiid-brown-shine-76ers-beat-nets-lebron-out-box-score-stats-highlights-maxey-more",
+     "s": "Bleacher Report"
+    },
+    {
+     "t": "Brooklyn Nets vs. Philadelphia 76ers ‑ Game Highlights 11/16/2026",
+     "u": "https://www.nba.com/sixers/videos/brooklyn-nets-vs-philadelphia-76ers-game-highlights-11-16-2026",
+     "s": "NBA.com"
+    }
+   ]
+  },
+  {
+   "kw": "康霈",
+   "traffic": "100+",
+   "start": "2026-11-17T11:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuILH8hgoVt_lMvRIq0WuDjrtKaIg1g7jgpaosI40Fgw3-2PD9xKDoymZXV10",
+   "news": [
+    {
+     "t": "【10:24 即時新聞】康霈*(6919) 盤中走強，生技族群資金回流成焦點",
+     "u": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1293970",
+     "s": "CMoney"
+    },
+    {
+     "t": "6919 康霈* - 做空勝率極高，感謝康霈賜滷肉飯加蛋🥹🫶🏻 - 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/188760774",
+     "s": "CMoney"
+    },
+    {
+     "t": "【11/16日股價跌幅】寶泰生醫(-12.71%)、藥祇(-11.52%)、慧康生技*(-10.44%)",
+     "u": "https://www.genetinfo.com/investment/featured/item/99344.html",
+     "s": "生技投資第一站-Genet觀點"
+    }
+   ]
+  },
+  {
+   "kw": "澳洲",
+   "traffic": "100+",
+   "start": "2026-11-17T11:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhkXJnDp9tCRESGPw1e_JIoZcLFn7b8VWgPzi8auuNzaBcWm4PHVDRg3wRuF0",
+   "news": [
+    {
+     "t": "澳洲收緊打工度假規定 二簽偏遠地區工作延長至4個月 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/zNM3pl5",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "澳背包客簽證政策轉向 第三年名額擬上調",
+     "u": "https://www.epochtimes.com/b5/26/11/12/n14887782.htm",
+     "s": "大紀元"
+    },
+    {
+     "t": "澳洲新移民就業調查 中東北非移民失業率最高",
+     "u": "https://www.epochtimes.com/gb/26/11/17/n14889868.htm",
+     "s": "大紀元"
     }
    ]
   },
@@ -552,7 +540,47 @@
  "history": {
   "2026-11-17": [
    {
+    "kw": "賴瑞隆",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "预算",
+    "traffic": "200+"
+   },
+   {
+    "kw": "5274",
+    "traffic": "200+"
+   },
+   {
     "kw": "德國 對 荷蘭",
+    "traffic": "100+"
+   },
+   {
+    "kw": "艾德萊斯·阿德巴約",
+    "traffic": "100+"
+   },
+   {
+    "kw": "陳思羽",
+    "traffic": "100+"
+   },
+   {
+    "kw": "印尼",
+    "traffic": "100+"
+   },
+   {
+    "kw": "塔里克·史庫柏",
+    "traffic": "100+"
+   },
+   {
+    "kw": "喬爾·恩比德",
+    "traffic": "100+"
+   },
+   {
+    "kw": "康霈",
+    "traffic": "100+"
+   },
+   {
+    "kw": "澳洲",
     "traffic": "100+"
    }
   ],
