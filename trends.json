@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18 06:28",
- "updated_iso": "2026-11-18T06:28+08:00",
+ "updated": "2026-11-18 12:30",
+ "updated_iso": "2026-11-18T12:30+08:00",
  "items": [
   {
    "kw": "明天的天氣",
@@ -24,6 +24,36 @@
      "s": "氣象應用推廣基金會"
     }
    ]
+  },
+  {
+   "kw": "湖人 對 黃蜂",
+   "traffic": "2000+",
+   "start": "2026-11-18T11:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKFMoe3bHFQoAKwn-WlYPNE14vHDYfmFibgvEfKije6wsj1OSDT6WGuXXUJjs",
+   "news": [
+    {
+     "t": "NBA》前勇士3冠功臣終於要「解凍」了？ 湖人主戰中鋒驚傳傷情",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5644107",
+     "s": "自由體育"
+    },
+    {
+     "t": "NBA 11/18賽程》湖人大戰黃蜂必看！馬刺挑戰13連勝卻遇強敵活塞",
+     "u": "https://www.nownews.com/news/6893220",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "【黃蜂 vs 湖人】NBA 直播 LIVE 線上看，11/18 美國職籃線上轉播",
+     "u": "https://applealmond.com/posts/332664",
+     "s": "蘋果仁"
+    }
+   ]
+  },
+  {
+   "kw": "009816",
+   "traffic": "1000+",
+   "start": "2026-11-18T12:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "cuaca besok",
@@ -91,29 +121,6 @@
      "t": "快訊／第二胎市府養到國中！洪麗華拋震撼彈：有本事生10個都我養",
      "u": "https://www.ettoday.net/news/20261117/3273896.htm",
      "s": "ETtoday新聞雲"
-    }
-   ]
-  },
-  {
-   "kw": "賴瑞隆",
-   "traffic": "1000+",
-   "start": "2026-11-17T10:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbMb9wUjDvldMM1bQaG4S-PP9yPAMOOXzsRhnj8iPu2KWxjKzYbHZu_TB8dqI",
-   "news": [
-    {
-     "t": "高雄封關民調變盤？柯志恩46.1%險勝賴瑞隆",
-     "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B0%81%E9%97%9C%E6%B0%91%E8%AA%BF%E8%AE%8A%E7%9B%A4-%E6%9F%AF%E5%BF%97%E6%81%A946-1-%E9%9A%AA%E5%8B%9D%E8%B3%B4%E7%91%9E%E9%9A%86-024536186.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "高雄市長選戰／高雄最新民調：賴瑞隆43.9%大幅領先柯志恩24.7%",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1051791",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "狐獴被上鐵鏈！高市動保處淪黑心門神民團要陳其邁說清楚- 生活",
-     "u": "https://www.ctee.com.tw/news/20261116701100-431401",
-     "s": "工商時報"
     }
    ]
   },
@@ -263,6 +270,59 @@
    ]
   },
   {
+   "kw": "lakers vs hornets",
+   "traffic": "200+",
+   "start": "2026-11-18T12:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4jmtxkdNQLQIUSRdsKwgnKg_mV7vFUDR0aLSvJuYyu34FI4vBgIZbIpP0dE",
+   "news": [
+    {
+     "t": "Lakers rule Austin Reaves, Walker Kessler out vs. Hornets",
+     "u": "https://www.espn.com/nba/story/_/id/50506501/lakers-rule-austin-reaves-walker-kessler-vs-hornets",
+     "s": "ESPN"
+    },
+    {
+     "t": "Luka Doncic is left alone: the serious absences of the Los Angeles Lakers for the next match",
+     "u": "https://www.blogdebasket.com/en/2026/11/17/luka-doncic-is-left-alone-the-serious-absences-of-the-angeles-lakers-for-the-next-match",
+     "s": "Blog de Basket"
+    },
+    {
+     "t": "Austin Reaves ‘improving,’ no structural damage with injury",
+     "u": "https://sports.yahoo.com/articles/austin-reaves-improving-no-structural-194528740.html",
+     "s": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "kw": "艾尤·多桑姆",
+   "traffic": "200+",
+   "start": "2026-11-18T11:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqkqcCaJLnZ2NWI7H9Bycy8Y2bV9c068nYLVPVunP7hBqFubuzjOt00NF0L_g",
+   "news": [
+    {
+     "t": "Damian Lillard hits five triples, scores 25 points",
+     "u": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-17/damian-lillard-hits-five-triples-scores-25-points",
+     "s": "NBC Sports"
+    },
+    {
+     "t": "Highlights From Ayo Dosunmu 30-Point Game",
+     "u": "https://www.nba.com/watch/video/highlights-from-ayo-dosunmu-30-point-game",
+     "s": "NBA.com"
+    },
+    {
+     "t": "Ayo Dosunmu puts up 18 in win over Mavs",
+     "u": "https://www.fantasypros.com/nba/news/619786/ayo-dosunmu-puts-up-18-win-over-mavs.php",
+     "s": "FantasyPros"
+    }
+   ]
+  },
+  {
+   "kw": "運輸機",
+   "traffic": "200+",
+   "start": "2026-11-18T11:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
    "kw": "tsm",
    "traffic": "200+",
    "start": "2026-11-18T06:10+08:00",
@@ -378,34 +438,119 @@
    ]
   },
   {
-   "kw": "预算",
-   "traffic": "200+",
-   "start": "2026-11-17T11:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZNaLjA0h8OrsLEI1VFsvNS4axVynq1bozo7vn-oAa8h_dl6ORgjZSFWsiT7M",
+   "kw": "英伟达",
+   "traffic": "100+",
+   "start": "2026-11-18T12:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkz45iIAJ6sbNWF0VIjDx9h1cAKbnyvrVP-p8UNJM53yRsijfuX_JLWBrlAWw",
    "news": [
     {
-     "t": "欧盟七年预算还没通过，默茨先收到的，是多国总理的严词拒绝",
-     "u": "https://m.sohu.com/a/1101571893_122106459?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "Sohu"
+     "t": "黄仁勋离职后首份财报盘后公布！临时CEO首次迎战华尔街，营收暴增90%也难救股价？-市场参考",
+     "u": "https://xnews.jin10.com/details/235304",
+     "s": "金十数据"
     },
     {
-     "t": "匈牙利阻挠欧盟向乌克兰提供450亿欧元资金，但这将带来什么后果？",
-     "u": "https://dailynewshungary.com/cn/%E5%8C%88%E7%89%99%E5%88%A9%E9%98%BB%E6%8C%A0%E6%AC%A7%E7%9B%9F%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B450%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E9%87%91%EF%BC%8C%E4%BD%86%E8%BF%99/",
-     "s": "Daily News Hungary"
+     "t": "利好来了！刚刚，全线拉升！英伟达，重大发布",
+     "u": "https://finance.china.com/jinrong/13004689/20261118/49882665.html",
+     "s": "中华网财经"
     },
     {
-     "t": "RMF24：欧盟或将俄罗斯体育纳入第22 轮制裁方案",
-     "u": "https://ua.news/cn/world/es-mozhe-vkliuchiti-rosiiskii-sport-do-22-go-paketa-sanktsii-rmf24",
-     "s": "UA.NEWS"
+     "t": "英伟达业绩实现更快增长，称黄仁勋不会重返CEO岗位",
+     "u": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%81%AD%E8%A7%A3%E8%81%8C%E5%90%8E-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E4%BB%BD%E8%B4%A2%E6%8A%A5%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F-9704413b",
+     "s": "华尔街日报中文网"
     }
    ]
   },
   {
-   "kw": "5274",
-   "traffic": "200+",
-   "start": "2026-11-17T11:10+08:00",
-   "pic": "",
-   "news": []
+   "kw": "傑登·麥克丹尼爾斯",
+   "traffic": "100+",
+   "start": "2026-11-18T12:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7522WkI2A8Xj-mei6Gn7eYuM69HY4x3n2mebk36iabpw0IjgQfXFjfUHv9Ro",
+   "news": [
+    {
+     "t": "Jaden McDaniels signs with adidas",
+     "u": "https://sports.yahoo.com/articles/jaden-mcdaniels-signs-adidas-154659422.html",
+     "s": "Yahoo Sports"
+    },
+    {
+     "t": "adidas Believe That 1 Timberwolves Set to Release Holiday 2026",
+     "u": "https://kicksundercost.com/news/adidas-believe-that-1-timberwolves-holiday-2026-release",
+     "s": "KicksUnderCost"
+    },
+    {
+     "t": "Jaden McDaniels Debuts adidas Believe That 1 “Timberwolves”",
+     "u": "https://sneakerbardetroit.com/adidas-believe-that-1-timberwolves-kz6661/",
+     "s": "Sneaker Bar Detroit"
+    }
+   ]
+  },
+  {
+   "kw": "金融股",
+   "traffic": "100+",
+   "start": "2026-11-18T11:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8OV8BZO2eAFxCyRaorJaHV5UiM3IDGYRcNMoy4mwqrZnAAWivByEnfxPeY-Q",
+   "news": [
+    {
+     "t": "0050高檔才買？小資族改搭00998A分散科技股風險 布局全球金融賺三重效益",
+     "u": "https://tw.stock.yahoo.com/news/0050%E9%AB%98%E6%AA%94%E6%89%8D%E8%B2%B7-%E5%B0%8F%E8%B3%87%E6%97%8F%E6%94%B9%E6%90%AD00998a%E5%88%86%E6%95%A3%E7%A7%91%E6%8A%80%E8%82%A1%E9%A2%A8%E9%9A%AA-%E5%B8%83%E5%B1%80%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E8%B3%BA%E4%B8%89%E9%87%8D%E6%95%88%E7%9B%8A-022000268.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "ETF大洗牌！同為配息型ETF 00998A近月績效竟逆勢超車00878、0056 | 觀傳媒",
+     "u": "https://today.line.me/tw/v3/article/1DP2zZB",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "櫃買重挫3.92% 金融股逆勢穩住 00998A近一個月漲2.83% 配息年化約一成",
+     "u": "https://fnc.ebc.net.tw/fncnews/stock/223125",
+     "s": "東森電視"
+    }
+   ]
+  },
+  {
+   "kw": "周刊王",
+   "traffic": "100+",
+   "start": "2026-11-18T11:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG_IZoY2ExQiQfoh0DCK5wEofvFKYFwOOveMmd3d_0-iEZCTatOmxv8n8KTd8",
+   "news": [
+    {
+     "t": "離婚1年爆新歡？小煜載大眼妹逛夜市「手放他大腿」 經紀人曝兩人真實關係",
+     "u": "https://ent.ltn.com.tw/news/breakingnews/5644542",
+     "s": "自由娛樂"
+    },
+    {
+     "t": "小煜離婚1年「載大眼妹逛夜市」疑有新歡？經紀人曝兩人真實關係| 娛樂",
+     "u": "https://newtalk.tw/news/view/2026-11-18/1071763",
+     "s": "Newtalk新聞"
+    },
+    {
+     "t": "小煜離婚1年有新歡！約會大眼長髮妹　竟被拍到亂丟垃圾超尷尬",
+     "u": "https://www.nownews.com/news/6893254",
+     "s": "NOWnews今日新聞"
+    }
+   ]
+  },
+  {
+   "kw": "raptors vs knicks",
+   "traffic": "100+",
+   "start": "2026-11-18T11:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEWrZo4C8I81ytW64aWQRJ3oG7Y88M6cwdbEnSyhx-C2Rqsijcut3oRPUGovQ",
+   "news": [
+    {
+     "t": "Raptors suffer frustrating overtime loss to Knicks in Barnes’ return",
+     "u": "https://www.sportsnet.ca/nba/article/raptors-suffer-frustrating-overtime-loss-to-knicks-in-barnes-return/",
+     "s": "Sportsnet.ca"
+    },
+    {
+     "t": "Knicks pull off Toronto sweep thanks to Jalen Brunson’s late four-point play",
+     "u": "https://sports.yahoo.com/articles/knicks-pull-off-toronto-sweep-032600575.html",
+     "s": "Yahoo Sports"
+    },
+    {
+     "t": "Fantastic Finish: Knicks close out Raptors with 9-0 run",
+     "u": "https://www.nba.com/watch/video/fantastic-finish-knicks-close-out-raptors-with-9-0-run?plsrc=nba&collection=top-trending-videos",
+     "s": "NBA.com"
+    }
+   ]
   },
   {
    "kw": "血糖",
@@ -498,155 +643,18 @@
      "s": "Emerald Book"
     }
    ]
-  },
-  {
-   "kw": "艾德萊斯·阿德巴約",
-   "traffic": "100+",
-   "start": "2026-11-17T11:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUw0jOWdGtSYv-V1VD9RRv5wqVgMc6D8F9FNrCQOd3fzJb7qgxtHJkX1ek3cY",
-   "news": [
-    {
-     "t": "Heat star Bam Adebayo exits win over Rockets early with hip tightness",
-     "u": "https://www.espn.com/nba/story/_/id/50507278/heat-star-bam-adebayo-exits-win-early-hip-tightness",
-     "s": "ESPN"
-    },
-    {
-     "t": "Giannis Antetokounmpo scores 20 as Miami Heat roll past Houston Rockets 128-110 for 5th straight win",
-     "u": "https://www.cbsnews.com/miami/news/heat-rockets-128-110-fifth-straight-win-antetokounmpo-thompson-allen-3-pointers/",
-     "s": "CBS News"
-    },
-    {
-     "t": "Final: Heat 128, Rockets 110",
-     "u": "https://sports.yahoo.com/articles/final-heat-128-rockets-110-031355845.html",
-     "s": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "kw": "陳思羽",
-   "traffic": "100+",
-   "start": "2026-11-17T11:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "印尼",
-   "traffic": "100+",
-   "start": "2026-11-17T11:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKba0EDhnGvEuqWgcuuB7Q6bRYQf6duOu6UJC9DNz56r769_TkAf3_rGZkQFc",
-   "news": [
-    {
-     "t": "輝達印尼子公司遭突襲成空殼！恐偷渡中國引發美方震怒",
-     "u": "https://www.setn.com/news/1939987",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "川普替盧特尼克撐腰！美晶片新禁令卻由財政部主導 外媒曝「背後內幕」",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5643144",
-     "s": "自由財經"
-    },
-    {
-     "t": "黃樂涉轉賣輝達晶片至中國 Megaspeed：已於去年離職",
-     "u": "https://news.pts.org.tw/article/835903",
-     "s": "公視新聞"
-    }
-   ]
-  },
-  {
-   "kw": "塔里克·史庫柏",
-   "traffic": "100+",
-   "start": "2026-11-17T11:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4k_TsL7nzfWH6UscKfSwGSeFul869g5SCnfN3rDQhlyWeuA-NJzivsTFJ1T8",
-   "news": [
-    {
-     "t": "Every MLB team's chance of signing Skubal -- and their backup plans",
-     "u": "https://www.espn.com/mlb/story/_/id/50454235/tarik-skubal-all-30-teams-backup-plans",
-     "s": "ESPN"
-    },
-    {
-     "t": "The November of Tarik Skubal and Scott Boras is here. A decision years ago set it all in motion",
-     "u": "https://www.nytimes.com/athletic/7775083/2026/11/12/tarik-skubal-scott-boras-history-in-motion/",
-     "s": "The New York Times"
-    },
-    {
-     "t": "New Tarik Skubal Rumors on Historic Contract Price & Threat from Dodgers' Rivals in MLB Free Agency",
-     "u": "https://bleacherreport.com/articles/25533667-new-tarik-skubal-rumors-historic-contract-price-threat-dodgers-rivals-mlb-free-agency",
-     "s": "Bleacher Report"
-    }
-   ]
-  },
-  {
-   "kw": "喬爾·恩比德",
-   "traffic": "100+",
-   "start": "2026-11-17T11:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDSSZt2wTLRI9I3xLEqlbhBimaqgUlwUs1D48jWSkFG1vj4bUlaVqh0p9xcQw",
-   "news": [
-    {
-     "t": "76ers 135-123 Nets (Nov 16, 2026) Game Recap",
-     "u": "https://www.espn.com/nba/recap/_/gameId/401909997",
-     "s": "ESPN"
-    },
-    {
-     "t": "Embiid, Brown Shine as 76ers Beat Nets With LeBron Out, Box Score Stats, Highlights for Maxey, More",
-     "u": "https://bleacherreport.com/articles/25534384-embiid-brown-shine-76ers-beat-nets-lebron-out-box-score-stats-highlights-maxey-more",
-     "s": "Bleacher Report"
-    },
-    {
-     "t": "Brooklyn Nets vs. Philadelphia 76ers ‑ Game Highlights 11/16/2026",
-     "u": "https://www.nba.com/sixers/videos/brooklyn-nets-vs-philadelphia-76ers-game-highlights-11-16-2026",
-     "s": "NBA.com"
-    }
-   ]
-  },
-  {
-   "kw": "康霈",
-   "traffic": "100+",
-   "start": "2026-11-17T11:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuILH8hgoVt_lMvRIq0WuDjrtKaIg1g7jgpaosI40Fgw3-2PD9xKDoymZXV10",
-   "news": [
-    {
-     "t": "【10:24 即時新聞】康霈*(6919) 盤中走強，生技族群資金回流成焦點",
-     "u": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1293970",
-     "s": "CMoney"
-    },
-    {
-     "t": "6919 康霈* - 做空勝率極高，感謝康霈賜滷肉飯加蛋🥹🫶🏻 - 股市爆料同學會",
-     "u": "https://www.cmoney.tw/forum/article/188760774",
-     "s": "CMoney"
-    },
-    {
-     "t": "【11/16日股價跌幅】寶泰生醫(-12.71%)、藥祇(-11.52%)、慧康生技*(-10.44%)",
-     "u": "https://www.genetinfo.com/investment/featured/item/99344.html",
-     "s": "生技投資第一站-Genet觀點"
-    }
-   ]
-  },
-  {
-   "kw": "澳洲",
-   "traffic": "100+",
-   "start": "2026-11-17T11:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhkXJnDp9tCRESGPw1e_JIoZcLFn7b8VWgPzi8auuNzaBcWm4PHVDRg3wRuF0",
-   "news": [
-    {
-     "t": "澳洲收緊打工度假規定 二簽偏遠地區工作延長至4個月 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/zNM3pl5",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "澳背包客簽證政策轉向 第三年名額擬上調",
-     "u": "https://www.epochtimes.com/b5/26/11/12/n14887782.htm",
-     "s": "大紀元"
-    },
-    {
-     "t": "澳洲新移民就業調查 中東北非移民失業率最高",
-     "u": "https://www.epochtimes.com/gb/26/11/17/n14889868.htm",
-     "s": "大紀元"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-18": [
+   {
+    "kw": "湖人 對 黃蜂",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "009816",
+    "traffic": "1000+"
+   },
    {
     "kw": "道瓊工業平均指數",
     "traffic": "500+"
@@ -680,11 +688,43 @@
     "traffic": "200+"
    },
    {
+    "kw": "lakers vs hornets",
+    "traffic": "200+"
+   },
+   {
+    "kw": "艾尤·多桑姆",
+    "traffic": "200+"
+   },
+   {
+    "kw": "運輸機",
+    "traffic": "200+"
+   },
+   {
     "kw": "血糖",
     "traffic": "100+"
    },
    {
     "kw": "wales vs portugal",
+    "traffic": "100+"
+   },
+   {
+    "kw": "英伟达",
+    "traffic": "100+"
+   },
+   {
+    "kw": "傑登·麥克丹尼爾斯",
+    "traffic": "100+"
+   },
+   {
+    "kw": "金融股",
+    "traffic": "100+"
+   },
+   {
+    "kw": "周刊王",
+    "traffic": "100+"
+   },
+   {
+    "kw": "raptors vs knicks",
     "traffic": "100+"
    }
   ],
