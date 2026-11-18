@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-18 22:12",
- "updated_iso": "2026-11-18T22:12+08:00",
+ "updated": "2026-11-19 06:06",
+ "updated_iso": "2026-11-19T06:06+08:00",
  "items": [
+  {
+   "kw": "tsm stock",
+   "traffic": "2000+",
+   "start": "2026-11-19T04:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX6DNZrz2nAgBcnHnR4ZXqPpC7q2ximmaHaZHs8iwvO_qODxH0cLQEbI4LQ6o",
+   "news": [
+    {
+     "t": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
+     "u": "https://seekingalpha.com/article/4969424-tsmc-the-biggest-loser-from-the-nvidia-debacle",
+     "s": "Seeking Alpha"
+    },
+    {
+     "t": "$Taiwan Semiconductor(TSM.US)Context:Recent developments in…",
+     "u": "https://longbridge.com/topics/100000000995356",
+     "s": "Longbridge"
+    },
+    {
+     "t": "The Bet Behind TSMC's Rally",
+     "u": "https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/the-bet-behind-tsmcs-rally",
+     "s": "Simply Wall St"
+    }
+   ]
+  },
   {
    "kw": "湖人 對 黃蜂",
    "traffic": "2000+",
@@ -26,11 +49,117 @@
    ]
   },
   {
+   "kw": "消費券",
+   "traffic": "1000+",
+   "start": "2026-11-19T05:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "快 閃 記憶 體",
+   "traffic": "1000+",
+   "start": "2026-11-19T05:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOFK_EqjWNcHeLf-q1AC1q7VRGnR6P8G8-e6qdNYR4oSbMAFnk60NdtwGSPLU",
+   "news": [
+    {
+     "t": "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
+     "u": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Ships-First-All-Flash-Storage-Servers-Delivering-PCIe-Gen-6-Performance-and-Broad-Software-Defined-Storage-Support-for-AI-Training-and-Inference/default.aspx",
+     "s": "Supermicro"
+    },
+    {
+     "t": "AMD Zen 6 Technical Deep Dive",
+     "u": "https://www.techpowerup.com/review/amd-zen-6-technical-deep-dive/",
+     "s": "TechPowerUp"
+    },
+    {
+     "t": "AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux",
+     "u": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
+     "s": "ServeTheHome"
+    }
+   ]
+  },
+  {
+   "kw": "最低工資",
+   "traffic": "1000+",
+   "start": "2026-11-19T05:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "美國股市",
+   "traffic": "1000+",
+   "start": "2026-11-19T05:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxkH681vcoHKfa_-sMnQSsuVfyqTzLDVaskc-ipmMJ6wTReECY1jjZcW2qhlE",
+   "news": [
+    {
+     "t": "黃仁勳造成輝達222兆元損失 外媒嚴批辜負所有人信任",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5645457",
+     "s": "自由財經"
+    },
+    {
+     "t": "輝達風暴與美晶片管制夾擊 亞股多收黑",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1052042",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "輝達股價已挫35%！Anthropic有望成AI股「新神主牌」? 掛牌備受關注",
+     "u": "https://tech.tvbs.com.tw/money/4051974",
+     "s": "TVBS"
+    }
+   ]
+  },
+  {
    "kw": "009816",
    "traffic": "1000+",
    "start": "2026-11-18T12:20+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "美股指數",
+   "traffic": "500+",
+   "start": "2026-11-19T05:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVmAcBAfWSa4qy34CrNXRfigOFv3SPybcUhXBdcZe2EwZHYfb2vrDUMmJ9H90",
+   "news": [
+    {
+     "t": "盤勢分析》昨低點不可再破 下半週反彈",
+     "u": "https://stock.ltn.com.tw/article/ulx2erqzeubj",
+     "s": "自由時報"
+    },
+    {
+     "t": "台指期月結算軋空 尾盤強力拉高台積電走揚5元 台股收漲102點",
+     "u": "https://udn.com/news/story/7251/9886487",
+     "s": "UDN"
+    },
+    {
+     "t": "兆億量能出現！行情即將反轉！",
+     "u": "https://news.wearn.com/c2149200.html",
+     "s": "聚財網"
+    }
+   ]
+  },
+  {
+   "kw": "退休",
+   "traffic": "500+",
+   "start": "2026-11-19T05:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqOmXBiJrtwf9Ja1EUgD7iRP0VD6NV74ub3LTfkfuqDGix3jcA7LeACifnw0",
+   "news": [
+    {
+     "t": "54歲退休、57歲考上高考！前銀行經理重返職場：我想過更有質感的老後生活",
+     "u": "https://www.cw.com.tw/aging/article/5143757",
+     "s": "天下雜誌"
+    },
+    {
+     "t": "填退休力指標 決定未來人生選擇權",
+     "u": "https://udn.com/news/story/7266/9887758",
+     "s": "UDN"
+    },
+    {
+     "t": "「你得自己想辦法」！哥哥一句話 54歲弟靠媽退休金養20年生活面臨斷炊",
+     "u": "https://tw.stock.yahoo.com/news/%E4%BD%A0%E5%BE%97%E8%87%AA%E5%B7%B1%E6%83%B3%E8%BE%A6%E6%B3%95-%E5%93%A5%E5%93%A5-%E5%8F%A5%E8%A9%B1-54%E6%AD%B2%E5%BC%9F%E9%9D%A0%E5%AA%BD%E9%80%80%E4%BC%91%E9%87%91%E9%A4%8A20%E5%B9%B4%E7%94%9F%E6%B4%BB%E9%9D%A2%E8%87%A8%E6%96%B7%E7%82%8A-211000013.html",
+     "s": "Yahoo股市"
+    }
+   ]
   },
   {
    "kw": "道瓊工業平均指數",
@@ -56,57 +185,50 @@
    ]
   },
   {
-   "kw": "輝達盤後",
-   "traffic": "500+",
-   "start": "2026-11-18T05:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQT7WTG6_IRK-jFfvcerFc105e3o_l9uoc5c9go51z744FMYQVjIX6YTsYRKBQ",
+   "kw": "中國",
+   "traffic": "200+",
+   "start": "2026-11-19T04:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8tEzMJDxWf0GrJs5MkccGwGcIydrhfWMMn31WCBl_8FncHKHicK8uiOL1MQ",
    "news": [
     {
-     "t": "快訊／美股開盤跌一片！那指跌逾300點、英特爾殺逾5%、台積電ADR跌近4% 台股明天恐再迎震盪",
-     "u": "https://tw.stock.yahoo.com/news/%E5%BF%AB%E8%A8%8A-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E8%B7%8C-%E7%89%87-%E9%82%A3%E6%8C%87%E8%B7%8C%E9%80%BE300%E9%BB%9E-%E8%8B%B1%E7%89%B9%E7%88%BE%E6%AE%BA%E9%80%BE5-144900928.html",
-     "s": "Yahoo股市"
+     "t": "習近平APEC提「深圳倡議」 強調穩定、和平等4點建議",
+     "u": "https://news.pts.org.tw/article/836299",
+     "s": "公視新聞"
     },
     {
-     "t": "華爾街再次震盪！英偉達和其他人工智能概念股股價下跌",
-     "u": "https://www.singtaousa.com/2026/11/17/news/usa/stock-markets-ai-earnings-oil/",
-     "s": "Singtaousa"
+     "t": "【蔡明芳時間】APEC峰會與產業趨勢解析",
+     "u": "https://www.rti.org.tw/programnews?uid=4&pid=118489",
+     "s": "Rti 中央廣播電臺"
     },
     {
-     "t": "道指尾市挫逾千點 收市跌848點 納指曾失守24000點",
-     "u": "https://news.rthk.hk/rthk/ch/component/k2/1878211-20261118.htm",
-     "s": "RTHK News"
+     "t": "APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5645630",
+     "s": "自由時報"
     }
    ]
   },
   {
-   "kw": "海鯤號潛艦",
-   "traffic": "500+",
-   "start": "2026-11-18T05:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8A2Psb4PHHVQOZrGNbL9bTJY9FX332t8C1FrGGFTadc30Kh80lQYzY_PIdr8",
+   "kw": "美股即時",
+   "traffic": "200+",
+   "start": "2026-11-19T04:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdBD8d9nEhmjPWczUQWGJntqihhytkXIDFt2frV5PIMvoLyn3Z7qoUq9kfckw",
    "news": [
     {
-     "t": "獨家》潛艦海鯤號出塢了！台船碼頭6艘「超級」海洋戰隊齊聚影像曝",
-     "u": "https://def.ltn.com.tw/article/breakingnews/5643747",
-     "s": "自由軍武頻道"
+     "t": "Factset 最新調查：哈門那(HUM-US)EPS預估上修至9.34元，預估目標價為495.00元｜新聞快訊｜豐雲學堂",
+     "u": "https://www.sinotrade.com.tw/richclub/news/6af1d8e971992d5745e98b07",
+     "s": "永豐金證券"
     },
     {
-     "t": "獨家影像曝！潛艦海鯤號逾月未出港 台船大塢「坐墩」只見3個數字",
-     "u": "https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6%E5%BD%B1%E5%83%8F%E6%9B%9D-%E6%BD%9B%E8%89%A6%E6%B5%B7%E9%AF%A4%E8%99%9F%E9%80%BE%E6%9C%88%E6%9C%AA%E5%87%BA%E6%B8%AF-%E5%8F%B0%E8%88%B9%E5%A4%A7%E5%A1%A2-%E5%9D%90%E5%A2%A9-%E5%8F%AA%E8%A6%8B3%E5%80%8B%E6%95%B8%E5%AD%97-091723905.html",
-     "s": "Yahoo新聞"
+     "t": "【01:47 即時新聞】Humana(HUM) 重挫逾10%／健護族群遭賣壓、健康保險股領跌拖累",
+     "u": "https://cmnews.com.tw/article/cmoneyairesearcher-20c3fbc6-e378-11f1-8aff-5e7dee284f07",
+     "s": "CMoney投資網誌"
     },
     {
-     "t": "6753 龍德造船- 138億潛艦救難艦兜幾？ - 股市爆料同學會",
-     "u": "https://www.cmoney.tw/forum/article/188674006",
-     "s": "CMoney"
+     "t": "華爾街大咖調整評等震撼盤面：Humana目標暴衝至563美元、Yeti遭降評",
+     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-ce2ca574-e1d3-11f1-9787-69e8be403862",
+     "s": "美股放大鏡"
     }
    ]
-  },
-  {
-   "kw": "夜盤指數",
-   "traffic": "500+",
-   "start": "2026-11-18T05:20+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "張善政",
@@ -291,50 +413,11 @@
    ]
   },
   {
-   "kw": "dplus kia",
-   "traffic": "200+",
-   "start": "2026-11-18T05:50+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRIvX6C-_vZ8WrcD7uDfDK8cVRm8qPyOoGeXRxgSdLy6E4xiIDJ33Nxgm-VBY",
-   "news": [
-    {
-     "t": "2027 LoL Worlds Co-Hosted by South Korea, Japan",
-     "u": "https://www.chosun.com/english/sports-en/2026/11/15/VPH6OYO5QFFEBEET35SFKOGXP4/",
-     "s": "조선일보"
-    },
-    {
-     "t": "Riot Games Considering Replacing Worlds Play-In with Demacia Cup Global Invitational in 2027",
-     "u": "https://www.sheepesports.com/en/articles/riot-games-considering-replacing-worlds-play-in-with-demacia-cup-global-invitational-in/en",
-     "s": "Sheep Esports"
-    },
-    {
-     "t": "Next Year's Worlds Final to Be Held in Seoul... Showdown at 'Seoul Arena'",
-     "u": "https://www.asiae.co.kr/en/article/2026111400394915464",
-     "s": "아시아경제"
-    }
-   ]
-  },
-  {
-   "kw": "nvda stock",
-   "traffic": "200+",
-   "start": "2026-11-18T05:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEN813vIYdA9W3Aa-7_SCaz4KzUH-RQLjEFfpga8wXEoKTNg5l_AQAB4vwmg",
-   "news": [
-    {
-     "t": "Nvidia earnings live updates: Wall Street braces for first report since Huang's ouster",
-     "u": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
-     "s": "CNBC"
-    },
-    {
-     "t": "Nvidia earnings live: Nvidia to report Q3 results after the bell with Colette Kress to host first call as interim CEO",
-     "u": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-to-report-q3-results-after-the-bell-with-colette-kress-to-host-first-call-as-interim-ceo-202616349.html",
-     "s": "Yahoo Finance"
-    },
-    {
-     "t": "Nvidia shares set for $335 billion swing after earnings, options show",
-     "u": "https://www.reuters.com/business/nvidia-shares-set-335-billion-swing-after-earnings-options-show-2026-11-17/",
-     "s": "Reuters"
-    }
-   ]
+   "kw": "台視新聞",
+   "traffic": "100+",
+   "start": "2026-11-19T05:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "anthropic 上市",
@@ -496,78 +579,51 @@
      "s": "NOWnews今日新聞"
     }
    ]
-  },
-  {
-   "kw": "raptors vs knicks",
-   "traffic": "100+",
-   "start": "2026-11-18T11:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEWrZo4C8I81ytW64aWQRJ3oG7Y88M6cwdbEnSyhx-C2Rqsijcut3oRPUGovQ",
-   "news": [
-    {
-     "t": "Raptors suffer frustrating overtime loss to Knicks in Barnes’ return",
-     "u": "https://www.sportsnet.ca/nba/article/raptors-suffer-frustrating-overtime-loss-to-knicks-in-barnes-return/",
-     "s": "Sportsnet.ca"
-    },
-    {
-     "t": "Knicks pull off Toronto sweep thanks to Jalen Brunson’s late four-point play",
-     "u": "https://sports.yahoo.com/articles/knicks-pull-off-toronto-sweep-032600575.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "Fantastic Finish: Knicks close out Raptors with 9-0 run",
-     "u": "https://www.nba.com/watch/video/fantastic-finish-knicks-close-out-raptors-with-9-0-run?plsrc=nba&collection=top-trending-videos",
-     "s": "NBA.com"
-    }
-   ]
-  },
-  {
-   "kw": "血糖",
-   "traffic": "100+",
-   "start": "2026-11-18T06:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_o5XYvAYaLkhj8t7aRfAcDnLab948pEeRFlfDUZ6upUkcAt6RHCVicBD7OI",
-   "news": [
-    {
-     "t": "她戒澱粉、三餐少吃竟「糖尿病前期」 醫揭關鍵：吃對自帶瘦瘦素",
-     "u": "https://health.setn.com/news/1937377",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "水果配地瓜小心「雙重碳水」讓血糖大飆升- 樂活",
-     "u": "https://www.ctee.com.tw/news/20261117700654-430905",
-     "s": "工商時報"
-    },
-    {
-     "t": "變胖又傷腎！這些NG組合別再吃",
-     "u": "https://news.ebc.net.tw/news/health/580917",
-     "s": "東森新聞"
-    }
-   ]
-  },
-  {
-   "kw": "wales vs portugal",
-   "traffic": "100+",
-   "start": "2026-11-18T05:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLaLp_P4bXt8sS4yUM6Cn1YP0erMjCMJ7MQFgDeLcN5q6wd7O9oklHj09Q5Kk",
-   "news": [
-    {
-     "t": "Germany joyfully thrash Netherlands",
-     "u": "https://www.taipeitimes.com/News/sport/archives/2026/11/18/2003867936",
-     "s": "Taipei Times"
-    },
-    {
-     "t": "A big winner under Jürgen Klopp flies almost completely under the radar",
-     "u": "https://www.goal.com/en/news/a-big-winner-under-juergen-klopp-flies-completely-under-the-radar-amid-wirtz-and-gruda/blt0dbf535e50f9c36e",
-     "s": "Goal.com"
-    },
-    {
-     "t": "Licensable picture: Dänemark vs Norwegen, Nations League, 6. Spieltag, Saison 2026 2027",
-     "u": "https://www.reutersconnect.com/item/danemark-vs-norwegen-nations-league-6-spieltag-saison-2026-2027/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVEExUlU",
-     "s": "Reuters Connect"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-19": [
+   {
+    "kw": "tsm stock",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "消費券",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "快 閃 記憶 體",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "最低工資",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "美國股市",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "美股指數",
+    "traffic": "500+"
+   },
+   {
+    "kw": "退休",
+    "traffic": "500+"
+   },
+   {
+    "kw": "中國",
+    "traffic": "200+"
+   },
+   {
+    "kw": "美股即時",
+    "traffic": "200+"
+   },
+   {
+    "kw": "台視新聞",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-18": [
    {
     "kw": "湖人 對 黃蜂",
@@ -1058,88 +1114,6 @@
    {
     "kw": "曾莞婷",
     "traffic": "200+"
-   }
-  ],
-  "2026-11-12": [
-   {
-    "kw": "加權指數",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "亞冠賽",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "尼克 對 騎士",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "美股指數",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "公鹿 對 湖人",
-    "traffic": "500+"
-   },
-   {
-    "kw": "暴龍 對 塞爾提克",
-    "traffic": "500+"
-   },
-   {
-    "kw": "邱澤",
-    "traffic": "500+"
-   },
-   {
-    "kw": "交通部中央气象署",
-    "traffic": "500+"
-   },
-   {
-    "kw": "勵馨基金會",
-    "traffic": "500+"
-   },
-   {
-    "kw": "3037",
-    "traffic": "500+"
-   },
-   {
-    "kw": "qqq",
-    "traffic": "500+"
-   },
-   {
-    "kw": "公牛 對 馬刺",
-    "traffic": "200+"
-   },
-   {
-    "kw": "溜馬 對 巫師",
-    "traffic": "200+"
-   },
-   {
-    "kw": "退休金",
-    "traffic": "200+"
-   },
-   {
-    "kw": "順報",
-    "traffic": "200+"
-   },
-   {
-    "kw": "吳泱潾",
-    "traffic": "200+"
-   },
-   {
-    "kw": "3653",
-    "traffic": "200+"
-   },
-   {
-    "kw": "tim cook",
-    "traffic": "200+"
-   },
-   {
-    "kw": "harvey jones",
-    "traffic": "200+"
-   },
-   {
-    "kw": "復仇者聯盟5",
-    "traffic": "100+"
    }
   ]
  }
