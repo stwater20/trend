@@ -1,30 +1,7 @@
 {
- "updated": "2026-11-18 12:30",
- "updated_iso": "2026-11-18T12:30+08:00",
+ "updated": "2026-11-18 22:12",
+ "updated_iso": "2026-11-18T22:12+08:00",
  "items": [
-  {
-   "kw": "明天的天氣",
-   "traffic": "50000+",
-   "start": "2026-11-17T20:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzZCdtUQfQ3lmuTF6hW1QwCmZFxgbDgRPvO_Q7SKaeH9zilZCukTZM2LCZtRA",
-   "news": [
-    {
-     "t": "明起全台降溫！北東降雨機率增 這日迎首波冷氣團低溫下探12度",
-     "u": "https://udn.com/news/story/7266/9884729",
-     "s": "UDN"
-    },
-    {
-     "t": "東北季風明起發威 高山後天迎初雪 週五升級首波冷氣團",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1051897",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "白天偏熱早晚涼明午鋒面再變天",
-     "u": "http://www.metapp.org.tw/pages/post-9242ac94ab7f9071b3a2.html",
-     "s": "氣象應用推廣基金會"
-    }
-   ]
-  },
   {
    "kw": "湖人 對 黃蜂",
    "traffic": "2000+",
@@ -54,75 +31,6 @@
    "start": "2026-11-18T12:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "cuaca besok",
-   "traffic": "1000+",
-   "start": "2026-11-17T20:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVVaDydsX6gn_ba9d2bcUFo72tnKEmmfid3VijIvS50GW7C7CadDGXoKap8Hg",
-   "news": [
-    {
-     "t": "El Niño dan IOD Positif Tidak Merata, Hujan dan Angin Kencang di Sebagian Wilayah Indonesia",
-     "u": "https://darilaut.id/berita/el-nino-dan-iod-positif-tidak-merata-hujan-dan-angin-kencang-di-sebagian-wilayah-indonesia",
-     "s": "Darilaut.id"
-    },
-    {
-     "t": "Prakiraan Cuaca Indonesia Sepekan Periode 17 – 23 November 2026: Aktivitas Atmosfer Masih Dinamis, Meningkatkan Potensi Hujan di Sejumlah Wilayah Indonesia",
-     "u": "https://www.bmkg.go.id/cuaca/potensi-hujan-sepekan/prakiraan-cuaca-indonesia-sepekan-periode-17-23-november-2026-aktivitas-atmosfer-masih-dinamis-meningkatkan-potensi-hujan-di-sejumlah-wilayah-indonesia",
-     "s": "BMKG"
-    },
-    {
-     "t": "BMKG imbau masyarakat waspadai hujan petir di berbagai wilayah",
-     "u": "https://sultra.antaranews.com/berita/546791/bmkg-imbau-masyarakat-waspadai-hujan-petir-di-berbagai-wilayah",
-     "s": "ANTARA News Sultra"
-    }
-   ]
-  },
-  {
-   "kw": "weather tomorrow",
-   "traffic": "1000+",
-   "start": "2026-11-17T20:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS42v1DsGyrGvRMqXlvLaLpeImVWLzNK6ENYb2xKAWWH7Dv9rMSI3a-RFeRGgc",
-   "news": [
-    {
-     "t": "Tropical Cyclone 05B (Akvan) develops over Bay of Bengal",
-     "u": "https://fredpickhardt.substack.com/p/tropical-cyclone-05b-akvan-develops",
-     "s": "Substack"
-    },
-    {
-     "t": "Cyclone Akvan path's changed? IMD now forecasts landfall between Nellore and Visakhapatnam",
-     "u": "https://timesofindia.indiatimes.com/city/chennai/cyclone-akvan-path-changed-imd-now-forecasts-landfall-between-nellore-and-visakhapatnam/articleshow/135926089.cms",
-     "s": "The Times of India"
-    },
-    {
-     "t": "Prakasam tobacco farmers hit by Arnab and Murasu now fear Cyclone Akvan",
-     "u": "https://www.thehindu.com/news/national/andhra-pradesh/prakasam-tobacco-farmers-hit-by-arnab-and-murasu-now-fear-cyclone-akvan/article71711071.ece",
-     "s": "The Hindu"
-    }
-   ]
-  },
-  {
-   "kw": "洪麗華",
-   "traffic": "1000+",
-   "start": "2026-11-17T19:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwhFykutbAgbViHGdBBa7sOtCdUGQJ7B4_xEQMaOM7UUvp5q20X7xXot6Va-E",
-   "news": [
-    {
-     "t": "台中市長選舉政見會何欣純首推交通、江啟臣主打智慧安全| 地方",
-     "u": "https://www.cna.com.tw/news/aloc/202611170312.aspx",
-     "s": "中央社 CNA"
-    },
-    {
-     "t": "控國民黨恐嚇長輩！何欣純政見會喊話：老人健保補助一定延續",
-     "u": "https://www.setn.com/news/1940574",
-     "s": "三立新聞網SETN.com"
-    },
-    {
-     "t": "快訊／第二胎市府養到國中！洪麗華拋震撼彈：有本事生10個都我養",
-     "u": "https://www.ettoday.net/news/20261117/3273896.htm",
-     "s": "ETtoday新聞雲"
-    }
-   ]
   },
   {
    "kw": "道瓊工業平均指數",
@@ -201,71 +109,85 @@
    "news": []
   },
   {
-   "kw": "勞動部勞動力發展署",
-   "traffic": "500+",
-   "start": "2026-11-17T20:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKzRLLDfbr-DBRFMpWVbFslNej1Y9Q0Cxbf0fivF9uOUiEQB4xHfDSy44sciQ",
+   "kw": "張善政",
+   "traffic": "200+",
+   "start": "2026-11-18T21:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "babymonster 演唱會",
+   "traffic": "200+",
+   "start": "2026-11-18T21:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHuvIiY321naPUZmj6p41ws5gBXIRVZLE7vmoqLuy50AcYiYgvw8uuNQj2w5g",
    "news": [
     {
-     "t": "大專生畢業前先卡位！企業預聘計畫開放申請至116年1月最高補助企業7.2萬、留任再領1萬 | 陳逸群 | 地方新聞",
-     "u": "https://www.storm.mg/article/11182196",
-     "s": "風傳媒"
+     "t": "BABYMONSTER台北演唱會歌單預測！寶怪巡演：熱門歌曲、個人舞台與安可曲一次看",
+     "u": "https://www.harpersbazaar.com/tw/celebrity/celebritynews/a74460819/babymonsterchoom/",
+     "s": "Harper's BAZAAR"
     },
     {
-     "t": "桃竹苗「企業預聘」助青年學用接軌 116學年度開放申請 | 台灣好新聞",
-     "u": "https://today.line.me/tw/v3/article/gzpeOOX",
-     "s": "LINE TODAY"
+     "t": "獨家／BABYMONSTER周末攻小巨蛋！暖設「家長等候區」",
+     "u": "https://ent.ebc.net.tw/jp-kr/504005",
+     "s": "東森電視"
     },
     {
-     "t": "畢業前先卡位職場！桃竹苗分署推企業預聘 116學年度開跑",
-     "u": "https://www.chinatimes.com/realtimenews/20261117002406-260421",
-     "s": "中時新聞網"
+     "t": "【每日揭詐】「臨時家裡有事忍痛割愛」演唱會門票轉售竟是詐騙",
+     "u": "https://tw.news.yahoo.com/%E6%AF%8F%E6%97%A5%E6%8F%AD%E8%A9%90-%E8%87%A8%E6%99%82%E5%AE%B6%E8%A3%A1%E6%9C%89%E4%BA%8B%E5%BF%8D%E7%97%9B%E5%89%B2%E6%84%9B-%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8%E8%BD%89%E5%94%AE%E7%AB%9F%E6%98%AF%E8%A9%90%E9%A8%99-085453897.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
   {
-   "kw": "航空",
-   "traffic": "500+",
-   "start": "2026-11-17T19:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgxg_R3nVQp--soD8ZCQSblV1ONlr0HOnsmP8b0vFrHsXlYJYWgmwWfSsVQJg",
+   "kw": "銀行 盜 轉",
+   "traffic": "200+",
+   "start": "2026-11-18T21:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgH5w9dnad-JTaJlzOyJ8gh-6x7LH05YbOa27yYxzV6AmyViIu5M9AHJs9HfM",
    "news": [
     {
-     "t": "才爆全美停飛令 換聯合航空出包「大規模系統故障」",
-     "u": "https://tw.yahoo.com/%E6%89%8D%E7%88%86%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9B%E4%BB%A4-%E6%8F%9B%E8%81%AF%E5%90%88%E8%88%AA%E7%A9%BA%E5%87%BA%E5%8C%85-%E5%A4%A7%E8%A6%8F%E6%A8%A1%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-231943226.html",
-     "s": "Yahoo"
+     "t": "網銀凌晨爆盜轉！1小時17筆、遭盜23萬 北富銀回應：研判裝置或外部網路釀資料外洩",
+     "u": "https://tw.stock.yahoo.com/news/%E7%B6%B2%E9%8A%80%E5%87%8C%E6%99%A8%E7%88%86%E7%9B%9C%E8%BD%89-1%E5%B0%8F%E6%99%8217%E7%AD%86-%E9%81%AD%E7%9B%9C23%E8%90%AC-%E5%8C%97%E5%AF%8C%E9%8A%80%E5%9B%9E%E6%87%89-%E7%A0%94%E5%88%A4%E8%A3%9D%E7%BD%AE%E6%88%96%E5%A4%96%E9%83%A8%E7%B6%B2%E8%B7%AF%E9%87%80%E8%B3%87%E6%96%99%E5%A4%96%E6%B4%A9-100700150.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "一台路由器癱瘓全美航空的警訊",
-     "u": "https://forum.ettoday.net/news/3273222",
-     "s": "ETtoday新聞雲"
+     "t": "這家銀行傳帳戶異常轉帳 受害者熟睡中遭轉走23萬元",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5645222",
+     "s": "自由財經"
     },
     {
-     "t": "聯航通訊也故障 取消和延誤數百航班 稱當機無關網安",
-     "u": "https://udn.com/news/story/6813/9884119",
+     "t": "帳戶異常轉帳頻傳民眾如何自保？銀行：避免點擊不明連結",
+     "u": "https://udn.com/news/story/7239/9887326",
      "s": "UDN"
     }
    ]
   },
   {
-   "kw": "謝龍介",
-   "traffic": "500+",
-   "start": "2026-11-17T19:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMknZAqPPtnUafHw2GxnAt2LQiKlnhFDnsoMdRiX1GUE8mALI4gZM-FuhqMFc",
+   "kw": "選秀",
+   "traffic": "200+",
+   "start": "2026-11-18T20:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "google.ai",
+   "traffic": "200+",
+   "start": "2026-11-18T20:50+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwUXfmgjcWCnTmeMGVGVs03m0wV7Jm3wY6SN9JOgAKY102e4WLC1UY4-EcR1Y",
    "news": [
     {
-     "t": "蔣萬安反對翡翠水庫蓋光電 卓榮泰：早無設置計畫",
-     "u": "https://news.pts.org.tw/article/836177",
-     "s": "公視新聞"
+     "t": "Google: ‘The era of autonomous attacks has arrived’",
+     "u": "https://thehill.com/policy/technology/6224604-autonomous-ai-threats-google-report/",
+     "s": "The Hill"
     },
     {
-     "t": "陳亭妃公辦政見會承諾烏山頭水庫光電板約滿不續租",
-     "u": "https://www.cdns.com.tw/articles/1492129",
-     "s": "中華新聞雲／中華日報"
+     "t": "The Internet Is Hobbes’s Nightmare, Now With AI",
+     "u": "https://www.newsweek.com/internet-hobbes-nightmare-ai-12732451",
+     "s": "Newsweek"
     },
     {
-     "t": "議員候選人稱烏山頭光電有鉛污染 星能：已對造謠者提告",
-     "u": "https://stock.ltn.com.tw/article/f0bmyaymra6x",
-     "s": "自由時報"
+     "t": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
+     "u": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+     "s": "Google Cloud"
     }
    ]
   },
@@ -415,25 +337,71 @@
    ]
   },
   {
-   "kw": "江夏豐",
-   "traffic": "200+",
-   "start": "2026-11-17T20:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTptpr_zBbbWNk2c_ZSklr0-qUxHm7PzVp3ppchHH7y_fn1z28wJwV9K1f1sPU",
+   "kw": "anthropic 上市",
+   "traffic": "100+",
+   "start": "2026-11-18T22:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI2VdA07YMDa645fS_BzeTe_7Nb8q2QOyyovdAd0QgqR4BqbIdQX4ebQqLdKI",
    "news": [
     {
-     "t": "單季401次三振、11局無安打還自轟再見全壘打！傳奇球星江夏豐辭世",
-     "u": "https://tw.sports.yahoo.com/news/%E5%96%AE%E5%AD%A3401%E6%AC%A1%E4%B8%89%E6%8C%AF-11%E5%B1%80%E7%84%A1%E5%AE%89%E6%89%93%E9%82%84%E8%87%AA%E8%BD%9F%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93-%E5%82%B3%E5%A5%87%E7%90%83%E6%98%9F%E6%B1%9F%E5%A4%8F%E8%B1%90%E8%BE%AD%E4%B8%96-075855487.html",
-     "s": "Yahoo運動"
+     "t": "Anthropic IPO重塑創投圈！早期投資人合計狂賺逾千億美元 天使投資人回報約2300倍",
+     "u": "https://tw.stock.yahoo.com/news/anthropic-ipo%E9%87%8D%E5%A1%91%E5%89%B5%E6%8A%95%E5%9C%88-%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E4%BA%BA%E5%90%88%E8%A8%88%E7%8B%82%E8%B3%BA%E9%80%BE%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9B%9E%E5%A0%B1%E7%B4%842300%E5%80%8D-123004041.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "日職傳奇投手江夏豐終年78歲單季401K紀錄屹立不搖| 運動",
-     "u": "https://www.cna.com.tw/news/aspt/202611170187.aspx",
-     "s": "中央社 CNA"
+     "t": "Anthropic 啟動上市，將成檢驗全球 AI 投資熱潮關鍵指標",
+     "u": "https://finance.technews.tw/2026/11/18/anthropic-ipo-to-test-the-ai-investment-boom/",
+     "s": "TechNews 科技新報"
     },
     {
-     "t": "快訊／日本傳奇左投江夏豐78歲逝世！401K紀錄至今無人破",
-     "u": "https://sports.ettoday.net/news/3273528",
-     "s": "ETtoday運動雲"
+     "t": "Claude母公司上市掀搶購潮！Anthropic認購需求近7倍，台灣人怎麼買？",
+     "u": "https://www.bnext.com.tw/article/93102/anthropic-ipo-ant-nasdaq-taiwan-how-to-buy",
+     "s": "數位時代"
+    }
+   ]
+  },
+  {
+   "kw": "市值",
+   "traffic": "100+",
+   "start": "2026-11-18T21:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlS5IN6gE8xGsIEIS_vXPFwbOueLGtrNELa2-72pvkG09S7oLbI-C6GN3HE90",
+   "news": [
+    {
+     "t": "Dragonfly 合夥人看比特幣：2030 年有機會衝上 40 萬美元，但很難到 100 萬",
+     "u": "https://www.blocktempo.com/dragonfly-haseeb-qureshi-bitcoin-2030-400000-million-target/",
+     "s": "動區動趨"
+    },
+    {
+     "t": "比特幣長線有撐VASP點三利多- 日報",
+     "u": "https://www.ctee.com.tw/news/20261116700265-439901",
+     "s": "工商時報"
+    },
+    {
+     "t": "Blockstream 執行長 Adam Back 看好比特幣 2028 年衝上 100 萬美元，較目前大漲 1,350%",
+     "u": "https://finance.biggo.com.tw/news/4422944d-8fd9-4353-ad5e-03fda825311f",
+     "s": "BigGo 財經"
+    }
+   ]
+  },
+  {
+   "kw": "ps6",
+   "traffic": "100+",
+   "start": "2026-11-18T21:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpQbOOBYudr0gY_YrQUSzq6CnfjxIrVJspM0MsVYH0B1tSwPrwmvHCr8YzUQw",
+   "news": [
+    {
+     "t": "Nintendo Switch 2 Draws More Developer Interest Than PS5 and PS6 in GDC Survey, but PC Still Leads in Interest and In-Development Titles",
+     "u": "https://wccftech.com/nintendo-switch-2-more-developer-interest-ps5-ps6-pc-leads/",
+     "s": "Wccftech"
+    },
+    {
+     "t": "Nintendo Switch 2 ranks second in game developer interest in new survey, ahead of PS5 and Xbox Series",
+     "u": "https://nintendoeverything.com/nintendo-switch-2-ranks-second-in-game-developer-interest-in-new-survey-ahead-of-ps5-and-xbox-series/",
+     "s": "Nintendo Everything"
+    },
+    {
+     "t": "Developers Are More Interested In The Steam Machine Over The PS6 And Project Helix – GDC November 2026 Survey",
+     "u": "https://steamdeckhq.com/news/developers-interested-in-steam-machine-over-ps6-gdc-survey/",
+     "s": "Steam Deck HQ"
     }
    ]
   },
@@ -597,52 +565,6 @@
      "s": "Reuters Connect"
     }
    ]
-  },
-  {
-   "kw": "bodycam",
-   "traffic": "100+",
-   "start": "2026-11-17T19:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEB3BlnoYx8tKpzj16wgOvlURzilHiy27XBJTEjR-JYZybV8QWExvz_2on-Ow",
-   "news": [
-    {
-     "t": "Fresno City Council calls truce between City Attorney Janz and Councilmember Arias in rare, sparse statement",
-     "u": "https://fresnoland.org/2026/11/09/fresno-city-council-calls-truce-between-city-attorney-and-councilmember/",
-     "s": "Fresnoland"
-    },
-    {
-     "t": "Singh Calls for All Records Released. Not Just Arrest Report",
-     "u": "https://gvwire.com/2026/11/16/singh-calls-for-all-records-released-not-just-arrest-report/",
-     "s": "GV Wire"
-    },
-    {
-     "t": "City attorney cleared over confirmation of candidate’s DUI to media; questions remain",
-     "u": "https://www.yahoo.com/news/politics/articles/city-attorney-cleared-over-confirmation-225509418.html",
-     "s": "Yahoo"
-    }
-   ]
-  },
-  {
-   "kw": "gta",
-   "traffic": "100+",
-   "start": "2026-11-17T19:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRluJjHDIy16Pcrsjrnr49LI_8-z4pXsl6i_MBYYySKFbMZH6TdqwyPKtOeC3A",
-   "news": [
-    {
-     "t": "PlayStation, Xbox, Rockstar Outage Nov. 19 Odds - You Can Bet on it With Grand Theft Auto 6 Release",
-     "u": "https://www.gambling911.com/playstation-xbox-rockstar-outage-november-19-odds",
-     "s": "Gambling911"
-    },
-    {
-     "t": "GTA 6 Review Embargo Date Explained – When Do Reviews Come Out?",
-     "u": "https://www.vice.com/en/article/gta-6-review-embargo-date/",
-     "s": "VICE"
-    },
-    {
-     "t": "Why Bloomberg Is Wrong About GTA VI Being Gaming’s “Biggest Financial Bet”",
-     "u": "https://emeraldbook.org/news/nov-1626-3/",
-     "s": "Emerald Book"
-    }
-   ]
   }
  ],
  "history": {
@@ -700,31 +622,31 @@
     "traffic": "200+"
    },
    {
+    "kw": "張善政",
+    "traffic": "200+"
+   },
+   {
+    "kw": "babymonster 演唱會",
+    "traffic": "200+"
+   },
+   {
+    "kw": "銀行 盜 轉",
+    "traffic": "200+"
+   },
+   {
+    "kw": "選秀",
+    "traffic": "200+"
+   },
+   {
+    "kw": "google.ai",
+    "traffic": "200+"
+   },
+   {
     "kw": "血糖",
     "traffic": "100+"
    },
    {
     "kw": "wales vs portugal",
-    "traffic": "100+"
-   },
-   {
-    "kw": "英伟达",
-    "traffic": "100+"
-   },
-   {
-    "kw": "傑登·麥克丹尼爾斯",
-    "traffic": "100+"
-   },
-   {
-    "kw": "金融股",
-    "traffic": "100+"
-   },
-   {
-    "kw": "周刊王",
-    "traffic": "100+"
-   },
-   {
-    "kw": "raptors vs knicks",
     "traffic": "100+"
    }
   ],
