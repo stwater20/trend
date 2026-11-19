@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-19 21:27",
- "updated_iso": "2026-11-19T21:27+08:00",
+ "updated": "2026-11-20 06:15",
+ "updated_iso": "2026-11-20T06:15+08:00",
  "items": [
+  {
+   "kw": "銀行 盜 轉",
+   "traffic": "2000+",
+   "start": "2026-11-20T05:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTXjnoqV_SUvp41yXoRTQGGSw-8DIIGMK-vQYNtXzJJZjGNg7-IKTo7AHAjEI",
+   "news": [
+    {
+     "t": "帳戶錢不翼而飛！4銀行爆網銀異常轉帳 金管會排除系統資安漏洞",
+     "u": "https://tw.news.yahoo.com/%E5%B8%B3%E6%88%B6%E9%8C%A2%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9B-4%E9%8A%80%E8%A1%8C%E7%88%86%E7%B6%B2%E9%8A%80%E7%95%B0%E5%B8%B8%E8%BD%89%E5%B8%B3-%E9%87%91%E7%AE%A1%E6%9C%83%E6%8E%92%E9%99%A4%E7%B3%BB%E7%B5%B1%E8%B3%87%E5%AE%89%E6%BC%8F%E6%B4%9E-131500476.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "網銀頻傳存款消失事件！　專家籲金管會啟動AI資安專案金檢",
+     "u": "https://finance.ettoday.net/news/3275144",
+     "s": "ETtoday財經雲"
+    },
+    {
+     "t": "網銀盜轉潮錢要得回嗎？金管會證實：4家銀行通報、56萬元被轉走- 金融",
+     "u": "https://www.ctee.com.tw/news/20261119702110-430301",
+     "s": "工商時報"
+    }
+   ]
+  },
   {
    "kw": "融資餘額",
    "traffic": "2000+",
@@ -56,25 +79,25 @@
    ]
   },
   {
-   "kw": "tsm stock",
-   "traffic": "2000+",
-   "start": "2026-11-19T04:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX6DNZrz2nAgBcnHnR4ZXqPpC7q2ximmaHaZHs8iwvO_qODxH0cLQEbI4LQ6o",
+   "kw": "老農津貼",
+   "traffic": "1000+",
+   "start": "2026-11-20T05:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8fexTXL16N27bhUFuTlS5XGpcXXojG5dwz1-7W53M7mGXkZcBNJvcTW4WyfE",
    "news": [
     {
-     "t": "TSMC: The Biggest Loser From The Nvidia Debacle (Rating Downgrade)",
-     "u": "https://seekingalpha.com/article/4969424-tsmc-the-biggest-loser-from-the-nvidia-debacle",
-     "s": "Seeking Alpha"
+     "t": "藍委批政院不副署 周萬來引釋字520號：立院有參與政策選項",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1052436",
+     "s": "Rti 中央廣播電臺"
     },
     {
-     "t": "$Taiwan Semiconductor(TSM.US)Context:Recent developments in…",
-     "u": "https://longbridge.com/topics/100000000995356",
-     "s": "Longbridge"
+     "t": "老農津貼副署與否政院：將於期限內做出合法合憲決定| 政治",
+     "u": "https://www.cna.com.tw/news/aipl/202611190133.aspx",
+     "s": "中央社 CNA"
     },
     {
-     "t": "The Bet Behind TSMC's Rally",
-     "u": "https://simplywall.st/stocks/tw/semiconductors/twse-2330/taiwan-semiconductor-manufacturing-shares/news/the-bet-behind-tsmcs-rally",
-     "s": "Simply Wall St"
+     "t": "老農津貼副署將到期　周萬來：涉追加預算與釋字264號",
+     "u": "https://money.udn.com/money/story/7307/9888836",
+     "s": "經濟日報"
     }
    ]
   },
@@ -121,66 +144,6 @@
      "t": "【常规赛G16】客场战湖人 烂命一条就是干",
      "u": "https://bbs.hupu.com/644042212.html",
      "s": "虎扑"
-    }
-   ]
-  },
-  {
-   "kw": "消費券",
-   "traffic": "1000+",
-   "start": "2026-11-19T05:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "快 閃 記憶 體",
-   "traffic": "1000+",
-   "start": "2026-11-19T05:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOFK_EqjWNcHeLf-q1AC1q7VRGnR6P8G8-e6qdNYR4oSbMAFnk60NdtwGSPLU",
-   "news": [
-    {
-     "t": "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
-     "u": "https://ir.supermicro.com/news/news-details/2026/Supermicro-Ships-First-All-Flash-Storage-Servers-Delivering-PCIe-Gen-6-Performance-and-Broad-Software-Defined-Storage-Support-for-AI-Training-and-Inference/default.aspx",
-     "s": "Supermicro"
-    },
-    {
-     "t": "AMD Zen 6 Technical Deep Dive",
-     "u": "https://www.techpowerup.com/review/amd-zen-6-technical-deep-dive/",
-     "s": "TechPowerUp"
-    },
-    {
-     "t": "AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux",
-     "u": "https://www.servethehome.com/amd-epyc-9006-results-are-here-and-amd-delivers-a-knockout-part-deux/",
-     "s": "ServeTheHome"
-    }
-   ]
-  },
-  {
-   "kw": "最低工資",
-   "traffic": "1000+",
-   "start": "2026-11-19T05:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "美國股市",
-   "traffic": "1000+",
-   "start": "2026-11-19T05:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxkH681vcoHKfa_-sMnQSsuVfyqTzLDVaskc-ipmMJ6wTReECY1jjZcW2qhlE",
-   "news": [
-    {
-     "t": "黃仁勳造成輝達222兆元損失 外媒嚴批辜負所有人信任",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5645457",
-     "s": "自由財經"
-    },
-    {
-     "t": "輝達風暴與美晶片管制夾擊 亞股多收黑",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1052042",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "輝達股價已挫35%！Anthropic有望成AI股「新神主牌」? 掛牌備受關注",
-     "u": "https://tech.tvbs.com.tw/money/4051974",
-     "s": "TVBS"
     }
    ]
   },
@@ -277,48 +240,71 @@
    ]
   },
   {
-   "kw": "美股指數",
-   "traffic": "500+",
-   "start": "2026-11-19T05:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVmAcBAfWSa4qy34CrNXRfigOFv3SPybcUhXBdcZe2EwZHYfb2vrDUMmJ9H90",
+   "kw": "衛星",
+   "traffic": "200+",
+   "start": "2026-11-20T05:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs89ae5PqhMIx2m3A3tHMCVFln0Wfv4hdQayIRPUvE38tnr_FWOo53IZFAnzk",
    "news": [
     {
-     "t": "盤勢分析》昨低點不可再破 下半週反彈",
-     "u": "https://stock.ltn.com.tw/article/ulx2erqzeubj",
-     "s": "自由時報"
+     "t": "Finland's Iceye bids €2 billion for Italian rocket maker Avio",
+     "u": "https://www.reuters.com/business/aerospace-defense/finnish-iceye-oy-launches-bid-italian-rocket-maker-avio-2026-11-17/",
+     "s": "Reuters"
     },
     {
-     "t": "台指期月結算軋空 尾盤強力拉高台積電走揚5元 台股收漲102點",
-     "u": "https://udn.com/news/story/7251/9886487",
-     "s": "UDN"
+     "t": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+     "u": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+     "s": "Ars Technica"
     },
     {
-     "t": "兆億量能出現！行情即將反轉！",
-     "u": "https://news.wearn.com/c2149200.html",
-     "s": "聚財網"
+     "t": "Finnish Satellite Startup Iceye Launches $2.3 Billion Bid for Rocket Maker Avio",
+     "u": "https://www.wsj.com/business/deals/finnish-satellite-startup-iceye-launches-2-3-billion-bid-for-rocket-maker-avio-9546b85c",
+     "s": "WSJ"
     }
    ]
   },
   {
-   "kw": "退休",
-   "traffic": "500+",
-   "start": "2026-11-19T05:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqOmXBiJrtwf9Ja1EUgD7iRP0VD6NV74ub3LTfkfuqDGix3jcA7LeACifnw0",
+   "kw": "美股收盤",
+   "traffic": "200+",
+   "start": "2026-11-20T05:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmob0JzG0Dr2bY9861GZTCtjoFnzCNLi8-itEuxrZ2dnc5wLtQEAqnBSOLKKo",
    "news": [
     {
-     "t": "54歲退休、57歲考上高考！前銀行經理重返職場：我想過更有質感的老後生活",
-     "u": "https://www.cw.com.tw/aging/article/5143757",
-     "s": "天下雜誌"
+     "t": "輝達財報亮眼救不了全村！美股道瓊下跌561點台積電ADR漲0.38%、台指期夜盤重返4萬點又吐回",
+     "u": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%B2%A1%E5%A0%B1%E4%BA%AE%E7%9C%BC%E6%95%91%E4%B8%8D%E4%BA%86%E5%85%A8%E6%9D%91-%E7%BE%8E%E8%82%A1%E9%81%93%E7%93%8A%E4%B8%8B%E8%B7%8C561%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E6%BC%B20-38-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E9%87%8D%E8%BF%944%E8%90%AC%E9%BB%9E%E5%8F%88%E5%90%90%E5%9B%9E-231500131.html",
+     "s": "Yahoo股市"
     },
     {
-     "t": "填退休力指標 決定未來人生選擇權",
-     "u": "https://udn.com/news/story/7266/9887758",
+     "t": "輝達股價為什麼救不起來？董事長一句話反成利空| 黃仁勳辭輝達| 全球",
+     "u": "https://udn.com/news/story/125066/9888049",
      "s": "UDN"
     },
     {
-     "t": "「你得自己想辦法」！哥哥一句話 54歲弟靠媽退休金養20年生活面臨斷炊",
-     "u": "https://tw.stock.yahoo.com/news/%E4%BD%A0%E5%BE%97%E8%87%AA%E5%B7%B1%E6%83%B3%E8%BE%A6%E6%B3%95-%E5%93%A5%E5%93%A5-%E5%8F%A5%E8%A9%B1-54%E6%AD%B2%E5%BC%9F%E9%9D%A0%E5%AA%BD%E9%80%80%E4%BC%91%E9%87%91%E9%A4%8A20%E5%B9%B4%E7%94%9F%E6%B4%BB%E9%9D%A2%E8%87%A8%E6%96%B7%E7%82%8A-211000013.html",
+     "t": "有人趁機抄底、有人考慮賣股，散戶該如何應對失去黃仁勳之後的輝達？ | 金牛幫幫忙 | 財經",
+     "u": "https://www.storm.mg/article/5575915",
+     "s": "風傳媒"
+    }
+   ]
+  },
+  {
+   "kw": "散戶",
+   "traffic": "200+",
+   "start": "2026-11-20T05:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsgtMqZ-rTF6k476vlVLVeDevlQin4algtAnVd3cHVMnH2dnDR9rXCT9gCzpA",
+   "news": [
+    {
+     "t": "散戶還不死心！18日上市融資僅減6.95億元",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5645582",
+     "s": "自由財經"
+    },
+    {
+     "t": "賣AI現股換正2融資拚五倍？當心！正2斷頭又把AI賣在阿呆谷",
+     "u": "https://tw.stock.yahoo.com/news/%E8%B3%A3ai%E7%8F%BE%E8%82%A1%E6%8F%9B%E6%AD%A32%E8%9E%8D%E8%B3%87%E6%8B%9A%E4%BA%94%E5%80%8D-%E7%95%B6%E5%BF%83-%E6%AD%A32%E6%96%B7%E9%A0%AD%E5%8F%88%E6%8A%8Aai%E8%B3%A3%E5%9C%A8%E9%98%BF%E5%91%86%E8%B0%B7-094322311.html",
      "s": "Yahoo股市"
+    },
+    {
+     "t": "融資顯示籌碼不安- 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/189160439",
+     "s": "CMoney"
     }
    ]
   },
@@ -445,57 +431,80 @@
    ]
   },
   {
-   "kw": "中國",
-   "traffic": "200+",
-   "start": "2026-11-19T04:40+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV8tEzMJDxWf0GrJs5MkccGwGcIydrhfWMMn31WCBl_8FncHKHicK8uiOL1MQ",
+   "kw": "資訊安全",
+   "traffic": "100+",
+   "start": "2026-11-20T06:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "遊戲",
+   "traffic": "100+",
+   "start": "2026-11-20T05:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkwx6g21VLhPUeo-4Z0SDUXlRzjuNAcufW5ta9jV8_A8ksdlziC7fo2ixYyDc",
    "news": [
     {
-     "t": "習近平APEC提「深圳倡議」 強調穩定、和平等4點建議",
-     "u": "https://news.pts.org.tw/article/836299",
+     "t": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
+     "u": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
+     "s": "The New York Times"
+    },
+    {
+     "t": "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else",
+     "u": "https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes",
+     "s": "ESPN"
+    },
+    {
+     "t": "Grand Theft Auto VI : The Ars Technica review",
+     "u": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+     "s": "Ars Technica"
+    }
+   ]
+  },
+  {
+   "kw": "銀行",
+   "traffic": "100+",
+   "start": "2026-11-20T05:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM7dUOykyQPt6rRh9oa_HHRZpdITrjZCqEojG1ij6lO81Q8zE2PUCoHiDhX08",
+   "news": [
+    {
+     "t": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
+     "s": "Bloomberg.com"
+    },
+    {
+     "t": "The Iran war raised household costs in 2026. Here’s how much – and why",
+     "u": "https://www.chase.com/personal/investments/learning-and-insights/article/iran-war-2026-household-costs-gas-diesel-inflation-rates",
+     "s": "Chase Bank"
+    },
+    {
+     "t": "Exclusive | Cost Pressures Already in Pipeline to Fuel Higher Inflation",
+     "u": "https://www.wsj.com/economy/global/cost-pressures-already-in-pipeline-to-fuel-higher-inflation-d2062d65",
+     "s": "WSJ"
+    }
+   ]
+  },
+  {
+   "kw": "熊本縣",
+   "traffic": "100+",
+   "start": "2026-11-20T05:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsyyGTP5rgR6brcu9guELA61zqemggrCurIosfYqIRAr3CR3KhopjHmZ0lTBM",
+   "news": [
+    {
+     "t": "熊本凌晨規模5.7強震 日氣象廳：慎防後續再震",
+     "u": "https://news.pts.org.tw/article/836541",
      "s": "公視新聞"
     },
     {
-     "t": "【蔡明芳時間】APEC峰會與產業趨勢解析",
-     "u": "https://www.rti.org.tw/programnews?uid=4&pid=118489",
-     "s": "Rti 中央廣播電臺"
+     "t": "日本熊本深夜規模5.7地震！震度5弱無海嘯 官邸急設小組",
+     "u": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E6%B7%B1%E5%A4%9C%E8%A6%8F%E6%A8%A15-7%E5%9C%B0%E9%9C%87-%E9%9C%87%E5%BA%A65%E5%BC%B1%E7%84%A1%E6%B5%B7%E5%98%AF-%E5%AE%98%E9%82%B8%E6%80%A5%E8%A8%AD%E5%B0%8F%E7%B5%84-230500187.html",
+     "s": "Yahoo新聞"
     },
     {
-     "t": "APEC晚宴登場！習近平主動與施振榮握手 大合照安排「第2排最左側」",
-     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5645630",
+     "t": "餘震密集！日本熊本凌晨強震 颱風論壇：整個九州都有感",
+     "u": "https://news.ltn.com.tw/news/world/breakingnews/5645854",
      "s": "自由時報"
     }
    ]
-  },
-  {
-   "kw": "美股即時",
-   "traffic": "200+",
-   "start": "2026-11-19T04:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRdBD8d9nEhmjPWczUQWGJntqihhytkXIDFt2frV5PIMvoLyn3Z7qoUq9kfckw",
-   "news": [
-    {
-     "t": "Factset 最新調查：哈門那(HUM-US)EPS預估上修至9.34元，預估目標價為495.00元｜新聞快訊｜豐雲學堂",
-     "u": "https://www.sinotrade.com.tw/richclub/news/6af1d8e971992d5745e98b07",
-     "s": "永豐金證券"
-    },
-    {
-     "t": "【01:47 即時新聞】Humana(HUM) 重挫逾10%／健護族群遭賣壓、健康保險股領跌拖累",
-     "u": "https://cmnews.com.tw/article/cmoneyairesearcher-20c3fbc6-e378-11f1-8aff-5e7dee284f07",
-     "s": "CMoney投資網誌"
-    },
-    {
-     "t": "華爾街大咖調整評等震撼盤面：Humana目標暴衝至563美元、Yeti遭降評",
-     "u": "https://www.forecastock.tw/article/cmoneyairesearcher-ce2ca574-e1d3-11f1-9787-69e8be403862",
-     "s": "美股放大鏡"
-    }
-   ]
-  },
-  {
-   "kw": "張善政",
-   "traffic": "200+",
-   "start": "2026-11-18T21:50+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "麗寶樂園",
@@ -614,6 +623,44 @@
   }
  ],
  "history": {
+  "2026-11-20": [
+   {
+    "kw": "銀行 盜 轉",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "老農津貼",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "衛星",
+    "traffic": "200+"
+   },
+   {
+    "kw": "美股收盤",
+    "traffic": "200+"
+   },
+   {
+    "kw": "散戶",
+    "traffic": "200+"
+   },
+   {
+    "kw": "資訊安全",
+    "traffic": "100+"
+   },
+   {
+    "kw": "遊戲",
+    "traffic": "100+"
+   },
+   {
+    "kw": "銀行",
+    "traffic": "100+"
+   },
+   {
+    "kw": "熊本縣",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-19": [
    {
     "kw": "tsm stock",
@@ -1103,88 +1150,6 @@
    },
    {
     "kw": "geng vs blg",
-    "traffic": "200+"
-   }
-  ],
-  "2026-11-13": [
-   {
-    "kw": "台 股 夜 盤",
-    "traffic": "20000+"
-   },
-   {
-    "kw": "交通 堵塞",
-    "traffic": "5000+"
-   },
-   {
-    "kw": "報酬 率",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "日本",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "土耳其 對 比利時",
-    "traffic": "500+"
-   },
-   {
-    "kw": "76人 對 暴龍",
-    "traffic": "500+"
-   },
-   {
-    "kw": "郑明典",
-    "traffic": "500+"
-   },
-   {
-    "kw": "萊 爾 富 戰鬥 陀螺",
-    "traffic": "500+"
-   },
-   {
-    "kw": "宗山塁",
-    "traffic": "500+"
-   },
-   {
-    "kw": "軍事演習",
-    "traffic": "500+"
-   },
-   {
-    "kw": "青春共體",
-    "traffic": "500+"
-   },
-   {
-    "kw": "outlook 當機",
-    "traffic": "200+"
-   },
-   {
-    "kw": "返 稅",
-    "traffic": "200+"
-   },
-   {
-    "kw": "軍 公教",
-    "traffic": "200+"
-   },
-   {
-    "kw": "2314",
-    "traffic": "200+"
-   },
-   {
-    "kw": "浩 鼎",
-    "traffic": "200+"
-   },
-   {
-    "kw": "3017",
-    "traffic": "200+"
-   },
-   {
-    "kw": "7610",
-    "traffic": "200+"
-   },
-   {
-    "kw": "00757",
-    "traffic": "200+"
-   },
-   {
-    "kw": "曾莞婷",
     "traffic": "200+"
    }
   ]
