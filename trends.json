@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-19 06:06",
- "updated_iso": "2026-11-19T06:06+08:00",
+ "updated": "2026-11-19 11:38",
+ "updated_iso": "2026-11-19T11:38+08:00",
  "items": [
+  {
+   "kw": "哲哲",
+   "traffic": "2000+",
+   "start": "2026-11-19T11:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxa35n-uJa9PSes0OhDVWieS0IqMSTfWquOOFbIy3AODUsZBbPnJAASu_x6Tw",
+   "news": [
+    {
+     "t": "台股再崩千點、4萬點失守！股市獅公李永年示警：恐下探35000點",
+     "u": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%86%8D%E5%B4%A9%E5%8D%83%E9%BB%9E-4%E8%90%AC%E9%BB%9E%E5%A4%B1%E5%AE%88-%E8%82%A1%E5%B8%82%E7%8D%85%E5%85%AC%E6%9D%8E%E6%B0%B8%E5%B9%B4%E7%A4%BA%E8%AD%A6-%E6%81%90%E4%B8%8B%E6%8E%A235000%E9%BB%9E-023100949.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "台股再暴跌逾1400點摜破年線！12檔千金股跌停",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5645880",
+     "s": "自由財經"
+    },
+    {
+     "t": "輝達擴產難敵台積 ADR 重挫，大盤回測 41,000、生技傳產強行接棒撐盤",
+     "u": "https://finance.technews.tw/2026/11/18/nvidia-expansion-fails-tsmc-adr-plunge-market-retests-41000-biotech-traditional-sectors-support/",
+     "s": "TechNews 科技新報"
+    }
+   ]
+  },
   {
    "kw": "tsm stock",
    "traffic": "2000+",
@@ -26,25 +49,25 @@
    ]
   },
   {
-   "kw": "湖人 對 黃蜂",
-   "traffic": "2000+",
-   "start": "2026-11-18T11:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKFMoe3bHFQoAKwn-WlYPNE14vHDYfmFibgvEfKije6wsj1OSDT6WGuXXUJjs",
+   "kw": "湖人 對 爵士",
+   "traffic": "1000+",
+   "start": "2026-11-19T10:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ0wukfL-QVbQ4TgtMQoF25oWmt9qI_vl3GnX1WeEVeBqXlPPFPAuG-vGcvDw",
    "news": [
     {
-     "t": "NBA》前勇士3冠功臣終於要「解凍」了？ 湖人主戰中鋒驚傳傷情",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5644107",
-     "s": "自由體育"
+     "t": "[流言板]湖人首发：东契奇、格兰姆斯、赛布尔、威廉姆斯和凯斯勒",
+     "u": "https://bbs.hupu.com/644052492.html",
+     "s": "虎扑体育网"
     },
     {
-     "t": "NBA 11/18賽程》湖人大戰黃蜂必看！馬刺挑戰13連勝卻遇強敵活塞",
-     "u": "https://www.nownews.com/news/6893220",
-     "s": "NOWnews今日新聞"
+     "t": "爵士vs湖人前瞻：双方均是背靠背出战 森萨博与格雷姆斯能否继续爆发",
+     "u": "https://m.qie.tv/news/app/share/20260395779001.html",
+     "s": "企鹅体育"
     },
     {
-     "t": "【黃蜂 vs 湖人】NBA 直播 LIVE 線上看，11/18 美國職籃線上轉播",
-     "u": "https://applealmond.com/posts/332664",
-     "s": "蘋果仁"
+     "t": "【常规赛G16】客场战湖人 烂命一条就是干",
+     "u": "https://bbs.hupu.com/644042212.html",
+     "s": "虎扑"
     }
    ]
   },
@@ -116,6 +139,52 @@
    "news": []
   },
   {
+   "kw": "台幣匯率",
+   "traffic": "500+",
+   "start": "2026-11-19T10:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6hlu1zesuGcMf00y0H0e76r5FoH8_3UrQhE42W1hzeaWXJSirbRjCdFbwxUM",
+   "news": [
+    {
+     "t": "央行年底升息壓力再＋1！Fed鷹派、美元走強夾擊新台幣33元保衛戰還未完- 日報",
+     "u": "https://www.ctee.com.tw/news/20261119700059-439901",
+     "s": "工商時報"
+    },
+    {
+     "t": "台幣早盤放量重貶1.38角 盤中再貶破33元大關- 新聞",
+     "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=40ad253a-e649-41b5-a511-22e43c7bcd23",
+     "s": "MoneyDJ"
+    },
+    {
+     "t": "外資續砍台股新台幣貶值壓力難解創逾19個月新低| 金融要聞| 產經",
+     "u": "https://udn.com/news/story/7239/9887218",
+     "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "金塊 對 塞爾提克",
+   "traffic": "500+",
+   "start": "2026-11-19T10:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWwWrcXMIOc1Dgd8u8cb_sIvwv6HvvN1sIWNXTaueyLXi1yoNC9hxzftvaLPw",
+   "news": [
+    {
+     "t": "NBA運彩分析》11/19 Jayson Tatum能否在高原壓制金塊 延續塞爾提克的強勢？",
+     "u": "https://tw.sports.yahoo.com/news/nba%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1119-jayson-tatum%E8%83%BD%E5%90%A6%E5%9C%A8%E9%AB%98%E5%8E%9F%E5%A3%93%E5%88%B6%E9%87%91%E5%A1%8A-%E5%BB%B6%E7%BA%8C%E5%A1%9E%E7%88%BE%E6%8F%90%E5%85%8B%E7%9A%84%E5%BC%B7%E5%8B%A2%EF%BC%9F-083527966.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "NBA金塊主場迎戰塞爾提克 雙方力求擺脫前役落敗陰霾 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/QwWaQXz",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "勇士受讓值得追？NBA 11月19日全12場預測 海外盤口與串關風險解析",
+     "u": "https://n.yam.com/Article/20261118307467",
+     "s": "蕃新聞"
+    }
+   ]
+  },
+  {
    "kw": "美股指數",
    "traffic": "500+",
    "start": "2026-11-19T05:40+08:00",
@@ -162,25 +231,78 @@
    ]
   },
   {
-   "kw": "道瓊工業平均指數",
-   "traffic": "500+",
-   "start": "2026-11-18T06:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8SIk0uCqkubG9D0H4yqNIIPzKgKTgzsRMUQ6mrlsdFJikLh9OF4NwK5yWv0",
+   "kw": "股王",
+   "traffic": "200+",
+   "start": "2026-11-19T10:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9Ij7XfGjP9tV2yEd0QNL7aDaKHBAcs2lASvlA4y-v_DO0tu09npZUz480Xts",
    "news": [
     {
-     "t": "美國安局內部機密通訊大當機 暫無網攻跡象",
-     "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%AE%89%E5%B1%80%E5%85%A7%E9%83%A8%E6%A9%9F%E5%AF%86%E9%80%9A%E8%A8%8A%E5%A4%A7%E7%95%B6%E6%A9%9F-%E6%9A%AB%E7%84%A1%E7%B6%B2%E6%94%BB%E8%B7%A1%E8%B1%A1-212004059.html",
+     "t": "PCB類股苦吞19綠燈...股王台光電也遭殃 每張蒸發近35萬元",
+     "u": "https://tw.stock.yahoo.com/news/pcb%E9%A1%9E%E8%82%A1%E8%8B%A6%E5%90%9E19%E7%B6%A0%E7%87%88%E8%82%A1%E7%8E%8B%E5%8F%B0%E5%85%89%E9%9B%BB%E4%B9%9F%E9%81%AD%E6%AE%83-%E6%AF%8F%E5%BC%B5%E8%92%B8%E7%99%BC%E8%BF%9135%E8%90%AC%E5%85%83-030727708.html",
      "s": "Yahoo股市"
     },
     {
-     "t": "美媒：美國安局內部通訊網路故障 暫未見駭客入侵跡象",
-     "u": "https://udn.com/news/story/6813/9885381",
+     "t": "PCB血流成河！台光電帶頭摔跌停　類股逾15檔倒地",
+     "u": "https://finance.ettoday.net/news/3274721",
+     "s": "ETtoday財經雲"
+    },
+    {
+     "t": "台光電自救！重訊澄清輝達營收比重從未超過2成",
+     "u": "https://stock.ltn.com.tw/article/ann2gmzzqv2q",
+     "s": "自由時報"
+    }
+   ]
+  },
+  {
+   "kw": "委內瑞拉棒球代表隊",
+   "traffic": "200+",
+   "start": "2026-11-19T10:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQL0Q9OyMzhS9jQ_mA7Kvcfc_ZOgelg5H8DauT8BWo2nc1-IABdkzcID1km0w0",
+   "news": [
+    {
+     "t": "世界棒壘球總會公布最新排名！「這國家」爆衝到第3名、台灣仍穩居第2名僅次日本",
+     "u": "https://tw.sports.yahoo.com/news/%E4%B8%96%E7%95%8C%E6%A3%92%E5%A3%98%E7%90%83%E7%B8%BD%E6%9C%83%E5%85%AC%E5%B8%83%E6%9C%80%E6%96%B0%E6%8E%92%E5%90%8D-%E9%80%99%E5%9C%8B%E5%AE%B6-%E7%88%86%E8%A1%9D%E5%88%B0%E7%AC%AC3%E5%90%8D-%E5%8F%B0%E7%81%A3%E4%BB%8D%E7%A9%A9%E5%B1%85%E7%AC%AC2%E5%90%8D%E5%83%85%E6%AC%A1%E6%97%A5%E6%9C%AC-002433001.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "棒球》台灣最新世界排名出爐！ 強權美國掉出前3名",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5645808",
+     "s": "自由體育"
+    },
+    {
+     "t": "委內瑞拉在U-23世界盃奪冠後，攀升至WBSC/SHARP男子棒球世界排名第三位",
+     "u": "https://www.wbsc.org/zh/news/venezuela-climb-to-third-in-wbscsharp-mens-baseball-world-ranking-following-u-23-world-cup-triumph",
+     "s": "World Baseball Softball Confederation (WBSC)"
+    }
+   ]
+  },
+  {
+   "kw": "许淑华",
+   "traffic": "200+",
+   "start": "2026-11-19T10:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "川湖股價",
+   "traffic": "200+",
+   "start": "2026-11-19T10:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Biy8jadJzoFpKIbadbdWiOEj_LLFOB1jCjT1UqzsICcblE37Lfxr2mo3Pt0",
+   "news": [
+    {
+     "t": "川湖、矽力 押逾三個月",
+     "u": "https://udn.com/news/story/7255/9882488",
      "s": "UDN"
     },
     {
-     "t": "美國安局內部高度機密通信網絡出現中斷",
-     "u": "https://www.epochtimes.com/b5/26/11/17/n14890332.htm",
-     "s": "大紀元"
+     "t": "【即時新聞】川湖(2059)觸跌停竟逆襲奪股后！這「2檔概念股」同步遭調節！",
+     "u": "https://cmnews.com.tw/article/newsyoudeservetoknow-76a98a36-e3c6-11f1-8f8b-602899107c36",
+     "s": "CMoney投資網誌"
+    },
+    {
+     "t": "這滑軌大廠賺到太誇張！Q3 EPS狂飆122.79元、毛利率88％創高 豪砸105億擴產",
+     "u": "https://www.ftnn.com.tw/news/595387",
+     "s": "FTNN 新聞網"
     }
    ]
   },
@@ -337,78 +459,48 @@
    ]
   },
   {
-   "kw": "艾尤·多桑姆",
-   "traffic": "200+",
-   "start": "2026-11-18T11:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqkqcCaJLnZ2NWI7H9Bycy8Y2bV9c068nYLVPVunP7hBqFubuzjOt00NF0L_g",
+   "kw": "magic vs 76ers",
+   "traffic": "100+",
+   "start": "2026-11-19T10:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOV8pwZLxFrymJBqREmKLcQegfH8LiLlemO2rrhJeL4owIx7iTj89W2ZJlMXA",
    "news": [
     {
-     "t": "Damian Lillard hits five triples, scores 25 points",
-     "u": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-17/damian-lillard-hits-five-triples-scores-25-points",
-     "s": "NBC Sports"
-    },
-    {
-     "t": "Highlights From Ayo Dosunmu 30-Point Game",
-     "u": "https://www.nba.com/watch/video/highlights-from-ayo-dosunmu-30-point-game",
-     "s": "NBA.com"
-    },
-    {
-     "t": "Ayo Dosunmu puts up 18 in win over Mavs",
-     "u": "https://www.fantasypros.com/nba/news/619786/ayo-dosunmu-puts-up-18-win-over-mavs.php",
-     "s": "FantasyPros"
-    }
-   ]
-  },
-  {
-   "kw": "運輸機",
-   "traffic": "200+",
-   "start": "2026-11-18T11:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "tsm",
-   "traffic": "200+",
-   "start": "2026-11-18T06:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbL4MqiLexxqlp9oyWn99iwvsohK3Rb8oBzyYKxwgl8Gp0DOIQ9F3qc0hXsk",
-   "news": [
-    {
-     "t": "Why is Taiwan Semiconductor Manufacturing stock tumbling today?",
-     "u": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-manufacturing-stock-tumbling-today-93CH-5028421",
-     "s": "Investing.com"
-    },
-    {
-     "t": "Joseph Carlson Eyes TSMC Over NVDA After 7.7% Drop in 2 Days - Taiwan Semiconductor (NYSE:TSM)",
-     "u": "https://www.benzinga.com/markets/prediction-markets/26/11/63343723/tsmc-joseph-carlson",
-     "s": "Benzinga"
-    },
-    {
-     "t": "After TSMC's 20% Pullback, Wall Street Trader Que You-Shang Says NT$3,000 Target Could Arrive Early in 2027",
-     "u": "https://finance.biggo.com/news/3a1372d6-4e19-4272-a193-143bc5cd3a53",
-     "s": "BigGo Finance"
-    }
-   ]
-  },
-  {
-   "kw": "亞歷山大·茲維列夫",
-   "traffic": "200+",
-   "start": "2026-11-18T06:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8sfIvNq2mWOvnkyVQV-HViDPkRTjnyISh3ssKkHncOU-uadH7eZQwxzK0T3g",
-   "news": [
-    {
-     "t": "Zverev shuts down Shelton to seal Nitto ATP Finals SF berth",
-     "u": "https://www.atptour.com/en/news/zverev-shelton-nitto-atp-finals-2026-tuesday",
-     "s": "ATP Tour"
-    },
-    {
-     "t": "Alexander Zverev reacts immediately after beating Ben Shelton to reach ATP Finals semi-finals",
-     "u": "https://sports.yahoo.com/articles/alexander-zverev-reacts-immediately-beating-220000542.html",
+     "t": "Franz Wagner Over 30.5 PA vs. Shorthanded 76ers",
+     "u": "https://sports.yahoo.com/videos/franz-wagner-over-30-5-181923520.html",
      "s": "Yahoo Sports"
     },
     {
-     "t": "Alexander Zverev starts ATP Finals with convincing win over Rafael Jodar",
-     "u": "https://www.espn.com/tennis/story/_/id/50490503/alexander-zverev-opens-atp-finals-win-rafael-jodar",
-     "s": "ESPN"
+     "t": "Observations after Sixers come back for strong shorthanded victory",
+     "u": "https://www.nbcphiladelphia.com/nba/philadelphia-76ers/sixers-vs-magic-analysis-vj-edgecombe-joel-embiid-tacko-fall/4499726/",
+     "s": "NBC10 Philadelphia"
+    },
+    {
+     "t": "SAC starts Acuff, LaVine, Hunter, Murray, Sabonis",
+     "u": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-18/sac-starts-acuff-lavine-hunter-murray-sabonis",
+     "s": "NBC Sports"
+    }
+   ]
+  },
+  {
+   "kw": "rene haas",
+   "traffic": "100+",
+   "start": "2026-11-19T10:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvr4TRAnWirpoajAkygg9gaGflRSmUC0NZruyyTfYgFkhe6P8Isd_pdYqzOS8",
+   "news": [
+    {
+     "t": "Why Nvidia doesn't need a 'big splashy hire' to replace Jensen Huang as CEO",
+     "u": "https://finance.yahoo.com/technology/article/why-nvidia-doesnt-need-a-big-splashy-hire-to-replace-jensen-huang-as-ceo-154424603.html",
+     "s": "Yahoo Finance"
+    },
+    {
+     "t": "Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
+     "s": "Bloomberg"
+    },
+    {
+     "t": "Jeff Bezos has some advice for Nvidia’s board on its CEO search",
+     "u": "https://www.geekwire.com/2026/jeff-bezos-has-some-advice-for-nvidias-board-on-its-ceo-search/",
+     "s": "GeekWire"
     }
    ]
   },
@@ -487,104 +579,16 @@
      "s": "Steam Deck HQ"
     }
    ]
-  },
-  {
-   "kw": "英伟达",
-   "traffic": "100+",
-   "start": "2026-11-18T12:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkz45iIAJ6sbNWF0VIjDx9h1cAKbnyvrVP-p8UNJM53yRsijfuX_JLWBrlAWw",
-   "news": [
-    {
-     "t": "黄仁勋离职后首份财报盘后公布！临时CEO首次迎战华尔街，营收暴增90%也难救股价？-市场参考",
-     "u": "https://xnews.jin10.com/details/235304",
-     "s": "金十数据"
-    },
-    {
-     "t": "利好来了！刚刚，全线拉升！英伟达，重大发布",
-     "u": "https://finance.china.com/jinrong/13004689/20261118/49882665.html",
-     "s": "中华网财经"
-    },
-    {
-     "t": "英伟达业绩实现更快增长，称黄仁勋不会重返CEO岗位",
-     "u": "https://cn.wsj.com/articles/%E9%BB%84%E4%BB%81%E5%8B%8B%E9%81%AD%E8%A7%A3%E8%81%8C%E5%90%8E-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E4%BB%BD%E8%B4%A2%E6%8A%A5%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F-9704413b",
-     "s": "华尔街日报中文网"
-    }
-   ]
-  },
-  {
-   "kw": "傑登·麥克丹尼爾斯",
-   "traffic": "100+",
-   "start": "2026-11-18T12:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7522WkI2A8Xj-mei6Gn7eYuM69HY4x3n2mebk36iabpw0IjgQfXFjfUHv9Ro",
-   "news": [
-    {
-     "t": "Jaden McDaniels signs with adidas",
-     "u": "https://sports.yahoo.com/articles/jaden-mcdaniels-signs-adidas-154659422.html",
-     "s": "Yahoo Sports"
-    },
-    {
-     "t": "adidas Believe That 1 Timberwolves Set to Release Holiday 2026",
-     "u": "https://kicksundercost.com/news/adidas-believe-that-1-timberwolves-holiday-2026-release",
-     "s": "KicksUnderCost"
-    },
-    {
-     "t": "Jaden McDaniels Debuts adidas Believe That 1 “Timberwolves”",
-     "u": "https://sneakerbardetroit.com/adidas-believe-that-1-timberwolves-kz6661/",
-     "s": "Sneaker Bar Detroit"
-    }
-   ]
-  },
-  {
-   "kw": "金融股",
-   "traffic": "100+",
-   "start": "2026-11-18T11:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8OV8BZO2eAFxCyRaorJaHV5UiM3IDGYRcNMoy4mwqrZnAAWivByEnfxPeY-Q",
-   "news": [
-    {
-     "t": "0050高檔才買？小資族改搭00998A分散科技股風險 布局全球金融賺三重效益",
-     "u": "https://tw.stock.yahoo.com/news/0050%E9%AB%98%E6%AA%94%E6%89%8D%E8%B2%B7-%E5%B0%8F%E8%B3%87%E6%97%8F%E6%94%B9%E6%90%AD00998a%E5%88%86%E6%95%A3%E7%A7%91%E6%8A%80%E8%82%A1%E9%A2%A8%E9%9A%AA-%E5%B8%83%E5%B1%80%E5%85%A8%E7%90%83%E9%87%91%E8%9E%8D%E8%B3%BA%E4%B8%89%E9%87%8D%E6%95%88%E7%9B%8A-022000268.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "ETF大洗牌！同為配息型ETF 00998A近月績效竟逆勢超車00878、0056 | 觀傳媒",
-     "u": "https://today.line.me/tw/v3/article/1DP2zZB",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "櫃買重挫3.92% 金融股逆勢穩住 00998A近一個月漲2.83% 配息年化約一成",
-     "u": "https://fnc.ebc.net.tw/fncnews/stock/223125",
-     "s": "東森電視"
-    }
-   ]
-  },
-  {
-   "kw": "周刊王",
-   "traffic": "100+",
-   "start": "2026-11-18T11:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG_IZoY2ExQiQfoh0DCK5wEofvFKYFwOOveMmd3d_0-iEZCTatOmxv8n8KTd8",
-   "news": [
-    {
-     "t": "離婚1年爆新歡？小煜載大眼妹逛夜市「手放他大腿」 經紀人曝兩人真實關係",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5644542",
-     "s": "自由娛樂"
-    },
-    {
-     "t": "小煜離婚1年「載大眼妹逛夜市」疑有新歡？經紀人曝兩人真實關係| 娛樂",
-     "u": "https://newtalk.tw/news/view/2026-11-18/1071763",
-     "s": "Newtalk新聞"
-    },
-    {
-     "t": "小煜離婚1年有新歡！約會大眼長髮妹　竟被拍到亂丟垃圾超尷尬",
-     "u": "https://www.nownews.com/news/6893254",
-     "s": "NOWnews今日新聞"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-19": [
    {
     "kw": "tsm stock",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "哲哲",
     "traffic": "2000+"
    },
    {
@@ -604,11 +608,23 @@
     "traffic": "1000+"
    },
    {
+    "kw": "湖人 對 爵士",
+    "traffic": "1000+"
+   },
+   {
     "kw": "美股指數",
     "traffic": "500+"
    },
    {
     "kw": "退休",
+    "traffic": "500+"
+   },
+   {
+    "kw": "台幣匯率",
+    "traffic": "500+"
+   },
+   {
+    "kw": "金塊 對 塞爾提克",
     "traffic": "500+"
    },
    {
@@ -620,7 +636,31 @@
     "traffic": "200+"
    },
    {
+    "kw": "股王",
+    "traffic": "200+"
+   },
+   {
+    "kw": "委內瑞拉棒球代表隊",
+    "traffic": "200+"
+   },
+   {
+    "kw": "许淑华",
+    "traffic": "200+"
+   },
+   {
+    "kw": "川湖股價",
+    "traffic": "200+"
+   },
+   {
     "kw": "台視新聞",
+    "traffic": "100+"
+   },
+   {
+    "kw": "magic vs 76ers",
+    "traffic": "100+"
+   },
+   {
+    "kw": "rene haas",
     "traffic": "100+"
    }
   ],
