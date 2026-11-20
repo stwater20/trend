@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 21:06",
- "updated_iso": "2026-11-20T21:06+08:00",
+ "updated": "2026-11-21 05:15",
+ "updated_iso": "2026-11-21T05:15+08:00",
  "items": [
   {
    "kw": "明天的天氣",
@@ -79,6 +79,29 @@
    ]
   },
   {
+   "kw": "spacex 股價",
+   "traffic": "2000+",
+   "start": "2026-11-21T04:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFadZ004XgKNewjav9hkVKrAg3paDtW7sR3cnGmOQfp44NYknUKT4zAHpUhzk",
+   "news": [
+    {
+     "t": "美股低開高走，標普500漲0.3%，Anthropic升至90美元上方",
+     "u": "https://m.cnyes.com/news/id/6669615",
+     "s": "鉅亨網"
+    },
+    {
+     "t": "Anthropic上市 5千員工一夕成富豪",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1052827",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "費半盤中暴跌8％ 台積電ADR盤中暴跌30美元 台指期夜盤跌到3萬4千多點 | 信傳媒",
+     "u": "https://today.line.me/tw/v3/article/GgNxoY5",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
    "kw": "虎航",
    "traffic": "2000+",
    "start": "2026-11-20T10:00+08:00",
@@ -125,11 +148,27 @@
    ]
   },
   {
-   "kw": "融資餘額",
-   "traffic": "2000+",
-   "start": "2026-11-19T21:10+08:00",
-   "pic": "",
-   "news": []
+   "kw": "道瓊",
+   "traffic": "1000+",
+   "start": "2026-11-21T03:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-o53XIGWWT3glUyQSmDz-spfxoocz4DW-bKwi1NxnC-JkFtnPp6hjXHlFJw",
+   "news": [
+    {
+     "t": "輝達股價恐暴跌至100美元？機構提出看空的主要理由",
+     "u": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E6%81%90%E6%9A%B4%E8%B7%8C%E8%87%B3100%E7%BE%8E%E5%85%83-%E6%A9%9F%E6%A7%8B%E6%8F%90%E5%87%BA%E7%9C%8B%E7%A9%BA%E7%9A%84%E4%B8%BB%E8%A6%81%E7%90%86%E7%94%B1-072002061.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "輝達股價為什麼救不起來？董事長一句話反成利空",
+     "u": "https://money.udn.com/money/story/123398/9888049",
+     "s": "經濟日報"
+    },
+    {
+     "t": "《美股》輝達翻黑、資安股逆漲 那指揚 聚焦ANT",
+     "u": "https://www.moneydj.com/funddj/ya/yp050000.djhtm?a=88203b69-7741-42c7-9f1a-94f775471f5d",
+     "s": "MoneyDJ"
+    }
+   ]
   },
   {
    "kw": "weather tomorrow",
@@ -155,29 +194,6 @@
    ]
   },
   {
-   "kw": "老農津貼",
-   "traffic": "1000+",
-   "start": "2026-11-20T05:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8fexTXL16N27bhUFuTlS5XGpcXXojG5dwz1-7W53M7mGXkZcBNJvcTW4WyfE",
-   "news": [
-    {
-     "t": "藍委批政院不副署 周萬來引釋字520號：立院有參與政策選項",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1052436",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "老農津貼副署與否政院：將於期限內做出合法合憲決定| 政治",
-     "u": "https://www.cna.com.tw/news/aipl/202611190133.aspx",
-     "s": "中央社 CNA"
-    },
-    {
-     "t": "老農津貼副署將到期　周萬來：涉追加預算與釋字264號",
-     "u": "https://money.udn.com/money/story/7307/9888836",
-     "s": "經濟日報"
-    }
-   ]
-  },
-  {
    "kw": "0050配息",
    "traffic": "500+",
    "start": "2026-11-20T10:20+08:00",
@@ -197,6 +213,59 @@
      "t": "0050三年報酬是高股息2倍！前0056投資人揭差距：領了配息卻少賺一大截| 存股族愛ETF | 股市",
      "u": "https://udn.com/news/story/123006/9885756",
      "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "川普",
+   "traffic": "200+",
+   "start": "2026-11-21T04:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "大樂透頭獎",
+   "traffic": "200+",
+   "start": "2026-11-21T03:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG_oetBVSsEF-8bvXKmditu4PJQqc4a-TknysAEJb_FwrYHWPcQIhFb1MiAnc",
+   "news": [
+    {
+     "t": "媽祖土地公聯手發威！大樂透1億元獎落北投、土城",
+     "u": "https://tw.stock.yahoo.com/news/%E5%AA%BD%E7%A5%96%E5%9C%9F%E5%9C%B0%E5%85%AC%E8%81%AF%E6%89%8B%E7%99%BC%E5%A8%81%EF%BC%81%E5%A4%A7%E6%A8%82%E9%80%8F1%E5%84%84%E5%85%83%E7%8D%8E%E8%90%BD%E5%8C%97%E6%8A%95%E3%80%81%E5%9C%9F%E5%9F%8E-140504307.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "大樂透頭獎2注各得5000萬 獎落這兩個縣市",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5648146",
+     "s": "自由財經"
+    },
+    {
+     "t": "財神爺來敲門大樂透開出兩注頭獎各得0.5億元- 產業",
+     "u": "https://www.ctee.com.tw/news/20261120701811-430503",
+     "s": "工商時報"
+    }
+   ]
+  },
+  {
+   "kw": "qqq stock",
+   "traffic": "200+",
+   "start": "2026-11-21T01:20+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk",
+   "news": [
+    {
+     "t": "Anthropic IPO live: Anthropic stock drops after first day of trading",
+     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
+     "s": "Yahoo Finance"
+    },
+    {
+     "t": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
+     "u": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
+     "s": "The Guardian"
+    },
+    {
+     "t": "Almost all of Anthropic’s employees are now millionaires",
+     "u": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
+     "s": "CNN"
     }
    ]
   },
@@ -376,25 +445,101 @@
    ]
   },
   {
-   "kw": "散戶",
-   "traffic": "200+",
-   "start": "2026-11-20T05:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsgtMqZ-rTF6k476vlVLVeDevlQin4algtAnVd3cHVMnH2dnDR9rXCT9gCzpA",
+   "kw": "nasdaq",
+   "traffic": "100+",
+   "start": "2026-11-21T04:50+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRshcZ9syJeEZqn26wB-iMj4jupbRMJYxOFX1xA2ZjKD0GRzRqqecbYzkzlMmY",
    "news": [
     {
-     "t": "散戶還不死心！18日上市融資僅減6.95億元",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5645582",
-     "s": "自由財經"
+     "t": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam: Live updates",
+     "u": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+     "s": "CNBC"
     },
     {
-     "t": "賣AI現股換正2融資拚五倍？當心！正2斷頭又把AI賣在阿呆谷",
-     "u": "https://tw.stock.yahoo.com/news/%E8%B3%A3ai%E7%8F%BE%E8%82%A1%E6%8F%9B%E6%AD%A32%E8%9E%8D%E8%B3%87%E6%8B%9A%E4%BA%94%E5%80%8D-%E7%95%B6%E5%BF%83-%E6%AD%A32%E6%96%B7%E9%A0%AD%E5%8F%88%E6%8A%8Aai%E8%B3%A3%E5%9C%A8%E9%98%BF%E5%91%86%E8%B0%B7-094322311.html",
+     "t": "Markets live: US tech stocks plummet as AI trade unravels",
+     "u": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+     "s": "Financial Times"
+    },
+    {
+     "t": "Stock Market Today: Dow, S&P 500 Enter Correction Territory — Live Updates",
+     "u": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026",
+     "s": "WSJ"
+    }
+   ]
+  },
+  {
+   "kw": "qqq",
+   "traffic": "100+",
+   "start": "2026-11-21T02:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO4t9QisifLAsjv6JvgjSuXEdDrHOPHZF7eZLHKLG28UQKAdJY5gzETk2pN_Q",
+   "news": [
+    {
+     "t": "Growth Engine vs. Shock Absorber: Inside QQQ’s Low-Volatility Sibling",
+     "u": "https://etfdb.com/innovative-etfs-content-hub/inside-qqq-low-volatility-sibling/",
+     "s": "ETF Database"
+    },
+    {
+     "t": "Anthropic IPO live: Anthropic stock drops after first day of trading",
+     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
+     "s": "Yahoo Finance"
+    },
+    {
+     "t": "Almost all of Anthropic’s employees are now millionaires",
+     "u": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
+     "s": "CNN"
+    }
+   ]
+  },
+  {
+   "kw": "波蘭",
+   "traffic": "100+",
+   "start": "2026-11-21T02:20+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "美股大跌",
+   "traffic": "100+",
+   "start": "2026-11-21T01:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEFoNRm8R9aYqK89gNc8XGfyGbBWVdwKJvUz1Qw2U0J6Vdl-7XEcoEGqBjVbs",
+   "news": [
+    {
+     "t": "美股警報快響了？花旗：輝達等四大權值股恐觸發風險訊號",
+     "u": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E8%82%A1%E8%AD%A6%E5%A0%B1%E5%BF%AB%E9%9F%BF%E4%BA%86-%E8%8A%B1%E6%97%97-%E8%BC%9D%E9%81%94%E7%AD%89%E5%9B%9B%E5%A4%A7%E6%AC%8A%E5%80%BC%E8%82%A1%E6%81%90%E8%A7%B8%E7%99%BC%E9%A2%A8%E9%9A%AA%E8%A8%8A%E8%99%9F-122721144.html",
      "s": "Yahoo股市"
     },
     {
-     "t": "融資顯示籌碼不安- 股市爆料同學會",
-     "u": "https://www.cmoney.tw/forum/article/189160439",
-     "s": "CMoney"
+     "t": "美股崩盤開始了嗎？專家：應從2000年網路泡沫吸取教訓",
+     "u": "https://news.cnyes.com/news/id/6667518",
+     "s": "鉅亨網"
+    },
+    {
+     "t": "科技股賣壓蔓延至大盤，TS Lombard示警：反彈過後才是真正崩跌",
+     "u": "https://finance.biggo.com.tw/news/e9e0a84c-86d7-49c6-81a2-00046694f761",
+     "s": "BigGo 財經"
+    }
+   ]
+  },
+  {
+   "kw": "vix恐慌指數",
+   "traffic": "100+",
+   "start": "2026-11-21T01:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq_2DFDH9s7-FiPMt0k6AHzdrEfsng0HjAP7LPjET1L5rDz_bP6aXB5S4qCu8",
+   "news": [
+    {
+     "t": "美股早盤／VIX衝上3月底來最高 費半續挫4%、Anthropic跌8%",
+     "u": "https://udn.com/news/story/6811/9892305",
+     "s": "UDN"
+    },
+    {
+     "t": "美股技術面全面告急，恐慌指數VIX逼近30，市場在極度分化中博弈反彈",
+     "u": "https://news.cnyes.com/news/id/6669477",
+     "s": "鉅亨網"
+    },
+    {
+     "t": "Anthropic掛牌首日暴跌9%，AI股賣壓擴散，Nasdaq早盤跌1.2%",
+     "u": "https://finance.biggo.com.tw/news/20aec3c2-df1f-475d-afea-4bd240ba5fb2",
+     "s": "BigGo 財經"
     }
    ]
   },
@@ -450,138 +595,51 @@
      "s": "The Sporting Tribune"
     }
    ]
-  },
-  {
-   "kw": "hbl",
-   "traffic": "100+",
-   "start": "2026-11-20T10:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "grizzlies vs warriors",
-   "traffic": "100+",
-   "start": "2026-11-20T10:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3C-a5otEz7v8WaiZmUD8m3uTIK5vo8rWZ9YYfG8xKxifGa5OHL8F8v_fmfLA",
-   "news": [
-    {
-     "t": "NBA: Golden State Warriors at Memphis Grizzlies",
-     "u": "https://www.reutersconnect.com/item/nba-golden-state-warriors-at-memphis-grizzlies/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzAzODEyNzk",
-     "s": "Reuters Connect"
-    },
-    {
-     "t": "Gui Santos News: Back in starting lineup Thursday",
-     "u": "https://www.rotowire.com/basketball/headlines/gui-santos-news-back-in-starting-lineup-thursday-540080",
-     "s": "RotoWire"
-    },
-    {
-     "t": "De’Anthony Melton, Gui Santos start for Warriors",
-     "u": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-19/deanthony-melton-gui-santos-start-for-warriors",
-     "s": "NBC Sports"
-    }
-   ]
-  },
-  {
-   "kw": "資訊安全",
-   "traffic": "100+",
-   "start": "2026-11-20T06:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "遊戲",
-   "traffic": "100+",
-   "start": "2026-11-20T05:20+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkwx6g21VLhPUeo-4Z0SDUXlRzjuNAcufW5ta9jV8_A8ksdlziC7fo2ixYyDc",
-   "news": [
-    {
-     "t": "Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.",
-     "u": "https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html",
-     "s": "The New York Times"
-    },
-    {
-     "t": "Athletes are just as hyped for 'Grand Theft Auto VI' as everyone else",
-     "u": "https://www.espn.com/nba/story/_/id/50531977/gta-vi-grand-theft-auto-athletes",
-     "s": "ESPN"
-    },
-    {
-     "t": "Grand Theft Auto VI : The Ars Technica review",
-     "u": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-     "s": "Ars Technica"
-    }
-   ]
-  },
-  {
-   "kw": "銀行",
-   "traffic": "100+",
-   "start": "2026-11-20T05:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM7dUOykyQPt6rRh9oa_HHRZpdITrjZCqEojG1ij6lO81Q8zE2PUCoHiDhX08",
-   "news": [
-    {
-     "t": "War-Driven Cost Squeeze Alarms Companies, Bank of America Says",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-19/war-driven-cost-squeeze-alarms-companies-bank-of-america-says",
-     "s": "Bloomberg.com"
-    },
-    {
-     "t": "The Iran war raised household costs in 2026. Here’s how much – and why",
-     "u": "https://www.chase.com/personal/investments/learning-and-insights/article/iran-war-2026-household-costs-gas-diesel-inflation-rates",
-     "s": "Chase Bank"
-    },
-    {
-     "t": "Exclusive | Cost Pressures Already in Pipeline to Fuel Higher Inflation",
-     "u": "https://www.wsj.com/economy/global/cost-pressures-already-in-pipeline-to-fuel-higher-inflation-d2062d65",
-     "s": "WSJ"
-    }
-   ]
-  },
-  {
-   "kw": "熊本縣",
-   "traffic": "100+",
-   "start": "2026-11-20T05:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsyyGTP5rgR6brcu9guELA61zqemggrCurIosfYqIRAr3CR3KhopjHmZ0lTBM",
-   "news": [
-    {
-     "t": "熊本凌晨規模5.7強震 日氣象廳：慎防後續再震",
-     "u": "https://news.pts.org.tw/article/836541",
-     "s": "公視新聞"
-    },
-    {
-     "t": "日本熊本深夜規模5.7地震！震度5弱無海嘯 官邸急設小組",
-     "u": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E6%B7%B1%E5%A4%9C%E8%A6%8F%E6%A8%A15-7%E5%9C%B0%E9%9C%87-%E9%9C%87%E5%BA%A65%E5%BC%B1%E7%84%A1%E6%B5%B7%E5%98%AF-%E5%AE%98%E9%82%B8%E6%80%A5%E8%A8%AD%E5%B0%8F%E7%B5%84-230500187.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "餘震密集！日本熊本凌晨強震 颱風論壇：整個九州都有感",
-     "u": "https://news.ltn.com.tw/news/world/breakingnews/5645854",
-     "s": "自由時報"
-    }
-   ]
-  },
-  {
-   "kw": "麗寶樂園",
-   "traffic": "100+",
-   "start": "2026-11-19T21:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREHPHjxeR89rvKFa1XAQjwE6rvmPk7Yh1GGIM0Ijk_M9dNRMfV6dI81-xhx34",
-   "news": [
-    {
-     "t": "粉絲哭了！麗寶樂園「熊大的麗寶小鎮」最後營運倒數 11/30熄燈",
-     "u": "https://tw.news.yahoo.com/%E7%B2%89%E7%B5%B2%E5%93%AD%E4%BA%86-%E9%BA%97%E5%AF%B6%E6%A8%82%E5%9C%92-%E7%86%8A%E5%A4%A7%E7%9A%84%E9%BA%97%E5%AF%B6%E5%B0%8F%E9%8E%AE-%E6%9C%80%E5%BE%8C%E7%87%9F%E9%81%8B%E5%80%92%E6%95%B8-11-040600251.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "麗寶樂園「熊大的麗寶小鎮」11/30結束營業！粉絲不捨4年回憶歡送",
-     "u": "https://www.nownews.com/news/6893299",
-     "s": "NOWnews今日新聞"
-    },
-    {
-     "t": "麗寶樂園人氣園區月底熄燈！開幕近4年 粉絲超不捨",
-     "u": "https://news.ebc.net.tw/news/living/581506",
-     "s": "東森新聞"
-    }
-   ]
   }
  ],
  "history": {
+  "2026-11-21": [
+   {
+    "kw": "spacex 股價",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "道瓊",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "川普",
+    "traffic": "200+"
+   },
+   {
+    "kw": "大樂透頭獎",
+    "traffic": "200+"
+   },
+   {
+    "kw": "qqq stock",
+    "traffic": "200+"
+   },
+   {
+    "kw": "nasdaq",
+    "traffic": "100+"
+   },
+   {
+    "kw": "qqq",
+    "traffic": "100+"
+   },
+   {
+    "kw": "波蘭",
+    "traffic": "100+"
+   },
+   {
+    "kw": "美股大跌",
+    "traffic": "100+"
+   },
+   {
+    "kw": "vix恐慌指數",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-20": [
    {
     "kw": "明天的天氣",
@@ -1071,88 +1129,6 @@
    },
    {
     "kw": "比特幣",
-    "traffic": "200+"
-   }
-  ],
-  "2026-11-14": [
-   {
-    "kw": "台指期夜盤指數",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "u23",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "馬刺 對 勇士",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "軍公教",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "股利",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "雷暴",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "發票",
-    "traffic": "500+"
-   },
-   {
-    "kw": "火箭 對 爵士",
-    "traffic": "500+"
-   },
-   {
-    "kw": "日本 對 巴西",
-    "traffic": "500+"
-   },
-   {
-    "kw": "許淑華",
-    "traffic": "500+"
-   },
-   {
-    "kw": "夜市",
-    "traffic": "200+"
-   },
-   {
-    "kw": "avril lavigne",
-    "traffic": "200+"
-   },
-   {
-    "kw": "公牛 對 老鷹",
-    "traffic": "200+"
-   },
-   {
-    "kw": "鵜鶘 對 灰熊",
-    "traffic": "200+"
-   },
-   {
-    "kw": "熊海靈",
-    "traffic": "200+"
-   },
-   {
-    "kw": "島國禮作市集",
-    "traffic": "200+"
-   },
-   {
-    "kw": "華南銀行",
-    "traffic": "200+"
-   },
-   {
-    "kw": "ioi",
-    "traffic": "200+"
-   },
-   {
-    "kw": "plg",
-    "traffic": "200+"
-   },
-   {
-    "kw": "geng vs blg",
     "traffic": "200+"
    }
   ]
