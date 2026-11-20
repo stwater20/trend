@@ -2,6 +2,14 @@
  "days": {
   "2026-11-20": [
    {
+    "kw": "明天的天氣",
+    "traffic": "50000+"
+   },
+   {
+    "kw": "台 股",
+    "traffic": "10000+"
+   },
+   {
     "kw": "融資斷頭",
     "traffic": "5000+"
    },
@@ -19,6 +27,10 @@
    },
    {
     "kw": "老農津貼",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "weather tomorrow",
     "traffic": "1000+"
    },
    {
@@ -50,31 +62,23 @@
     "traffic": "200+"
    },
    {
+    "kw": "军公教",
+    "traffic": "200+"
+   },
+   {
+    "kw": "徐欣瑩",
+    "traffic": "200+"
+   },
+   {
+    "kw": "cl",
+    "traffic": "200+"
+   },
+   {
+    "kw": "台中市長候選人",
+    "traffic": "200+"
+   },
+   {
     "kw": "資訊安全",
-    "traffic": "100+"
-   },
-   {
-    "kw": "遊戲",
-    "traffic": "100+"
-   },
-   {
-    "kw": "銀行",
-    "traffic": "100+"
-   },
-   {
-    "kw": "熊本縣",
-    "traffic": "100+"
-   },
-   {
-    "kw": "spurs vs clippers",
-    "traffic": "100+"
-   },
-   {
-    "kw": "hbl",
-    "traffic": "100+"
-   },
-   {
-    "kw": "grizzlies vs warriors",
     "traffic": "100+"
    }
   ],

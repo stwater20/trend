@@ -1,7 +1,53 @@
 {
- "updated": "2026-11-20 11:33",
- "updated_iso": "2026-11-20T11:33+08:00",
+ "updated": "2026-11-20 21:06",
+ "updated_iso": "2026-11-20T21:06+08:00",
  "items": [
+  {
+   "kw": "明天的天氣",
+   "traffic": "50000+",
+   "start": "2026-11-20T20:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvha1EtsoZzWeyLSjDckijztGUWBtgnzb-JRX-QM4MVLL3rYaCqSqMVURvCzE",
+   "news": [
+    {
+     "t": "21日各地大致多雲到晴 22日清晨局部低溫探10度",
+     "u": "https://udn.com/news/story/7266/9891848",
+     "s": "UDN"
+    },
+    {
+     "t": "天氣預報／冷氣團影響 新北石碇低溫13.6度",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1052615",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "20261120 公視AI手語天氣報導 ｜大陸冷氣團影響 全臺各地天氣偏冷",
+     "u": "https://news.pts.org.tw/video/23271",
+     "s": "公視新聞"
+    }
+   ]
+  },
+  {
+   "kw": "台 股",
+   "traffic": "10000+",
+   "start": "2026-11-20T20:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqM1pT95HwjnYN2rPJmNuHYLeo2UvwAZTBLtrhied1hZzpcX5c8Vsk8xqvrKk",
+   "news": [
+    {
+     "t": "台股為何跌那麼慘？ 傳奇散戶曝「2連鎖效應」：恐再惡化",
+     "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%82%BA%E4%BD%95%E8%B7%8C%E9%82%A3%E9%BA%BC%E6%85%98-%E5%82%B3%E5%A5%87%E6%95%A3%E6%88%B6%E6%9B%9D-2%E9%80%A3%E9%8E%96%E6%95%88%E6%87%89-%E6%81%90%E5%86%8D%E6%83%A1%E5%8C%96-080800461.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "台股今重挫6.23％居主要亞股之首　金管會：採行適當穩定措施",
+     "u": "https://finance.ettoday.net/news/3275708",
+     "s": "ETtoday財經雲"
+    },
+    {
+     "t": "國安基金與限空令2.0全部失靈！ 26檔千金股跌停",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5647580",
+     "s": "自由財經"
+    }
+   ]
+  },
   {
    "kw": "融資斷頭",
    "traffic": "5000+",
@@ -86,25 +132,25 @@
    "news": []
   },
   {
-   "kw": "thời tiết ngày mai",
-   "traffic": "2000+",
-   "start": "2026-11-19T20:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZZDvzy5fvkY4J9bX38iUOe647tNZ3LkxkGh4cxn7-Cgg9Qbe9g-yry5uHQaI",
+   "kw": "weather tomorrow",
+   "traffic": "1000+",
+   "start": "2026-11-20T20:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg7DnjVdTAcHgrSBqYrqZnQMjFcyzMX81y_4OngpYZtEyUnLR42my9zJx99-8",
    "news": [
     {
-     "t": "Miền Bắc giảm hơn chục độ, có nơi rét 8.8 độ",
-     "u": "https://www.24h.com.vn/tin-tuc-trong-ngay/mien-bac-giam-hon-chuc-do-co-noi-ret-88-do-c46a1812447.html",
-     "s": "Tin tức 24h"
+     "t": "FORECAST: 70s Won’t Last Past The Weekend",
+     "u": "https://www.wdrbwave.com/2026/11/19/forecast-70s-wont-last-past-weekend/",
+     "s": "WDRB"
     },
     {
-     "t": "Ngày 20/11, vùng núi cao có khả năng xuất hiện tuyết rơi, nhiệt độ một số nơi có thể xuống mức 11 độ C vào sáng sớm cuối tuần",
-     "u": "https://www.rti.org.tw/vn/news?uid=3&pid=1051823",
-     "s": "Rti 中央廣播電臺"
+     "t": "Unseasonably mild weather hangs on for the upcoming weekend",
+     "u": "https://www.lex18.com/weather/daily-forecast/unseasonably-mild-weather-hangs-on-for-the-upcoming-weekend",
+     "s": "LEX 18 News"
     },
     {
-     "t": "Dự báo thời tiết đêm nay, ngày mai - 20/11/2026: Không khí lạnh tăng cường nhiệt độ giảm sâu hơn",
-     "u": "https://truyenhinhnghean.vn/media/chuyen-muc/ban-tin-thoi-tiet/202611/du-bao-thoi-tiet-dem-nay-ngay-mai-20112026-khong-khi-lanh-tang-cuong-nhiet-do-giam-sau-hon-0e23669/",
-     "s": "Báo và Phát thanh, Truyền hình Nghệ An"
+     "t": "Continued dry and milder Thursday",
+     "u": "https://www.wlky.com/article/continued-dry-and-milder-thursday/74475354",
+     "s": "WLKY"
     }
    ]
   },
@@ -132,29 +178,6 @@
    ]
   },
   {
-   "kw": "cuaca besok",
-   "traffic": "1000+",
-   "start": "2026-11-19T20:30+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5WJkWBxqiBpl7DuWWFtQMN2dlg_Z4giTrGzb0u3fI7PlIzlPJ0aM733Klf9E",
-   "news": [
-    {
-     "t": "BMKG Peringatkan Hujan Lebat di 19 Wilayah, Cek Daftarnya!",
-     "u": "https://news.detik.com/berita/d-8759247/bmkg-peringatkan-hujan-lebat-di-19-wilayah-cek-daftarnya",
-     "s": "detikNews"
-    },
-    {
-     "t": "Prakiraan Cuaca Ibu Kota Provinsi Indonesia Hari Ini",
-     "u": "https://carapandang.com/news/read/prakiraan-cuaca-ibu-kota-provinsi-indonesia-hari-ini",
-     "s": "CaraPandang"
-    },
-    {
-     "t": "MJO hingga Bibit Siklon 96S Pemicu Potensi Hujan Lebat di RI",
-     "u": "https://www.bloombergtechnoz.com/detail-news/128220/mjo-hingga-bibit-siklon-96s-pemicu-potensi-hujan-lebat-di-ri",
-     "s": "Bloomberg Technoz"
-    }
-   ]
-  },
-  {
    "kw": "0050配息",
    "traffic": "500+",
    "start": "2026-11-20T10:20+08:00",
@@ -178,50 +201,64 @@
    ]
   },
   {
-   "kw": "539號碼",
-   "traffic": "500+",
-   "start": "2026-11-19T20:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVxyJhiJe3Zc-qONftnZw00Mgj3GjM5sz_Uxy0JscNdo61Sjtmi9_26QoYNc",
+   "kw": "军公教",
+   "traffic": "200+",
+   "start": "2026-11-20T20:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "徐欣瑩",
+   "traffic": "200+",
+   "start": "2026-11-20T20:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqccr38ahz2TXiUzgDZ-NRxdqblqRUvehcPF7V7o8mdqE8CgXwj1_Dqj-TRc0",
    "news": [
     {
-     "t": "1億元今晚誰抱走！大樂透今晚開獎 6個幸運號碼快來對",
-     "u": "https://tw.stock.yahoo.com/news/1%E5%84%84%E5%85%83%E4%BB%8A%E6%99%9A%E8%AA%B0%E6%8A%B1%E8%B5%B0-%E5%A4%A7%E6%A8%82%E9%80%8F%E4%BB%8A%E6%99%9A%E9%96%8B%E7%8D%8E-6%E5%80%8B%E5%B9%B8%E9%81%8B%E8%99%9F%E7%A2%BC%E5%BF%AB%E4%BE%86%E5%B0%8D-130000065.html",
-     "s": "Yahoo股市"
+     "t": "選前驚爆檢調拆電腦、帶走競辦人員？徐欣瑩急赴竹縣警局抗議司法介選",
+     "u": "https://udn.com/news/story/7315/9892113",
+     "s": "UDN"
     },
     {
-     "t": "今彩539頭獎800萬 台彩11/18幸運獎號出爐",
-     "u": "https://news.ttv.com.tw/news/11511180003000W/amp",
-     "s": "台視新聞網"
+     "t": "快訊／徐欣瑩下午掃街喊卡！吳子嘉爆料「競辦同仁被帶走」喊話絕食抗議",
+     "u": "https://www.setn.com/news/1942450",
+     "s": "三立新聞網SETN.com"
     },
     {
-     "t": "11/17大樂透開獎號碼出爐了嗎？今彩539、3星彩、4星彩獎號一次看，中獎領錢期限別錯過| 下班經濟學| 財經",
-     "u": "https://www.storm.mg/article/11182482",
-     "s": "風傳媒"
+     "t": "競辦人員被帶走 徐欣瑩赴警局抗議司法粗暴介選",
+     "u": "https://hk.crntt.com/doc/7_0_160291954_1_1120203716.html",
+     "s": "中國評論新聞"
     }
    ]
   },
   {
-   "kw": "劉廣珩",
-   "traffic": "500+",
-   "start": "2026-11-19T20:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRm8QlxTei7b1OLY_YrkhleyAEGa8oHv4Npg0a1TOSzQiy9-HMl6EMgSQlNW24",
+   "kw": "cl",
+   "traffic": "200+",
+   "start": "2026-11-20T20:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6UronaaB7yoMawodwN3K2SY3e1Oxb70Mf2L6kTmiehfSE_KghPNUuIRpKhmY",
    "news": [
     {
-     "t": "「麟榤配」今年多次一輪遊 王齊麟確定改搭檔劉廣珩力拼洛杉磯奧運",
-     "u": "https://tw.sports.yahoo.com/news/%E9%BA%9F%E6%A6%A4%E9%85%8D-%E4%BB%8A%E5%B9%B4%E5%A4%9A%E6%AC%A1-%E8%BC%AA%E9%81%8A-%E7%8E%8B%E9%BD%8A%E9%BA%9F%E7%A2%BA%E5%AE%9A%E6%94%B9%E6%90%AD%E6%AA%94%E5%8A%89%E5%BB%A3%E7%8F%A9%E5%8A%9B%E6%8B%BC%E6%B4%9B%E6%9D%89%E7%A3%AF%E5%A5%A7%E9%81%8B-111549381.html",
-     "s": "Yahoo運動"
+     "t": "Cierran planta envasadora de agua en Calama: Hallan bidones en contacto con tierra y suciedad en su elaboración",
+     "u": "https://www.elnortero.cl/noticia/sociedad/cierran-planta-envasadora-de-agua-en-calama-hallan-bidones-en-contacto-con-tierra-y",
+     "s": "www.elnortero.cl"
     },
     {
-     "t": "羽球／「麟榤配」畫句點！王齊麟更換搭檔邱相榤攜手劉廣珩力拚奧運資格| 綜合 | 運動",
-     "u": "https://udn.com/news/story/7005/9888970",
-     "s": "UDN"
+     "t": "Constitución Básquetbol tiene nuevo desafío en Liga de Desarrollo",
+     "u": "https://gigantedeportivo.cl/constitucion-basquetbol-tiene-nuevo-desafio-en-liga-de-desarrollo/",
+     "s": "Gigantedeportivo.cl"
     },
     {
-     "t": "證實「麟榤配」真的拆了！王齊麟發文感謝學弟邱相榤信任",
-     "u": "https://sports.ettoday.net/news/3275181",
-     "s": "ETtoday運動雲"
+     "t": "Liceo de Temuco capacita a docentes en mediación y resolución de conflictos escolares",
+     "u": "https://alertanoticiastemuco.cl/convivencia-escolar-temuco-capacitacion-docentes/",
+     "s": "Alerta Noticias Temuco.cl"
     }
    ]
+  },
+  {
+   "kw": "台中市長候選人",
+   "traffic": "200+",
+   "start": "2026-11-20T19:50+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "利率",
@@ -362,48 +399,32 @@
    ]
   },
   {
-   "kw": "巨虹",
-   "traffic": "200+",
-   "start": "2026-11-19T21:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShKaCmFVw5jIhXCm8aLCrfvCg0hKWmpibYkalYv4PbQye7_V6HUD2qPEXFbaM",
-   "news": [
-    {
-     "t": "股價從142元跌到剩5元！專家揭記憶體老廠「爆雷兇手」 近5000名股東來不及逃 | 張庭維 | 新聞",
-     "u": "https://www.storm.mg/article/11182989",
-     "s": "風傳媒"
-    },
-    {
-     "t": "勝昱打入全額交割股 11/19起實施",
-     "u": "https://stock.ltn.com.tw/article/azwb7k4myjkf",
-     "s": "自由時報"
-    },
-    {
-     "t": "記憶體通路商巨虹現增、私募接連失利 9.5億訂金恐被沒收 11/18起停止櫃檯買賣",
-     "u": "https://www.taiwannews.com.tw/zh/news/6477467",
-     "s": "Taiwan News"
-    }
-   ]
+   "kw": "00830",
+   "traffic": "100+",
+   "start": "2026-11-20T20:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
-   "kw": "垃圾",
-   "traffic": "200+",
-   "start": "2026-11-19T20:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTONyBWRhIYvxpuExaX7hZN-KVQ3EZ2jjedmr_ADGWn-SRi1zi-b_E-1DCqCgo",
+   "kw": "美國職業棒球大聯盟",
+   "traffic": "100+",
+   "start": "2026-11-20T20:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjGDDGwpAYnBu1e2Zsqkm3xP9FR5_YBWugNNQSRKqpdodztOPivwyr7igZ2I0",
    "news": [
     {
-     "t": "不要的鞋子丟回收還是一般垃圾？環保局公布正確處理方式！穿不到還有這1 處可以捐",
-     "u": "https://www.storm.mg/lifestyle/11182826",
-     "s": "風傳媒"
+     "t": "MLB／道奇「投手再生工廠」新任務？簽下24歲前百大新秀漢斯",
+     "u": "https://tw.sports.yahoo.com/news/mlb-%E9%81%93%E5%A5%87%E6%8A%95%E6%89%8B%E5%86%8D%E7%94%9F%E5%B7%A5%E5%BB%A0%E6%96%B0%E4%BB%BB%E5%8B%99-%E7%B0%BD%E4%B8%8B24%E6%AD%B2%E5%89%8D%E7%99%BE%E5%A4%A7%E6%96%B0%E7%A7%80%E6%BC%A2%E6%96%AF-021335394.html",
+     "s": "Yahoo運動"
     },
     {
-     "t": "不要舊棉被枕頭要丟回收還是一般垃圾？環保局公布正確處理方式！不怕丟錯被罰6000元",
-     "u": "https://www.storm.mg/lifestyle/11182304",
-     "s": "風傳媒"
+     "t": "MLB》道奇投手再生工廠出手！網羅24歲昔日大物右投 美媒直呼罕見",
+     "u": "https://sports.ltn.com.tw/news/breakingnews/5647071",
+     "s": "自由體育"
     },
     {
-     "t": "涉提供公益垃圾袋圖利廠商士林盛姓里長遭聲押禁見| 社會",
-     "u": "https://www.cna.com.tw/news/asoc/202611190119.aspx",
-     "s": "中央社 CNA"
+     "t": "道奇簽速球均速147KM右投！美媒揭值得押寶紅雀大物的理由：0風險",
+     "u": "https://www.nownews.com/news/6893923",
+     "s": "NOWnews今日新聞"
     }
    ]
   },
@@ -558,56 +579,18 @@
      "s": "東森新聞"
     }
    ]
-  },
-  {
-   "kw": "宋楚瑜",
-   "traffic": "100+",
-   "start": "2026-11-19T20:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRpc3Oa_JZhjPBEuGm1QrJKHt3mVfi8P3HTV0d66LVwwTsYyoF-4_suuzzhKI",
-   "news": [
-    {
-     "t": "響應世界廁所日 中市環保局推廣優質如廁文化 公私協力攜手提升公廁環境品質",
-     "u": "https://www.taichung.gov.tw/3416255/post",
-     "s": "臺中市政府全球資訊網"
-    },
-    {
-     "t": "安心「棒流」！嘉市25座中油站有廁所　全台1900站清潔總動員",
-     "u": "https://finance.ettoday.net/news/3275160",
-     "s": "ETtoday財經雲"
-    },
-    {
-     "t": "中油連續六年響應世界廁所日全台串聯加油站公廁清潔活動| 產業綜合| 產經",
-     "u": "https://udn.com/news/story/7241/9889769",
-     "s": "UDN"
-    }
-   ]
-  },
-  {
-   "kw": "dei",
-   "traffic": "100+",
-   "start": "2026-11-19T20:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx3pVRP2SakIUiMpgIHYb0WPu6ja4tJHVYDa6EDoQgU7vLfbKpxT7qzw-EzKQ",
-   "news": [
-    {
-     "t": "Ohio Senate passes bill banning DEI in public schools",
-     "u": "https://www.10tv.com/article/news/local/ohio-senate-passes-bill-banning-dei-public-schools/530-3663667f-25e7-4002-88e7-68374c54ffca",
-     "s": "10TV"
-    },
-    {
-     "t": "Ohio Senate advances K-12 DEI ban, sending bill to the House",
-     "u": "https://www.cleveland.com/open/2026/11/ohio-senate-advances-k-12-dei-ban-sending-bill-to-the-house.html",
-     "s": "Cleveland.com"
-    },
-    {
-     "t": "Ohio Senate Republicans pass bill banning diversity, equity and inclusion in K-12 schools",
-     "u": "https://www.yahoo.com/news/politics/articles/ohio-senate-republicans-pass-bill-090001194.html",
-     "s": "Yahoo"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-20": [
+   {
+    "kw": "明天的天氣",
+    "traffic": "50000+"
+   },
+   {
+    "kw": "台 股",
+    "traffic": "10000+"
+   },
    {
     "kw": "融資斷頭",
     "traffic": "5000+"
@@ -626,6 +609,10 @@
    },
    {
     "kw": "老農津貼",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "weather tomorrow",
     "traffic": "1000+"
    },
    {
@@ -657,31 +644,23 @@
     "traffic": "200+"
    },
    {
+    "kw": "军公教",
+    "traffic": "200+"
+   },
+   {
+    "kw": "徐欣瑩",
+    "traffic": "200+"
+   },
+   {
+    "kw": "cl",
+    "traffic": "200+"
+   },
+   {
+    "kw": "台中市長候選人",
+    "traffic": "200+"
+   },
+   {
     "kw": "資訊安全",
-    "traffic": "100+"
-   },
-   {
-    "kw": "遊戲",
-    "traffic": "100+"
-   },
-   {
-    "kw": "銀行",
-    "traffic": "100+"
-   },
-   {
-    "kw": "熊本縣",
-    "traffic": "100+"
-   },
-   {
-    "kw": "spurs vs clippers",
-    "traffic": "100+"
-   },
-   {
-    "kw": "hbl",
-    "traffic": "100+"
-   },
-   {
-    "kw": "grizzlies vs warriors",
     "traffic": "100+"
    }
   ],
