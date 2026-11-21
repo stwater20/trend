@@ -1,53 +1,7 @@
 {
- "updated": "2026-11-21 19:20",
- "updated_iso": "2026-11-21T19:20+08:00",
+ "updated": "2026-11-22 03:26",
+ "updated_iso": "2026-11-22T03:26+08:00",
  "items": [
-  {
-   "kw": "明天的天氣",
-   "traffic": "50000+",
-   "start": "2026-11-20T20:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvha1EtsoZzWeyLSjDckijztGUWBtgnzb-JRX-QM4MVLL3rYaCqSqMVURvCzE",
-   "news": [
-    {
-     "t": "21日各地大致多雲到晴 22日清晨局部低溫探10度",
-     "u": "https://udn.com/news/story/7266/9891848",
-     "s": "UDN"
-    },
-    {
-     "t": "天氣預報／冷氣團影響 新北石碇低溫13.6度",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1052615",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "20261120 公視AI手語天氣報導 ｜大陸冷氣團影響 全臺各地天氣偏冷",
-     "u": "https://news.pts.org.tw/video/23271",
-     "s": "公視新聞"
-    }
-   ]
-  },
-  {
-   "kw": "台 股",
-   "traffic": "10000+",
-   "start": "2026-11-20T20:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqM1pT95HwjnYN2rPJmNuHYLeo2UvwAZTBLtrhied1hZzpcX5c8Vsk8xqvrKk",
-   "news": [
-    {
-     "t": "台股為何跌那麼慘？ 傳奇散戶曝「2連鎖效應」：恐再惡化",
-     "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%82%BA%E4%BD%95%E8%B7%8C%E9%82%A3%E9%BA%BC%E6%85%98-%E5%82%B3%E5%A5%87%E6%95%A3%E6%88%B6%E6%9B%9D-2%E9%80%A3%E9%8E%96%E6%95%88%E6%87%89-%E6%81%90%E5%86%8D%E6%83%A1%E5%8C%96-080800461.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "台股今重挫6.23％居主要亞股之首　金管會：採行適當穩定措施",
-     "u": "https://finance.ettoday.net/news/3275708",
-     "s": "ETtoday財經雲"
-    },
-    {
-     "t": "國安基金與限空令2.0全部失靈！ 26檔千金股跌停",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5647580",
-     "s": "自由財經"
-    }
-   ]
-  },
   {
    "kw": "貴金屬",
    "traffic": "5000+",
@@ -68,6 +22,29 @@
      "t": "《貴金屬/金屬》美元強、12月升息率100% 金價軟- 新聞",
      "u": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=4f0215fe-2277-4160-9051-d2e9e98da114",
      "s": "MoneyDJ"
+    }
+   ]
+  },
+  {
+   "kw": "76人 對 公鹿",
+   "traffic": "2000+",
+   "start": "2026-11-22T01:10+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSujT4HQWH_WasQL-M-JnbMJbRJxRtrvAaPoh1VkpQ9xaVxOGzq5pCJyL70zek",
+   "news": [
+    {
+     "t": "球員已經要進場了 公牛吉祥物還在打電動!!",
+     "u": "https://tw.sports.yahoo.com/video/%E7%90%83%E5%93%A1%E5%B7%B2%E7%B6%93%E8%A6%81%E9%80%B2%E5%A0%B4%E4%BA%86-%E5%85%AC%E7%89%9B%E5%90%89%E7%A5%A5%E7%89%A9%E9%82%84%E5%9C%A8%E6%89%93%E9%9B%BB%E5%8B%95-033018402.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "NBA東區首尾交鋒 費城76人主場迎戰12連敗公鹿 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/1DPx889",
+     "s": "LINE TODAY"
+    },
+    {
+     "t": "NBA 11/22賽程》76人主場交手「1勝公鹿」！詹姆斯助隊力拼5連勝",
+     "u": "https://www.nownews.com/news/6894362",
+     "s": "NOWnews今日新聞"
     }
    ]
   },
@@ -100,6 +77,13 @@
      "s": "LINE TODAY"
     }
    ]
+  },
+  {
+   "kw": "貝森特",
+   "traffic": "1000+",
+   "start": "2026-11-22T00:30+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "中油",
@@ -171,25 +155,25 @@
    ]
   },
   {
-   "kw": "weather tomorrow",
-   "traffic": "1000+",
-   "start": "2026-11-20T20:30+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg7DnjVdTAcHgrSBqYrqZnQMjFcyzMX81y_4OngpYZtEyUnLR42my9zJx99-8",
+   "kw": "mama 2026 得獎名單",
+   "traffic": "500+",
+   "start": "2026-11-22T00:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMleGtWU1A1mnJjBDyx1MTHbphOuOXcaX0hvnTGWD5zp2Opyv4GsqUhdGeKOw",
    "news": [
     {
-     "t": "FORECAST: 70s Won’t Last Past The Weekend",
-     "u": "https://www.wdrbwave.com/2026/11/19/forecast-70s-wont-last-past-weekend/",
-     "s": "WDRB"
+     "t": "BTS奪MAMA年度藝人！嗨喊：我們在高雄 告白ARMY影片熱騰騰來囉",
+     "u": "https://tw.news.yahoo.com/bts%E5%A5%AAmama%E5%B9%B4%E5%BA%A6%E8%97%9D%E4%BA%BA-%E5%97%A8%E5%96%8A-%E6%88%91%E5%80%91%E5%9C%A8%E9%AB%98%E9%9B%84-%E5%91%8A%E7%99%BDarmy%E5%BD%B1%E7%89%87%E7%86%B1%E9%A8%B0%E9%A8%B0%E4%BE%86%E5%9B%89-003132926.html",
+     "s": "Yahoo新聞"
     },
     {
-     "t": "Unseasonably mild weather hangs on for the upcoming weekend",
-     "u": "https://www.lex18.com/weather/daily-forecast/unseasonably-mild-weather-hangs-on-for-the-upcoming-weekend",
-     "s": "LEX 18 News"
+     "t": "「K-pop女王」CL瘦回巔峰！登2026 MAMA舞台又帥又辣！昔日「嫩豆腐湯減脂法」曝光",
+     "u": "https://woman.tvbs.com.tw/beauty/68634",
+     "s": "TVBS 女人我最大"
     },
     {
-     "t": "Continued dry and milder Thursday",
-     "u": "https://www.wlky.com/article/continued-dry-and-milder-thursday/74475354",
-     "s": "WLKY"
+     "t": "BTS人在高雄照樣拿獎！連奪MAMA大獎 CORTIS首拿年度歌曲",
+     "u": "https://ent.ltn.com.tw/news/breakingnews/5648977",
+     "s": "自由娛樂"
     }
    ]
   },
@@ -259,6 +243,52 @@
      "t": "子夜惡火彰化百年老廟甘澍宮3層樓被燒 3尊媽祖獲搶救",
      "u": "https://udn.com/news/story/7320/9892791",
      "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "紐卡索聯 對 兵工廠",
+   "traffic": "200+",
+   "start": "2026-11-22T01:30+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmm9VZCBdBcxVEItUvIEbyhnHR-PBf1deW8F4ocopFMJr4njTP0od_xgyXbeg",
+   "news": [
+    {
+     "t": "足球運彩分析》11/22 吉馬良斯轉會後首戰舊主紐卡索聯 兵工廠力拼開季前11輪拿10勝",
+     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1122-%E5%90%89%E9%A6%AC%E8%89%AF%E6%96%AF%E8%BD%89%E6%9C%83%E5%BE%8C%E9%A6%96%E6%88%B0%E8%88%8A%E4%B8%BB%E7%B4%90%E5%8D%A1%E7%B4%A2%E8%81%AF-%E5%85%B5%E5%B7%A5%E5%BB%A0%E5%8A%9B%E6%8B%BC%E9%96%8B%E5%AD%A3%E5%89%8D11%E8%BC%AA%E6%8B%BF10%E5%8B%9D-085250609.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "薩卡距復出尚有4周",
+     "u": "https://news.now.com/home/sports/player?newsId=sp39852187340",
+     "s": "Now 新聞"
+    },
+    {
+     "t": "英超／兵工廠Saliba傷癒復出 Zubimendi腿傷將缺席數週 | 民視新聞網",
+     "u": "https://today.line.me/tw/v3/article/oqpyozN",
+     "s": "LINE TODAY"
+    }
+   ]
+  },
+  {
+   "kw": "尼斯 對 巴黎聖日耳曼",
+   "traffic": "200+",
+   "start": "2026-11-22T00:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yOOl5BZAZdugeYq8e0AqSgRnrHa4zV19lsLtvvREyvp0smspjKsxOI3EOGo",
+   "news": [
+    {
+     "t": "足球運彩分析》11/22 巴黎聖日耳曼「傷員漸進復出、國腳負荷管理」 尼斯對戰劣勢太明顯",
+     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1122-%E5%B7%B4%E9%BB%8E%E8%81%96%E6%97%A5%E8%80%B3%E6%9B%BC%E3%80%8C%E5%82%B7%E5%93%A1%E6%BC%B8%E9%80%B2%E5%BE%A9%E5%87%BA%E3%80%81%E5%9C%8B%E8%85%B3%E8%B2%A0%E8%8D%B7%E7%AE%A1%E7%90%86%E3%80%8D-%E5%B0%BC%E6%96%AF%E5%B0%8D%E6%88%B0%E5%8A%A3%E5%8B%A2%E5%A4%AA%E6%98%8E%E9%A1%AF-084104441.html",
+     "s": "Yahoo運動"
+    },
+    {
+     "t": "丹比利傷癒訪尼斯勢候命",
+     "u": "https://news.now.com/mobile/sports/player?newsId=sp39852187341",
+     "s": "Now 新聞"
+    },
+    {
+     "t": "法甲巴黎聖日耳曼3比2逆轉尼斯 進球功臣膝蓋重傷痛哭退場",
+     "u": "https://sport.ftvnews.com.tw/news/detail/2026B22W0032",
+     "s": "民視運動網"
     }
    ]
   },
@@ -413,87 +443,119 @@
    ]
   },
   {
-   "kw": "qqq stock",
-   "traffic": "200+",
-   "start": "2026-11-21T01:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqKz7cl7HYoveJwuNhTiUCLGJVj6OwtH052_7CTQJcRRt-qU0JmdQKenoGGkk",
+   "kw": "法甲",
+   "traffic": "100+",
+   "start": "2026-11-22T02:50+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_LtQBLfJvniRN_5wmj77yn5vYZNr2ouzVI35LsQUmDFLtgKLl2P-TSfdIB8",
    "news": [
     {
-     "t": "Anthropic IPO live: Anthropic stock drops after first day of trading",
-     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-anthropic-stock-drops-after-first-day-of-trading-143300513.html",
-     "s": "Yahoo Finance"
+     "t": "恩里克：杜埃明显是重伤，必须等待明天的检查结果 相信他能康复",
+     "u": "https://m.sohu.com/a/1104678601_362070?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "s": "Sohu"
     },
     {
-     "t": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
-     "u": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
-     "s": "The Guardian"
+     "t": "【法甲联赛第11轮】尼斯vs巴黎圣日耳曼比赛结果：尼斯(2-3)巴黎圣日耳曼比分战报(2026年11月22日)",
+     "u": "https://www.qiumiwu.com/news/2047777718017",
+     "s": "球迷屋"
     },
     {
-     "t": "Almost all of Anthropic’s employees are now millionaires",
-     "u": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
-     "s": "CNN"
+     "t": "不妙了！杜埃无对抗情况下捂着膝盖痛苦倒地，被担架抬出",
+     "u": "http://m.zhibo8.com/news/web/zuqiu/2026-11-22/6b01cd6f544c2native.htm",
+     "s": "直播吧"
     }
    ]
   },
   {
-   "kw": "军公教",
-   "traffic": "200+",
-   "start": "2026-11-20T20:50+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "徐欣瑩",
-   "traffic": "200+",
-   "start": "2026-11-20T20:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqccr38ahz2TXiUzgDZ-NRxdqblqRUvehcPF7V7o8mdqE8CgXwj1_Dqj-TRc0",
+   "kw": "newcastle vs arsenal",
+   "traffic": "100+",
+   "start": "2026-11-22T02:10+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAnu_YiDRIxL10sjwiq9GJtCh15T-C9YY-tSyYS_25WGGF1ELmFovN-8Wkk8",
    "news": [
     {
-     "t": "選前驚爆檢調拆電腦、帶走競辦人員？徐欣瑩急赴竹縣警局抗議司法介選",
-     "u": "https://udn.com/news/story/7315/9892113",
-     "s": "UDN"
+     "t": "Match Summary",
+     "u": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
+     "s": "BBC"
     },
     {
-     "t": "快訊／徐欣瑩下午掃街喊卡！吳子嘉爆料「競辦同仁被帶走」喊話絕食抗議",
-     "u": "https://www.setn.com/news/1942450",
-     "s": "三立新聞網SETN.com"
+     "t": "Team news: Eze in, Guimaraes starts at Newcastle",
+     "u": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
+     "s": "Arsenal.com"
     },
     {
-     "t": "競辦人員被帶走 徐欣瑩赴警局抗議司法粗暴介選",
-     "u": "https://hk.crntt.com/doc/7_0_160291954_1_1120203716.html",
-     "s": "中國評論新聞"
+     "t": "Latest. Matthias Jaissle's team news update: Joelinton and Livramento latest ahead of Arsenal visit",
+     "u": "https://www.newcastleunited.com/en/news/matthias-jaissles-team-news-update-joelinton-and-livramento-latest-ahead-of-arsenal-visit",
+     "s": "Newcastle United"
     }
    ]
   },
   {
-   "kw": "cl",
-   "traffic": "200+",
-   "start": "2026-11-20T20:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6UronaaB7yoMawodwN3K2SY3e1Oxb70Mf2L6kTmiehfSE_KghPNUuIRpKhmY",
+   "kw": "意甲",
+   "traffic": "100+",
+   "start": "2026-11-22T00:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCTuA8r3Qz36PFN4bT6DXY-d3-XC7FHa8tGUJG9dKO4Kr4J1camgzJhnkEY54",
    "news": [
     {
-     "t": "Cierran planta envasadora de agua en Calama: Hallan bidones en contacto con tierra y suciedad en su elaboración",
-     "u": "https://www.elnortero.cl/noticia/sociedad/cierran-planta-envasadora-de-agua-en-calama-hallan-bidones-en-contacto-con-tierra-y",
-     "s": "www.elnortero.cl"
+     "t": "意媒：马伦已成为罗马进攻核心，迪巴拉的复出对他会更有帮助",
+     "u": "https://m.sohu.com/a/1104592075_362070?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "s": "Sohu"
     },
     {
-     "t": "Constitución Básquetbol tiene nuevo desafío en Liga de Desarrollo",
-     "u": "https://gigantedeportivo.cl/constitucion-basquetbol-tiene-nuevo-desafio-en-liga-de-desarrollo/",
-     "s": "Gigantedeportivo.cl"
+     "t": "[流言板]加斯佩里尼：迪巴拉和斯维拉尔已复出，希望别再有重大伤病",
+     "u": "https://m.hupu.com/bbs/644090482.html",
+     "s": "虎扑"
     },
     {
-     "t": "Liceo de Temuco capacita a docentes en mediación y resolución de conflictos escolares",
-     "u": "https://alertanoticiastemuco.cl/convivencia-escolar-temuco-capacitacion-docentes/",
-     "s": "Alerta Noticias Temuco.cl"
+     "t": "周六意甲，帕尔马能否再次扮演黑马？",
+     "u": "https://www.nowscore.com/news/1280167.htm",
+     "s": "捷报比分网"
     }
    ]
   },
   {
-   "kw": "台中市長候選人",
-   "traffic": "200+",
-   "start": "2026-11-20T19:50+08:00",
-   "pic": "",
-   "news": []
+   "kw": "v",
+   "traffic": "100+",
+   "start": "2026-11-22T00:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMIZaUDpHOz7-Od5q4RMshQgykH-I04n_7cP4wCgOR9EvlJOg8h8pL1cpGAKg",
+   "news": [
+    {
+     "t": "Premier League live updates: Newcastle host Arsenal, Guimaraes",
+     "u": "https://www.espn.com/soccer/story/_/id/50532558/premier-league-live-updates-man-city-chelsea-arsenal",
+     "s": "ESPN"
+    },
+    {
+     "t": "Premier League live scores: Latest news, updates and analysis from today’s fixtures",
+     "u": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/3FPm5yHvnDoo/",
+     "s": "The New York Times"
+    },
+    {
+     "t": "Follow Saturday's Premier League games live",
+     "u": "https://www.bbc.com/sport/football/articles/cq98xyyp9nnzo",
+     "s": "BBC"
+    }
+   ]
+  },
+  {
+   "kw": "cos",
+   "traffic": "100+",
+   "start": "2026-11-22T00:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLLFr4W6uVXRMXe3Fk11zuO-9tY73sprLlQ-wZlddR-pEJzg7OyBGK3Ot42Ak",
+   "news": [
+    {
+     "t": "These are the 7 women's trends you're about to see everywhere this winter, according to style experts",
+     "u": "https://shopping.yahoo.com/style/clothing/article/these-are-the-7-womens-trends-youre-about-to-see-everywhere-this-winter-according-to-style-experts-203519838.html",
+     "s": "Yahoo"
+    },
+    {
+     "t": "These Winter Essentials Guarantee Expensive-Looking Outfits (From Now Through 2027)",
+     "u": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-winter-fashion-essentials",
+     "s": "Who What Wear"
+    },
+    {
+     "t": "3 Stylists Told Me These Elevated Staples From $20 Add “Richness” to Winter Outfits—and How to Wear Them",
+     "u": "https://www.realsimple.com/stylist-approved-quince-clothing-winter-caspule-wardrobe-12263308",
+     "s": "Real Simple"
+    }
+   ]
   },
   {
    "kw": "耶誕城",
@@ -501,23 +563,51 @@
    "start": "2026-11-21T18:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "板橋耶誕城",
-   "traffic": "100+",
-   "start": "2026-11-21T18:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "證券",
-   "traffic": "100+",
-   "start": "2026-11-21T10:20+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
+  "2026-11-22": [
+   {
+    "kw": "76人 對 公鹿",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "貝森特",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "mama 2026 得獎名單",
+    "traffic": "500+"
+   },
+   {
+    "kw": "紐卡索聯 對 兵工廠",
+    "traffic": "200+"
+   },
+   {
+    "kw": "尼斯 對 巴黎聖日耳曼",
+    "traffic": "200+"
+   },
+   {
+    "kw": "法甲",
+    "traffic": "100+"
+   },
+   {
+    "kw": "newcastle vs arsenal",
+    "traffic": "100+"
+   },
+   {
+    "kw": "意甲",
+    "traffic": "100+"
+   },
+   {
+    "kw": "v",
+    "traffic": "100+"
+   },
+   {
+    "kw": "cos",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-21": [
    {
     "kw": "貴金屬",
@@ -1007,88 +1097,6 @@
    },
    {
     "kw": "米拉·安祖莉娃",
-    "traffic": "200+"
-   }
-  ],
-  "2026-11-15": [
-   {
-    "kw": "lol 世界賽",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "blg",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "twitch",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "u23 賽程",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "沈伯洋",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "車票",
-    "traffic": "2000+"
-   },
-   {
-    "kw": "挪威 對 威爾斯",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "好市多",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "lol",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "張書偉",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "鵜鶘 對 金塊",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "吳音寧",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "南港展覽館",
-    "traffic": "500+"
-   },
-   {
-    "kw": "騎士 對 獨行俠",
-    "traffic": "500+"
-   },
-   {
-    "kw": "金價",
-    "traffic": "500+"
-   },
-   {
-    "kw": "股東",
-    "traffic": "500+"
-   },
-   {
-    "kw": "2026",
-    "traffic": "500+"
-   },
-   {
-    "kw": "亞歷山大·茲維列夫",
-    "traffic": "500+"
-   },
-   {
-    "kw": "蔡文誠",
-    "traffic": "500+"
-   },
-   {
-    "kw": "比特幣",
     "traffic": "200+"
    }
   ]
