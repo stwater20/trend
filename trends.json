@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-23 00:22",
- "updated_iso": "2026-11-23T00:22+08:00",
+ "updated": "2026-11-23 06:30",
+ "updated_iso": "2026-11-23T06:30+08:00",
  "items": [
+  {
+   "kw": "今天天氣",
+   "traffic": "2000+",
+   "start": "2026-11-23T06:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYRM3fF6pkVKos4Lq2jdj_bQf_GQ_zkaFeVfeMfpD1HoDMzh2BrIgD7zCe_A",
+   "news": [
+    {
+     "t": "29度暖陽好天氣剩一天！周二北部高溫降至18度 連3天有雨",
+     "u": "https://udn.com/news/story/7266/9894642",
+     "s": "UDN"
+    },
+    {
+     "t": "明天天氣11/23高溫28度！下週天氣北部驟降剩19度，2波東北季風接力",
+     "u": "https://www.elle.com/tw/life/hot-news/g74499703/taiwan-weather-1123/",
+     "s": "ELLE"
+    },
+    {
+     "t": "明天的天氣/2波冷空氣來了！全台降溫變天「這3天最濕冷」低溫下探15度， 一周氣象一次看",
+     "u": "https://www.storm.mg/lifestyle/11183974",
+     "s": "風傳媒"
+    }
+   ]
+  },
   {
    "kw": "台 股 大 跌",
    "traffic": "2000+",
@@ -54,29 +77,6 @@
    "start": "2026-11-22T07:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "76人 對 公鹿",
-   "traffic": "2000+",
-   "start": "2026-11-22T01:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSujT4HQWH_WasQL-M-JnbMJbRJxRtrvAaPoh1VkpQ9xaVxOGzq5pCJyL70zek",
-   "news": [
-    {
-     "t": "球員已經要進場了 公牛吉祥物還在打電動!!",
-     "u": "https://tw.sports.yahoo.com/video/%E7%90%83%E5%93%A1%E5%B7%B2%E7%B6%93%E8%A6%81%E9%80%B2%E5%A0%B4%E4%BA%86-%E5%85%AC%E7%89%9B%E5%90%89%E7%A5%A5%E7%89%A9%E9%82%84%E5%9C%A8%E6%89%93%E9%9B%BB%E5%8B%95-033018402.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "NBA東區首尾交鋒 費城76人主場迎戰12連敗公鹿 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/1DPx889",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "NBA 11/22賽程》76人主場交手「1勝公鹿」！詹姆斯助隊力拼5連勝",
-     "u": "https://www.nownews.com/news/6894362",
-     "s": "NOWnews今日新聞"
-    }
-   ]
   },
   {
    "kw": "星巴克",
@@ -132,11 +132,27 @@
    "news": []
   },
   {
-   "kw": "貝森特",
-   "traffic": "1000+",
-   "start": "2026-11-22T00:30+08:00",
-   "pic": "",
-   "news": []
+   "kw": "普 發 兩 萬",
+   "traffic": "500+",
+   "start": "2026-11-23T05:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREpZM3xpZFNkOgQg9gS0ECfA2MdsYUC9iBdKf3yEJLgQq3TeBZYAdYZkJXthI",
+   "news": [
+    {
+     "t": "卓榮泰不副署普發2萬元？許宇甄籲表態：不要選前騙票選後翻臉",
+     "u": "https://udn.com/news/story/125074/9894438",
+     "s": "UDN"
+    },
+    {
+     "t": "普發現金2萬元三讀通過！「全民不排富」原本1萬元能併領嗎？最快領取時間、 最新進度一次看",
+     "u": "https://www.storm.mg/lifestyle/11183888",
+     "s": "風傳媒"
+    },
+    {
+     "t": "普發2萬支持嗎？最新網路投票 近8千人表態「破9成一面倒」",
+     "u": "https://news.tvbs.com.tw/politics/4054173",
+     "s": "TVBS新聞網"
+    }
+   ]
   },
   {
    "kw": "楊雁雁",
@@ -162,27 +178,71 @@
    ]
   },
   {
-   "kw": "mama 2026 得獎名單",
-   "traffic": "500+",
-   "start": "2026-11-22T00:40+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMleGtWU1A1mnJjBDyx1MTHbphOuOXcaX0hvnTGWD5zp2Opyv4GsqUhdGeKOw",
+   "kw": "thứ hạng của liverpool gặp man utd",
+   "traffic": "200+",
+   "start": "2026-11-23T06:00+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQDY5ndAWrEOfeQIXpf7WgsuhkjzGwv77kfOKfvEBPV2imOR5fmD519cggAF4",
    "news": [
     {
-     "t": "BTS奪MAMA年度藝人！嗨喊：我們在高雄 告白ARMY影片熱騰騰來囉",
-     "u": "https://tw.news.yahoo.com/bts%E5%A5%AAmama%E5%B9%B4%E5%BA%A6%E8%97%9D%E4%BA%BA-%E5%97%A8%E5%96%8A-%E6%88%91%E5%80%91%E5%9C%A8%E9%AB%98%E9%9B%84-%E5%91%8A%E7%99%BDarmy%E5%BD%B1%E7%89%87%E7%86%B1%E9%A8%B0%E9%A8%B0%E4%BE%86%E5%9B%89-003132926.html",
-     "s": "Yahoo新聞"
+     "t": "CANLI Liverpool - Manchester United: İlk 11'ler",
+     "u": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-doi-hinh-xuat-phat",
+     "s": "Vietnam.vn"
     },
     {
-     "t": "「K-pop女王」CL瘦回巔峰！登2026 MAMA舞台又帥又辣！昔日「嫩豆腐湯減脂法」曝光",
-     "u": "https://woman.tvbs.com.tw/beauty/68634",
-     "s": "TVBS 女人我最大"
+     "t": "Yoro không còn xứng suất đá chính ở MU",
+     "u": "https://znews.vn/yoro-khong-con-xung-suat-da-chinh-o-mu-post1698205.html",
+     "s": "Znews"
     },
     {
-     "t": "BTS人在高雄照樣拿獎！連奪MAMA大獎 CORTIS首拿年度歌曲",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5648977",
-     "s": "自由娛樂"
+     "t": "Gary Neville đặt câu hỏi về quyết định của Mauricio Pochettino",
+     "u": "https://bongda24h.vn/bong-da-anh/gary-neville-dat-cau-hoi-ve-quyet-dinh-cua-mauricio-pochettino-172-465391.html",
+     "s": "Bongda24h"
     }
    ]
+  },
+  {
+   "kw": "謝金河",
+   "traffic": "200+",
+   "start": "2026-11-23T05:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "老鷹 對 活塞",
+   "traffic": "200+",
+   "start": "2026-11-23T05:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7aACOrT4vYDBi_osnlKVrwjSuYJCpD76Whqmjp8APm8GACL5vgjva-KdTpKU",
+   "news": [
+    {
+     "t": "NBA彩经：勇士力拼绿军 活塞擒下老鹰 尼克斯主场小胜步行者",
+     "u": "https://sports.sina.cn/nba/other/2026-11-22/detail-inizrhuw5969975.d.html?vt=4",
+     "s": "手机新浪网"
+    },
+    {
+     "t": "东部第三第四正面碰撞，谁能拿下关键一局？",
+     "u": "https://www.nowscore.com/news/1281227.htm",
+     "s": "捷报比分网"
+    },
+    {
+     "t": "穿针引线！坎宁安半场3中0没得分 但送出9助攻",
+     "u": "https://news.zhibo8.com/nba/2026-11-23/6b0363d50dd06native.htm",
+     "s": "直播吧"
+    }
+   ]
+  },
+  {
+   "kw": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
+   "traffic": "200+",
+   "start": "2026-11-23T05:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "年終賽",
+   "traffic": "200+",
+   "start": "2026-11-23T03:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "liverpool vs man utd",
@@ -390,25 +450,29 @@
    ]
   },
   {
-   "kw": "紐卡索聯 對 兵工廠",
-   "traffic": "200+",
-   "start": "2026-11-22T01:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmm9VZCBdBcxVEItUvIEbyhnHR-PBf1deW8F4ocopFMJr4njTP0od_xgyXbeg",
+   "kw": "飛機",
+   "traffic": "100+",
+   "start": "2026-11-23T06:10+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "半導體",
+   "traffic": "100+",
+   "start": "2026-11-23T06:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "klasemen liverpool vs manchester united f.c.",
+   "traffic": "100+",
+   "start": "2026-11-23T05:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5eyhD1D5Ex3QqiNBZRo8LHhA0y6DYHSSkGCLWT3n39T5qAyaHs5hKB7DhPtI",
    "news": [
     {
-     "t": "足球運彩分析》11/22 吉馬良斯轉會後首戰舊主紐卡索聯 兵工廠力拼開季前11輪拿10勝",
-     "u": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1122-%E5%90%89%E9%A6%AC%E8%89%AF%E6%96%AF%E8%BD%89%E6%9C%83%E5%BE%8C%E9%A6%96%E6%88%B0%E8%88%8A%E4%B8%BB%E7%B4%90%E5%8D%A1%E7%B4%A2%E8%81%AF-%E5%85%B5%E5%B7%A5%E5%BB%A0%E5%8A%9B%E6%8B%BC%E9%96%8B%E5%AD%A3%E5%89%8D11%E8%BC%AA%E6%8B%BF10%E5%8B%9D-085250609.html",
-     "s": "Yahoo運動"
-    },
-    {
-     "t": "薩卡距復出尚有4周",
-     "u": "https://news.now.com/home/sports/player?newsId=sp39852187340",
-     "s": "Now 新聞"
-    },
-    {
-     "t": "英超／兵工廠Saliba傷癒復出 Zubimendi腿傷將缺席數週 | 民視新聞網",
-     "u": "https://today.line.me/tw/v3/article/oqpyozN",
-     "s": "LINE TODAY"
+     "t": "Manchester United Ungguli Liverpool dalam Rekor Head to Head",
+     "u": "https://bsinews.id/rekor-head-to-head-liverpool-man-united",
+     "s": "bsinews.id"
     }
    ]
   },
@@ -441,132 +505,18 @@
    "start": "2026-11-22T23:20+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "下元節拜拜",
-   "traffic": "100+",
-   "start": "2026-11-22T23:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzR0KpZ9ENYxsSr-wZSsp2nP2N5lr6CLfdA5GPEfCEs_2BEHLEbPpDKAtsqVI",
-   "news": [
-    {
-     "t": "11/23下元節要拜拜！「4生肖」提前補能量 吃龍眼助開運",
-     "u": "https://tw.news.yahoo.com/11-23%E4%B8%8B%E5%85%83%E7%AF%80%E8%A6%81%E6%8B%9C%E6%8B%9C-4%E7%94%9F%E8%82%96-%E6%8F%90%E5%89%8D%E8%A3%9C%E8%83%BD%E9%87%8F-%E5%90%83%E9%BE%8D%E7%9C%BC%E5%8A%A9%E9%96%8B%E9%81%8B-082950008.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "11/23下元節也是水官大帝生日！簡單１動作補財庫，把握歲末３大黃金參拜日",
-     "u": "https://supertaste.tvbs.com.tw/hot/362547",
-     "s": "食尚玩家"
-    },
-    {
-     "t": "「超級發財日」要來了　做一事2027賺整年",
-     "u": "https://www.ettoday.net/news/20261118/3274001.htm",
-     "s": "ETtoday新聞雲"
-    }
-   ]
-  },
-  {
-   "kw": "经济日报",
-   "traffic": "100+",
-   "start": "2026-11-22T22:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG2s7y9Pd88TEZcvf5Vn-9oyn2yyXJXtGIrLVG4VMGTs1FKthujfLTVORseEk",
-   "news": [
-    {
-     "t": "经济日报：“温差”待消弭 信心不可失",
-     "u": "https://m.sohu.com/a/1104771286_121345914?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "Sohu"
-    },
-    {
-     "t": "经济日报：“温差”待消弭 信心不可失",
-     "u": "https://c.m.163.com/news/a/LC9K0J0F05199NPP.html",
-     "s": "网易新闻客户端"
-    },
-    {
-     "t": "《经济日报》光柱河北丨唐山迁西：把香甜板栗“吃干榨净”",
-     "u": "https://www.hebtv.com/19/19js/zx/tt/12609247.shtml",
-     "s": "河北广播电视台"
-    }
-   ]
-  },
-  {
-   "kw": "桂綸鎂戴立忍",
-   "traffic": "100+",
-   "start": "2026-11-22T22:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQV4qmIY-lXw3x2VPfAGqsIQCjwRYr99HG2hw6SmgY_HbBilR5q_zufrSXNdoc",
-   "news": [
-    {
-     "t": "金馬時尚／情侶唱反調？桂綸鎂穿薄荷綠好仙、戴立忍低調灰西裝秀熟男魅力",
-     "u": "https://fashion.ettoday.net/news/3276613",
-     "s": "ETtoday新聞雲"
-    },
-    {
-     "t": "金馬53》桂綸鎂罕見同場男友戴立忍！薄荷綠禮服飄空靈仙氣",
-     "u": "https://istyle.ltn.com.tw/article/41683",
-     "s": "自由時報"
-    },
-    {
-     "t": "金馬63／世紀同框無緣上演！桂綸鎂才喊「希望台上看到」 戴立忍錯失影帝",
-     "u": "https://news.tvbs.com.tw/entertainment/drama/4054585",
-     "s": "TVBS新聞網"
-    }
-   ]
-  },
-  {
-   "kw": "氣球",
-   "traffic": "100+",
-   "start": "2026-11-22T15:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGQFkKqAN2h6iS2hGBdGqnGtj7h069t2vqE04-bMvyAgMSJpQdV0gYnH0XEg",
-   "news": [
-    {
-     "t": "全球資訊網 - 新聞與公告 - 區域動態 - 中共解放軍臺海周邊海、空域動態",
-     "u": "https://www.mnd.gov.tw/news/plaact/88312",
-     "s": "中華民國國防部- 全球資訊網"
-    },
-    {
-     "t": "中國空飄氣球訊跡竟同時消失！國防部：綜合研判、不代表雷達掉軌",
-     "u": "https://def.ltn.com.tw/article/breakingnews/5649422",
-     "s": "自由軍武頻道"
-    },
-    {
-     "t": "11艘共艦17架次共機擾台　國軍嚴密監控",
-     "u": "https://money.udn.com/money/story/12622/9894096?from=edn_newestlist_rank",
-     "s": "經濟日報"
-    }
-   ]
-  },
-  {
-   "kw": "高鐵自由座",
-   "traffic": "100+",
-   "start": "2026-11-22T15:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTZbEtiLEG33AqPqQRBEjuGeNHZ_GLeusZrWFLaSmAcf3OrD90K7oFjrU1YZ4",
-   "news": [
-    {
-     "t": "高鐵自由座新制提前實施 乘客大讚真的改變了：現在坐的很舒服",
-     "u": "https://tw.news.yahoo.com/%E9%AB%98%E9%90%B5%E8%87%AA%E7%94%B1%E5%BA%A7%E6%96%B0%E5%88%B6%E6%8F%90%E5%89%8D%E5%AF%A6%E6%96%BD-%E4%B9%98%E5%AE%A2%E5%A4%A7%E8%AE%9A%E7%9C%9F%E7%9A%84%E6%94%B9%E8%AE%8A%E4%BA%86-%E7%8F%BE%E5%9C%A8%E5%9D%90%E7%9A%84%E5%BE%88%E8%88%92%E6%9C%8D-223624600.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "因應九合一大選返鄉投票潮 交部比照連假疏運嚴陣以待",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1052749",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "高鐵晚間試行人流控管 實施自由座閘門管制",
-     "u": "https://news.pts.org.tw/article/836696",
-     "s": "公視新聞"
-    }
-   ]
-  },
-  {
-   "kw": "klasemen real madrid vs celta",
-   "traffic": "100+",
-   "start": "2026-11-22T07:50+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
   "2026-11-23": [
+   {
+    "kw": "今天天氣",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "普 發 兩 萬",
+    "traffic": "500+"
+   },
    {
     "kw": "liverpool vs man utd",
     "traffic": "200+"
@@ -574,6 +524,38 @@
    {
     "kw": "ลิเวอร์พูล พบ แมนยู",
     "traffic": "200+"
+   },
+   {
+    "kw": "thứ hạng của liverpool gặp man utd",
+    "traffic": "200+"
+   },
+   {
+    "kw": "謝金河",
+    "traffic": "200+"
+   },
+   {
+    "kw": "老鷹 對 活塞",
+    "traffic": "200+"
+   },
+   {
+    "kw": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
+    "traffic": "200+"
+   },
+   {
+    "kw": "年終賽",
+    "traffic": "200+"
+   },
+   {
+    "kw": "飛機",
+    "traffic": "100+"
+   },
+   {
+    "kw": "半導體",
+    "traffic": "100+"
+   },
+   {
+    "kw": "klasemen liverpool vs manchester united f.c.",
+    "traffic": "100+"
    }
   ],
   "2026-11-22": [
