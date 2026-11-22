@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22 03:26",
- "updated_iso": "2026-11-22T03:26+08:00",
+ "updated": "2026-11-22 08:24",
+ "updated_iso": "2026-11-22T08:24+08:00",
  "items": [
   {
    "kw": "貴金屬",
@@ -24,6 +24,13 @@
      "s": "MoneyDJ"
     }
    ]
+  },
+  {
+   "kw": "先進封裝",
+   "traffic": "2000+",
+   "start": "2026-11-22T07:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "76人 對 公鹿",
@@ -56,27 +63,11 @@
    "news": []
   },
   {
-   "kw": "spacex 股價",
-   "traffic": "2000+",
-   "start": "2026-11-21T04:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFadZ004XgKNewjav9hkVKrAg3paDtW7sR3cnGmOQfp44NYknUKT4zAHpUhzk",
-   "news": [
-    {
-     "t": "美股低開高走，標普500漲0.3%，Anthropic升至90美元上方",
-     "u": "https://m.cnyes.com/news/id/6669615",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "Anthropic上市 5千員工一夕成富豪",
-     "u": "https://www.rti.org.tw/news?uid=3&pid=1052827",
-     "s": "Rti 中央廣播電臺"
-    },
-    {
-     "t": "費半盤中暴跌8％ 台積電ADR盤中暴跌30美元 台指期夜盤跌到3萬4千多點 | 信傳媒",
-     "u": "https://today.line.me/tw/v3/article/GgNxoY5",
-     "s": "LINE TODAY"
-    }
-   ]
+   "kw": "葉君璋",
+   "traffic": "1000+",
+   "start": "2026-11-22T07:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "貝森特",
@@ -128,29 +119,6 @@
      "t": "力挺黃仁勳回鍋！川普喊話：輝達應給第二次機會",
      "u": "https://ec.ltn.com.tw/article/breakingnews/5648259",
      "s": "自由財經"
-    }
-   ]
-  },
-  {
-   "kw": "道瓊",
-   "traffic": "1000+",
-   "start": "2026-11-21T03:30+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-o53XIGWWT3glUyQSmDz-spfxoocz4DW-bKwi1NxnC-JkFtnPp6hjXHlFJw",
-   "news": [
-    {
-     "t": "輝達股價恐暴跌至100美元？機構提出看空的主要理由",
-     "u": "https://tw.stock.yahoo.com/news/%E8%BC%9D%E9%81%94%E8%82%A1%E5%83%B9%E6%81%90%E6%9A%B4%E8%B7%8C%E8%87%B3100%E7%BE%8E%E5%85%83-%E6%A9%9F%E6%A7%8B%E6%8F%90%E5%87%BA%E7%9C%8B%E7%A9%BA%E7%9A%84%E4%B8%BB%E8%A6%81%E7%90%86%E7%94%B1-072002061.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "輝達股價為什麼救不起來？董事長一句話反成利空",
-     "u": "https://money.udn.com/money/story/123398/9888049",
-     "s": "經濟日報"
-    },
-    {
-     "t": "《美股》輝達翻黑、資安股逆漲 那指揚 聚焦ANT",
-     "u": "https://www.moneydj.com/funddj/ya/yp050000.djhtm?a=88203b69-7741-42c7-9f1a-94f775471f5d",
-     "s": "MoneyDJ"
     }
    ]
   },
@@ -243,6 +211,59 @@
      "t": "子夜惡火彰化百年老廟甘澍宮3層樓被燒 3尊媽祖獲搶救",
      "u": "https://udn.com/news/story/7320/9892791",
      "s": "UDN"
+    }
+   ]
+  },
+  {
+   "kw": "尼克 對 拓荒者",
+   "traffic": "200+",
+   "start": "2026-11-22T08:10+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa2tJykgS4pCqIqxzztVfgyYHo22o8waiu-4FflyZ_R32ZUQI36WMrjj-6YAw",
+   "news": [
+    {
+     "t": "How to watch Knicks vs Trail Blazers: Live stream NBA, TV channel",
+     "u": "https://sports.yahoo.com/articles/watch-knicks-vs-trail-blazers-232500948.html",
+     "s": "Yahoo Sports"
+    },
+    {
+     "t": "Knicks' Karl-Anthony Towns: Sidelined against Portland",
+     "u": "https://www.cbssports.com/fantasy/basketball/news/knicks-karl-anthony-towns-sidelined-against-portland/",
+     "s": "CBS Sports"
+    },
+    {
+     "t": "Game Preview: Knicks vs Trail Blazers, November 21, 2026",
+     "u": "https://www.postingandtoasting.com/knicks-game-previews/91455/game-preview-knicks-vs-trail-blazers-november-21-2026",
+     "s": "Posting and Toasting"
+    }
+   ]
+  },
+  {
+   "kw": "力積電",
+   "traffic": "200+",
+   "start": "2026-11-22T07:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "蘋果",
+   "traffic": "200+",
+   "start": "2026-11-22T07:00+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnbJ75s9QLFqk4Z8HSHct_EBxYG2Zem0aEceb_TFu9bywlZzMy5iXcnTJfgho",
+   "news": [
+    {
+     "t": "This AirPods Pro 3 deal is the one to grab before Black Friday",
+     "u": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
+     "s": "NBC News"
+    },
+    {
+     "t": "I’ve tested all of Apple’s AirPods. These are the 10 best early Black Friday deals",
+     "u": "https://www.cnn.com/cnn-underscored/deals/apple-airpods-black-friday-deals-2026-11-20",
+     "s": "CNN"
+    },
+    {
+     "t": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+     "u": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
+     "s": "MacRumors"
     }
    ]
   },
@@ -413,156 +434,87 @@
    "news": []
   },
   {
-   "kw": "川普",
-   "traffic": "200+",
-   "start": "2026-11-21T04:20+08:00",
+   "kw": "klasemen real madrid vs celta",
+   "traffic": "100+",
+   "start": "2026-11-22T07:50+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "大樂透頭獎",
-   "traffic": "200+",
-   "start": "2026-11-21T03:40+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG_oetBVSsEF-8bvXKmditu4PJQqc4a-TknysAEJb_FwrYHWPcQIhFb1MiAnc",
+   "kw": "救護車",
+   "traffic": "100+",
+   "start": "2026-11-22T07:30+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "光通訊",
+   "traffic": "100+",
+   "start": "2026-11-22T07:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc3aBVfgbUr4FddRLl0iFr41LzqIZNTfcUXhK1Zd3XTuJFuwKVM43_7Ao0QMY",
    "news": [
     {
-     "t": "媽祖土地公聯手發威！大樂透1億元獎落北投、土城",
-     "u": "https://tw.stock.yahoo.com/news/%E5%AA%BD%E7%A5%96%E5%9C%9F%E5%9C%B0%E5%85%AC%E8%81%AF%E6%89%8B%E7%99%BC%E5%A8%81%EF%BC%81%E5%A4%A7%E6%A8%82%E9%80%8F1%E5%84%84%E5%85%83%E7%8D%8E%E8%90%BD%E5%8C%97%E6%8A%95%E3%80%81%E5%9C%9F%E5%9F%8E-140504307.html",
-     "s": "Yahoo股市"
+     "t": "美再收緊光通訊產品 進補台廠14檔",
+     "u": "https://tw.news.yahoo.com/%E7%BE%8E%E5%86%8D%E6%94%B6%E7%B7%8A%E5%85%89%E9%80%9A%E8%A8%8A%E7%94%A2%E5%93%81-%E9%80%B2%E8%A3%9C%E5%8F%B0%E5%BB%A014%E6%AA%94-140500314.html",
+     "s": "Yahoo新聞"
     },
     {
-     "t": "大樂透頭獎2注各得5000萬 獎落這兩個縣市",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5648146",
-     "s": "自由財經"
+     "t": "美國FCC准71家業者有條件進口科技設備業者承諾赴美投資44億美元| 優分析",
+     "u": "https://today.line.me/tw/v3/article/oqpyYMy",
+     "s": "LINE TODAY"
     },
     {
-     "t": "財神爺來敲門大樂透開出兩注頭獎各得0.5億元- 產業",
-     "u": "https://www.ctee.com.tw/news/20261120701811-430503",
-     "s": "工商時報"
+     "t": "十年換不掉中國！美國光模組禁令為何難以“全面落地”？",
+     "u": "https://hao.cnyes.com/post/278967",
+     "s": "鉅亨號"
     }
    ]
   },
   {
-   "kw": "法甲",
+   "kw": "多米尼克·巴洛",
    "traffic": "100+",
-   "start": "2026-11-22T02:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_LtQBLfJvniRN_5wmj77yn5vYZNr2ouzVI35LsQUmDFLtgKLl2P-TSfdIB8",
+   "start": "2026-11-22T07:10+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxeFAK3keagDjc40Hd9HExMxyFpOlVjeDKVKDs0dsRo7F27F-FGTDndvA5B58",
    "news": [
     {
-     "t": "恩里克：杜埃明显是重伤，必须等待明天的检查结果 相信他能康复",
-     "u": "https://m.sohu.com/a/1104678601_362070?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+     "t": "马克西：了解詹姆斯比赛习惯很简单 随时做好接球准备并不断空切",
+     "u": "https://m.zhibo8.com/news/web/nba/2026-11-22/6b022a2e18545native.htm",
+     "s": "直播吧"
+    },
+    {
+     "t": "76人队球员泰雷斯·马克西获评论员盛赞，被称“充满快乐”",
+     "u": "https://m.sohu.com/a/1104709096_120753534?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
      "s": "Sohu"
     },
     {
-     "t": "【法甲联赛第11轮】尼斯vs巴黎圣日耳曼比赛结果：尼斯(2-3)巴黎圣日耳曼比分战报(2026年11月22日)",
-     "u": "https://www.qiumiwu.com/news/2047777718017",
-     "s": "球迷屋"
-    },
-    {
-     "t": "不妙了！杜埃无对抗情况下捂着膝盖痛苦倒地，被担架抬出",
-     "u": "http://m.zhibo8.com/news/web/zuqiu/2026-11-22/6b01cd6f544c2native.htm",
+     "t": "巴洛采访完整版：老詹的牵制力依然强大 他几乎总能作出正确选择",
+     "u": "https://news.zhibo8.com/nba/2026-11-22/6b0220a68cf34native.htm",
      "s": "直播吧"
     }
    ]
   },
   {
-   "kw": "newcastle vs arsenal",
+   "kw": "澳洲",
    "traffic": "100+",
-   "start": "2026-11-22T02:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAnu_YiDRIxL10sjwiq9GJtCh15T-C9YY-tSyYS_25WGGF1ELmFovN-8Wkk8",
+   "start": "2026-11-22T07:00+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4aJxcs7Lwzs0Cw19tRb4mgAALwLUfXYW1BOmxpJ9QktYKkMxDJXK4bvCWNc",
    "news": [
     {
-     "t": "Match Summary",
-     "u": "https://www.bbc.com/sport/football/live/ck3r530w3vd3t",
-     "s": "BBC"
+     "t": "東帝汶外海發生6.8級強震 澳洲北部有震感",
+     "u": "https://www.epochtimes.com/gb/26/11/21/n14892873.htm",
+     "s": "大紀元"
     },
     {
-     "t": "Team news: Eze in, Guimaraes starts at Newcastle",
-     "u": "https://www.arsenal.com/news/team-news-eze-in-guimaraes-starts-at-newcastle-a2H2M7O1LIFA",
-     "s": "Arsenal.com"
+     "t": "东帝汶附近海域规模6.8强震 震源深度143公里",
+     "u": "https://www.stheadline.com/zh-hans/realtime-world/3639651/%E4%B8%9C%E5%B8%9D%E6%B1%B6%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E8%A7%84%E6%A8%A168%E5%BC%BA%E9%9C%87%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A6143%E5%85%AC%E9%87%8C",
+     "s": "星島頭條"
     },
     {
-     "t": "Latest. Matthias Jaissle's team news update: Joelinton and Livramento latest ahead of Arsenal visit",
-     "u": "https://www.newcastleunited.com/en/news/matthias-jaissles-team-news-update-joelinton-and-livramento-latest-ahead-of-arsenal-visit",
-     "s": "Newcastle United"
+     "t": "东帝汶附近海域规模6.8强震 震源深度143公里",
+     "u": "https://news.vandica.com/traditional_chinese/%E4%B8%9C%E5%B8%9D%E6%B1%B6%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E8%A7%84%E6%A8%A16-8%E5%BC%BA%E9%9C%87%E3%80%80%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A6143%E5%85%AC%E9%87%8C/",
+     "s": "Vandica"
     }
    ]
-  },
-  {
-   "kw": "意甲",
-   "traffic": "100+",
-   "start": "2026-11-22T00:40+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCTuA8r3Qz36PFN4bT6DXY-d3-XC7FHa8tGUJG9dKO4Kr4J1camgzJhnkEY54",
-   "news": [
-    {
-     "t": "意媒：马伦已成为罗马进攻核心，迪巴拉的复出对他会更有帮助",
-     "u": "https://m.sohu.com/a/1104592075_362070?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-     "s": "Sohu"
-    },
-    {
-     "t": "[流言板]加斯佩里尼：迪巴拉和斯维拉尔已复出，希望别再有重大伤病",
-     "u": "https://m.hupu.com/bbs/644090482.html",
-     "s": "虎扑"
-    },
-    {
-     "t": "周六意甲，帕尔马能否再次扮演黑马？",
-     "u": "https://www.nowscore.com/news/1280167.htm",
-     "s": "捷报比分网"
-    }
-   ]
-  },
-  {
-   "kw": "v",
-   "traffic": "100+",
-   "start": "2026-11-22T00:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMIZaUDpHOz7-Od5q4RMshQgykH-I04n_7cP4wCgOR9EvlJOg8h8pL1cpGAKg",
-   "news": [
-    {
-     "t": "Premier League live updates: Newcastle host Arsenal, Guimaraes",
-     "u": "https://www.espn.com/soccer/story/_/id/50532558/premier-league-live-updates-man-city-chelsea-arsenal",
-     "s": "ESPN"
-    },
-    {
-     "t": "Premier League live scores: Latest news, updates and analysis from today’s fixtures",
-     "u": "https://www.nytimes.com/athletic/live-blogs/premier-league-live-updates-scores-results-news/XgcjO3hBj7Js/3FPm5yHvnDoo/",
-     "s": "The New York Times"
-    },
-    {
-     "t": "Follow Saturday's Premier League games live",
-     "u": "https://www.bbc.com/sport/football/articles/cq98xyyp9nnzo",
-     "s": "BBC"
-    }
-   ]
-  },
-  {
-   "kw": "cos",
-   "traffic": "100+",
-   "start": "2026-11-22T00:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLLFr4W6uVXRMXe3Fk11zuO-9tY73sprLlQ-wZlddR-pEJzg7OyBGK3Ot42Ak",
-   "news": [
-    {
-     "t": "These are the 7 women's trends you're about to see everywhere this winter, according to style experts",
-     "u": "https://shopping.yahoo.com/style/clothing/article/these-are-the-7-womens-trends-youre-about-to-see-everywhere-this-winter-according-to-style-experts-203519838.html",
-     "s": "Yahoo"
-    },
-    {
-     "t": "These Winter Essentials Guarantee Expensive-Looking Outfits (From Now Through 2027)",
-     "u": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-winter-fashion-essentials",
-     "s": "Who What Wear"
-    },
-    {
-     "t": "3 Stylists Told Me These Elevated Staples From $20 Add “Richness” to Winter Outfits—and How to Wear Them",
-     "u": "https://www.realsimple.com/stylist-approved-quince-clothing-winter-caspule-wardrobe-12263308",
-     "s": "Real Simple"
-    }
-   ]
-  },
-  {
-   "kw": "耶誕城",
-   "traffic": "100+",
-   "start": "2026-11-21T18:20+08:00",
-   "pic": "",
-   "news": []
   }
  ],
  "history": {
@@ -572,7 +524,15 @@
     "traffic": "2000+"
    },
    {
+    "kw": "先進封裝",
+    "traffic": "2000+"
+   },
+   {
     "kw": "貝森特",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "葉君璋",
     "traffic": "1000+"
    },
    {
@@ -585,6 +545,18 @@
    },
    {
     "kw": "尼斯 對 巴黎聖日耳曼",
+    "traffic": "200+"
+   },
+   {
+    "kw": "尼克 對 拓荒者",
+    "traffic": "200+"
+   },
+   {
+    "kw": "力積電",
+    "traffic": "200+"
+   },
+   {
+    "kw": "蘋果",
     "traffic": "200+"
    },
    {
@@ -605,6 +577,26 @@
    },
    {
     "kw": "cos",
+    "traffic": "100+"
+   },
+   {
+    "kw": "klasemen real madrid vs celta",
+    "traffic": "100+"
+   },
+   {
+    "kw": "救護車",
+    "traffic": "100+"
+   },
+   {
+    "kw": "光通訊",
+    "traffic": "100+"
+   },
+   {
+    "kw": "多米尼克·巴洛",
+    "traffic": "100+"
+   },
+   {
+    "kw": "澳洲",
     "traffic": "100+"
    }
   ],
