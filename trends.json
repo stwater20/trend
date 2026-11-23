@@ -1,7 +1,76 @@
 {
- "updated": "2026-11-23 11:46",
- "updated_iso": "2026-11-23T11:46+08:00",
+ "updated": "2026-11-23 22:51",
+ "updated_iso": "2026-11-23T22:51+08:00",
  "items": [
+  {
+   "kw": "費半",
+   "traffic": "20000+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELzstYH4ShHaERCozj2rsVEZezv1DIn8wcrLgY3dGsTnxsPGlmxhZccXplgU",
+   "news": [
+    {
+     "t": "【Follow法人】台積電又遭外資提款224億元 反手買進萬張力積電",
+     "u": "https://tw.stock.yahoo.com/news/%E3%80%90follow%E6%B3%95%E4%BA%BA%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8F%88%E9%81%AD%E5%A4%96%E8%B3%87%E6%8F%90%E6%AC%BE224%E5%84%84%E5%85%83-%E5%8F%8D%E6%89%8B%E8%B2%B7%E9%80%B2%E8%90%AC%E5%BC%B5%E5%8A%9B%E7%A9%8D%E9%9B%BB-084933212.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "限空令3.0奏效！ 大盤力守35K防線　低接大型權值ETF、平衡型台股基金",
+     "u": "https://finance.ettoday.net/news/3277161",
+     "s": "ETtoday財經雲"
+    },
+    {
+     "t": "台股反彈778點外資仍賣289億元 大砍0050及正2 反手狂敲這檔ETF逾20萬張",
+     "u": "https://news.cnyes.com/news/id/6670205",
+     "s": "鉅亨網"
+    }
+   ]
+  },
+  {
+   "kw": "哲哲",
+   "traffic": "10000+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs6CaHz64r46FckCxIOHcP7mnsnQsytLhWHQ2OtnqpMgx9Gb0UC-4-3Qbtjmo",
+   "news": [
+    {
+     "t": "郭哲榮買0050已虧3000萬！預言台股翻身「今天最後機會」 喊話別砍在阿呆谷",
+     "u": "https://tw.stock.yahoo.com/news/%E9%83%AD%E5%93%B2%E6%A6%AE%E8%B2%B70050%E5%B7%B2%E8%99%A73000%E8%90%AC-%E9%A0%90%E8%A8%80%E5%8F%B0%E8%82%A1%E7%BF%BB%E8%BA%AB-%E4%BB%8A%E5%A4%A9%E6%9C%80%E5%BE%8C%E6%A9%9F%E6%9C%83-%E5%96%8A%E8%A9%B1%E5%88%A5%E7%A0%8D%E5%9C%A8%E9%98%BF%E5%91%86%E8%B0%B7-040000499.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "虧3千萬堅持不賣！ 郭哲榮喊「最後機會」：沒All in會後悔",
+     "u": "https://fnc.ebc.net.tw/fncnews/stock/223394",
+     "s": "東森電視"
+    },
+    {
+     "t": "帳面虧3千萬照抱0050！郭哲榮喊話股民：4萬點以下最後翻身機會",
+     "u": "https://inews.setn.com/news/1943619",
+     "s": "三立新聞"
+    }
+   ]
+  },
+  {
+   "kw": "台積adr",
+   "traffic": "5000+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74OFQU1AJ4OKOE8iBRdc5SBLeZ3dIc15I_HprwuzgFq4EpN_QJN3hVr0xO9M",
+   "news": [
+    {
+     "t": "持股破線別慌！ 法人點名6檔超跌績優股：不要砍在阿呆谷",
+     "u": "https://fnc.ebc.net.tw/fncnews/stock/223361",
+     "s": "東森電視"
+    },
+    {
+     "t": "美股費半重挫10% 投顧：關注禁空令與國安基金護盤| 證券",
+     "u": "https://www.cna.com.tw/news/afe/202611230015.aspx",
+     "s": "中央社 CNA"
+    },
+    {
+     "t": "〈財經週報-看盤焦點〉主動市值靈活掌握增長核心 卡位台股反彈契機",
+     "u": "https://stock.ltn.com.tw/article/p0hza0nxujyx",
+     "s": "自由時報"
+    }
+   ]
+  },
   {
    "kw": "今天天氣",
    "traffic": "2000+",
@@ -26,94 +95,101 @@
    ]
   },
   {
-   "kw": "台 股 大 跌",
-   "traffic": "2000+",
-   "start": "2026-11-22T22:30+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRirl3PIMJcZmVrjtN9AiMzq7vlR-HwPT5-hyReh8blisevCPILXTXjx9CWc7s",
-   "news": [
-    {
-     "t": "台股重挫他狂買！財經作家連砸308萬買這2檔ETF 霸氣喊「大不了套牢」",
-     "u": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E9%87%8D%E6%8C%AB%E4%BB%96%E7%8B%82%E8%B2%B7-%E8%B2%A1%E7%B6%93%E4%BD%9C%E5%AE%B6%E9%80%A3%E7%A0%B8308%E8%90%AC%E8%B2%B7%E9%80%992%E6%AA%94etf-%E9%9C%B8%E6%B0%A3%E5%96%8A-%E5%A4%A7%E4%B8%8D%E4%BA%86%E5%A5%97%E7%89%A2-113000973.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "台股血洗！0050再創史詩級紀錄",
-     "u": "https://news.ebc.net.tw/news/business/581953",
-     "s": "東森新聞"
-    },
-    {
-     "t": "跌到懷疑人生！他打工存300萬全押0050 心慌問1句網友吵翻",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5648622",
-     "s": "自由財經"
-    }
-   ]
-  },
-  {
-   "kw": "矽 盾",
-   "traffic": "2000+",
-   "start": "2026-11-22T14:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0cVjtd3MKL-uDdSQPxRkpdtKFzhom-0tfIbygjz-5lrTCVVGK0G69gYp_ac8",
-   "news": [
-    {
-     "t": "台積電真的是護國神山？紐時白宮特派記者桑格：當中國哪1天不需要台灣半導體，台灣就要小心了！ | 劉煥彥 | 新聞",
-     "u": "https://www.storm.mg/article/11183866",
-     "s": "風傳媒"
-    },
-    {
-     "t": "北京不想陷入台海戰事？紐時白宮特派記者桑格：除了一胎化後果，川普與普京均陷入戰事泥淖「是最好警示」",
-     "u": "https://tw.news.yahoo.com/%E5%8C%97%E4%BA%AC%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%83%B3%E9%99%B7%E5%85%A5%E5%8F%B0%E6%B5%B7%E6%88%B0%E4%BA%8B-%E7%B4%90%E6%99%82%E7%99%BD%E5%AE%AE%E7%89%B9%E6%B4%BE%E8%A8%98%E8%80%85%E6%A1%91%E6%A0%BC-%E9%99%A4%E4%BA%86-%E8%83%8E%E5%8C%96%E5%BE%8C%E6%9E%9C-%E5%B7%9D%E6%99%AE%E8%88%87%E6%99%AE%E4%BA%AC%E5%9D%87%E9%99%B7%E5%85%A5%E6%88%B0%E4%BA%8B%E6%B3%A5%E6%B7%96-033000515.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "實在太恐怖了！如果你愛台灣，你一定要知道誰在賣台誰在掏空台灣",
-     "u": "https://www.cmoney.tw/forum/article/188737142",
-     "s": "CMoney"
-    }
-   ]
-  },
-  {
-   "kw": "星巴克",
+   "kw": "川普",
    "traffic": "1000+",
-   "start": "2026-11-22T15:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHeJDiHor572GiJNObOyCbKEZ8Z6hX_V2d-BL8qxNgSQtYlwTyEewjMkk4r8k",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "qqq",
+   "traffic": "1000+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStKFEHqngsljRSPrafNX2LFYbYv16CpNUB6GM6zk7VoU3pp6E2FhQA_lW0L8g",
    "news": [
     {
-     "t": "星巴克點外帶「不能坐下等」？ 內行揭背後原因嘆：店家也很無奈",
-     "u": "https://tw.news.yahoo.com/%E6%98%9F%E5%B7%B4%E5%85%8B%E9%BB%9E%E5%A4%96%E5%B8%B6-%E4%B8%8D%E8%83%BD%E5%9D%90%E4%B8%8B%E7%AD%89-%E5%85%A7%E8%A1%8C%E6%8F%AD%E8%83%8C%E5%BE%8C%E5%8E%9F%E5%9B%A0%E5%98%86-%E5%BA%97%E5%AE%B6%E4%B9%9F%E5%BE%88%E7%84%A1%E5%A5%88-041346235.html",
-     "s": "Yahoo新聞"
+     "t": "Futures rally after Wall Street's nightmare week",
+     "u": "https://www.cnbc.com/2026/11/23/futures-rally-after-wall-streets-nightmare-week-.html",
+     "s": "CNBC"
     },
     {
-     "t": "星巴克外帶不能坐著等？背後無奈原因曝",
-     "u": "https://www.mirrormedia.mg/external/setn_1943060",
-     "s": "鏡週刊Mirror Media"
+     "t": "COMMENTARY: Morning Bid: Wall Street reprieve or recovery?",
+     "u": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-11-23/",
+     "s": "Reuters"
     },
     {
-     "t": "點星巴克新品告知「少冰少糖」 店員加收30元大票人搖頭- 生活",
-     "u": "https://www.chinatimes.com/realtimenews/20261121002312-260405",
-     "s": "中時新聞網"
+     "t": "A.I. Stocks Set to Rebound as Nvidia and Neoclouds Rise Before the Bell",
+     "u": "https://www.trendingtopics.eu/ai-stocks-rebound-nvidia-neoclouds-premarket/",
+     "s": "www.trendingtopics.eu"
     }
    ]
   },
   {
-   "kw": "f1",
+   "kw": "美光股價",
    "traffic": "1000+",
-   "start": "2026-11-22T14:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSjALHROpm645wZslwdzWL3H62JeU9G6aAawZDF5Wz69qNRy5JXBZAk_7JU_s",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdytQrn6_AIC93B-8kJNeiFAYEwCsgdNH3Ov0PHe1L_nXTwJOrIuETYKB6iwk",
    "news": [
     {
-     "t": "Verstappen wins exhilarating Las Vegas Grand Prix from Norris and Piastri",
-     "u": "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
-     "s": "Formula 1"
+     "t": "投資人情緒已超賣 12/17美光財報成觀察重點",
+     "u": "https://news.wearn.com/c2151844.html",
+     "s": "聚財網"
     },
     {
-     "t": "F1 LIVE: Las Vegas Grand Prix 2026 reaction & result as Verstappen wins again",
-     "u": "https://www.bbc.com/sport/formula1/live/c62ke5vgxxnt",
-     "s": "BBC"
+     "t": "【22:30 即時新聞】Micron Technology(MU) 勁揚逾5%／搭Anthropic IPO與記憶體供給吃緊題材走高",
+     "u": "https://cmnews.com.tw/article/cmoneyairesearcher-ff48c461-e425-11f1-8ab4-49a63500d916",
+     "s": "CMoney投資網誌"
     },
     {
-     "t": "Las Vegas Grand Prix results: Max Verstappen wins drama-packed race in Sin City - as it happened",
-     "u": "https://www.espn.com/f1/story/_/id/50530089/max-verstappen-las-vegas-grand-prix-2026-live-updates-results-analysis-commentary",
-     "s": "ESPN"
+     "t": "美光 12月9日將迎《晶片法案》兩週年！史上最大 351.16 億美元庫藏股授權啟動，能撐起 AI 記憶體股價嗎？｜美股觀察",
+     "u": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%BE%8E%E5%85%89-12%E6%9C%889%E6%97%A5%E5%B0%87%E8%BF%8E-%E6%99%B6%E7%89%87%E6%B3%95%E6%A1%88-%E5%85%A9%E9%80%B1%E5%B9%B4-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7-351-16-%E5%84%84%E7%BE%8E%E5%85%83%E5%BA%AB%E8%97%8F%E8%82%A1%E6%8E%88%E6%AC%8A%E5%95%9F%E5%8B%95-%E8%83%BD%E6%92%90%E8%B5%B7-AI-%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1%E5%83%B9%E5%97%8E--%E7%BE%8E%E8%82%A1%E8%A7%80%E5%AF%9F-6b03e591ec7c933ae8e26dba",
+     "s": "永豐金證券"
+    }
+   ]
+  },
+  {
+   "kw": "tsm stock",
+   "traffic": "500+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6nkcJzXk66IWE14w9WqbLbFfqS5dzGZVHzrQg7p1r7pq6LZ56vVs5tOspR8s",
+   "news": [
+    {
+     "t": "Is Trending Stock Taiwan Semiconductor Manufacturing Company Ltd. (TSM) a Buy Now?",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-taiwan-semiconductor-manufacturing-130006162.html",
+     "s": "Yahoo Finance"
+    },
+    {
+     "t": "Pfizer (PFE) Stock Looks Stretched Even With New Pipeline Deals",
+     "u": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-pfe/pfizer/news/pfizer-pfe-stock-looks-stretched-even-with-new-pipeline-deal",
+     "s": "Simply Wall St"
+    },
+    {
+     "t": "Pfizer Inc. stock outperforms competitors despite losses on the day",
+     "u": "https://www.marketwatch.com/data-news/pfizer-inc-stock-outperforms-competitors-despite-losses-on-the-day-07ec6b51-57800d00027d?mod=mw_quote_news",
+     "s": "MarketWatch"
+    }
+   ]
+  },
+  {
+   "kw": "voo",
+   "traffic": "500+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTQzqiOd9a1d0jJ-WXnhVrsQLT3KxcGrA2YwUUZflhsQCS2c6dDprfW_RB04",
+   "news": [
+    {
+     "t": "Delta retoma Rio-Nova York e lança segundo voo diário entre São Paulo e Atlanta",
+     "u": "https://www.panrotas.com.br/aviacao/empresas/2026/11/delta-retoma-rio-nova-york-e-anuncia-segundo-voo-diario-entre-sao-paulo-e-atlanta_233848.html",
+     "s": "Panrotas"
+    },
+    {
+     "t": "Delta amplia voos entre Brasil e Estados Unidos no verão",
+     "u": "https://aeromagazine.uol.com.br/artigo/delta-amplia-voos-brasil-estados-unidos-2027.html",
+     "s": "AERO Magazine"
+    },
+    {
+     "t": "Dela retoma voo entre Rio e Nova York em operação temporária",
+     "u": "https://vejario.abril.com.br/coluna/otavio-furtado/dela-voo-rio-nova-york/",
+     "s": "VEJA RIO"
     }
    ]
   },
@@ -217,25 +293,25 @@
    ]
   },
   {
-   "kw": "楊雁雁",
-   "traffic": "500+",
-   "start": "2026-11-22T22:30+08:00",
-   "pic": "",
+   "kw": "vt",
+   "traffic": "200+",
+   "start": "2026-11-23T22:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdoniiW-ZfMGvMVZVxT2DgFoZwBp0DHXznBFRlnrIlbQbzhI-iZCUsBksAHP0",
    "news": [
     {
-     "t": "何堅良、福多瑪摘金馬音樂獎 謝劇組如溫暖家庭",
-     "u": "https://www.epochtimes.com/gb/26/11/22/n14893282.htm",
-     "s": "大紀元"
+     "t": "Luna G3 BPAP users told to call their provider—not change settings or stop therapy—over pressure-data flaw",
+     "u": "https://www.medicaldaily.com/luna-g3-bpap-targeted-vt-correction-481592",
+     "s": "Medical Daily"
     },
     {
-     "t": "金馬63／翁倩玉奪女配 淚憶亡母 曾病房辦演唱會",
-     "u": "https://www.worldjournal.com/wj/story/121478/9895104?zh-cn",
-     "s": "世界新聞網"
+     "t": "React Health Issues Voluntary Correction for Luna G3 BPAP System Due to Data Reporting Error",
+     "u": "https://www.geneonline.com/react-health-issues-voluntary-correction-for-luna-g3-bpap-system-due-to-data-reporting-error/",
+     "s": "GeneOnline"
     },
     {
-     "t": "【金马63】25年前回眸画面 让舒淇红了眼眶 | 娱乐",
-     "u": "https://www.orientaldaily.com.my/news/entertainment/2026/11/22/865020",
-     "s": "马来西亚东方日报"
+     "t": "Brewer volunteers raise money for Wreaths Across America",
+     "u": "https://www.foxbangor.com/news/local/brewer-volunteers-raise-money-for-wreaths-across-america/article_7fb9d81d-89d2-44a5-a6d1-b0e0b1021438.html",
+     "s": "foxbangor.com"
     }
    ]
   },
@@ -383,110 +459,11 @@
    ]
   },
   {
-   "kw": "言承旭",
-   "traffic": "200+",
-   "start": "2026-11-22T22:30+08:00",
+   "kw": "英業達",
+   "traffic": "100+",
+   "start": "2026-11-23T22:40+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "vix 指數",
-   "traffic": "200+",
-   "start": "2026-11-22T14:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yN0426ZJmDKiAgYh7juoQGMebW4htMSl6-doaLtATQXPcS4wrQ0Xe90eoZE",
-   "news": [
-    {
-     "t": "美股恐慌指數VIX飆升至40 市場究竟在擔心什麼？",
-     "u": "https://news.cnyes.com/news/id/6669833",
-     "s": "鉅亨網"
-    },
-    {
-     "t": "VIX恐慌指數衝上38點創逾一年新高 美股浮現反彈契機",
-     "u": "https://tw.stock.yahoo.com/news/vix%E6%81%90%E6%85%8C%E6%8C%87%E6%95%B8%E8%A1%9D%E4%B8%8A38%E9%BB%9E%E5%89%B5%E9%80%BE-%E5%B9%B4%E6%96%B0%E9%AB%98-%E7%BE%8E%E8%82%A1%E6%B5%AE%E7%8F%BE%E5%8F%8D%E5%BD%88%E5%A5%91%E6%A9%9F-232035165.html",
-     "s": "Yahoo股市"
-    },
-    {
-     "t": "美股恐慌指數VIX飆上40 歷史顯示「賣壓接近尾聲」20%漲幅可期| 全球財經| 全球",
-     "u": "https://udn.com/news/story/6811/9893473",
-     "s": "UDN"
-    }
-   ]
-  },
-  {
-   "kw": "供應鏈",
-   "traffic": "200+",
-   "start": "2026-11-22T14:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjoWpsgVG97C0BDSBjEL4dBrhKGvmK8LTWUmbt5ap2iBKJDfWHcyei6uYxmQ",
-   "news": [
-    {
-     "t": "後黃仁勳時代輝達結盟供應鏈AI訂單無虞主導地位穩固| 產經",
-     "u": "https://www.cna.com.tw/news/afe/202611220025.aspx",
-     "s": "中央社 CNA"
-    },
-    {
-     "t": "黃仁勳時代結束...台積電張曉強表態了 外界解讀：為輝達新團隊「站台」",
-     "u": "https://www.wealth.com.tw/articles/1fc64ff2-76e2-4039-a4bb-e1b532b93a49",
-     "s": "財訊"
-    },
-    {
-     "t": "蘇元和觀點》輝達賣鏟子還幫忙找錢！科技巨頭如何綁住整條供應鏈？",
-     "u": "https://tw.news.yahoo.com/%E8%98%87%E5%85%83%E5%92%8C%E8%A7%80%E9%BB%9E-%E8%BC%9D%E9%81%94%E8%B3%A3%E9%8F%9F%E5%AD%90%E9%82%84%E5%B9%AB%E5%BF%99%E6%89%BE%E9%8C%A2-%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E5%A6%82%E4%BD%95%E7%B6%81%E4%BD%8F%E6%95%B4%E6%A2%9D%E4%BE%9B%E6%87%89%E9%8F%88-031238597.html",
-     "s": "Yahoo新聞"
-    }
-   ]
-  },
-  {
-   "kw": "金秀賢",
-   "traffic": "200+",
-   "start": "2026-11-22T14:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "基努李維",
-   "traffic": "200+",
-   "start": "2026-11-22T14:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2x6Ki_pVa0iCfu35AUHqWuEBt0XkHrp18eDVMgPFfqkyLhBKBWb92V9eFCRk",
-   "news": [
-    {
-     "t": "F1 2026 Las Vegas Grand Prix Photos: Kim Kardashian, Chris Pratt, Hannah Waddingham & More",
-     "u": "https://deadline.com/gallery/f1-2026-las-vegas-grand-prix-photos/",
-     "s": "Deadline"
-    },
-    {
-     "t": "Venus Williams, Chris Pratt, Kim Kardashian: Sports and Hollywood Celebs Spotted at Las Vegas GP 2026",
-     "u": "https://www.yahoo.com/entertainment/celebrity/articles/venus-williams-chris-pratt-kim-072219061.html",
-     "s": "Yahoo"
-    },
-    {
-     "t": "Go Inside the Star-Studded PEOPLE x InStyle F1 Grand Prix Party Trackside in Las Vegas (Exclusive)",
-     "u": "https://people.com/go-inside-people-x-instyle-formula-1-grand-prix-party-2026-12268391",
-     "s": "People.com"
-    }
-   ]
-  },
-  {
-   "kw": "徐亨",
-   "traffic": "200+",
-   "start": "2026-11-22T14:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2jnazubyV0TQOYCbq5xJB5IimX2Awv0jQNj5r538hiar-GtzqOXXzjFCAL8A",
-   "news": [
-    {
-     "t": "欠債2億又罹腦瘤！徐亨不願坐等工作 宣布最後一戰：還活著的時間拚了",
-     "u": "https://tw.news.yahoo.com/%E6%AC%A0%E5%82%B52%E5%84%84%E5%8F%88%E7%BD%B9%E8%85%A6%E7%98%A4-%E5%BE%90%E4%BA%A8%E4%B8%8D%E9%A1%98%E5%9D%90%E7%AD%89%E5%B7%A5%E4%BD%9C-%E5%AE%A3%E5%B8%83%E6%9C%80%E5%BE%8C-%E6%88%B0-%E9%82%84%E6%B4%BB%E8%91%97%E7%9A%84%E6%99%82%E9%96%93%E6%8B%9A%E4%BA%86-041500150.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "徐亨破產背2億債又罹腦瘤！宣布籌拍新戲：還活著的時間最後一戰",
-     "u": "https://stars.udn.com/star/story/10091/9894191",
-     "s": "噓！星聞"
-    },
-    {
-     "t": "徐亨宣布當導演 將拍新片《神機廟探》近況曝光",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5649182",
-     "s": "自由娛樂"
-    }
-   ]
   },
   {
    "kw": "排雲山莊",
@@ -552,8 +529,32 @@
  "history": {
   "2026-11-23": [
    {
+    "kw": "費半",
+    "traffic": "20000+"
+   },
+   {
+    "kw": "哲哲",
+    "traffic": "10000+"
+   },
+   {
+    "kw": "台積adr",
+    "traffic": "5000+"
+   },
+   {
     "kw": "今天天氣",
     "traffic": "2000+"
+   },
+   {
+    "kw": "川普",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "qqq",
+    "traffic": "1000+"
+   },
+   {
+    "kw": "美光股價",
+    "traffic": "1000+"
    },
    {
     "kw": "普 發 兩 萬",
@@ -573,6 +574,14 @@
    },
    {
     "kw": "魏東河",
+    "traffic": "500+"
+   },
+   {
+    "kw": "tsm stock",
+    "traffic": "500+"
+   },
+   {
+    "kw": "voo",
     "traffic": "500+"
    },
    {
@@ -598,38 +607,6 @@
    {
     "kw": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
     "traffic": "200+"
-   },
-   {
-    "kw": "年終賽",
-    "traffic": "200+"
-   },
-   {
-    "kw": "金融股",
-    "traffic": "200+"
-   },
-   {
-    "kw": "期貨",
-    "traffic": "200+"
-   },
-   {
-    "kw": "飛機",
-    "traffic": "100+"
-   },
-   {
-    "kw": "半導體",
-    "traffic": "100+"
-   },
-   {
-    "kw": "klasemen liverpool vs manchester united f.c.",
-    "traffic": "100+"
-   },
-   {
-    "kw": "排雲山莊",
-    "traffic": "100+"
-   },
-   {
-    "kw": "章澤天",
-    "traffic": "100+"
    }
   ],
   "2026-11-22": [
