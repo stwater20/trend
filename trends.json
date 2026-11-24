@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 22:51",
- "updated_iso": "2026-11-23T22:51+08:00",
+ "updated": "2026-11-24 10:18",
+ "updated_iso": "2026-11-24T10:18+08:00",
  "items": [
   {
    "kw": "費半",
@@ -72,27 +72,11 @@
    ]
   },
   {
-   "kw": "今天天氣",
+   "kw": "00878",
    "traffic": "2000+",
-   "start": "2026-11-23T06:20+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJYRM3fF6pkVKos4Lq2jdj_bQf_GQ_zkaFeVfeMfpD1HoDMzh2BrIgD7zCe_A",
-   "news": [
-    {
-     "t": "29度暖陽好天氣剩一天！周二北部高溫降至18度 連3天有雨",
-     "u": "https://udn.com/news/story/7266/9894642",
-     "s": "UDN"
-    },
-    {
-     "t": "明天天氣11/23高溫28度！下週天氣北部驟降剩19度，2波東北季風接力",
-     "u": "https://www.elle.com/tw/life/hot-news/g74499703/taiwan-weather-1123/",
-     "s": "ELLE"
-    },
-    {
-     "t": "明天的天氣/2波冷空氣來了！全台降溫變天「這3天最濕冷」低溫下探15度， 一周氣象一次看",
-     "u": "https://www.storm.mg/lifestyle/11183974",
-     "s": "風傳媒"
-    }
-   ]
+   "start": "2026-11-24T09:50+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "川普",
@@ -144,6 +128,36 @@
      "t": "美光 12月9日將迎《晶片法案》兩週年！史上最大 351.16 億美元庫藏股授權啟動，能撐起 AI 記憶體股價嗎？｜美股觀察",
      "u": "https://www.sinotrade.com.tw/richclub/hotstock/%E7%BE%8E%E5%85%89-12%E6%9C%889%E6%97%A5%E5%B0%87%E8%BF%8E-%E6%99%B6%E7%89%87%E6%B3%95%E6%A1%88-%E5%85%A9%E9%80%B1%E5%B9%B4-%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7-351-16-%E5%84%84%E7%BE%8E%E5%85%83%E5%BA%AB%E8%97%8F%E8%82%A1%E6%8E%88%E6%AC%8A%E5%95%9F%E5%8B%95-%E8%83%BD%E6%92%90%E8%B5%B7-AI-%E8%A8%98%E6%86%B6%E9%AB%94%E8%82%A1%E5%83%B9%E5%97%8E--%E7%BE%8E%E8%82%A1%E8%A7%80%E5%AF%9F-6b03e591ec7c933ae8e26dba",
      "s": "永豐金證券"
+    }
+   ]
+  },
+  {
+   "kw": "00929",
+   "traffic": "500+",
+   "start": "2026-11-24T09:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "川湖股價",
+   "traffic": "500+",
+   "start": "2026-11-24T09:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsS5PjwAbfvw2OazuILwJ9kKvqtw7VAgY1X4izR0niOQ01t9u2vUG29ZsxbsU",
+   "news": [
+    {
+     "t": "〈熱門股〉川湖股價拉回修正仍獲外資承接 前3季狂賺逾23個股本",
+     "u": "https://news.cnyes.com/news/id/6669495",
+     "s": "鉅亨網"
+    },
+    {
+     "t": "【即時新聞】川湖受惠政府五大穩市利多發酵，盤中強勢大漲逾5%展現反彈企圖心",
+     "u": "https://cmnews.com.tw/article/newsyoudeservetoknow-21f62ece-e70b-11f1-8f11-1f8b2a6d3e3e",
+     "s": "CMoney投資網誌"
+    },
+    {
+     "t": "川湖、矽力 押逾三個月",
+     "u": "https://udn.com/news/story/7255/9882488",
+     "s": "UDN"
     }
    ]
   },
@@ -240,57 +254,80 @@
    ]
   },
   {
-   "kw": "巴迪·希爾德",
-   "traffic": "500+",
-   "start": "2026-11-23T10:10+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hjRVZ7tJxa6tODeHeoNrs5-7Dl-EWSkUv0MByS9KTQ2VT4-QhYV_5bJcICI",
+   "kw": "金居股價",
+   "traffic": "200+",
+   "start": "2026-11-24T09:40+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY",
    "news": [
     {
-     "t": "Buddy Hield is on fire right now!",
-     "u": "https://www.nba.com/bulls/videos/buddy-hield-is-on-fire-right-now",
-     "s": "NBA.com"
+     "t": "盤中速報 - 金居(8358)股價殺至跌停，跌停價222.5元，成交4,964張",
+     "u": "https://tw.tradingview.com/news/cnyes:dcde37614acdf:0/",
+     "s": "TradingView"
     },
     {
-     "t": "Bulls' Buddy Hield: Chips in 12 points Friday",
-     "u": "https://www.cbssports.com/fantasy/basketball/news/bulls-buddy-hield-chips-in-12-points-friday/",
-     "s": "CBS Sports"
+     "t": "外資調節為何會影響金居籌碼？",
+     "u": "https://www.cmoney.tw/forum/readmo/222b022e-1855-4815-bafa-017038977de0",
+     "s": "CMoney"
     },
     {
-     "t": "Buddy Hield return hinted at by Tyrese Haliburton Instagram story",
-     "u": "https://8points9seconds.com/buddy-hield-indiana-pacers-return-hinted-at-by-tyrese-haliburton-instagram-story",
-     "s": "8 Points 9 Seconds"
+     "t": "《電零組》注意股：金居 近5日跌28.17%",
+     "u": "https://ww2.money-link.com.tw/realtimenews/NewsContent.aspx?SN=6369913001&PU=1002",
+     "s": "富聯網"
     }
    ]
   },
   {
-   "kw": "魏東河",
-   "traffic": "500+",
-   "start": "2026-11-23T10:10+08:00",
+   "kw": "台灣加權指數",
+   "traffic": "200+",
+   "start": "2026-11-24T09:40+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6DHYd8vKdr6lsM0x3k__ltDH6eWcZqeS-W5hxjmFnYisgI3mo5FuCUJHW2Gw",
+   "news": [
+    {
+     "t": "你的持股上榜了嗎 熱門股一週最慘跌33%",
+     "u": "https://tw.news.yahoo.com/%E4%BD%A0%E7%9A%84%E6%8C%81%E8%82%A1%E4%B8%8A%E6%A6%9C%E4%BA%86%E5%97%8E-%E7%86%B1%E9%96%80%E8%82%A1-%E9%80%B1%E6%9C%80%E6%85%98%E8%B7%8C33-024400619.html",
+     "s": "Yahoo新聞"
+    },
+    {
+     "t": "TWA00 加權指數- 漲跌無所謂成交量要出來加油- 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/189512409",
+     "s": "CMoney"
+    },
+    {
+     "t": "TWA00 加權指數 - 今天量会大缩，因为都是手涨停板根本买不到 - 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/189645193",
+     "s": "CMoney"
+    }
+   ]
+  },
+  {
+   "kw": "李昀銳",
+   "traffic": "200+",
+   "start": "2026-11-24T09:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQO_YvtyiDRMaaijjkjgoxnnj7sS-2EK6-OEc8N-6b6oa1HveJjHGRyvFnMATA",
+   "news": [
+    {
+     "t": "《尚公主》李昀銳熱戀孟子義收視慘澹聲勢暴跌 他2部新劇又接連爆停拍處境超尷尬",
+     "u": "https://www.upmedia.mg/tw/popularity/chinese-dramas/275052",
+     "s": "上報Up Media"
+    },
+    {
+     "t": "很難得「二搭比一搭更成功」好評陸劇TOP8！《尚公主》落榜，《星漢燦爛》第3，它奪冠",
+     "u": "https://www.beauty321.com/post/73738",
+     "s": "BEAUTY美人圈"
+    },
+    {
+     "t": "《尚公主》孟子義連垮4部劇人氣告急 她新劇搭檔《玉簟秋》丞磊上演8年虐戀求翻身",
+     "u": "https://www.upmedia.mg/tw/popularity/chinese-dramas/274630",
+     "s": "上報Up Media"
+    }
+   ]
+  },
+  {
+   "kw": "00881",
+   "traffic": "200+",
+   "start": "2026-11-24T09:30+08:00",
    "pic": "",
    "news": []
-  },
-  {
-   "kw": "普 發 兩 萬",
-   "traffic": "500+",
-   "start": "2026-11-23T05:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREpZM3xpZFNkOgQg9gS0ECfA2MdsYUC9iBdKf3yEJLgQq3TeBZYAdYZkJXthI",
-   "news": [
-    {
-     "t": "卓榮泰不副署普發2萬元？許宇甄籲表態：不要選前騙票選後翻臉",
-     "u": "https://udn.com/news/story/125074/9894438",
-     "s": "UDN"
-    },
-    {
-     "t": "普發現金2萬元三讀通過！「全民不排富」原本1萬元能併領嗎？最快領取時間、 最新進度一次看",
-     "u": "https://www.storm.mg/lifestyle/11183888",
-     "s": "風傳媒"
-    },
-    {
-     "t": "普發2萬支持嗎？最新網路投票 近8千人表態「破9成一面倒」",
-     "u": "https://news.tvbs.com.tw/politics/4054173",
-     "s": "TVBS新聞網"
-    }
-   ]
   },
   {
    "kw": "vt",
@@ -346,115 +383,55 @@
    "news": []
   },
   {
-   "kw": "thứ hạng của liverpool gặp man utd",
-   "traffic": "200+",
-   "start": "2026-11-23T06:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQDY5ndAWrEOfeQIXpf7WgsuhkjzGwv77kfOKfvEBPV2imOR5fmD519cggAF4",
-   "news": [
-    {
-     "t": "CANLI Liverpool - Manchester United: İlk 11'ler",
-     "u": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-doi-hinh-xuat-phat",
-     "s": "Vietnam.vn"
-    },
-    {
-     "t": "Yoro không còn xứng suất đá chính ở MU",
-     "u": "https://znews.vn/yoro-khong-con-xung-suat-da-chinh-o-mu-post1698205.html",
-     "s": "Znews"
-    },
-    {
-     "t": "Gary Neville đặt câu hỏi về quyết định của Mauricio Pochettino",
-     "u": "https://bongda24h.vn/bong-da-anh/gary-neville-dat-cau-hoi-ve-quyet-dinh-cua-mauricio-pochettino-172-465391.html",
-     "s": "Bongda24h"
-    }
-   ]
-  },
-  {
-   "kw": "謝金河",
-   "traffic": "200+",
-   "start": "2026-11-23T05:50+08:00",
+   "kw": "3006",
+   "traffic": "100+",
+   "start": "2026-11-24T09:50+08:00",
    "pic": "",
    "news": []
   },
   {
-   "kw": "老鷹 對 活塞",
-   "traffic": "200+",
-   "start": "2026-11-23T05:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7aACOrT4vYDBi_osnlKVrwjSuYJCpD76Whqmjp8APm8GACL5vgjva-KdTpKU",
+   "kw": "仁新",
+   "traffic": "100+",
+   "start": "2026-11-24T09:50+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj3kSUq9VFQhKIj6SyF-bAh_kSWNxD13tnUVsitMRJOUCF9XAaCvuQOBZ4jT0",
    "news": [
     {
-     "t": "NBA彩经：勇士力拼绿军 活塞擒下老鹰 尼克斯主场小胜步行者",
-     "u": "https://sports.sina.cn/nba/other/2026-11-22/detail-inizrhuw5969975.d.html?vt=4",
-     "s": "手机新浪网"
+     "t": "仁新眼疾新藥 FDA延審3個月",
+     "u": "https://n.yam.com/Article/20261121203281",
+     "s": "蕃新聞"
     },
     {
-     "t": "东部第三第四正面碰撞，谁能拿下关键一局？",
-     "u": "https://www.nowscore.com/news/1281227.htm",
-     "s": "捷报比分网"
+     "t": "6696 仁新* - 勳妃回宮，跟仁妃有啥關係，漲5趴欸🤣 - 股市爆料同學會",
+     "u": "https://www.cmoney.tw/forum/article/189628792",
+     "s": "CMoney"
     },
     {
-     "t": "穿针引线！坎宁安半场3中0没得分 但送出9助攻",
-     "u": "https://news.zhibo8.com/nba/2026-11-23/6b0363d50dd06native.htm",
-     "s": "直播吧"
+     "t": "FDA延後審查Stargardt氏症用藥，Belite Bio股價重挫逾15%",
+     "u": "https://finance.biggo.com.tw/news/9f30d045-5aa5-490d-88c0-68d948557ca3",
+     "s": "BigGo 財經"
     }
    ]
   },
   {
-   "kw": "ลำดับของ ลิเวอร์พูล พบ แมนยู",
-   "traffic": "200+",
-   "start": "2026-11-23T05:00+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "年終賽",
-   "traffic": "200+",
-   "start": "2026-11-23T03:20+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "liverpool vs man utd",
-   "traffic": "200+",
-   "start": "2026-11-23T00:00+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJBCTA9BDVPClKitropnj3mtQMCfKC5-mNQJpzQTOiKJqXptEJiN9Z-ACRKrs",
+   "kw": "76ers vs trail blazers",
+   "traffic": "100+",
+   "start": "2026-11-24T09:40+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgzyl2aMmNByNWMI2wEAQFjVnpnTKZ1qK1TxnEpgan3qVzfejDxW0_072K17g",
    "news": [
     {
-     "t": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
-     "u": "https://www.bbc.com/sport/football/articles/ckqx5w58dgv7o",
-     "s": "BBC"
+     "t": "Full injury reports for Sixers-Trail Blazers on Monday",
+     "u": "https://www.phillyvoice.com/sixers-news-76ers-analysis-injury-report-update-trail-blazers-jaylen-brown-dean-wade-adem-bona-ja-morant-nba/",
+     "s": "PhillyVoice"
     },
     {
-     "t": "Liverpool v Man United LIVE: Pochettino names first team as Premier League rivals clash",
-     "u": "https://nz.news.yahoo.com/liverpool-v-man-united-live-120022898.html",
-     "s": "Yahoo News New Zealand"
+     "t": "Jaylen Brown (hamstring) returns to lineup Monday",
+     "u": "https://www.fantasypros.com/nba/news/622245/jaylen-brown-hamstring-returns-to-lineup-monday.php",
+     "s": "FantasyPros"
     },
     {
-     "t": "Premier League - Liverpool v Manchester United",
-     "u": "https://www.reutersconnect.com/item/premier-league-liverpool-v-manchester-united/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNQk0xMk9VVzc",
-     "s": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "kw": "ลิเวอร์พูล พบ แมนยู",
-   "traffic": "200+",
-   "start": "2026-11-23T00:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmgRUefCDZiBgx4L-ZKG-RJi-z744fJcPjYw0-riJYRMkKnC8BTvlCb5HZO8Y",
-   "news": [
-    {
-     "t": "โปเช็ตติโน เผยเป้าหมายแรกในการคุมท้พ แมนยู - ยัน บรูโน ยังเป็นกัปตันทีม | Khaosod",
-     "u": "https://today.line.me/th/v3/article/3N1xLkB",
-     "s": "LINE TODAY"
-    },
-    {
-     "t": "โปเช็ตติโน่ได้รับข่าวร้ายก่อนเกมสำคัญระหว่างแมนเชสเตอร์ ยูไนเต็ดและลิเวอร์พูล",
-     "u": "https://www.vietnam.vn/th/pochettino-don-tin-khong-vui-truoc-tran-quyet-dau-cua-man-utd-va-liverpool",
-     "s": "Vietnam.vn"
-    },
-    {
-     "t": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
-     "u": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
-     "s": "thairath.co.th"
+     "t": "76ers Tyrese Maxey status for return to action vs. Bucks set to be known: Preview, Starters, Injuries, How to Watch",
+     "u": "https://www.si.com/nba/bucks/onsi/76ers-tyrese-maxey-status-for-return-to-action-vs-bucks-set-to-be-known-preview-starters-injuries-how-to-watch-01m7zhv0egha",
+     "s": "Sports Illustrated"
     }
    ]
   },
@@ -527,6 +504,48 @@
   }
  ],
  "history": {
+  "2026-11-24": [
+   {
+    "kw": "00878",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "00929",
+    "traffic": "500+"
+   },
+   {
+    "kw": "川湖股價",
+    "traffic": "500+"
+   },
+   {
+    "kw": "金居股價",
+    "traffic": "200+"
+   },
+   {
+    "kw": "台灣加權指數",
+    "traffic": "200+"
+   },
+   {
+    "kw": "李昀銳",
+    "traffic": "200+"
+   },
+   {
+    "kw": "00881",
+    "traffic": "200+"
+   },
+   {
+    "kw": "3006",
+    "traffic": "100+"
+   },
+   {
+    "kw": "仁新",
+    "traffic": "100+"
+   },
+   {
+    "kw": "76ers vs trail blazers",
+    "traffic": "100+"
+   }
+  ],
   "2026-11-23": [
    {
     "kw": "費半",
@@ -1016,88 +1035,6 @@
    },
    {
     "kw": "wales vs portugal",
-    "traffic": "100+"
-   }
-  ],
-  "2026-11-17": [
-   {
-    "kw": "明天的天氣",
-    "traffic": "50000+"
-   },
-   {
-    "kw": "賴瑞隆",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "cuaca besok",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "weather tomorrow",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "洪麗華",
-    "traffic": "1000+"
-   },
-   {
-    "kw": "勞動部勞動力發展署",
-    "traffic": "500+"
-   },
-   {
-    "kw": "航空",
-    "traffic": "500+"
-   },
-   {
-    "kw": "謝龍介",
-    "traffic": "500+"
-   },
-   {
-    "kw": "预算",
-    "traffic": "200+"
-   },
-   {
-    "kw": "5274",
-    "traffic": "200+"
-   },
-   {
-    "kw": "江夏豐",
-    "traffic": "200+"
-   },
-   {
-    "kw": "德國 對 荷蘭",
-    "traffic": "100+"
-   },
-   {
-    "kw": "艾德萊斯·阿德巴約",
-    "traffic": "100+"
-   },
-   {
-    "kw": "陳思羽",
-    "traffic": "100+"
-   },
-   {
-    "kw": "印尼",
-    "traffic": "100+"
-   },
-   {
-    "kw": "塔里克·史庫柏",
-    "traffic": "100+"
-   },
-   {
-    "kw": "喬爾·恩比德",
-    "traffic": "100+"
-   },
-   {
-    "kw": "康霈",
-    "traffic": "100+"
-   },
-   {
-    "kw": "澳洲",
-    "traffic": "100+"
-   },
-   {
-    "kw": "bodycam",
     "traffic": "100+"
    }
   ]
