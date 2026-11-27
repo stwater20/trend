@@ -1,7 +1,37 @@
 {
- "updated": "2026-11-27 13:07",
- "updated_iso": "2026-11-27T13:07+08:00",
+ "updated": "2026-11-27 23:13",
+ "updated_iso": "2026-11-27T23:13+08:00",
  "items": [
+  {
+   "kw": "星 宇 航空",
+   "traffic": "5000+",
+   "start": "2026-11-27T21:20+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pwmA589K3169RZJ5J_qWtFG7Z_0RIJ5biSIS2bjPe3vf53Rc8sBAFWWcgY8",
+   "news": [
+    {
+     "t": "星宇航空現增價15.5元定案！較市價打82折",
+     "u": "https://tw.stock.yahoo.com/news/%E6%98%9F%E5%AE%87%E8%88%AA%E7%A9%BA%E7%8F%BE%E5%A2%9E%E5%83%B9155%E5%85%83%E5%AE%9A%E6%A1%88%EF%BC%81%E8%BC%83%E5%B8%82%E5%83%B9%E6%89%9382%E6%8A%98-091516876.html",
+     "s": "Yahoo股市"
+    },
+    {
+     "t": "星宇航空辦理現增發行3億股 用於償還銀行借款",
+     "u": "https://www.rti.org.tw/news?uid=3&pid=1054171",
+     "s": "Rti 中央廣播電臺"
+    },
+    {
+     "t": "台灣最賺錢航空是這一間！冠軍單月營收破189億元，乘客讚：空服員親切、 飛機餐很好吃",
+     "u": "https://www.storm.mg/lifestyle/11184842",
+     "s": "Storm.mg"
+    }
+   ]
+  },
+  {
+   "kw": "選舉公報",
+   "traffic": "2000+",
+   "start": "2026-11-27T22:00+08:00",
+   "pic": "",
+   "news": []
+  },
   {
    "kw": "台指期夜盤指數",
    "traffic": "2000+",
@@ -10,48 +40,55 @@
    "news": []
   },
   {
-   "kw": "普 發 一 萬",
-   "traffic": "2000+",
-   "start": "2026-11-26T20:00+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV65mVQ0EinN8tPRsmkckyV9ZBEsThXEe1LeQWUTXfYdzFjvfO2s-aPyXb4fk",
+   "kw": "唐新民",
+   "traffic": "500+",
+   "start": "2026-11-27T23:00+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc7bWBYl91cmlg8QMYTZDmKcQIYVxSAoAJ4t5lBD4uUnLH_edfvbJKY20ulrY",
    "news": [
     {
-     "t": "立院今咨請總統府公布普發2萬元條例 政院最晚這天決定副署",
-     "u": "https://udn.com/news/story/6656/9903895",
+     "t": "台北市長候選人唐新民「車掃」照片曝！隨身扛看板趴趴走全網看傻：前所未見| 2026九合一選舉",
+     "u": "https://udn.com/vote2026/story/125078/9903420",
      "s": "UDN"
     },
     {
-     "t": "真的要普發2萬？特別條例送出立法院　行政院「最晚表態時限」曝",
-     "u": "https://www.setn.com/news/1945491",
-     "s": "三立新聞"
+     "t": "「遇到唐新民車掃了！」網驚見他拿看板搭公車：一人對抗整個台北",
+     "u": "https://www.nownews.com/news/6895347",
+     "s": "NOWnews今日新聞"
     },
     {
-     "t": "普發 2 萬三讀通過！什麼時候發？跟普發一萬差在哪一次看",
-     "u": "https://www.managertoday.com.tw/articles/view/73436",
-     "s": "經理人"
+     "t": "唐新民車掃？網驚遇他搭公車：一人對抗台北- 政治新聞",
+     "u": "https://news.pchome.com.tw/politics/nownews/20261125/index-79557881250243207001.html",
+     "s": "PChome Online新聞"
     }
    ]
   },
   {
-   "kw": "散戶",
-   "traffic": "1000+",
-   "start": "2026-11-26T20:00+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBQuL3-4KMVzctl481V-f_WrqegTgyGiu2TYnzybp0n278keCt4e1HVIgyKc",
+   "kw": "富喬",
+   "traffic": "500+",
+   "start": "2026-11-27T21:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "2022 台北市長選舉結果",
+   "traffic": "500+",
+   "start": "2026-11-27T21:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2cdEEFp367GFcAwMmBECqEfiGbzFA9WQzrGiQKxV__9D-J-pvrRa2Olv5xAw",
    "news": [
     {
-     "t": "【九合一選舉燒台股】抱股投票放心？近9屆數據揭：選後1個月勝率近8成",
-     "u": "https://tw.stock.yahoo.com/news/%E3%80%90%E4%B9%9D%E5%90%88%E4%B8%80%E9%81%B8%E8%88%89%E7%87%92%E5%8F%B0%E8%82%A1%E3%80%91%E6%8A%B1%E8%82%A1%E6%8A%95%E7%A5%A8%E6%94%BE%E5%BF%83%EF%BC%9F%E8%BF%919%E5%B1%86%E6%95%B8%E6%93%9A%E6%8F%AD%EF%BC%9A%E9%81%B8%E5%BE%8C1%E5%80%8B%E6%9C%88%E5%8B%9D%E7%8E%87%E8%BF%918%E6%88%90-042436013.html",
-     "s": "Yahoo股市"
+     "t": "台北市民站出來！蔣萬安大車掃行經民生社區 這一幕讓徐巧芯哭了",
+     "u": "https://udn.com/news/story/125078/9905938",
+     "s": "UDN"
     },
     {
-     "t": "股民信心重挫!! 再失望也別放棄手中選票",
-     "u": "https://886.news/archives/375171",
-     "s": "台灣新聞雲"
+     "t": "蔣萬安最後衝刺！全市車掃遇沈伯洋喊：一起加油",
+     "u": "https://tw.yahoo.com/ebcnews/%E8%94%A3%E8%90%AC%E5%AE%89%E6%9C%80%E5%BE%8C%E8%A1%9D%E5%88%BA-%E5%85%A8%E5%B8%82%E8%BB%8A%E6%8E%83%E9%81%87%E6%B2%88%E4%BC%AF%E6%B4%8B%E5%96%8A-%E8%B5%B7%E5%8A%A0%E6%B2%B9-102700568.html",
+     "s": "Yahoo"
     },
     {
-     "t": "0056 元大高股息- 這次選擇直球對決，堅定存股信念- 股市爆料同學會",
-     "u": "https://www.cmoney.tw/forum/article/189692386",
-     "s": "CMoney"
+     "t": "自由開講》蔣萬安車掃 先收手再談安全",
+     "u": "https://talk.ltn.com.tw/article/breakingnews/5653520",
+     "s": "自由評論網"
     }
    ]
   },
@@ -86,27 +123,11 @@
    ]
   },
   {
-   "kw": "銀行",
-   "traffic": "500+",
-   "start": "2026-11-26T20:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR56-rYZRAdiJj4sF0MkUNQ1w_jFSf_kcu7V2fr2tBuHwqE-g6HJdqQP3kIukc",
-   "news": [
-    {
-     "t": "BoE to cut capital requirements for banks while warning of AI risks",
-     "u": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132?syn-25a6b1a6=1",
-     "s": "Financial Times"
-    },
-    {
-     "t": "BOE Proposes 30 Basis Point Cut to UK Bank Capital Requirements",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
-     "s": "Bloomberg.com"
-    },
-    {
-     "t": "Bank of England to cut capital requirements for UK-focused lenders",
-     "u": "https://www.reuters.com/business/finance/bank-england-cut-capital-requirements-uk-focused-lenders-2026-11-26/",
-     "s": "Reuters"
-    }
-   ]
+   "kw": "選罷法",
+   "traffic": "200+",
+   "start": "2026-11-27T22:10+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "李灝宇",
@@ -259,48 +280,62 @@
    "news": []
   },
   {
-   "kw": "吳念真",
-   "traffic": "200+",
-   "start": "2026-11-26T20:10+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8V3269AwcPRFdIn-ZPJafdZn6AM-CVsDlDy_o53VdTNU6gvR9T8bUrZNxVH8",
+   "kw": "竹北市長",
+   "traffic": "100+",
+   "start": "2026-11-27T23:00+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "雷克萨斯nx",
+   "traffic": "100+",
+   "start": "2026-11-27T22:50+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3q5udvnN3qVCK7etZo97smvRPVs0VHJ15JaxLf_qgqYmdsNMmIPzwIxSaDE",
    "news": [
     {
-     "t": "沈伯洋最新競選影片曝光！由吳念真配音 女兒小麻糬也驚喜獻聲",
-     "u": "https://news.ttv.com.tw/news/11511260003200W",
-     "s": "台視新聞網"
+     "t": "雷克萨斯NX小改款日本开卖，PHEV纯电续航147公里",
+     "u": "https://chejiahao.autohome.com.cn/info/26974293",
+     "s": "汽车之家"
     },
     {
-     "t": "（影）吳念真驚喜獻聲 沈伯洋選前公開新影片暗藏女兒「小麻糬」",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5654662",
-     "s": "自由娛樂"
+     "t": "雷克萨斯NX小改款日本预购开跑，配额屈指可数",
+     "u": "https://chejiahao.autohome.com.cn/info/26973920",
+     "s": "汽车之家"
     },
     {
-     "t": "小驚喜來了！沈伯洋釋出最新催票影片吳念真、小麻糬齊獻聲| 政治",
-     "u": "https://newtalk.tw/news/view/2026-11-26/1073959",
-     "s": "Newtalk新聞"
+     "t": "周末露营选车，普拉多质保3年vs航海家7年，谁更省心？",
+     "u": "https://chejiahao.autohome.com.cn/info/26972571",
+     "s": "汽车之家"
     }
    ]
   },
   {
-   "kw": "賈靜雯",
-   "traffic": "200+",
-   "start": "2026-11-26T20:10+08:00",
-   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo2VHIpWhpNn_ZlqcGpsk-4Frx0T2tk5zOllI038FWL3RQxO-ZY6DBkDo1sSs",
+   "kw": "花蓮市長候選人",
+   "traffic": "100+",
+   "start": "2026-11-27T22:50+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "戒慎恐懼",
+   "traffic": "100+",
+   "start": "2026-11-27T22:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUp7BvTJuvAzMYI9ym_KFfDAwIMXaOt570RsNsTHNlk7VUh5i3f0o1WgTbHdY",
    "news": [
     {
-     "t": "修杰楷捲婚變風波！ 賈靜雯親弟突發文「內容引聯想」",
-     "u": "https://tw.news.yahoo.com/%E4%BF%AE%E6%9D%B0%E6%A5%B7%E6%8D%B2%E5%A9%9A%E8%AE%8A%E9%A2%A8%E6%B3%A2-%E8%B3%88%E9%9D%9C%E9%9B%AF%E8%A6%AA%E5%BC%9F%E7%AA%81%E7%99%BC%E6%96%87-%E5%85%A7%E5%AE%B9%E5%BC%95%E8%81%AF%E6%83%B3-114059326.html",
+     "t": "「戒慎恐懼協會」動員令！林俊憲邀「明出席會員大會」",
+     "u": "https://tw.news.yahoo.com/%E6%88%92%E6%85%8E%E6%81%90%E6%87%BC%E5%8D%94%E6%9C%83-%E5%8B%95%E5%93%A1%E4%BB%A4-%E6%9E%97%E4%BF%8A%E6%86%B2%E9%82%80-%E6%98%8E%E5%87%BA%E5%B8%AD%E6%9C%83%E5%93%A1%E5%A4%A7%E6%9C%83-082838891.html",
      "s": "Yahoo新聞"
     },
     {
-     "t": "修杰楷捲人妻勾手風波 賈靜雯霸氣護夫 他曬聖經吐心聲？",
-     "u": "https://ent.ltn.com.tw/news/breakingnews/5654357",
-     "s": "自由娛樂"
+     "t": "「戒慎恐懼協會」全台動員令！會長喊話：11/28務必出席「會員大會」",
+     "u": "https://news.ltn.com.tw/news/politics/breakingnews/5655223",
+     "s": "自由時報"
     },
     {
-     "t": "賈靜雯幸福變調／被爆婚姻陷低潮！ 修杰楷限動首發聲：要懷著感恩的心",
-     "u": "https://www.mirrormedia.mg/story/20261126edi019",
-     "s": "鏡週刊Mirror Media"
+     "t": "測出「鎖死級會長」！林俊憲發布小遊戲考驗投票常識 | 自由電子報",
+     "u": "https://today.line.me/tw/v3/article/VxpP7jl",
+     "s": "LINE TODAY"
     }
    ]
   },
@@ -432,111 +467,20 @@
      "s": "自由電子報3C科技"
     }
    ]
-  },
-  {
-   "kw": "許信良",
-   "traffic": "100+",
-   "start": "2026-11-26T20:10+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "伊藤大海",
-   "traffic": "100+",
-   "start": "2026-11-26T20:10+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_86STJbLu3nqZ1sabo-jzTS9wHA25ozld9j6GZ_372zx0RxCYRRT6eDFa9aQ",
-   "news": [
-    {
-     "t": "シカゴの2球団が激突！？ 米メディアが伊藤大海争奪戦に言及「アピールできる材料を持っている」",
-     "u": "https://www.baseballchannel.jp/mlb/303012/",
-     "s": "ベースボールチャンネル"
-    },
-    {
-     "t": "【阪神】藤川監督「タイガースのパワーすごい」「府知事、経済界の方とも」／Ｖパレード一問一答",
-     "u": "https://www.nikkansports.com/baseball/photonews/photonews_nsInc_202611230001683-5.html",
-     "s": "日刊スポーツ"
-    },
-    {
-     "t": "「素晴らしいシーズンを送った」村上宗隆の存在が追い風に？ 伊藤大海を…",
-     "u": "https://news.mynavi.jp/article/20261123-5395572/",
-     "s": "マイナビニュース"
-    }
-   ]
-  },
-  {
-   "kw": "spacex 股價",
-   "traffic": "100+",
-   "start": "2026-11-26T20:00+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7Wy-7rZ4y73Ro305odCSh3yt9WVNkDD7NS7iRbHhMrSK1Z7CjLslH778eZC0",
-   "news": [
-    {
-     "t": "SpaceX與Tesla合併案由5名董事主導談判 力拚2026年底前達成協議",
-     "u": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000776007_PWLL3IH61KLW116BJZV72",
-     "s": "DIGITIMES"
-    },
-    {
-     "t": "SpaceX 有望提前進標普 500 被動買盤效應可期",
-     "u": "https://finance.technews.tw/2026/11/25/possible-tesla-merger-could-aid-spacexs-sp-500-entry/",
-     "s": "TechNews 科技新報"
-    },
-    {
-     "t": "SpaceX 與特斯拉傳組 5 人小組推進 3.5 兆美元合併案，力拚年底前取得突破",
-     "u": "https://news.wearn.com/c2153664.html",
-     "s": "聚財網"
-    }
-   ]
-  },
-  {
-   "kw": "華 倫 巴菲特",
-   "traffic": "100+",
-   "start": "2026-11-26T19:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQV_Gzoja8g7ujWS_gYJhbQsUA-ov-NJbKIQl6rZnc8q_4Xr4KHwlMk7C1pCSU",
-   "news": [
-    {
-     "t": "最好投資不是股票！巴菲特揭致富關鍵 2大高報酬標的曝光",
-     "u": "https://ec.ltn.com.tw/article/breakingnews/5653853",
-     "s": "自由財經"
-    },
-    {
-     "t": "不買房也不買股！ 股神巴菲特點名「2大無敵投資」：身價直接翻倍",
-     "u": "https://news.tvbs.com.tw/world/4056358",
-     "s": "TVBS新聞"
-    },
-    {
-     "t": "最好投資不是股票！巴菲特揭致富關鍵 2大高報酬標的曝光",
-     "u": "https://stock.ltn.com.tw/article/uuefcdbmgynr",
-     "s": "自由時報"
-    }
-   ]
-  },
-  {
-   "kw": "孔曉振",
-   "traffic": "100+",
-   "start": "2026-11-26T19:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrOSMktNBnu_S3xzGoJj-W67rHpqn4F-8dN5cviIWzjU9D4iv-yy0gsqofI8",
-   "news": [
-    {
-     "t": "46歲孔曉振減齡穿搭太強！球鞋6公式：這雙萬步神鞋雨天也能穿",
-     "u": "https://www.bella.tw/articles/lookbook/61322/gong-hyo-jin-46-younger-look-sneakers-outfits",
-     "s": "Bella.tw儂儂"
-    },
-    {
-     "t": "孔曉振睽違多年再訪台北！為LOEWE點燈 初次體驗「不冷的聖誕節」",
-     "u": "https://fashion.ettoday.net/news/3279094",
-     "s": "ETtoday新聞雲"
-    },
-    {
-     "t": "孔曉振來台獻出「第一次」！合體劉冠廷比心 新科金馬影帝當場融化",
-     "u": "https://istyle.ltn.com.tw/article/41732",
-     "s": "自由時報"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-27": [
    {
+    "kw": "星 宇 航空",
+    "traffic": "5000+"
+   },
+   {
     "kw": "台指期夜盤指數",
+    "traffic": "2000+"
+   },
+   {
+    "kw": "選舉公報",
     "traffic": "2000+"
    },
    {
@@ -545,6 +489,18 @@
    },
    {
     "kw": "沈伯洋車掃路線",
+    "traffic": "500+"
+   },
+   {
+    "kw": "唐新民",
+    "traffic": "500+"
+   },
+   {
+    "kw": "富喬",
+    "traffic": "500+"
+   },
+   {
+    "kw": "2022 台北市長選舉結果",
     "traffic": "500+"
    },
    {
@@ -588,31 +544,11 @@
     "traffic": "200+"
    },
    {
+    "kw": "選罷法",
+    "traffic": "200+"
+   },
+   {
     "kw": "新闻",
-    "traffic": "100+"
-   },
-   {
-    "kw": "星宇航空",
-    "traffic": "100+"
-   },
-   {
-    "kw": "新北市長候選人",
-    "traffic": "100+"
-   },
-   {
-    "kw": "google ai pro 黑色星期五",
-    "traffic": "100+"
-   },
-   {
-    "kw": "ah-64阿帕契直升機",
-    "traffic": "100+"
-   },
-   {
-    "kw": "彰化縣長候選人",
-    "traffic": "100+"
-   },
-   {
-    "kw": "國道一號車禍",
     "traffic": "100+"
    }
   ],
