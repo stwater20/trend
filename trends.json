@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28 07:33",
- "updated_iso": "2026-11-28T07:33+08:00",
+ "updated": "2026-11-28 15:59",
+ "updated_iso": "2026-11-28T15:59+08:00",
  "items": [
   {
    "kw": "星 宇 航空",
@@ -24,6 +24,13 @@
      "s": "Storm.mg"
     }
    ]
+  },
+  {
+   "kw": "高雄投票率",
+   "traffic": "2000+",
+   "start": "2026-11-28T14:40+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "選舉公報",
@@ -54,6 +61,20 @@
      "s": "工商時報"
     }
    ]
+  },
+  {
+   "kw": "工程師",
+   "traffic": "500+",
+   "start": "2026-11-28T14:40+08:00",
+   "pic": "",
+   "news": []
+  },
+  {
+   "kw": "coco 買 一 送 一",
+   "traffic": "500+",
+   "start": "2026-11-28T14:20+08:00",
+   "pic": "",
+   "news": []
   },
   {
    "kw": "退休",
@@ -155,11 +176,80 @@
    ]
   },
   {
-   "kw": "沈伯洋車掃路線",
-   "traffic": "500+",
-   "start": "2026-11-27T12:30+08:00",
+   "kw": "7 11 咖啡",
+   "traffic": "200+",
+   "start": "2026-11-28T14:50+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiFCmjIXUUQ9Cnzj5RpxuqTrCqhseHIe3EWmPYtGFwIWEPMBL0xgH4F3jCEws",
+   "news": [
+    {
+     "t": "「投票日」美食優惠懶人包！ 超商咖啡最低29元.手搖飲折5元.鍋物第2件半價.身分證對中再送龍蝦、30隻蝦",
+     "u": "https://travel.udn.com/travel/story/7193/9906885",
+     "s": "UDN"
+    },
+    {
+     "t": "投票日咖啡優惠！全家特大拿鐵39元、一杯就特價　7-11寄杯買7送7",
+     "u": "https://www.nownews.com/news/6895984",
+     "s": "NOWnews今日新聞"
+    },
+    {
+     "t": "投票日限定優惠 全家超商這款Let’s Café咖啡只要39元",
+     "u": "https://ec.ltn.com.tw/article/breakingnews/5655445",
+     "s": "自由財經"
+    }
+   ]
+  },
+  {
+   "kw": "選舉結果",
+   "traffic": "200+",
+   "start": "2026-11-28T14:40+08:00",
    "pic": "",
    "news": []
+  },
+  {
+   "kw": "中國駐日大使館",
+   "traffic": "200+",
+   "start": "2026-11-28T14:30+08:00",
+   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfW7LSWXTFyzYNX2waMKTUr-KB2z9epFWFpNo-NWiKJN7s7KXcumgKezvAjyM",
+   "news": [
+    {
+     "t": "11月24日、東京都内の在日中国大使館で開かれた中国のグローバルイニシアチブに関するシンポジウム（田中靖人撮影）",
+     "u": "https://www.sankei.com/article/20261124-2Z7ATPTF25IXZFVOD44Y73JYTQ/photo/E5ECBUM4QNIM5JQXBODJJATDBQ/",
+     "s": "産経ニュース"
+    },
+    {
+     "t": "「四大イニシアチブ」巡るシンポ開催＝在日中国大使館",
+     "u": "https://www.recordchina.co.jp/b999478-s50-c100-d0165.html",
+     "s": "Record China"
+    },
+    {
+     "t": "「四大イニシアチブの世界的意義」シンポ 駐日中国大使館開く",
+     "u": "https://www.chiba-tv.com/plus/detail/2026112262693",
+     "s": "千葉テレビ放送株式会社"
+    }
+   ]
+  },
+  {
+   "kw": "邱毅",
+   "traffic": "200+",
+   "start": "2026-11-28T14:20+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRyUqEbxhLm51wFqWx5ca4_wKRSyrsx2XFAIRJb_1HXXfsaO9Cg0-ceJYKBW8",
+   "news": [
+    {
+     "t": "九合一選舉／羅大佑嘆「外省人被欺負夠慘」！吳宗憲首發聲了：不要偏激",
+     "u": "https://star.setn.com/news/1946243",
+     "s": "娛樂星聞"
+    },
+    {
+     "t": "吳宗憲談羅大佑認太偏激 遭邱毅酸「滑溜」不爽回嗆：我還幫你站過台",
+     "u": "https://ent.ltn.com.tw/news/breakingnews/5656264",
+     "s": "自由娛樂"
+    },
+    {
+     "t": "羅大佑嘆外省人被欺負夠慘 田秋堇憶雷震：討厭的不是外省人而是壓迫者 | 上報",
+     "u": "https://today.line.me/tw/v3/article/RB2Bz3e",
+     "s": "LINE TODAY"
+    }
+   ]
   },
   {
    "kw": "投票日上班薪水",
@@ -222,94 +312,73 @@
    "news": []
   },
   {
-   "kw": "李灝宇",
-   "traffic": "200+",
-   "start": "2026-11-27T12:50+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6e8vbygIHQWPJqRcLvk8dwq3EniOhHWhMdHmJ6NDTRuNRkqEiuUIp3BePGoI",
+   "kw": "tvbs",
+   "traffic": "100+",
+   "start": "2026-11-28T15:30+08:00",
+   "pic": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHACHnpvd3mrcgvh9qvWlOKRdiKLGrGwHv8NWWBf_ORzC_ifFp_cAtuCZFV7A",
    "news": [
     {
-     "t": "MLB》李灝宇痛擊大聯盟速球！美媒點出一大弱點：老虎要找出問題...",
-     "u": "https://sports.ltn.com.tw/news/breakingnews/5654939",
-     "s": "自由體育"
+     "t": "獨／《紅人榜》男星童年遭關房間 親爸「驚人背景」曝光 連校長都安靜",
+     "u": "https://news.tvbs.com.tw/entertainment/music/4057521",
+     "s": "TVBS新聞"
     },
     {
-     "t": "李灝宇打擊弱點曝光！美媒特別撰文分析直言「老虎2027年首要課題」",
-     "u": "https://tw.sports.yahoo.com/news/%E6%9D%8E%E7%81%9D%E5%AE%87%E6%89%93%E6%93%8A%E5%BC%B1%E9%BB%9E%E6%9B%9D%E5%85%89-%E7%BE%8E%E5%AA%92%E7%89%B9%E5%88%A5%E6%92%B0%E6%96%87%E5%88%86%E6%9E%90%E7%9B%B4%E8%A8%80-%E8%80%81%E8%99%8E2027%E5%B9%B4%E9%A6%96%E8%A6%81%E8%AA%B2%E9%A1%8C-034131637.html",
-     "s": "Yahoo運動"
+     "t": "獨／《紅人榜》冠軍不忍了！最怕詹雅雯 發抖內幕曝光",
+     "u": "https://news.tvbs.com.tw/entertainment/music/4056203",
+     "s": "TVBS新聞"
     },
     {
-     "t": "李灝宇數據藏隱憂！滑球打擊率不到2成　美媒建議針對性訓練",
-     "u": "https://sports.ettoday.net/news/3279329",
-     "s": "ETtoday運動雲"
+     "t": "陳揮文節目怒嗆譚伊倫「不要插我的話」！今親自道歉求合照遭婉拒 自嘲：美女與野獸",
+     "u": "https://tw.news.yahoo.com/%E9%99%B3%E6%8F%AE%E6%96%87%E7%AF%80%E7%9B%AE%E6%80%92%E5%97%86%E8%AD%9A%E4%BC%8A%E5%80%AB-%E4%B8%8D%E8%A6%81%E6%8F%92%E6%88%91%E7%9A%84%E8%A9%B1-%E4%BB%8A%E8%A6%AA%E8%87%AA%E9%81%93%E6%AD%89%E6%B1%82%E5%90%88%E7%85%A7%E9%81%AD%E5%A9%89%E6%8B%92-%E8%87%AA%E5%98%B2-%E7%BE%8E%E5%A5%B3%E8%88%87%E9%87%8E%E7%8D%B8-100700731.html",
+     "s": "Yahoo新聞"
     }
    ]
   },
   {
-   "kw": "碰撞",
-   "traffic": "200+",
-   "start": "2026-11-27T12:50+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIDf44v89eEK6BrGYs25skZGJuxbAv_xfWfLwVBsAF4xgVbrJgd1vXrMWfdMY",
+   "kw": "白嘉莉",
+   "traffic": "100+",
+   "start": "2026-11-28T15:30+08:00",
+   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvELi3SYR1IjVnWQy_6eHo1QT9JijHOm5kTnghOVMUq0EbrDc3Tiquw4l3VGY",
    "news": [
     {
-     "t": "公交司机突发疾病，连撞3车后身亡！律师解读：工伤怎么认定？赔偿谁来承担？",
-     "u": "https://legal.gmw.cn/2026-11/27/content_39125388.htm",
-     "s": "光明网"
+     "t": "「最美主持人」現身！白嘉莉兌現承諾返台中投票 親民合影粉絲搶拍",
+     "u": "https://ent.ltn.com.tw/news/breakingnews/5656352",
+     "s": "自由娛樂"
     },
     {
-     "t": "广西藤县一公交车与2辆小汽车、1辆摩托车碰撞：公交司机突发身体不适引起，经抢救无效死亡",
-     "u": "https://m.sohu.com/a/1105829066_260616/?pvid=000115_3w_a",
-     "s": "Sohu"
+     "t": "十米高聖誕樹！台北君悅「星願點亮 ‧ 聖誕之夜」　白嘉莉驚喜現身",
+     "u": "https://travel.setn.com/News/1945630",
+     "s": "三立新聞"
     },
     {
-     "t": "公交司机突发身体不适引起碰撞事故 驾驶员不幸离世",
-     "u": "https://news.china.com/socialgd/10000169/20261125/49904333.html",
-     "s": "中华网"
+     "t": "被問台北市選戰看法！資深大咖「1句話全說」",
+     "u": "https://www.ftvnews.com.tw/news/detail/2026B27W0160",
+     "s": "民視新聞網"
     }
    ]
   },
   {
-   "kw": "新竹市長候選人",
-   "traffic": "200+",
-   "start": "2026-11-27T12:50+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "群 創",
-   "traffic": "200+",
-   "start": "2026-11-27T12:30+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "永豐金證券",
-   "traffic": "200+",
-   "start": "2026-11-27T12:20+08:00",
-   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1lvYWlipofJAPbbTrDqow3tX--SePlu4jGIMl59hfYtE0CKXhKLQFOiubmmk",
+   "kw": "陳惠珠",
+   "traffic": "100+",
+   "start": "2026-11-28T14:20+08:00",
+   "pic": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-WgN9Ze1dlqXQdVGs1dZFn-5LldHVGZ9sye03OjJqJoNq59RqCCohflbuEZo",
    "news": [
     {
-     "t": "一開盤我的股票全不見了！永豐金證券APP出包...投資人持股一夕「歸零」被迫矇眼交易公司緊急回應-Money錢",
-     "u": "https://cmnews.com.tw/article/money-539f30bd-e982-11f1-8450-d8d13bdecb12",
-     "s": "CMoney投資網誌"
+     "t": "「美人魚」陳惠珠驚傳辭世！享耆壽92歲　女兒公開訃聞揭最後遺憾",
+     "u": "https://www.setn.com/news/1946166",
+     "s": "三立新聞"
     },
     {
-     "t": "永豐金庫存股「歸零」 用戶恐慌：全都不見了？",
-     "u": "https://news.ebc.net.tw/news/business/582568",
-     "s": "東森新聞"
+     "t": "台灣空手道之母陳惠珠過世從「美人魚」變影星| 運動",
+     "u": "https://www.cna.com.tw/news/aspt/202611270200.aspx",
+     "s": "中央社 CNA"
     },
     {
-     "t": "永豐金證券用戶庫存股突「歸零」投資人嚇傻！ 公司緊急回應- 證券",
-     "u": "https://www.ctee.com.tw/news/20261126701808-430201",
-     "s": "工商時報"
+     "t": "旅日女星「美人魚」陳惠珠離世！享耆壽92歲 曾演出「東京假期」 | 聯合新聞網",
+     "u": "https://today.line.me/tw/v3/article/BE5e9oj",
+     "s": "LINE TODAY"
     }
    ]
-  },
-  {
-   "kw": "太空資料中心",
-   "traffic": "200+",
-   "start": "2026-11-27T12:20+08:00",
-   "pic": "",
-   "news": []
   },
   {
    "kw": "晶圓代工",
@@ -430,63 +499,14 @@
      "s": "LINE TODAY"
     }
    ]
-  },
-  {
-   "kw": "ah-64阿帕契直升機",
-   "traffic": "100+",
-   "start": "2026-11-27T12:50+08:00",
-   "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1sxZVWTF5lS0Yoo_fYWysmAUsmbvvQ8AMkJzLN92b9HOu4hYcPAbDWO4tXgo",
-   "news": [
-    {
-     "t": "US military confirms inactivation of Apache helicopter squadron in S. Korea",
-     "u": "https://www.koreatimes.co.kr/southkorea/defense/20261126/us-military-confirms-inactivation-of-apache-helicopter-squadron-in-s-korea",
-     "s": "The Korea Times"
-    },
-    {
-     "t": "US forces in South Korea inactivate army aviation unit",
-     "u": "https://www.anews.com.tr/americas/2026/11/26/us-forces-in-south-korea-inactivate-army-aviation-unit",
-     "s": "A News"
-    },
-    {
-     "t": "US forces suspend operations of 5th Air Cavalry Squadron in South Korea",
-     "u": "https://sana.sy/en/international/2362078/",
-     "s": "سانا"
-    }
-   ]
-  },
-  {
-   "kw": "彰化縣長候選人",
-   "traffic": "100+",
-   "start": "2026-11-27T12:40+08:00",
-   "pic": "",
-   "news": []
-  },
-  {
-   "kw": "國道一號車禍",
-   "traffic": "100+",
-   "start": "2026-11-27T12:20+08:00",
-   "pic": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH2lftv7Hxmi8cnCIVz4tXLCzIqZO1s4FWRQPGotngNuEcvMCzb3aZ8Mjb_zE",
-   "news": [
-    {
-     "t": "快訊／國道一號2起事故！後方回堵5公里",
-     "u": "https://news.ebc.net.tw/news/society/582722",
-     "s": "東森新聞"
-    },
-    {
-     "t": "快訊／國道一號2起事故！後方回堵5公里",
-     "u": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%9C%8B%E9%81%93-%E8%99%9F2%E8%B5%B7%E4%BA%8B%E6%95%85-%E5%BE%8C%E6%96%B9%E5%9B%9E%E5%A0%B55%E5%85%AC%E9%87%8C-035100583.html",
-     "s": "Yahoo新聞"
-    },
-    {
-     "t": "快訊／國道一號2起事故！後方回堵5公里 | EBC 東森新聞",
-     "u": "https://today.line.me/tw/v3/article/Yara5NW",
-     "s": "LINE TODAY"
-    }
-   ]
   }
  ],
  "history": {
   "2026-11-28": [
+   {
+    "kw": "高雄投票率",
+    "traffic": "2000+"
+   },
    {
     "kw": "生肖",
     "traffic": "1000+"
@@ -500,6 +520,14 @@
     "traffic": "500+"
    },
    {
+    "kw": "工程師",
+    "traffic": "500+"
+   },
+   {
+    "kw": "coco 買 一 送 一",
+    "traffic": "500+"
+   },
+   {
     "kw": "投票日上班薪水",
     "traffic": "200+"
    },
@@ -509,6 +537,22 @@
    },
    {
     "kw": "klasemen nottingham forest vs chelsea",
+    "traffic": "200+"
+   },
+   {
+    "kw": "7 11 咖啡",
+    "traffic": "200+"
+   },
+   {
+    "kw": "選舉結果",
+    "traffic": "200+"
+   },
+   {
+    "kw": "中國駐日大使館",
+    "traffic": "200+"
+   },
+   {
+    "kw": "邱毅",
     "traffic": "200+"
    },
    {
@@ -525,6 +569,18 @@
    },
    {
     "kw": "878",
+    "traffic": "100+"
+   },
+   {
+    "kw": "tvbs",
+    "traffic": "100+"
+   },
+   {
+    "kw": "白嘉莉",
+    "traffic": "100+"
+   },
+   {
+    "kw": "陳惠珠",
     "traffic": "100+"
    }
   ],
